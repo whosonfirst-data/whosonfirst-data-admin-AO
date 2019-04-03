@@ -1,0 +1,67 @@
+{
+  "id": 1343770693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7839,-11.56411,16.7839,-11.56411",
+    "geom:latitude":-11.56411,
+    "geom:longitude":16.7839,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Etunda Tchivangue",
+    "gn:country_code":"AO",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903551,
+    "gn:latitude":-11.56411,
+    "gn:longitude":16.7839,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Etunda Tchivangue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903551
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0d32c7f34cacfd1ba020a69171246a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1343770693,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1343770693,
+    "wof:lastmodified":1536796334,
+    "wof:name":"Etunda Tchivangue",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7839,
+    -11.56411,
+    16.7839,
+    -11.56411
+],
+  "geometry": {"coordinates":[16.7839,-11.56411],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327423669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03419,-14.68733,16.03419,-14.68733",
+    "geom:latitude":-14.68733,
+    "geom:longitude":16.03419,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ndjamba",
+    "gn:country_code":"AO",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348174,
+    "gn:latitude":-14.68733,
+    "gn:longitude":16.03419,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ndjamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Techiriata",
+        "Cuanja",
+        "Jamba",
+        "Ndjamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348174,
+        "wk:page":"Jamba%2C_Hu%C3%ADla"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fbb5e1b1833da034c9bc4c2532a93fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1327423669,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1327423669,
+    "wof:lastmodified":1537584731,
+    "wof:name":"Ndjamba",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03419,
+    -14.68733,
+    16.03419,
+    -14.68733
+],
+  "geometry": {"coordinates":[16.03419,-14.68733],"type":"Point"}
+}

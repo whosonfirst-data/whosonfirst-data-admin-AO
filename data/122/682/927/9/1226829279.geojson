@@ -1,0 +1,67 @@
+{
+  "id": 1226829279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08078,-9.48603,16.08078,-9.48603",
+    "geom:latitude":-9.48603,
+    "geom:longitude":16.08078,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Camicuso",
+    "gn:country_code":"AO",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592135,
+    "gn:latitude":-9.48603,
+    "gn:longitude":16.08078,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Camicuso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592135
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"90cbf344914e1caa11a0bc039503f1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1226829279,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226829279,
+    "wof:lastmodified":1537088870,
+    "wof:name":"Camicuso",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08077999999999,
+    -9.48603,
+    16.08077999999999,
+    -9.48603
+],
+  "geometry": {"coordinates":[16.08077999999999,-9.48603],"type":"Point"}
+}

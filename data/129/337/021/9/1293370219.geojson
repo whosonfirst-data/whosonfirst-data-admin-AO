@@ -1,0 +1,70 @@
+{
+  "id": 1293370219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59254,-7.69027,16.59254,-7.69027",
+    "geom:latitude":-7.69027,
+    "geom:longitude":16.59254,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quitemba",
+    "gn:country_code":"AO",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7868600,
+    "gn:latitude":-7.69027,
+    "gn:longitude":16.59254,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Quitemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quatro de Fevereiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7868600
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"223be38ba61a1472382ab390e281badc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799627,
+            "locality_id":1293370219,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293370219,
+    "wof:lastmodified":1537584811,
+    "wof:name":"Quitemba",
+    "wof:parent_id":1108799627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59254,
+    -7.69027,
+    16.59254,
+    -7.69027
+],
+  "geometry": {"coordinates":[16.59254,-7.69027],"type":"Point"}
+}

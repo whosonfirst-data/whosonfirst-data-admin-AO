@@ -1,0 +1,67 @@
+{
+  "id": 1344179945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8104,-8.97553,14.8104,-8.97553",
+    "geom:latitude":-8.97553,
+    "geom:longitude":14.8104,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cangolo",
+    "gn:country_code":"AO",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2242568,
+    "gn:latitude":-8.97553,
+    "gn:longitude":14.8104,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Cangolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242568
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e5ae9244f1a51d1a31dbf3b682fc4303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799881,
+            "locality_id":1344179945,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1344179945,
+    "wof:lastmodified":1536703498,
+    "wof:name":"Cangolo",
+    "wof:parent_id":1108799881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8104,
+    -8.97553,
+    14.8104,
+    -8.97553
+],
+  "geometry": {"coordinates":[14.8104,-8.97553],"type":"Point"}
+}

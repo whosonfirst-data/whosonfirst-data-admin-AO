@@ -1,0 +1,67 @@
+{
+  "id": 1326717529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39147,-8.82413,16.39147,-8.82413",
+    "geom:latitude":-8.82413,
+    "geom:longitude":16.39147,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ndala Tunda",
+    "gn:country_code":"AO",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7758561,
+    "gn:latitude":-8.82413,
+    "gn:longitude":16.39147,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Ndala Tunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7758561
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1876fe292d735919ec8e66149bde9cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799701,
+            "locality_id":1326717529,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1326717529,
+    "wof:lastmodified":1536717320,
+    "wof:name":"Ndala Tunda",
+    "wof:parent_id":1108799701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39147,
+    -8.82413,
+    16.39147,
+    -8.82413
+],
+  "geometry": {"coordinates":[16.39147,-8.82413],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310302657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14415,-11.26859,15.14415,-11.26859",
+    "geom:latitude":-11.26859,
+    "geom:longitude":15.14415,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quicuma de Baixo",
+    "gn:country_code":"AO",
+    "gn:dem":1358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7860802,
+    "gn:latitude":-11.26859,
+    "gn:longitude":15.14415,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quicuma de Baixo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860802
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"11d387f41a64c5d8c5c30c95b9e3b876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1310302657,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310302657,
+    "wof:lastmodified":1536712368,
+    "wof:name":"Quicuma de Baixo",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14415,
+    -11.26859,
+    15.14415,
+    -11.26859
+],
+  "geometry": {"coordinates":[15.14415,-11.26859],"type":"Point"}
+}

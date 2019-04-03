@@ -1,0 +1,67 @@
+{
+  "id": 1259575727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33435,-10.8546,14.33435,-10.8546",
+    "geom:latitude":-10.8546,
+    "geom:longitude":14.33435,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Conde",
+    "gn:country_code":"AO",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866648,
+    "gn:latitude":-10.8546,
+    "gn:longitude":14.33435,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cond\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866648
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f958ddf7cef0a30f97af807bedf2ebcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799827,
+            "locality_id":1259575727,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259575727,
+    "wof:lastmodified":1536726435,
+    "wof:name":"Conde",
+    "wof:parent_id":1108799827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33435,
+    -10.8546,
+    14.33435,
+    -10.8546
+],
+  "geometry": {"coordinates":[14.33435,-10.8546],"type":"Point"}
+}

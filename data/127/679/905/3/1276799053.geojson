@@ -1,0 +1,67 @@
+{
+  "id": 1276799053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37862,-8.71148,15.37862,-8.71148",
+    "geom:latitude":-8.71148,
+    "geom:longitude":15.37862,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quilamba Ouiaxi",
+    "gn:country_code":"AO",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7762608,
+    "gn:latitude":-8.71148,
+    "gn:longitude":15.37862,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quilamba Ouiaxi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7762608
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4f71e3bff2cc125522be3c717b9931b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1276799053,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1276799053,
+    "wof:lastmodified":1536651776,
+    "wof:name":"Quilamba Ouiaxi",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37862,
+    -8.71148,
+    15.37862,
+    -8.71148
+],
+  "geometry": {"coordinates":[15.37862,-8.71148],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226832027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7,-6.03333,15.7,-6.03333",
+    "geom:latitude":-6.03333,
+    "geom:longitude":15.7,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quinto",
+    "gn:country_code":"AO",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237875,
+    "gn:latitude":-6.03333,
+    "gn:longitude":15.7,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quinto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237875
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"268d33e07b65b5c701144b44d747daa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1226832027,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226832027,
+    "wof:lastmodified":1537084928,
+    "wof:name":"Quinto",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7,
+    -6.03333,
+    15.7,
+    -6.03333
+],
+  "geometry": {"coordinates":[15.7,-6.03333],"type":"Point"}
+}

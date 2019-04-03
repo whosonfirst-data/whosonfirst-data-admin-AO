@@ -1,0 +1,67 @@
+{
+  "id": 1225817819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5015,-5.93695,13.5015,-5.93695",
+    "geom:latitude":-5.93695,
+    "geom:longitude":13.5015,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quitalantima",
+    "gn:country_code":"AO",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662244,
+    "gn:latitude":-5.93695,
+    "gn:longitude":13.5015,
+    "gn:modification_date":"2011-02-09",
+    "gn:name":"Quitalantima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662244
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5bfdf49de0680c97c13f3719ba8680a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799679,
+            "locality_id":1225817819,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1225817819,
+    "wof:lastmodified":1537051853,
+    "wof:name":"Quitalantima",
+    "wof:parent_id":1108799679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5015,
+    -5.93695,
+    13.5015,
+    -5.93695
+],
+  "geometry": {"coordinates":[13.5015,-5.93695],"type":"Point"}
+}

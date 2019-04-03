@@ -1,0 +1,71 @@
+{
+  "id": 1277050813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37652,-8.56892,14.37652,-8.56892",
+    "geom:latitude":-8.56892,
+    "geom:longitude":14.37652,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Muquiama Samba",
+    "gn:country_code":"AO",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239174,
+    "gn:latitude":-8.56892,
+    "gn:longitude":14.37652,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Muquiama Samba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maquiama Samba",
+        "Muquiama Samba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239174
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e3bf65d0fc7e57d533b87576a90bb641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799859,
+            "locality_id":1277050813,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1277050813,
+    "wof:lastmodified":1537584617,
+    "wof:name":"Muquiama Samba",
+    "wof:parent_id":1108799859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37652,
+    -8.56892,
+    14.37652,
+    -8.56892
+],
+  "geometry": {"coordinates":[14.37652,-8.56892],"type":"Point"}
+}

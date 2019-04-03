@@ -1,0 +1,67 @@
+{
+  "id": 1243443945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03562,-14.66051,16.03562,-14.66051",
+    "geom:latitude":-14.66051,
+    "geom:longitude":16.03562,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Eiela",
+    "gn:country_code":"AO",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906689,
+    "gn:latitude":-14.66051,
+    "gn:longitude":16.03562,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Eiela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906689
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"174b5b65fc210869351d75e0c18b5b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1243443945,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1243443945,
+    "wof:lastmodified":1536808760,
+    "wof:name":"Eiela",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03562,
+    -14.66051,
+    16.03562,
+    -14.66051
+],
+  "geometry": {"coordinates":[16.03562,-14.66051],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310204185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79611,-8.93332,14.79611,-8.93332",
+    "geom:latitude":-8.93332,
+    "geom:longitude":14.79611,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Muenga do Bango",
+    "gn:country_code":"AO",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2239278,
+    "gn:latitude":-8.93332,
+    "gn:longitude":14.79611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Muenga do Bango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Muengo",
+        "Muenga do Bango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239278
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b4d36c8e0c70bd42a62e3d6eda9845bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799881,
+            "locality_id":1310204185,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1310204185,
+    "wof:lastmodified":1537584619,
+    "wof:name":"Muenga do Bango",
+    "wof:parent_id":1108799881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79611,
+    -8.93332,
+    14.79611,
+    -8.93332
+],
+  "geometry": {"coordinates":[14.79611,-8.93332],"type":"Point"}
+}

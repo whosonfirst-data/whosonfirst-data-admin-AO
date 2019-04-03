@@ -1,0 +1,67 @@
+{
+  "id": 1326728129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91261,-9.87654,14.91261,-9.87654",
+    "geom:latitude":-9.87654,
+    "geom:longitude":14.91261,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cachica Missao",
+    "gn:country_code":"AO",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783979,
+    "gn:latitude":-9.87654,
+    "gn:longitude":14.91261,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cachica Miss\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783979
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"098aec4532f74cdf718c8379ea612943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1326728129,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1326728129,
+    "wof:lastmodified":1536701967,
+    "wof:name":"Cachica Missao",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91261,
+    -9.87654,
+    14.91261,
+    -9.87654
+],
+  "geometry": {"coordinates":[14.91261,-9.87654],"type":"Point"}
+}

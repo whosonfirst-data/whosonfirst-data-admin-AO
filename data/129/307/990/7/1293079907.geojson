@@ -1,0 +1,67 @@
+{
+  "id": 1293079907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5,-12.53333,23.5,-12.53333",
+    "geom:latitude":-12.53333,
+    "geom:longitude":23.5,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Luila",
+    "gn:country_code":"AO",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876144,
+    "gn:latitude":-12.53333,
+    "gn:longitude":23.5,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Luila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876144
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fd3a067a17e0e0b6ccaa3c3f7a2572b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1293079907,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1293079907,
+    "wof:lastmodified":1536876893,
+    "wof:name":"Luila",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5,
+    -12.53333,
+    23.5,
+    -12.53333
+],
+  "geometry": {"coordinates":[23.5,-12.53333],"type":"Point"}
+}

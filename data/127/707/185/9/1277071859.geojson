@@ -1,0 +1,67 @@
+{
+  "id": 1277071859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37478,-9.938,15.37478,-9.938",
+    "geom:latitude":-9.938,
+    "geom:longitude":15.37478,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sao Bras",
+    "gn:country_code":"AO",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7784928,
+    "gn:latitude":-9.938,
+    "gn:longitude":15.37478,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"S\u00e3o Bras",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7784928
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d02e5d8a85e2d6396c40b90c80af1437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1277071859,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1277071859,
+    "wof:lastmodified":1536783812,
+    "wof:name":"Sao Bras",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37478,
+    -9.938,
+    15.37478,
+    -9.938
+],
+  "geometry": {"coordinates":[15.37478,-9.938],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276657525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9,-17.63333,21.9,-17.63333",
+    "geom:latitude":-17.63333,
+    "geom:longitude":21.9,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Liconda",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876226,
+    "gn:latitude":-17.63333,
+    "gn:longitude":21.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Liconda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Likonda",
+        "Liconda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876226
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"24cb9dd51fc0798f093c75c3aef242d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799779,
+            "locality_id":1276657525,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1276657525,
+    "wof:lastmodified":1537584551,
+    "wof:name":"Liconda",
+    "wof:parent_id":1108799779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9,
+    -17.63332999999999,
+    21.9,
+    -17.63332999999999
+],
+  "geometry": {"coordinates":[21.9,-17.63332999999999],"type":"Point"}
+}

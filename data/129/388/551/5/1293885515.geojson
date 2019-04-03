@@ -1,0 +1,74 @@
+{
+  "id": 1293885515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.23333,-5.45,12.23333,-5.45",
+    "geom:latitude":-5.45,
+    "geom:longitude":12.23333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bucomazi",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243459,
+    "gn:latitude":-5.45,
+    "gn:longitude":12.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bucomazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buco",
+        "Buco Maze",
+        "Bucomasi",
+        "Bucomazi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667683,
+        1108799777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243459
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"492e83ddd421b6118bcd2da7e59dd509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799777,
+            "locality_id":1293885515,
+            "region_id":85667683
+        }
+    ],
+    "wof:id":1293885515,
+    "wof:lastmodified":1537584676,
+    "wof:name":"Bucomazi",
+    "wof:parent_id":1108799777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.23333,
+    -5.45,
+    12.23333,
+    -5.45
+],
+  "geometry": {"coordinates":[12.23333,-5.45],"type":"Point"}
+}

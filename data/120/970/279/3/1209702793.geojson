@@ -1,0 +1,73 @@
+{
+  "id": 1209702793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,-9.08333,15.8,-9.08333",
+    "geom:latitude":-9.08333,
+    "geom:longitude":15.8,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Canganga",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242580,
+    "gn:latitude":-9.08333,
+    "gn:longitude":15.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Canganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dala Canhangue",
+        "Dalacanhanga",
+        "Canganga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242580
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b22185c82e8c3d1e114711833cccc6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1209702793,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1209702793,
+    "wof:lastmodified":1537584665,
+    "wof:name":"Canganga",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    -9.08333,
+    15.8,
+    -9.08333
+],
+  "geometry": {"coordinates":[15.8,-9.08333],"type":"Point"}
+}

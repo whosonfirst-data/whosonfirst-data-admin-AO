@@ -1,0 +1,71 @@
+{
+  "id": 1226224969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88785,-8.23577,15.88785,-8.23577",
+    "geom:latitude":-8.23577,
+    "geom:longitude":15.88785,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bengo",
+    "gn:country_code":"AO",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243617,
+    "gn:latitude":-8.23577,
+    "gn:longitude":15.88785,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangalo",
+        "Bengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243617
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4a59c03aa93158bc52242b1616fc56ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1226224969,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226224969,
+    "wof:lastmodified":1537584679,
+    "wof:name":"Bengo",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88785,
+    -8.23577,
+    15.88785,
+    -8.23577
+],
+  "geometry": {"coordinates":[15.88785,-8.23577],"type":"Point"}
+}

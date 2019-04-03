@@ -1,0 +1,67 @@
+{
+  "id": 1209736813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.66667,-16.6,13.66667,-16.6",
+    "geom:latitude":-16.6,
+    "geom:longitude":13.66667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nanjavina",
+    "gn:country_code":"AO",
+    "gn:dem":1242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347007,
+    "gn:latitude":-16.6,
+    "gn:longitude":13.66667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Nanjavina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347007
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"be267d3fd0d896aadd2151e28c8deff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799849,
+            "locality_id":1209736813,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1209736813,
+    "wof:lastmodified":1536372840,
+    "wof:name":"Nanjavina",
+    "wof:parent_id":1108799849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.66667,
+    -16.6,
+    13.66667,
+    -16.6
+],
+  "geometry": {"coordinates":[13.66667,-16.6],"type":"Point"}
+}

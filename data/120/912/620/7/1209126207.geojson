@@ -1,0 +1,61 @@
+{
+  "id": 1209126207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29719,-12.02595,15.29719,-12.02595",
+    "geom:latitude":-12.02595,
+    "geom:longitude":15.29719,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sandjalacata Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906075,
+    "gn:latitude":-12.02595,
+    "gn:longitude":15.29719,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Sandjalacata Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906075
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9586462fb2c318b328a137fb354f1485",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209126207
+        }
+    ],
+    "wof:id":1209126207,
+    "wof:lastmodified":1536296950,
+    "wof:name":"Sandjalacata Primeiro",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29719,
+    -12.02595,
+    15.29719,
+    -12.02595
+],
+  "geometry": {"coordinates":[15.29719,-12.02595],"type":"Point"}
+}

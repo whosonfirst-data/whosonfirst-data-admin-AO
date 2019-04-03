@@ -1,0 +1,67 @@
+{
+  "id": 1360065435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47557,-10.46054,17.47557,-10.46054",
+    "geom:latitude":-10.46054,
+    "geom:longitude":17.47557,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Siconha",
+    "gn:country_code":"AO",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7868439,
+    "gn:latitude":-10.46054,
+    "gn:longitude":17.47557,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Siconha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7868439
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"14540e339a143cb9395c3c9714436859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799771,
+            "locality_id":1360065435,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1360065435,
+    "wof:lastmodified":1536973642,
+    "wof:name":"Siconha",
+    "wof:parent_id":1108799771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47557,
+    -10.46054,
+    17.47557,
+    -10.46054
+],
+  "geometry": {"coordinates":[17.47557,-10.46054],"type":"Point"}
+}

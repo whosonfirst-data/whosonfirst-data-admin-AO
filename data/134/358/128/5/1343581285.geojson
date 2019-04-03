@@ -1,0 +1,67 @@
+{
+  "id": 1343581285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29389,-13.17722,15.29389,-13.17722",
+    "geom:latitude":-13.17722,
+    "geom:longitude":15.29389,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Damasco",
+    "gn:country_code":"AO",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371484,
+    "gn:latitude":-13.17722,
+    "gn:longitude":15.29389,
+    "gn:modification_date":"1998-03-31",
+    "gn:name":"Damasco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371484
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d913cde8e1b76c7c0a7f1fea46281c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799831,
+            "locality_id":1343581285,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1343581285,
+    "wof:lastmodified":1537066540,
+    "wof:name":"Damasco",
+    "wof:parent_id":1108799831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29389,
+    -13.17722,
+    15.29389,
+    -13.17722
+],
+  "geometry": {"coordinates":[15.29389,-13.17722],"type":"Point"}
+}

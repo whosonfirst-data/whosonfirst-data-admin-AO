@@ -1,0 +1,67 @@
+{
+  "id": 1309883061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93457,-9.17015,15.93457,-9.17015",
+    "geom:latitude":-9.17015,
+    "geom:longitude":15.93457,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Vulambongo",
+    "gn:country_code":"AO",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769208,
+    "gn:latitude":-9.17015,
+    "gn:longitude":15.93457,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Vulambongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769208
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cb14e80d0f1957fbe36c6bf9b1ae6441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1309883061,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1309883061,
+    "wof:lastmodified":1536818955,
+    "wof:name":"Vulambongo",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93457,
+    -9.17015,
+    15.93457,
+    -9.17015
+],
+  "geometry": {"coordinates":[15.93457,-9.17015],"type":"Point"}
+}

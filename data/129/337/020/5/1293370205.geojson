@@ -1,0 +1,72 @@
+{
+  "id": 1293370205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93505,-8.46479,16.93505,-8.46479",
+    "geom:latitude":-8.46479,
+    "geom:longitude":16.93505,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Holo dia Hoxi",
+    "gn:country_code":"AO",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238994,
+    "gn:latitude":-8.46479,
+    "gn:longitude":16.93505,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Holo di\u00e1 H\u00f3xi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coxe",
+        "Olia-dia-Coxe",
+        "Holo di\u00e1 H\u00f3xi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238994
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1d00345f56e2f8e20815eaa27d25da1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1293370205,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293370205,
+    "wof:lastmodified":1537584613,
+    "wof:name":"Holo dia Hoxi",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93505,
+    -8.46479,
+    16.93505,
+    -8.46479
+],
+  "geometry": {"coordinates":[16.93505,-8.46479],"type":"Point"}
+}

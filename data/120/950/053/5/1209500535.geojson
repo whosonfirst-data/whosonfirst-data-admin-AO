@@ -1,0 +1,67 @@
+{
+  "id": 1209500535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11866,-12.47615,16.11866,-12.47615",
+    "geom:latitude":-12.47615,
+    "geom:longitude":16.11866,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchiumbo",
+    "gn:country_code":"AO",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349455,
+    "gn:latitude":-12.47615,
+    "gn:longitude":16.11866,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchiumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vista Alegre",
+        "Chiumbe",
+        "Chiumbo",
+        "Tchiumbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349455
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"eec192cfc0e78e757e59468141adc8b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209500535
+        }
+    ],
+    "wof:id":1209500535,
+    "wof:lastmodified":1537584753,
+    "wof:name":"Tchiumbo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11866,
+    -12.47615,
+    16.11866,
+    -12.47615
+],
+  "geometry": {"coordinates":[16.11866,-12.47615],"type":"Point"}
+}

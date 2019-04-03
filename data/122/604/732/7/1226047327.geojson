@@ -1,0 +1,67 @@
+{
+  "id": 1226047327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51767,-9.00225,14.51767,-9.00225",
+    "geom:latitude":-9.00225,
+    "geom:longitude":14.51767,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quibila",
+    "gn:country_code":"AO",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7770924,
+    "gn:latitude":-9.00225,
+    "gn:longitude":14.51767,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quibila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7770924
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"210dfa5446d0e35584fc728a63407008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799607,
+            "locality_id":1226047327,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1226047327,
+    "wof:lastmodified":1536723208,
+    "wof:name":"Quibila",
+    "wof:parent_id":1108799607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51767,
+    -9.00225,
+    14.51767,
+    -9.00225
+],
+  "geometry": {"coordinates":[14.51767,-9.00225],"type":"Point"}
+}

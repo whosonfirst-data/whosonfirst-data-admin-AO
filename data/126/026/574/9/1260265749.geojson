@@ -1,0 +1,70 @@
+{
+  "id": 1260265749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08718,-6.6578,15.08718,-6.6578",
+    "geom:latitude":-6.6578,
+    "geom:longitude":15.08718,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quicongo Bango",
+    "gn:country_code":"AO",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243795,
+    "gn:latitude":-6.6578,
+    "gn:longitude":15.08718,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quicongo Bango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243795
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6278039f96fc4bb560b7711c289c6e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1260265749,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1260265749,
+    "wof:lastmodified":1537584683,
+    "wof:name":"Quicongo Bango",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08718,
+    -6.6578,
+    15.08718,
+    -6.6578
+],
+  "geometry": {"coordinates":[15.08718,-6.6578],"type":"Point"}
+}

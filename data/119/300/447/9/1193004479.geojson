@@ -1,0 +1,67 @@
+{
+  "id": 1193004479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47569,-14.75534,13.47569,-14.75534",
+    "geom:latitude":-14.75534,
+    "geom:longitude":13.47569,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tchilemba",
+    "gn:country_code":"AO",
+    "gn:dem":1927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7907036,
+    "gn:latitude":-14.75534,
+    "gn:longitude":13.47569,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchilemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667717,
+        1108799601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7907036
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2064e8d4daed58c0badddf79e16c7ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799601,
+            "locality_id":1193004479,
+            "region_id":85667717
+        }
+    ],
+    "wof:id":1193004479,
+    "wof:lastmodified":1536367003,
+    "wof:name":"Tchilemba",
+    "wof:parent_id":1108799601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47569,
+    -14.75534,
+    13.47569,
+    -14.75534
+],
+  "geometry": {"coordinates":[13.47569,-14.75534],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344034763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76667,-8.86667,15.76667,-8.86667",
+    "geom:latitude":-8.86667,
+    "geom:longitude":15.76667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Andala",
+    "gn:country_code":"AO",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243904,
+    "gn:latitude":-8.86667,
+    "gn:longitude":15.76667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Andala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243904
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1b8306fc4cdf869469eff2afb1f3197d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1344034763,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1344034763,
+    "wof:lastmodified":1536913213,
+    "wof:name":"Andala",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76667,
+    -8.86667,
+    15.76667,
+    -8.86667
+],
+  "geometry": {"coordinates":[15.76667,-8.86667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242839941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03333,-9.16667,14.03333,-9.16667",
+    "geom:latitude":-9.16667,
+    "geom:longitude":14.03333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mungolo",
+    "gn:country_code":"AO",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239188,
+    "gn:latitude":-9.16667,
+    "gn:longitude":14.03333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Mungolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239188
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ca4c7eec9cbc1c961b5bf020832d4c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799819,
+            "locality_id":1242839941,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1242839941,
+    "wof:lastmodified":1536685897,
+    "wof:name":"Mungolo",
+    "wof:parent_id":1108799819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03333,
+    -9.16667,
+    14.03333,
+    -9.16667
+],
+  "geometry": {"coordinates":[14.03333,-9.16667],"type":"Point"}
+}

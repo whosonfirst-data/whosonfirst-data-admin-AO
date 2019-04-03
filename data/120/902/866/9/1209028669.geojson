@@ -1,0 +1,61 @@
+{
+  "id": 1209028669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07476,-10.23936,15.07476,-10.23936",
+    "geom:latitude":-10.23936,
+    "geom:longitude":15.07476,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nganza",
+    "gn:country_code":"AO",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7855922,
+    "gn:latitude":-10.23936,
+    "gn:longitude":15.07476,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Nganza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855922
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5a21336270ad68a95c87187748c85b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209028669
+        }
+    ],
+    "wof:id":1209028669,
+    "wof:lastmodified":1536299914,
+    "wof:name":"Nganza",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07476,
+    -10.23936,
+    15.07476,
+    -10.23936
+],
+  "geometry": {"coordinates":[15.07476,-10.23936],"type":"Point"}
+}

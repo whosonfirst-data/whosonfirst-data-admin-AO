@@ -1,0 +1,67 @@
+{
+  "id": 1360077757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53152,-11.58748,14.53152,-11.58748",
+    "geom:latitude":-11.58748,
+    "geom:longitude":14.53152,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Maco ia Ndula",
+    "gn:country_code":"AO",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7901352,
+    "gn:latitude":-11.58748,
+    "gn:longitude":14.53152,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Maco i\u00e1 Ndula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901352
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"83b5bf06eb93b529213dcbc8bada551f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1360077757,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1360077757,
+    "wof:lastmodified":1536956349,
+    "wof:name":"Maco ia Ndula",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53152,
+    -11.58748,
+    14.53152,
+    -11.58748
+],
+  "geometry": {"coordinates":[14.53152,-11.58748],"type":"Point"}
+}

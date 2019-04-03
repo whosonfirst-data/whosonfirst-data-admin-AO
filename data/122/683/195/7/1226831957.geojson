@@ -1,0 +1,67 @@
+{
+  "id": 1226831957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87154,-6.68253,15.87154,-6.68253",
+    "geom:latitude":-6.68253,
+    "geom:longitude":15.87154,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zunzu",
+    "gn:country_code":"AO",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754843,
+    "gn:latitude":-6.68253,
+    "gn:longitude":15.87154,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Zunzu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754843
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a8d39436c55d458f685c4e7ed8b129a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799715,
+            "locality_id":1226831957,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226831957,
+    "wof:lastmodified":1537085027,
+    "wof:name":"Zunzu",
+    "wof:parent_id":1108799715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87154,
+    -6.68253,
+    15.87154,
+    -6.68253
+],
+  "geometry": {"coordinates":[15.87154,-6.68253],"type":"Point"}
+}

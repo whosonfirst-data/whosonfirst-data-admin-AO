@@ -1,0 +1,75 @@
+{
+  "id": 1243445943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13333,-17.08333,15.13333,-17.08333",
+    "geom:latitude":-17.08333,
+    "geom:longitude":15.13333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Cuamato",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349253,
+    "gn:latitude":-17.08333,
+    "gn:longitude":15.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cuamato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ombala-yo-Mungo",
+        "Kwamato",
+        "Kumato",
+        "Dom Luiz",
+        "Cuamato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349253
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8e1840d66f597f8d765ecb15598684b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799893,
+            "locality_id":1243445943,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1243445943,
+    "wof:lastmodified":1537584750,
+    "wof:name":"Cuamato",
+    "wof:parent_id":1108799893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13333,
+    -17.08333,
+    15.13333,
+    -17.08333
+],
+  "geometry": {"coordinates":[15.13333,-17.08333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209177431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36276,-10.27103,19.36276,-10.27103",
+    "geom:latitude":-10.27103,
+    "geom:longitude":19.36276,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mualucanda",
+    "gn:country_code":"AO",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892825,
+    "gn:latitude":-10.27103,
+    "gn:longitude":19.36276,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Mualucanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892825
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"37e3f3b8867c02ba57098145f18131c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209177431
+        }
+    ],
+    "wof:id":1209177431,
+    "wof:lastmodified":1536295374,
+    "wof:name":"Mualucanda",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36276,
+    -10.27103,
+    19.36276,
+    -10.27103
+],
+  "geometry": {"coordinates":[19.36276,-10.27103],"type":"Point"}
+}

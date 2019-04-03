@@ -1,0 +1,67 @@
+{
+  "id": 1293901727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.485,-12.65,13.485,-12.65",
+    "geom:latitude":-12.65,
+    "geom:longitude":13.485,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bimbas",
+    "gn:country_code":"AO",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372323,
+    "gn:latitude":-12.65,
+    "gn:longitude":13.485,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Bimbas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372323
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b1cb628ced307ab12584b334a7d4b5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799959,
+            "locality_id":1293901727,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1293901727,
+    "wof:lastmodified":1536687103,
+    "wof:name":"Bimbas",
+    "wof:parent_id":1108799959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.485,
+    -12.65,
+    13.485,
+    -12.65
+],
+  "geometry": {"coordinates":[13.485,-12.65],"type":"Point"}
+}

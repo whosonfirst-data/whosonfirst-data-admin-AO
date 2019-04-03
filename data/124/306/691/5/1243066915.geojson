@@ -1,0 +1,75 @@
+{
+  "id": 1243066915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35115,-8.23768,15.35115,-8.23768",
+    "geom:latitude":-8.23768,
+    "geom:longitude":15.35115,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cacuso",
+    "gn:country_code":"AO",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243128,
+    "gn:latitude":-8.23768,
+    "gn:longitude":15.35115,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cacuso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043a\u0443\u0437\u0443"
+    ],
+    "name:und_x_variant":[
+        "Cacuzo",
+        "Cacuso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243128,
+        "wk:page":"Cacuzo"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"121541f57fc15a6003afdfb23d263547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1243066915,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1243066915,
+    "wof:lastmodified":1537584672,
+    "wof:name":"Cacuso",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35115,
+    -8.23768,
+    15.35115,
+    -8.23768
+],
+  "geometry": {"coordinates":[15.35115,-8.23768],"type":"Point"}
+}

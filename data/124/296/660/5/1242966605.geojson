@@ -1,0 +1,67 @@
+{
+  "id": 1242966605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29111,-13.14167,15.29111,-13.14167",
+    "geom:latitude":-13.14167,
+    "geom:longitude":15.29111,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sacandondo",
+    "gn:country_code":"AO",
+    "gn:dem":1746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371471,
+    "gn:latitude":-13.14167,
+    "gn:longitude":15.29111,
+    "gn:modification_date":"1998-03-31",
+    "gn:name":"Sacandondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371471
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"92c037e8276051316d5c168f5712025d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799831,
+            "locality_id":1242966605,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1242966605,
+    "wof:lastmodified":1536999654,
+    "wof:name":"Sacandondo",
+    "wof:parent_id":1108799831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29111,
+    -13.14167,
+    15.29111,
+    -13.14167
+],
+  "geometry": {"coordinates":[15.29111,-13.14167],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310574275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64028,-7.68524,15.64028,-7.68524",
+    "geom:latitude":-7.68524,
+    "geom:longitude":15.64028,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimbungalau",
+    "gn:country_code":"AO",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867987,
+    "gn:latitude":-7.68524,
+    "gn:longitude":15.64028,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quimbungalau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867987
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ac72cdf3bf0c61b14f935dbc39783b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799657,
+            "locality_id":1310574275,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1310574275,
+    "wof:lastmodified":1536816999,
+    "wof:name":"Quimbungalau",
+    "wof:parent_id":1108799657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64028,
+    -7.68524,
+    15.64028,
+    -7.68524
+],
+  "geometry": {"coordinates":[15.64028,-7.68524],"type":"Point"}
+}

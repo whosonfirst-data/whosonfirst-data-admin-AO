@@ -1,0 +1,61 @@
+{
+  "id": 1209591969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.14573,-10.40656,18.14573,-10.40656",
+    "geom:latitude":-10.40656,
+    "geom:longitude":18.14573,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muacavula",
+    "gn:country_code":"AO",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7869518,
+    "gn:latitude":-10.40656,
+    "gn:longitude":18.14573,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Muacavula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7869518
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4418e4f96c21c7b43ec8de41eff263c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209591969
+        }
+    ],
+    "wof:id":1209591969,
+    "wof:lastmodified":1536282449,
+    "wof:name":"Muacavula",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14573,
+    -10.40656,
+    18.14573,
+    -10.40656
+],
+  "geometry": {"coordinates":[18.14573,-10.40656],"type":"Point"}
+}

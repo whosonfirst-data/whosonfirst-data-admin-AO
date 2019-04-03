@@ -1,0 +1,67 @@
+{
+  "id": 1327210959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2572,-8.84294,17.2572,-8.84294",
+    "geom:latitude":-8.84294,
+    "geom:longitude":17.2572,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Camau",
+    "gn:country_code":"AO",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7756193,
+    "gn:latitude":-8.84294,
+    "gn:longitude":17.2572,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Camau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756193
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8799d0352f628d5404f19e8d073e89e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799725,
+            "locality_id":1327210959,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1327210959,
+    "wof:lastmodified":1536999913,
+    "wof:name":"Camau",
+    "wof:parent_id":1108799725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2572,
+    -8.84294,
+    17.2572,
+    -8.84294
+],
+  "geometry": {"coordinates":[17.2572,-8.84294],"type":"Point"}
+}

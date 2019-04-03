@@ -1,0 +1,72 @@
+{
+  "id": 1242648789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24535,-7.37463,21.24535,-7.37463",
+    "geom:latitude":-7.37463,
+    "geom:longitude":21.24535,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tchiuango",
+    "gn:country_code":"AO",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145765,
+    "gn:latitude":-7.37463,
+    "gn:longitude":21.24535,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchiuango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chivanga",
+        "Chuanga",
+        "Tchiuango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145765
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9f0020fa2f9da3c264b9dbb3641697e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1242648789,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1242648789,
+    "wof:lastmodified":1537584527,
+    "wof:name":"Tchiuango",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24535,
+    -7.37463,
+    21.24535,
+    -7.37463
+],
+  "geometry": {"coordinates":[21.24535,-7.37463],"type":"Point"}
+}

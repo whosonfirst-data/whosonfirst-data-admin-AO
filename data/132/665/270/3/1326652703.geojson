@@ -1,0 +1,67 @@
+{
+  "id": 1326652703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0,-9.25,15.0,-9.25",
+    "geom:latitude":-9.25,
+    "geom:longitude":15.0,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Calulai",
+    "gn:country_code":"AO",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242913,
+    "gn:latitude":-9.25,
+    "gn:longitude":15.0,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Calulai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242913
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6b2dab25ee15371314720a08fb71c76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799713,
+            "locality_id":1326652703,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1326652703,
+    "wof:lastmodified":1536809930,
+    "wof:name":"Calulai",
+    "wof:parent_id":1108799713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0,
+    -9.25,
+    15.0,
+    -9.25
+],
+  "geometry": {"coordinates":[15.0,-9.25],"type":"Point"}
+}

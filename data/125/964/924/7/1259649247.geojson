@@ -1,0 +1,67 @@
+{
+  "id": 1259649247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58722,-8.86611,13.58722,-8.86611",
+    "geom:latitude":-8.86611,
+    "geom:longitude":13.58722,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Muculo da Quilunda",
+    "gn:country_code":"AO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591893,
+    "gn:latitude":-8.86611,
+    "gn:longitude":13.58722,
+    "gn:modification_date":"1998-06-02",
+    "gn:name":"Muculo da Quilunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591893
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"47480084f7fcd5e9882576d513673853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799819,
+            "locality_id":1259649247,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1259649247,
+    "wof:lastmodified":1536617876,
+    "wof:name":"Muculo da Quilunda",
+    "wof:parent_id":1108799819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58722,
+    -8.86611,
+    13.58722,
+    -8.86611
+],
+  "geometry": {"coordinates":[13.58722,-8.86611],"type":"Point"}
+}

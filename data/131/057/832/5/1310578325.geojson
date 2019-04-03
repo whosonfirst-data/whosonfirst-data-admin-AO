@@ -1,0 +1,67 @@
+{
+  "id": 1310578325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.30616,-8.52153,16.30616,-8.52153",
+    "geom:latitude":-8.52153,
+    "geom:longitude":16.30616,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cahinha Camunua",
+    "gn:country_code":"AO",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7758348,
+    "gn:latitude":-8.52153,
+    "gn:longitude":16.30616,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cahinha Camunua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7758348
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e6a61393c3cc7a49bd057098b5b5efb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1310578325,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1310578325,
+    "wof:lastmodified":1536811420,
+    "wof:name":"Cahinha Camunua",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30616,
+    -8.52153,
+    16.30616,
+    -8.52153
+],
+  "geometry": {"coordinates":[16.30616,-8.52153],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209578817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42726,-9.50709,20.42726,-9.50709",
+    "geom:latitude":-9.50709,
+    "geom:longitude":20.42726,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Pelengue Velho",
+    "gn:country_code":"AO",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7789895,
+    "gn:latitude":-9.50709,
+    "gn:longitude":20.42726,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Pelengue Velho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789895
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1b2fa32caca55291639673bb14ee373e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209578817
+        }
+    ],
+    "wof:id":1209578817,
+    "wof:lastmodified":1536282853,
+    "wof:name":"Pelengue Velho",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42726,
+    -9.50709,
+    20.42726,
+    -9.50709
+],
+  "geometry": {"coordinates":[20.42726,-9.50709],"type":"Point"}
+}

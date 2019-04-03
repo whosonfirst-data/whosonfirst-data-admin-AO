@@ -1,0 +1,61 @@
+{
+  "id": 1209439075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.892,-14.63317,16.892,-14.63317",
+    "geom:latitude":-14.63317,
+    "geom:longitude":16.892,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Missombo",
+    "gn:country_code":"AO",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7908889,
+    "gn:latitude":-14.63317,
+    "gn:longitude":16.892,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Missombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908889
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d1c7bf72c26dcc78df6ac1579d68044c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209439075
+        }
+    ],
+    "wof:id":1209439075,
+    "wof:lastmodified":1536287012,
+    "wof:name":"Missombo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.892,
+    -14.633170000000002,
+    16.892,
+    -14.633170000000002
+],
+  "geometry": {"coordinates":[16.892,-14.63317],"type":"Point"}
+}

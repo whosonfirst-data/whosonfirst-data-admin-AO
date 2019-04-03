@@ -1,0 +1,67 @@
+{
+  "id": 1193248725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05635,-7.4839,16.05635,-7.4839",
+    "geom:latitude":-7.4839,
+    "geom:longitude":16.05635,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mbanza Luanda",
+    "gn:country_code":"AO",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7745480,
+    "gn:latitude":-7.4839,
+    "gn:longitude":16.05635,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mbanza Luanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745480
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cb0911d23716284c5897ddc7fdef3ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799617,
+            "locality_id":1193248725,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1193248725,
+    "wof:lastmodified":1536370495,
+    "wof:name":"Mbanza Luanda",
+    "wof:parent_id":1108799617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05635,
+    -7.4839,
+    16.05635,
+    -7.4839
+],
+  "geometry": {"coordinates":[16.05635,-7.4839],"type":"Point"}
+}

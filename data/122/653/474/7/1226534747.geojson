@@ -1,0 +1,71 @@
+{
+  "id": 1226534747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2986,-11.01247,14.2986,-11.01247",
+    "geom:latitude":-11.01247,
+    "geom:longitude":14.2986,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chari",
+    "gn:country_code":"AO",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350046,
+    "gn:latitude":-11.01247,
+    "gn:longitude":14.2986,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ch\u00e1ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00e1li",
+        "Ch\u00e1ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350046
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9ac5ec69ee721a8aadf0ca271842e8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1226534747,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226534747,
+    "wof:lastmodified":1537584769,
+    "wof:name":"Chari",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2986,
+    -11.01247,
+    14.2986,
+    -11.01247
+],
+  "geometry": {"coordinates":[14.2986,-11.01247],"type":"Point"}
+}

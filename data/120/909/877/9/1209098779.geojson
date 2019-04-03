@@ -1,0 +1,65 @@
+{
+  "id": 1209098779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79066,-11.13724,14.79066,-11.13724",
+    "geom:latitude":-11.13724,
+    "geom:longitude":14.79066,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Langando",
+    "gn:country_code":"AO",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348054,
+    "gn:latitude":-11.13724,
+    "gn:longitude":14.79066,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Langando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lengando",
+        "Langando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348054
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a5d33d6a3e04b54519bc626e8c588e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209098779
+        }
+    ],
+    "wof:id":1209098779,
+    "wof:lastmodified":1537584730,
+    "wof:name":"Langando",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79066,
+    -11.13724,
+    14.79066,
+    -11.13724
+],
+  "geometry": {"coordinates":[14.79066,-11.13724],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343443765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31683,-7.06354,15.31683,-7.06354",
+    "geom:latitude":-7.06354,
+    "geom:longitude":15.31683,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vanda",
+    "gn:country_code":"AO",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7746512,
+    "gn:latitude":-7.06354,
+    "gn:longitude":15.31683,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Vanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746512
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"556e8a4d76221fb84afdf0201bf195ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1343443765,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343443765,
+    "wof:lastmodified":1536770882,
+    "wof:name":"Vanda",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31683,
+    -7.06354,
+    15.31683,
+    -7.06354
+],
+  "geometry": {"coordinates":[15.31683,-7.06354],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209190269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8424,-10.06254,19.8424,-10.06254",
+    "geom:latitude":-10.06254,
+    "geom:longitude":19.8424,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Samaji",
+    "gn:country_code":"AO",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7893735,
+    "gn:latitude":-10.06254,
+    "gn:longitude":19.8424,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Samaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893735
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ea82e66e2cb76f40782cf2da9b197b1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209190269
+        }
+    ],
+    "wof:id":1209190269,
+    "wof:lastmodified":1536294958,
+    "wof:name":"Samaji",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8424,
+    -10.06254,
+    19.8424,
+    -10.06254
+],
+  "geometry": {"coordinates":[19.8424,-10.06254],"type":"Point"}
+}

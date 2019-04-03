@@ -1,0 +1,67 @@
+{
+  "id": 1225818625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.24946,-6.4859,16.24946,-6.4859",
+    "geom:latitude":-6.4859,
+    "geom:longitude":16.24946,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quissangui",
+    "gn:country_code":"AO",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544960,
+    "gn:latitude":-6.4859,
+    "gn:longitude":16.24946,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Quissangui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544960
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c73c21579e724058132c413f8703b4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1225818625,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1225818625,
+    "wof:lastmodified":1537050758,
+    "wof:name":"Quissangui",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.24946,
+    -6.4859,
+    16.24946,
+    -6.4859
+],
+  "geometry": {"coordinates":[16.24946,-6.4859],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259463239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.74948,-10.5706,17.74948,-10.5706",
+    "geom:latitude":-10.5706,
+    "geom:longitude":17.74948,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Singulo",
+    "gn:country_code":"AO",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900794,
+    "gn:latitude":-10.5706,
+    "gn:longitude":17.74948,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Singulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900794
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4bb9cb4f38a148ca29083e338f103459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799719,
+            "locality_id":1259463239,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1259463239,
+    "wof:lastmodified":1536887491,
+    "wof:name":"Singulo",
+    "wof:parent_id":1108799719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.74948,
+    -10.5706,
+    17.74948,
+    -10.5706
+],
+  "geometry": {"coordinates":[17.74948,-10.5706],"type":"Point"}
+}

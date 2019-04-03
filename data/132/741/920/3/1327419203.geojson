@@ -1,0 +1,67 @@
+{
+  "id": 1327419203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33868,-12.33705,16.33868,-12.33705",
+    "geom:latitude":-12.33705,
+    "geom:longitude":16.33868,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sanguengue",
+    "gn:country_code":"AO",
+    "gn:dem":1681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7904532,
+    "gn:latitude":-12.33705,
+    "gn:longitude":16.33868,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Sanguengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904532
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c90e1f5dc233375311e6d6fb23f67ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799853,
+            "locality_id":1327419203,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1327419203,
+    "wof:lastmodified":1536700137,
+    "wof:name":"Sanguengue",
+    "wof:parent_id":1108799853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33868,
+    -12.33705,
+    16.33868,
+    -12.33705
+],
+  "geometry": {"coordinates":[16.33868,-12.33705],"type":"Point"}
+}

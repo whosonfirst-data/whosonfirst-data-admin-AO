@@ -1,0 +1,67 @@
+{
+  "id": 1209993581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13627,-7.96638,16.13627,-7.96638",
+    "geom:latitude":-7.96638,
+    "geom:longitude":16.13627,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Coxi",
+    "gn:country_code":"AO",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7868340,
+    "gn:latitude":-7.96638,
+    "gn:longitude":16.13627,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"C\u00f3xi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7868340
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"15667cb016cac6138d3a78c3d0fdad74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799689,
+            "locality_id":1209993581,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1209993581,
+    "wof:lastmodified":1536385303,
+    "wof:name":"Coxi",
+    "wof:parent_id":1108799689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13627,
+    -7.96638,
+    16.13627,
+    -7.96638
+],
+  "geometry": {"coordinates":[16.13627,-7.96638],"type":"Point"}
+}

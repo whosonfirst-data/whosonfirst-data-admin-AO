@@ -1,0 +1,67 @@
+{
+  "id": 1343683825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38333,-9.96667,15.38333,-9.96667",
+    "geom:latitude":-9.96667,
+    "geom:longitude":15.38333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quiaza",
+    "gn:country_code":"AO",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238680,
+    "gn:latitude":-9.96667,
+    "gn:longitude":15.38333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quiaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238680
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dfb4f4e74a8d117d90bf30aa81b2ac26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1343683825,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343683825,
+    "wof:lastmodified":1536922047,
+    "wof:name":"Quiaza",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38333,
+    -9.96667,
+    15.38333,
+    -9.96667
+],
+  "geometry": {"coordinates":[15.38333,-9.96667],"type":"Point"}
+}

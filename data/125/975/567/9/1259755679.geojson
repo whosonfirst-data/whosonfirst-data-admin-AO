@@ -1,0 +1,67 @@
+{
+  "id": 1259755679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65865,-6.76417,12.65865,-6.76417",
+    "geom:latitude":-6.76417,
+    "geom:longitude":12.65865,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lumueno Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8633855,
+    "gn:latitude":-6.76417,
+    "gn:longitude":12.65865,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Lumueno Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8633855
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8249385a56a7327adc5a8ce05eb67c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799615,
+            "locality_id":1259755679,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1259755679,
+    "wof:lastmodified":1536963092,
+    "wof:name":"Lumueno Primeiro",
+    "wof:parent_id":1108799615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65865,
+    -6.76417,
+    12.65865,
+    -6.76417
+],
+  "geometry": {"coordinates":[12.65865,-6.76417],"type":"Point"}
+}

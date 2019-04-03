@@ -1,0 +1,67 @@
+{
+  "id": 1293387443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54041,-10.69081,14.54041,-10.69081",
+    "geom:latitude":-10.69081,
+    "geom:longitude":14.54041,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bem-Vindo Neto",
+    "gn:country_code":"AO",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865605,
+    "gn:latitude":-10.69081,
+    "gn:longitude":14.54041,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Bem-Vindo Neto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865605
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8f486fb9c271752947b8310c25249226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799949,
+            "locality_id":1293387443,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293387443,
+    "wof:lastmodified":1536932006,
+    "wof:name":"Bem-Vindo Neto",
+    "wof:parent_id":1108799949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54041,
+    -10.69081,
+    14.54041,
+    -10.69081
+],
+  "geometry": {"coordinates":[14.54041,-10.69081],"type":"Point"}
+}

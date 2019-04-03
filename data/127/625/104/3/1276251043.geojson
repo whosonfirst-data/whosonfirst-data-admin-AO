@@ -1,0 +1,67 @@
+{
+  "id": 1276251043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74694,-11.94783,14.74694,-11.94783",
+    "geom:latitude":-11.94783,
+    "geom:longitude":14.74694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chacumba",
+    "gn:country_code":"AO",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3350105,
+    "gn:latitude":-11.94783,
+    "gn:longitude":14.74694,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Chacumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350105
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1fafb197cba68c4401579eba9db020f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1276251043,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276251043,
+    "wof:lastmodified":1536888579,
+    "wof:name":"Chacumba",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74694,
+    -11.94783,
+    14.74694,
+    -11.94783
+],
+  "geometry": {"coordinates":[14.74694,-11.94783],"type":"Point"}
+}

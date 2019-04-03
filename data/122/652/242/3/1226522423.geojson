@@ -1,0 +1,67 @@
+{
+  "id": 1226522423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96279,-8.40672,16.96279,-8.40672",
+    "geom:latitude":-8.40672,
+    "geom:longitude":16.96279,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Massamba",
+    "gn:country_code":"AO",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7744118,
+    "gn:latitude":-8.40672,
+    "gn:longitude":16.96279,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Massamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7744118
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b662f2abb2ccb8e21cde8d669e3a5f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1226522423,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226522423,
+    "wof:lastmodified":1537030407,
+    "wof:name":"Massamba",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96279,
+    -8.40672,
+    16.96279,
+    -8.40672
+],
+  "geometry": {"coordinates":[16.96279,-8.40672],"type":"Point"}
+}

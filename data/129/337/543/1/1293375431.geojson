@@ -1,0 +1,70 @@
+{
+  "id": 1293375431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0802,-12.11698,15.0802,-12.11698",
+    "geom:latitude":-12.11698,
+    "geom:longitude":15.0802,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchindjongo",
+    "gn:country_code":"AO",
+    "gn:dem":1637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3349696,
+    "gn:latitude":-12.11698,
+    "gn:longitude":15.0802,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchindjongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Chinjonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349696
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aac7dee56d05b8957fbd21f22b66782b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1293375431,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1293375431,
+    "wof:lastmodified":1537584759,
+    "wof:name":"Tchindjongo",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0802,
+    -12.11698,
+    15.0802,
+    -12.11698
+],
+  "geometry": {"coordinates":[15.0802,-12.11698],"type":"Point"}
+}

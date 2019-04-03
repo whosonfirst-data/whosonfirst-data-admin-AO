@@ -1,0 +1,67 @@
+{
+  "id": 1226364661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50271,-10.67951,14.50271,-10.67951",
+    "geom:latitude":-10.67951,
+    "geom:longitude":14.50271,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guanza Saca",
+    "gn:country_code":"AO",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865601,
+    "gn:latitude":-10.67951,
+    "gn:longitude":14.50271,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Guanza Saca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865601
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"62a72072f0f79647ecf3ea23d2ab7f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799949,
+            "locality_id":1226364661,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226364661,
+    "wof:lastmodified":1536762589,
+    "wof:name":"Guanza Saca",
+    "wof:parent_id":1108799949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50271,
+    -10.67951,
+    14.50271,
+    -10.67951
+],
+  "geometry": {"coordinates":[14.50271,-10.67951],"type":"Point"}
+}

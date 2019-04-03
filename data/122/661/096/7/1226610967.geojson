@@ -1,0 +1,71 @@
+{
+  "id": 1226610967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7902,-8.47825,14.7902,-8.47825",
+    "geom:latitude":-8.47825,
+    "geom:longitude":14.7902,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Coxe",
+    "gn:country_code":"AO",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241689,
+    "gn:latitude":-8.47825,
+    "gn:longitude":14.7902,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Coxe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quicoche",
+        "Coxe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241689
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"57c39cebc2e82442934ca0a9bd9a5a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799859,
+            "locality_id":1226610967,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1226610967,
+    "wof:lastmodified":1537584652,
+    "wof:name":"Coxe",
+    "wof:parent_id":1108799859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7902,
+    -8.47825,
+    14.7902,
+    -8.47825
+],
+  "geometry": {"coordinates":[14.7902,-8.47825],"type":"Point"}
+}

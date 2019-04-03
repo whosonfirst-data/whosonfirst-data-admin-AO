@@ -1,0 +1,65 @@
+{
+  "id": 1209510989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3116,-14.94766,14.3116,-14.94766",
+    "geom:latitude":-14.94766,
+    "geom:longitude":14.3116,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Haca",
+    "gn:country_code":"AO",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348387,
+    "gn:latitude":-14.94766,
+    "gn:longitude":14.3116,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Haca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haco",
+        "Haca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348387
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b096ed89a3be47c71ba06f04804b14af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209510989
+        }
+    ],
+    "wof:id":1209510989,
+    "wof:lastmodified":1537584735,
+    "wof:name":"Haca",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3116,
+    -14.94766,
+    14.3116,
+    -14.94766
+],
+  "geometry": {"coordinates":[14.3116,-14.94766],"type":"Point"}
+}

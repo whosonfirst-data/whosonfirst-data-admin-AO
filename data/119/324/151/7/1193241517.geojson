@@ -1,0 +1,67 @@
+{
+  "id": 1193241517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83333,-10.3,20.83333,-10.3",
+    "geom:latitude":-10.3,
+    "geom:longitude":20.83333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Camavo",
+    "gn:country_code":"AO",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876629,
+    "gn:latitude":-10.3,
+    "gn:longitude":20.83333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Camavo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876629
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6b2d75563e99423504d370c480e3a457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799787,
+            "locality_id":1193241517,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1193241517,
+    "wof:lastmodified":1536377908,
+    "wof:name":"Camavo",
+    "wof:parent_id":1108799787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83333,
+    -10.3,
+    20.83333,
+    -10.3
+],
+  "geometry": {"coordinates":[20.83333,-10.3],"type":"Point"}
+}

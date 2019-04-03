@@ -1,0 +1,67 @@
+{
+  "id": 1242866787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78336,-11.59859,13.78336,-11.59859",
+    "geom:latitude":-11.59859,
+    "geom:longitude":13.78336,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cabeca da Baleia",
+    "gn:country_code":"AO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308402,
+    "gn:latitude":-11.59859,
+    "gn:longitude":13.78336,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Cabe\u00e7a da Baleia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308402
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"76ba6d7ddc578a8c780c4faab6c99fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799795,
+            "locality_id":1242866787,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1242866787,
+    "wof:lastmodified":1536646691,
+    "wof:name":"Cabeca da Baleia",
+    "wof:parent_id":1108799795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78336,
+    -11.59859,
+    13.78336,
+    -11.59859
+],
+  "geometry": {"coordinates":[13.78336,-11.59859],"type":"Point"}
+}

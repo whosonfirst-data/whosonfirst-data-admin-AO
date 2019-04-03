@@ -1,0 +1,67 @@
+{
+  "id": 1243134627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7771,-8.68054,14.7771,-8.68054",
+    "geom:latitude":-8.68054,
+    "geom:longitude":14.7771,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sao Jose",
+    "gn:country_code":"AO",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7763909,
+    "gn:latitude":-8.68054,
+    "gn:longitude":14.7771,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"S\u00e3o Jose",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7763909
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3226e901f0c8c70d2ed1767e65eabe3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799817,
+            "locality_id":1243134627,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1243134627,
+    "wof:lastmodified":1536758423,
+    "wof:name":"Sao Jose",
+    "wof:parent_id":1108799817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7771,
+    -8.68054,
+    14.7771,
+    -8.68054
+],
+  "geometry": {"coordinates":[14.7771,-8.68054],"type":"Point"}
+}

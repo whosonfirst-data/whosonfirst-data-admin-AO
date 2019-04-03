@@ -1,0 +1,67 @@
+{
+  "id": 1242763265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.605,-13.16722,15.605,-13.16722",
+    "geom:latitude":-13.16722,
+    "geom:longitude":15.605,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Atuco",
+    "gn:country_code":"AO",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371594,
+    "gn:latitude":-13.16722,
+    "gn:longitude":15.605,
+    "gn:modification_date":"1998-04-02",
+    "gn:name":"Atuco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371594
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a89d432f5b7393d210a1f4b5a8c306c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":1242763265,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1242763265,
+    "wof:lastmodified":1536796509,
+    "wof:name":"Atuco",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.605,
+    -13.16722,
+    15.605,
+    -13.16722
+],
+  "geometry": {"coordinates":[15.605,-13.16722],"type":"Point"}
+}

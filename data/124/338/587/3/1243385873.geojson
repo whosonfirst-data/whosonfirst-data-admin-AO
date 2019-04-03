@@ -1,0 +1,67 @@
+{
+  "id": 1243385873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69507,-11.62126,14.69507,-11.62126",
+    "geom:latitude":-11.62126,
+    "geom:longitude":14.69507,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chiuto",
+    "gn:country_code":"AO",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7901429,
+    "gn:latitude":-11.62126,
+    "gn:longitude":14.69507,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Chiuto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901429
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ec76a520e9228f2fc53572bd4c780699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1243385873,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1243385873,
+    "wof:lastmodified":1536892674,
+    "wof:name":"Chiuto",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69507,
+    -11.62126,
+    14.69507,
+    -11.62126
+],
+  "geometry": {"coordinates":[14.69507,-11.62126],"type":"Point"}
+}

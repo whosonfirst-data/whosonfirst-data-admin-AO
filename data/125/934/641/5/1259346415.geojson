@@ -1,0 +1,67 @@
+{
+  "id": 1259346415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61652,-8.83756,20.61652,-8.83756",
+    "geom:latitude":-8.83756,
+    "geom:longitude":20.61652,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muxie",
+    "gn:country_code":"AO",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7764467,
+    "gn:latitude":-8.83756,
+    "gn:longitude":20.61652,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muxie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764467
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"16242a0fe011bb0d877339eb3a0ac356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1259346415,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1259346415,
+    "wof:lastmodified":1537053455,
+    "wof:name":"Muxie",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61652,
+    -8.83756,
+    20.61652,
+    -8.83756
+],
+  "geometry": {"coordinates":[20.61652,-8.83756],"type":"Point"}
+}

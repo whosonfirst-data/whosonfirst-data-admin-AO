@@ -1,0 +1,64 @@
+{
+  "id": 1209093337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88132,-8.3323,15.88132,-8.3323",
+    "geom:latitude":-8.3323,
+    "geom:longitude":15.88132,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tunda Calelamo",
+    "gn:country_code":"AO",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236632,
+    "gn:latitude":-8.3323,
+    "gn:longitude":15.88132,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tunda Calelamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236632
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a1615f0b7f370f1c25a2a617d5b4a756",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209093337
+        }
+    ],
+    "wof:id":1209093337,
+    "wof:lastmodified":1537584572,
+    "wof:name":"Tunda Calelamo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88132,
+    -8.3323,
+    15.88132,
+    -8.3323
+],
+  "geometry": {"coordinates":[15.88132,-8.3323],"type":"Point"}
+}

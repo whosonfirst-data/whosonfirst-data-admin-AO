@@ -1,0 +1,72 @@
+{
+  "id": 1344179959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2784,-8.16821,15.2784,-8.16821",
+    "geom:latitude":-8.16821,
+    "geom:longitude":15.2784,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Canacanjungo",
+    "gn:country_code":"AO",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242649,
+    "gn:latitude":-8.16821,
+    "gn:longitude":15.2784,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Canacanjungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serra de Canacanjungo",
+        "Canacajungo",
+        "Canacanjungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242649
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f7c650e5f07cb898233121183d98fa43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1344179959,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1344179959,
+    "wof:lastmodified":1537584666,
+    "wof:name":"Canacanjungo",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2784,
+    -8.16821,
+    15.2784,
+    -8.16821
+],
+  "geometry": {"coordinates":[15.2784,-8.16821],"type":"Point"}
+}

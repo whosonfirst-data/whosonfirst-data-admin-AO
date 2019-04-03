@@ -1,0 +1,70 @@
+{
+  "id": 1209714691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30126,-8.38549,15.30126,-8.38549",
+    "geom:latitude":-8.38549,
+    "geom:longitude":15.30126,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nzagi",
+    "gn:country_code":"AO",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236360,
+    "gn:latitude":-8.38549,
+    "gn:longitude":15.30126,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nzagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236360
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"61a58f09cac6be22e36ae814e1002160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799619,
+            "locality_id":1209714691,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1209714691,
+    "wof:lastmodified":1537584569,
+    "wof:name":"Nzagi",
+    "wof:parent_id":1108799619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30126,
+    -8.38549,
+    15.30126,
+    -8.38549
+],
+  "geometry": {"coordinates":[15.30126,-8.38549],"type":"Point"}
+}

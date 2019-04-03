@@ -1,0 +1,67 @@
+{
+  "id": 1293888593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67017,-8.88461,14.67017,-8.88461",
+    "geom:latitude":-8.88461,
+    "geom:longitude":14.67017,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quisseno",
+    "gn:country_code":"AO",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7764162,
+    "gn:latitude":-8.88461,
+    "gn:longitude":14.67017,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quisseno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764162
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"54d0140396a586d447a2f7e377b8908e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799881,
+            "locality_id":1293888593,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1293888593,
+    "wof:lastmodified":1536706235,
+    "wof:name":"Quisseno",
+    "wof:parent_id":1108799881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67017,
+    -8.88461,
+    14.67017,
+    -8.88461
+],
+  "geometry": {"coordinates":[14.67017,-8.88461],"type":"Point"}
+}

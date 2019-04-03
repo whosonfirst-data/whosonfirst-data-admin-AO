@@ -1,0 +1,72 @@
+{
+  "id": 1276416617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.68923,-9.09939,19.68923,-9.09939",
+    "geom:latitude":-9.09939,
+    "geom:longitude":19.68923,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muhanga",
+    "gn:country_code":"AO",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2239257,
+    "gn:latitude":-9.09939,
+    "gn:longitude":19.68923,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Muhanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Mhuunga",
+        "Muhunga",
+        "Muhanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239257
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fade8e82e27ae14bb70842b70c70bd85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799759,
+            "locality_id":1276416617,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1276416617,
+    "wof:lastmodified":1537584618,
+    "wof:name":"Muhanga",
+    "wof:parent_id":1108799759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.68923,
+    -9.09939,
+    19.68923,
+    -9.09939
+],
+  "geometry": {"coordinates":[19.68923,-9.09939],"type":"Point"}
+}

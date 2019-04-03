@@ -1,0 +1,72 @@
+{
+  "id": 1276964653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05142,-12.31706,15.05142,-12.31706",
+    "geom:latitude":-12.31706,
+    "geom:longitude":15.05142,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Essango",
+    "gn:country_code":"AO",
+    "gn:dem":1781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3346224,
+    "gn:latitude":-12.31706,
+    "gn:longitude":15.05142,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Essango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sanjo",
+        "Sango",
+        "Essango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346224
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1a956652e3819c740fa898bf85e6f233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1276964653,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276964653,
+    "wof:lastmodified":1537584698,
+    "wof:name":"Essango",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05142,
+    -12.31706,
+    15.05142,
+    -12.31706
+],
+  "geometry": {"coordinates":[15.05142,-12.31706],"type":"Point"}
+}

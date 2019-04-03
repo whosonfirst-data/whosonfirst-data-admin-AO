@@ -1,0 +1,67 @@
+{
+  "id": 1277154353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44734,-9.2194,17.44734,-9.2194",
+    "geom:latitude":-9.2194,
+    "geom:longitude":17.44734,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cabingano",
+    "gn:country_code":"AO",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785119,
+    "gn:latitude":-9.2194,
+    "gn:longitude":17.44734,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cabingano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785119
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"131575e5a1b410815f79a9982f094bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799887,
+            "locality_id":1277154353,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1277154353,
+    "wof:lastmodified":1536664518,
+    "wof:name":"Cabingano",
+    "wof:parent_id":1108799887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44734,
+    -9.2194,
+    17.44734,
+    -9.2194
+],
+  "geometry": {"coordinates":[17.44734,-9.2194],"type":"Point"}
+}

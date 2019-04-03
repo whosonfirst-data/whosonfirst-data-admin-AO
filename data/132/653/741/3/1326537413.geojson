@@ -1,0 +1,73 @@
+{
+  "id": 1326537413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36667,-5.65,12.36667,-5.65",
+    "geom:latitude":-5.65,
+    "geom:longitude":12.36667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lele",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240638,
+    "gn:latitude":-5.65,
+    "gn:longitude":12.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salal\u00e9",
+        "Sulal\u00e9",
+        "Lele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667683,
+        1108799777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240638
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d5a3b541616d07397a1bf95c2148038e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799777,
+            "locality_id":1326537413,
+            "region_id":85667683
+        }
+    ],
+    "wof:id":1326537413,
+    "wof:lastmodified":1537584632,
+    "wof:name":"Lele",
+    "wof:parent_id":1108799777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36667,
+    -5.65,
+    12.36667,
+    -5.65
+],
+  "geometry": {"coordinates":[12.36667,-5.65],"type":"Point"}
+}

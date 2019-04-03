@@ -1,0 +1,67 @@
+{
+  "id": 1326817387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.76113,-10.92626,17.76113,-10.92626",
+    "geom:latitude":-10.92626,
+    "geom:longitude":17.76113,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bisseio",
+    "gn:country_code":"AO",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900711,
+    "gn:latitude":-10.92626,
+    "gn:longitude":17.76113,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Bisseio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900711
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ef42fc5cbf690a37ad041bcd176bb371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799651,
+            "locality_id":1326817387,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1326817387,
+    "wof:lastmodified":1537067259,
+    "wof:name":"Bisseio",
+    "wof:parent_id":1108799651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.76112999999999,
+    -10.92626,
+    17.76112999999999,
+    -10.92626
+],
+  "geometry": {"coordinates":[17.76112999999999,-10.92626],"type":"Point"}
+}

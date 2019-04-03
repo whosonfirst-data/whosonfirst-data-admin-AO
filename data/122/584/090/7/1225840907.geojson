@@ -1,0 +1,73 @@
+{
+  "id": 1225840907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68333,-13.9,13.68333,-13.9",
+    "geom:latitude":-13.9,
+    "geom:longitude":13.68333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Impulo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348243,
+    "gn:latitude":-13.9,
+    "gn:longitude":13.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Impulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Impule",
+        "Impula",
+        "Impulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348243
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"87f385479e875aadcdac366d5e8e6556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799723,
+            "locality_id":1225840907,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1225840907,
+    "wof:lastmodified":1537584732,
+    "wof:name":"Impulo",
+    "wof:parent_id":1108799723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68333,
+    -13.9,
+    13.68333,
+    -13.9
+],
+  "geometry": {"coordinates":[13.68333,-13.9],"type":"Point"}
+}

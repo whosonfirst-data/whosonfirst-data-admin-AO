@@ -1,0 +1,73 @@
+{
+  "id": 1327316619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,-7.56667,15.01667,-7.56667",
+    "geom:latitude":-7.56667,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mucondo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239319,
+    "gn:latitude":-7.56667,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mucondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quincando",
+        "Quimecunda",
+        "Mucondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239319
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8ca0bc3839dd0f191ef807a8fb4dade7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799643,
+            "locality_id":1327316619,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1327316619,
+    "wof:lastmodified":1537584620,
+    "wof:name":"Mucondo",
+    "wof:parent_id":1108799643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    -7.56667,
+    15.01667,
+    -7.56667
+],
+  "geometry": {"coordinates":[15.01667,-7.56667],"type":"Point"}
+}

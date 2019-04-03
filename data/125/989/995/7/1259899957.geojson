@@ -1,0 +1,70 @@
+{
+  "id": 1259899957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4353,-12.30069,15.4353,-12.30069",
+    "geom:latitude":-12.30069,
+    "geom:longitude":15.4353,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchilala",
+    "gn:country_code":"AO",
+    "gn:dem":1702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3349867,
+    "gn:latitude":-12.30069,
+    "gn:longitude":15.4353,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchilala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Chilala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349867
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"067c2b15137084aecb98befcb5f41b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1259899957,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1259899957,
+    "wof:lastmodified":1537584764,
+    "wof:name":"Tchilala",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4353,
+    -12.30069,
+    15.4353,
+    -12.30069
+],
+  "geometry": {"coordinates":[15.4353,-12.30069],"type":"Point"}
+}

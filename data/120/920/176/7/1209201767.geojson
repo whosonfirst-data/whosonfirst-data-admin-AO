@@ -1,0 +1,61 @@
+{
+  "id": 1209201767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0884,-8.98269,16.0884,-8.98269",
+    "geom:latitude":-8.98269,
+    "geom:longitude":16.0884,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nguvulo",
+    "gn:country_code":"AO",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7758642,
+    "gn:latitude":-8.98269,
+    "gn:longitude":16.0884,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Nguvulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7758642
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f50701d245451bee3eaafc65cfac9006",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209201767
+        }
+    ],
+    "wof:id":1209201767,
+    "wof:lastmodified":1536294585,
+    "wof:name":"Nguvulo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0884,
+    -8.98269,
+    16.0884,
+    -8.98269
+],
+  "geometry": {"coordinates":[16.0884,-8.98269],"type":"Point"}
+}

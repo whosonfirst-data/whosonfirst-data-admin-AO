@@ -1,0 +1,67 @@
+{
+  "id": 1259988473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64213,-11.46072,16.64213,-11.46072",
+    "geom:latitude":-11.46072,
+    "geom:longitude":16.64213,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Cavamba",
+    "gn:country_code":"AO",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858842,
+    "gn:latitude":-11.46072,
+    "gn:longitude":16.64213,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cavamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858842
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8762b05afc183773080404e64f17dee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1259988473,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1259988473,
+    "wof:lastmodified":1536626028,
+    "wof:name":"Cavamba",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64213,
+    -11.46072,
+    16.64213,
+    -11.46072
+],
+  "geometry": {"coordinates":[16.64213,-11.46072],"type":"Point"}
+}

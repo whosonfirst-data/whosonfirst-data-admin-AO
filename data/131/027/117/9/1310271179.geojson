@@ -1,0 +1,67 @@
+{
+  "id": 1310271179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72197,-10.14906,18.72197,-10.14906",
+    "geom:latitude":-10.14906,
+    "geom:longitude":18.72197,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tchigico",
+    "gn:country_code":"AO",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891441,
+    "gn:latitude":-10.14906,
+    "gn:longitude":18.72197,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchigico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891441
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ad2240b51a557ccc2caa3b48dfe461d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799965,
+            "locality_id":1310271179,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1310271179,
+    "wof:lastmodified":1536757641,
+    "wof:name":"Tchigico",
+    "wof:parent_id":1108799965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72197,
+    -10.14906,
+    18.72197,
+    -10.14906
+],
+  "geometry": {"coordinates":[18.72197,-10.14906],"type":"Point"}
+}

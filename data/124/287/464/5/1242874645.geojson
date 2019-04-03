@@ -1,0 +1,74 @@
+{
+  "id": 1242874645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0,-15.9,19.0,-15.9",
+    "geom:latitude":-15.9,
+    "geom:longitude":19.0,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Riquinha",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346424,
+    "gn:latitude":-15.9,
+    "gn:longitude":19.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Riquinha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mkwando",
+        "Cuando",
+        "Muene Cuando",
+        "Riquinha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346424
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4707103cd2b06b857c0724e8dd5adf25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799691,
+            "locality_id":1242874645,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1242874645,
+    "wof:lastmodified":1537584704,
+    "wof:name":"Riquinha",
+    "wof:parent_id":1108799691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0,
+    -15.9,
+    19.0,
+    -15.9
+],
+  "geometry": {"coordinates":[19.0,-15.9],"type":"Point"}
+}

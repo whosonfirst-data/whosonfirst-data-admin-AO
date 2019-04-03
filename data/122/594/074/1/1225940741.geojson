@@ -1,0 +1,68 @@
+{
+  "id": 1225940741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71868,-14.59525,15.71868,-14.59525",
+    "geom:latitude":-14.59525,
+    "geom:longitude":15.71868,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dongo",
+    "gn:country_code":"AO",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348875,
+    "gn:latitude":-14.59525,
+    "gn:longitude":15.71868,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Dongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348875,
+        "wk:page":"Dongo%2C_Hu%C3%ADla"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ec196cb8cb77fe167190f3e66bdcb612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1225940741,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1225940741,
+    "wof:lastmodified":1537486264,
+    "wof:name":"Dongo",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71868,
+    -14.59525,
+    15.71868,
+    -14.59525
+],
+  "geometry": {"coordinates":[15.71868,-14.59525],"type":"Point"}
+}

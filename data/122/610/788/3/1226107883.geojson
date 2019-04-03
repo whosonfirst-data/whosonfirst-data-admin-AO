@@ -1,0 +1,67 @@
+{
+  "id": 1226107883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25,-9.2,14.25,-9.2",
+    "geom:latitude":-9.2,
+    "geom:longitude":14.25,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Quiriaquiche",
+    "gn:country_code":"AO",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237699,
+    "gn:latitude":-9.2,
+    "gn:longitude":14.25,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Quiriaquiche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237699
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bc25f2f3bc8f1923313f33f87b61c23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799927,
+            "locality_id":1226107883,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1226107883,
+    "wof:lastmodified":1536634208,
+    "wof:name":"Quiriaquiche",
+    "wof:parent_id":1108799927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25,
+    -9.2,
+    14.25,
+    -9.2
+],
+  "geometry": {"coordinates":[14.25,-9.2],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242749383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9354,-9.63297,18.9354,-9.63297",
+    "geom:latitude":-9.63297,
+    "geom:longitude":18.9354,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Calucuta",
+    "gn:country_code":"AO",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241889,
+    "gn:latitude":-9.63297,
+    "gn:longitude":18.9354,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Calucuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calucula",
+        "Calucuta",
+        "Chifua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241889
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"276d372a6d9f4469743b24fb02420bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799965,
+            "locality_id":1242749383,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1242749383,
+    "wof:lastmodified":1537584655,
+    "wof:name":"Calucuta",
+    "wof:parent_id":1108799965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9354,
+    -9.63297,
+    18.9354,
+    -9.63297
+],
+  "geometry": {"coordinates":[18.9354,-9.63297],"type":"Point"}
+}

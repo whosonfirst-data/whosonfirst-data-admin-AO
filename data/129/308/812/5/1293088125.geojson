@@ -1,0 +1,67 @@
+{
+  "id": 1293088125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1809,-8.3106,16.1809,-8.3106",
+    "geom:latitude":-8.3106,
+    "geom:longitude":16.1809,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ulo Cassamba",
+    "gn:country_code":"AO",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7742293,
+    "gn:latitude":-8.3106,
+    "gn:longitude":16.1809,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Ulo Cassamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7742293
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b81eb51f0ba7b25cfdca3ed63fb628ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1293088125,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293088125,
+    "wof:lastmodified":1536864513,
+    "wof:name":"Ulo Cassamba",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1809,
+    -8.3106,
+    16.1809,
+    -8.3106
+],
+  "geometry": {"coordinates":[16.1809,-8.3106],"type":"Point"}
+}

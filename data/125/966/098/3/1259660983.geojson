@@ -1,0 +1,67 @@
+{
+  "id": 1259660983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03942,-8.81697,17.03942,-8.81697",
+    "geom:latitude":-8.81697,
+    "geom:longitude":17.03942,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nzamba",
+    "gn:country_code":"AO",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7756118,
+    "gn:latitude":-8.81697,
+    "gn:longitude":17.03942,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Nzamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756118
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7b443d7898b63167a9c7d5d27b2518f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1259660983,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1259660983,
+    "wof:lastmodified":1537096185,
+    "wof:name":"Nzamba",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03942,
+    -8.81697,
+    17.03942,
+    -8.81697
+],
+  "geometry": {"coordinates":[17.03942,-8.81697],"type":"Point"}
+}

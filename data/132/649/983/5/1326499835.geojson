@@ -1,0 +1,67 @@
+{
+  "id": 1326499835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.88333,-6.73333,12.88333,-6.73333",
+    "geom:latitude":-6.73333,
+    "geom:longitude":12.88333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quingoma",
+    "gn:country_code":"AO",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237941,
+    "gn:latitude":-6.73333,
+    "gn:longitude":12.88333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quingoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237941
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d671f315e653d3e9c3639c05823762ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799615,
+            "locality_id":1326499835,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1326499835,
+    "wof:lastmodified":1537029558,
+    "wof:name":"Quingoma",
+    "wof:parent_id":1108799615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.88333,
+    -6.73333,
+    12.88333,
+    -6.73333
+],
+  "geometry": {"coordinates":[12.88333,-6.73333],"type":"Point"}
+}

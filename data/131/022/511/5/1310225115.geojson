@@ -1,0 +1,67 @@
+{
+  "id": 1310225115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34528,-12.45231,16.34528,-12.45231",
+    "geom:latitude":-12.45231,
+    "geom:longitude":16.34528,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Saemba",
+    "gn:country_code":"AO",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7904517,
+    "gn:latitude":-12.45231,
+    "gn:longitude":16.34528,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Saemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904517
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"50549ce71f37d6cb54eaedf8b9056912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799853,
+            "locality_id":1310225115,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1310225115,
+    "wof:lastmodified":1536823127,
+    "wof:name":"Saemba",
+    "wof:parent_id":1108799853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34528,
+    -12.45231,
+    16.34528,
+    -12.45231
+],
+  "geometry": {"coordinates":[16.34528,-12.45231],"type":"Point"}
+}

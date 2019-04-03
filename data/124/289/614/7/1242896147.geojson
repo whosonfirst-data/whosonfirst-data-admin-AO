@@ -1,0 +1,67 @@
+{
+  "id": 1242896147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47193,-12.41359,15.47193,-12.41359",
+    "geom:latitude":-12.41359,
+    "geom:longitude":15.47193,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Luisse",
+    "gn:country_code":"AO",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7906029,
+    "gn:latitude":-12.41359,
+    "gn:longitude":15.47193,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Luisse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906029
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"078dbb66b194780def4a1cb226619dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1242896147,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1242896147,
+    "wof:lastmodified":1536601690,
+    "wof:name":"Luisse",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47193,
+    -12.41359,
+    15.47193,
+    -12.41359
+],
+  "geometry": {"coordinates":[15.47193,-12.41359],"type":"Point"}
+}

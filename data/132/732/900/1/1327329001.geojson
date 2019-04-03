@@ -1,0 +1,67 @@
+{
+  "id": 1327329001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07009,-12.47699,15.07009,-12.47699",
+    "geom:latitude":-12.47699,
+    "geom:longitude":15.07009,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nundo",
+    "gn:country_code":"AO",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906008,
+    "gn:latitude":-12.47699,
+    "gn:longitude":15.07009,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Nundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906008
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"90509b8b8c8e08cb0b48774d9b2852e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1327329001,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1327329001,
+    "wof:lastmodified":1536829185,
+    "wof:name":"Nundo",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07009,
+    -12.47699,
+    15.07009,
+    -12.47699
+],
+  "geometry": {"coordinates":[15.07009,-12.47699],"type":"Point"}
+}

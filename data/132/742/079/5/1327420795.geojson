@@ -1,0 +1,67 @@
+{
+  "id": 1327420795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09222,-9.60528,16.09222,-9.60528",
+    "geom:latitude":-9.60528,
+    "geom:longitude":16.09222,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quitaca",
+    "gn:country_code":"AO",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592190,
+    "gn:latitude":-9.60528,
+    "gn:longitude":16.09222,
+    "gn:modification_date":"1998-06-11",
+    "gn:name":"Quitaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592190
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2ee237076e0d82a4827f3625d62c4d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1327420795,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1327420795,
+    "wof:lastmodified":1536697798,
+    "wof:name":"Quitaca",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09222,
+    -9.60528,
+    16.09222,
+    -9.60528
+],
+  "geometry": {"coordinates":[16.09222,-9.60528],"type":"Point"}
+}

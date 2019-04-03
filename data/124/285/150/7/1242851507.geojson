@@ -1,0 +1,67 @@
+{
+  "id": 1242851507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94275,-8.37921,15.94275,-8.37921",
+    "geom:latitude":-8.37921,
+    "geom:longitude":15.94275,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Macala",
+    "gn:country_code":"AO",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8535681,
+    "gn:latitude":-8.37921,
+    "gn:longitude":15.94275,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Macala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535681
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1d48fbadb631b41bdd4b4651fa840533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1242851507,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1242851507,
+    "wof:lastmodified":1536669169,
+    "wof:name":"Macala",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94275,
+    -8.37921,
+    15.94275,
+    -8.37921
+],
+  "geometry": {"coordinates":[15.94275,-8.37921],"type":"Point"}
+}

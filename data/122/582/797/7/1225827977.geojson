@@ -1,0 +1,71 @@
+{
+  "id": 1225827977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07765,-6.65923,15.07765,-6.65923",
+    "geom:latitude":-6.65923,
+    "geom:longitude":15.07765,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Buela",
+    "gn:country_code":"AO",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243449,
+    "gn:latitude":-6.65923,
+    "gn:longitude":15.07765,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Buela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bueta",
+        "Buela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243449
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a250e1f1ee1683cbf99518a343ba5870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1225827977,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1225827977,
+    "wof:lastmodified":1537584676,
+    "wof:name":"Buela",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07765,
+    -6.65923,
+    15.07765,
+    -6.65923
+],
+  "geometry": {"coordinates":[15.07765,-6.65923],"type":"Point"}
+}

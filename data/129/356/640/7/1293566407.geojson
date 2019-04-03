@@ -1,0 +1,67 @@
+{
+  "id": 1293566407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03333,-8.43333,17.03333,-8.43333",
+    "geom:latitude":-8.43333,
+    "geom:longitude":17.03333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Moia",
+    "gn:country_code":"AO",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239429,
+    "gn:latitude":-8.43333,
+    "gn:longitude":17.03333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Moia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239429
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8089cbc0ed96ff7f2ec0c6b08e422c35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799621,
+            "locality_id":1293566407,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293566407,
+    "wof:lastmodified":1536673339,
+    "wof:name":"Moia",
+    "wof:parent_id":1108799621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03333,
+    -8.43333,
+    17.03333,
+    -8.43333
+],
+  "geometry": {"coordinates":[17.03333,-8.43333],"type":"Point"}
+}

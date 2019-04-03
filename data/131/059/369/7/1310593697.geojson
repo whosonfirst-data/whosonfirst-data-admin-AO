@@ -1,0 +1,67 @@
+{
+  "id": 1310593697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10937,-10.57139,16.10937,-10.57139",
+    "geom:latitude":-10.57139,
+    "geom:longitude":16.10937,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tchimbuli",
+    "gn:country_code":"AO",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900114,
+    "gn:latitude":-10.57139,
+    "gn:longitude":16.10937,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchimbuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900114
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"88cde02287c0c1228d1384db1e177072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1310593697,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310593697,
+    "wof:lastmodified":1536790162,
+    "wof:name":"Tchimbuli",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10937,
+    -10.57139,
+    16.10937,
+    -10.57139
+],
+  "geometry": {"coordinates":[16.10937,-10.57139],"type":"Point"}
+}

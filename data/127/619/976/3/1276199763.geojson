@@ -1,0 +1,67 @@
+{
+  "id": 1276199763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81667,-14.53333,21.81667,-14.53333",
+    "geom:latitude":-14.53333,
+    "geom:longitude":21.81667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mucondo",
+    "gn:country_code":"AO",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875966,
+    "gn:latitude":-14.53333,
+    "gn:longitude":21.81667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Mucondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875966
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"036cacf01138dff5f16ad83262e4698c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1276199763,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1276199763,
+    "wof:lastmodified":1536958008,
+    "wof:name":"Mucondo",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81667,
+    -14.53333,
+    21.81667,
+    -14.53333
+],
+  "geometry": {"coordinates":[21.81667,-14.53333],"type":"Point"}
+}

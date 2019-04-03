@@ -1,0 +1,73 @@
+{
+  "id": 1293755237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.69864,-7.33277,21.69864,-7.33277",
+    "geom:latitude":-7.33277,
+    "geom:longitude":21.69864,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muquenda",
+    "gn:country_code":"AO",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145863,
+    "gn:latitude":-7.33277,
+    "gn:longitude":21.69864,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Muquenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cassamba",
+        "Catambe",
+        "Muquenda",
+        "Catemba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145863
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f3e072d42c05771c4bbd83923c2c4c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1293755237,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293755237,
+    "wof:lastmodified":1537584530,
+    "wof:name":"Muquenda",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.69864,
+    -7.33277,
+    21.69864,
+    -7.33277
+],
+  "geometry": {"coordinates":[21.69864,-7.33277],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259468437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30861,-12.53806,15.30861,-12.53806",
+    "geom:latitude":-12.53806,
+    "geom:longitude":15.30861,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Quilono",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371946,
+    "gn:latitude":-12.53806,
+    "gn:longitude":15.30861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Quilono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quirono",
+        "Quilono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371946
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d4b4ed3a4f9a9852e383b5a792924ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799845,
+            "locality_id":1259468437,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1259468437,
+    "wof:lastmodified":1537584806,
+    "wof:name":"Quilono",
+    "wof:parent_id":1108799845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30861,
+    -12.53806,
+    15.30861,
+    -12.53806
+],
+  "geometry": {"coordinates":[15.30861,-12.53806],"type":"Point"}
+}

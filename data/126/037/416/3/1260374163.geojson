@@ -1,0 +1,67 @@
+{
+  "id": 1260374163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08333,-12.25,20.08333,-12.25",
+    "geom:latitude":-12.25,
+    "geom:longitude":20.08333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mora",
+    "gn:country_code":"AO",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876002,
+    "gn:latitude":-12.25,
+    "gn:longitude":20.08333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Mora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876002
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8cece415e17b104ca1c257fbff244d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799729,
+            "locality_id":1260374163,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1260374163,
+    "wof:lastmodified":1537084238,
+    "wof:name":"Mora",
+    "wof:parent_id":1108799729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08333,
+    -12.25,
+    20.08333,
+    -12.25
+],
+  "geometry": {"coordinates":[20.08333,-12.25],"type":"Point"}
+}

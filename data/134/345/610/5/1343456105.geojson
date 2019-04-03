@@ -1,0 +1,70 @@
+{
+  "id": 1343456105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.095,-10.03994,15.095,-10.03994",
+    "geom:latitude":-10.03994,
+    "geom:longitude":15.095,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mbanza",
+    "gn:country_code":"AO",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855949,
+    "gn:latitude":-10.03994,
+    "gn:longitude":15.095,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mbanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quissongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855949
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2853720dbe0a9537e4a1cd14e7ef803a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1343456105,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343456105,
+    "wof:lastmodified":1537584810,
+    "wof:name":"Mbanza",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.095,
+    -10.03994,
+    15.095,
+    -10.03994
+],
+  "geometry": {"coordinates":[15.095,-10.03994],"type":"Point"}
+}

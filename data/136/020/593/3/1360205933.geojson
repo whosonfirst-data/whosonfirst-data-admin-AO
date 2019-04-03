@@ -1,0 +1,67 @@
+{
+  "id": 1360205933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1,-17.15,16.1,-17.15",
+    "geom:latitude":-17.15,
+    "geom:longitude":16.1,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Cadueia",
+    "gn:country_code":"AO",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351337,
+    "gn:latitude":-17.15,
+    "gn:longitude":16.1,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cadueia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351337
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f4d3019a12c1f0ceaa2b28b0739eae73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799923,
+            "locality_id":1360205933,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1360205933,
+    "wof:lastmodified":1536771989,
+    "wof:name":"Cadueia",
+    "wof:parent_id":1108799923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1,
+    -17.15,
+    16.1,
+    -17.15
+],
+  "geometry": {"coordinates":[16.1,-17.15],"type":"Point"}
+}

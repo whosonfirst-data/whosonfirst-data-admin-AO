@@ -1,0 +1,73 @@
+{
+  "id": 1343575223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,-13.26667,14.16667,-13.26667",
+    "geom:latitude":-13.26667,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chimalange",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349826,
+    "gn:latitude":-13.26667,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chimalange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanya",
+        "Hanha",
+        "Chimalange"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349826
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"44c082ddc07d34a57861173e79bd69a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799815,
+            "locality_id":1343575223,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1343575223,
+    "wof:lastmodified":1537584763,
+    "wof:name":"Chimalange",
+    "wof:parent_id":1108799815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    -13.26667,
+    14.16667,
+    -13.26667
+],
+  "geometry": {"coordinates":[14.16667,-13.26667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209081333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.30313,-9.72695,13.30313,-9.72695",
+    "geom:latitude":-9.72695,
+    "geom:longitude":13.30313,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mienguege",
+    "gn:country_code":"AO",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7781967,
+    "gn:latitude":-9.72695,
+    "gn:longitude":13.30313,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Mienguege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7781967
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bacbbf5d48a50a1242ec6a2a318104b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209081333
+        }
+    ],
+    "wof:id":1209081333,
+    "wof:lastmodified":1536298327,
+    "wof:name":"Mienguege",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.30313,
+    -9.72695,
+    13.30313,
+    -9.72695
+],
+  "geometry": {"coordinates":[13.30313,-9.72695],"type":"Point"}
+}

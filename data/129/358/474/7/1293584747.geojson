@@ -1,0 +1,67 @@
+{
+  "id": 1293584747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,-12.08333,15.8,-12.08333",
+    "geom:latitude":-12.08333,
+    "geom:longitude":15.8,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Banda",
+    "gn:country_code":"AO",
+    "gn:dem":1459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351734,
+    "gn:latitude":-12.08333,
+    "gn:longitude":15.8,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351734
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"15ac682a5af973b95124784d56f2ed99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1293584747,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1293584747,
+    "wof:lastmodified":1536646492,
+    "wof:name":"Banda",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    -12.08333,
+    15.8,
+    -12.08333
+],
+  "geometry": {"coordinates":[15.8,-12.08333],"type":"Point"}
+}

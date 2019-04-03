@@ -1,0 +1,67 @@
+{
+  "id": 1277147371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34846,-6.38626,16.34846,-6.38626",
+    "geom:latitude":-6.38626,
+    "geom:longitude":16.34846,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quipembe",
+    "gn:country_code":"AO",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544903,
+    "gn:latitude":-6.38626,
+    "gn:longitude":16.34846,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Quipembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544903
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cec2b0a9fb4d977d630f339e574bf4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1277147371,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1277147371,
+    "wof:lastmodified":1536674542,
+    "wof:name":"Quipembe",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34846,
+    -6.38626,
+    16.34846,
+    -6.38626
+],
+  "geometry": {"coordinates":[16.34846,-6.38626],"type":"Point"}
+}

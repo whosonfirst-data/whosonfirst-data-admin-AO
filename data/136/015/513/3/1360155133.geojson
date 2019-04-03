@@ -1,0 +1,67 @@
+{
+  "id": 1360155133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91665,-7.74857,15.91665,-7.74857",
+    "geom:latitude":-7.74857,
+    "geom:longitude":15.91665,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Primeiro Congresso",
+    "gn:country_code":"AO",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867999,
+    "gn:latitude":-7.74857,
+    "gn:longitude":15.91665,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Primeiro Congresso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867999
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d2295dda9645dc4cd7fb7a2a190be56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799689,
+            "locality_id":1360155133,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1360155133,
+    "wof:lastmodified":1536843667,
+    "wof:name":"Primeiro Congresso",
+    "wof:parent_id":1108799689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91665,
+    -7.74857,
+    15.91665,
+    -7.74857
+],
+  "geometry": {"coordinates":[15.91665,-7.74857],"type":"Point"}
+}

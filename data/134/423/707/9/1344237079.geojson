@@ -1,0 +1,67 @@
+{
+  "id": 1344237079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.21541,-9.68282,17.21541,-9.68282",
+    "geom:latitude":-9.68282,
+    "geom:longitude":17.21541,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ngonda Mbande e Mahone",
+    "gn:country_code":"AO",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785563,
+    "gn:latitude":-9.68282,
+    "gn:longitude":17.21541,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Ngonda Mbande e Mahone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785563
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"80c74311c2e5dddd12687c449b268f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799771,
+            "locality_id":1344237079,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1344237079,
+    "wof:lastmodified":1536618634,
+    "wof:name":"Ngonda Mbande e Mahone",
+    "wof:parent_id":1108799771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.21541,
+    -9.68282,
+    17.21541,
+    -9.68282
+],
+  "geometry": {"coordinates":[17.21541,-9.68282],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209903211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48111,-9.71167,16.48111,-9.71167",
+    "geom:latitude":-9.71167,
+    "geom:longitude":16.48111,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Micessa",
+    "gn:country_code":"AO",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592330,
+    "gn:latitude":-9.71167,
+    "gn:longitude":16.48111,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Micessa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592330
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"930679ab6019dd7abf267c2ee5193584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799805,
+            "locality_id":1209903211,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1209903211,
+    "wof:lastmodified":1536385490,
+    "wof:name":"Micessa",
+    "wof:parent_id":1108799805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48111,
+    -9.71167,
+    16.48111,
+    -9.71167
+],
+  "geometry": {"coordinates":[16.48111,-9.71167],"type":"Point"}
+}

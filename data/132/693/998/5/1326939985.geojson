@@ -1,0 +1,67 @@
+{
+  "id": 1326939985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55226,-12.40671,13.55226,-12.40671",
+    "geom:latitude":-12.40671,
+    "geom:longitude":13.55226,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Curral",
+    "gn:country_code":"AO",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8634750,
+    "gn:latitude":-12.40671,
+    "gn:longitude":13.55226,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Curral",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8634750
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c516dd346f50651aac9df573c6c1b9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1326939985,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1326939985,
+    "wof:lastmodified":1536893228,
+    "wof:name":"Curral",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55226,
+    -12.40671,
+    13.55226,
+    -12.40671
+],
+  "geometry": {"coordinates":[13.55226,-12.40671],"type":"Point"}
+}

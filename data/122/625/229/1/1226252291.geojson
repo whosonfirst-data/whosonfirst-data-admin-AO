@@ -1,0 +1,67 @@
+{
+  "id": 1226252291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2,-12.7,14.2,-12.7",
+    "geom:latitude":-12.7,
+    "geom:longitude":14.2,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Honje",
+    "gn:country_code":"AO",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348321,
+    "gn:latitude":-12.7,
+    "gn:longitude":14.2,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Honje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348321
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d3d3bf7a1941d3ecf327ca464ec00768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799727,
+            "locality_id":1226252291,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1226252291,
+    "wof:lastmodified":1536924809,
+    "wof:name":"Honje",
+    "wof:parent_id":1108799727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2,
+    -12.7,
+    14.2,
+    -12.7
+],
+  "geometry": {"coordinates":[14.2,-12.7],"type":"Point"}
+}

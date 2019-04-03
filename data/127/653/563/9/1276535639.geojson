@@ -1,0 +1,67 @@
+{
+  "id": 1276535639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47736,-11.03782,18.47736,-11.03782",
+    "geom:latitude":-11.03782,
+    "geom:longitude":18.47736,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Canhoegi",
+    "gn:country_code":"AO",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7772461,
+    "gn:latitude":-11.03782,
+    "gn:longitude":18.47736,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Canho\u00eagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7772461
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"491393315013f3b1a313d0b768302e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799651,
+            "locality_id":1276535639,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276535639,
+    "wof:lastmodified":1537004146,
+    "wof:name":"Canhoegi",
+    "wof:parent_id":1108799651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47736,
+    -11.03782,
+    18.47736,
+    -11.03782
+],
+  "geometry": {"coordinates":[18.47736,-11.03782],"type":"Point"}
+}

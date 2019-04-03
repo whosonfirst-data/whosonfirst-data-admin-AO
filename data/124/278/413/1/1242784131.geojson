@@ -1,0 +1,72 @@
+{
+  "id": 1242784131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65,-15.11667,18.65,-15.11667",
+    "geom:latitude":-15.11667,
+    "geom:longitude":18.65,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sachipoque",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346353,
+    "gn:latitude":-15.11667,
+    "gn:longitude":18.65,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sachipoque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caxupu\u00e9",
+        "Sachipoque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346353
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2793e4927bb21922c585bbc0bca12ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799691,
+            "locality_id":1242784131,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1242784131,
+    "wof:lastmodified":1537584701,
+    "wof:name":"Sachipoque",
+    "wof:parent_id":1108799691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65,
+    -15.11667,
+    18.65,
+    -15.11667
+],
+  "geometry": {"coordinates":[18.65,-15.11667],"type":"Point"}
+}

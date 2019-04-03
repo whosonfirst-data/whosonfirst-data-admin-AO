@@ -1,0 +1,61 @@
+{
+  "id": 1209612817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66211,-10.96622,14.66211,-10.96622",
+    "geom:latitude":-10.96622,
+    "geom:longitude":14.66211,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Estevao Jaime",
+    "gn:country_code":"AO",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865678,
+    "gn:latitude":-10.96622,
+    "gn:longitude":14.66211,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Estev\u00e3o Jaime",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865678
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b1ad18e9d3e72248100564df46f490b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209612817
+        }
+    ],
+    "wof:id":1209612817,
+    "wof:lastmodified":1536281791,
+    "wof:name":"Estevao Jaime",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66211,
+    -10.96622,
+    14.66211,
+    -10.96622
+],
+  "geometry": {"coordinates":[14.66211,-10.96622],"type":"Point"}
+}

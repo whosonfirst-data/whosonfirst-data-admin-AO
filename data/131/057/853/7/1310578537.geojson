@@ -1,0 +1,67 @@
+{
+  "id": 1310578537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12372,-10.741,17.12372,-10.741",
+    "geom:latitude":-10.741,
+    "geom:longitude":17.12372,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chiminha",
+    "gn:country_code":"AO",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900401,
+    "gn:latitude":-10.741,
+    "gn:longitude":17.12372,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Chiminha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900401
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ff80d766cdd1eac3bfc01256b076072e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799719,
+            "locality_id":1310578537,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1310578537,
+    "wof:lastmodified":1536811139,
+    "wof:name":"Chiminha",
+    "wof:parent_id":1108799719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12372,
+    -10.741,
+    17.12372,
+    -10.741
+],
+  "geometry": {"coordinates":[17.12372,-10.741],"type":"Point"}
+}

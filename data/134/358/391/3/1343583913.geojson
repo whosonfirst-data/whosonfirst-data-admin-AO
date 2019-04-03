@@ -1,0 +1,67 @@
+{
+  "id": 1343583913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25615,-9.59016,14.25615,-9.59016",
+    "geom:latitude":-9.59016,
+    "geom:longitude":14.25615,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ngola Quiluangi",
+    "gn:country_code":"AO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7782767,
+    "gn:latitude":-9.59016,
+    "gn:longitude":14.25615,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Ngola Quiluangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7782767
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e00403659a23897e4d6b0c076a9f76c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799789,
+            "locality_id":1343583913,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1343583913,
+    "wof:lastmodified":1537062854,
+    "wof:name":"Ngola Quiluangi",
+    "wof:parent_id":1108799789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25615,
+    -9.59016,
+    14.25615,
+    -9.59016
+],
+  "geometry": {"coordinates":[14.25615,-9.59016],"type":"Point"}
+}

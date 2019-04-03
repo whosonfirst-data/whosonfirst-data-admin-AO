@@ -1,0 +1,61 @@
+{
+  "id": 1209579049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91965,-7.52408,20.91965,-7.52408",
+    "geom:latitude":-7.52408,
+    "geom:longitude":20.91965,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ndieia",
+    "gn:country_code":"AO",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7694754,
+    "gn:latitude":-7.52408,
+    "gn:longitude":20.91965,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ndieia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7694754
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"07cd8142d5937e5258bcc66080dc09dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209579049
+        }
+    ],
+    "wof:id":1209579049,
+    "wof:lastmodified":1536282846,
+    "wof:name":"Ndieia",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91965,
+    -7.52408,
+    20.91965,
+    -7.52408
+],
+  "geometry": {"coordinates":[20.91965,-7.52408],"type":"Point"}
+}

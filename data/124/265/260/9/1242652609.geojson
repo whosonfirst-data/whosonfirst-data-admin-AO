@@ -1,0 +1,73 @@
+{
+  "id": 1242652609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68333,-9.1,13.68333,-9.1",
+    "geom:latitude":-9.1,
+    "geom:longitude":13.68333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Catete",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242142,
+    "gn:latitude":-9.1,
+    "gn:longitude":13.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Catete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katete",
+        "Catete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242142,
+        "wk:page":"Catete%2C_Icolo_e_Bengo"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d26f436cbf1c33d8e2fc7accdf161d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799819,
+            "locality_id":1242652609,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1242652609,
+    "wof:lastmodified":1537584659,
+    "wof:name":"Catete",
+    "wof:parent_id":1108799819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68333,
+    -9.1,
+    13.68333,
+    -9.1
+],
+  "geometry": {"coordinates":[13.68333,-9.1],"type":"Point"}
+}

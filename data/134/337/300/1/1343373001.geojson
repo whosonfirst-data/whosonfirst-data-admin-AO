@@ -1,0 +1,72 @@
+{
+  "id": 1343373001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31667,-12.51667,14.31667,-12.51667",
+    "geom:latitude":-12.51667,
+    "geom:longitude":14.31667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Cavissamba",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350155,
+    "gn:latitude":-12.51667,
+    "gn:longitude":14.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cavissamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cassamba",
+        "Cavissamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350155
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b95ef43dd2c39062281e6cf1fb8880e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799837,
+            "locality_id":1343373001,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1343373001,
+    "wof:lastmodified":1537584771,
+    "wof:name":"Cavissamba",
+    "wof:parent_id":1108799837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31667,
+    -12.51667,
+    14.31667,
+    -12.51667
+],
+  "geometry": {"coordinates":[14.31667,-12.51667],"type":"Point"}
+}

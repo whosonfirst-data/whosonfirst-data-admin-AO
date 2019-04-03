@@ -1,0 +1,67 @@
+{
+  "id": 1193241593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15975,-10.99583,20.15975,-10.99583",
+    "geom:latitude":-10.99583,
+    "geom:longitude":20.15975,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Luege",
+    "gn:country_code":"AO",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307983,
+    "gn:latitude":-10.99583,
+    "gn:longitude":20.15975,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Luege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307983
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bd6a148c14525641da53f852afa661eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799823,
+            "locality_id":1193241593,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1193241593,
+    "wof:lastmodified":1536377832,
+    "wof:name":"Luege",
+    "wof:parent_id":1108799823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15975,
+    -10.99583,
+    20.15975,
+    -10.99583
+],
+  "geometry": {"coordinates":[20.15975,-10.99583],"type":"Point"}
+}

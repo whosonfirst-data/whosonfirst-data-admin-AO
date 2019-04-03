@@ -1,0 +1,67 @@
+{
+  "id": 1209914365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8,-14.9,19.8,-14.9",
+    "geom:latitude":-14.9,
+    "geom:longitude":19.8,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chifuaco",
+    "gn:country_code":"AO",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349877,
+    "gn:latitude":-14.9,
+    "gn:longitude":19.8,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chifuaco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349877
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d524b4d8532851b27aedb44afa928e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799691,
+            "locality_id":1209914365,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1209914365,
+    "wof:lastmodified":1536375342,
+    "wof:name":"Chifuaco",
+    "wof:parent_id":1108799691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8,
+    -14.9,
+    19.8,
+    -14.9
+],
+  "geometry": {"coordinates":[19.8,-14.9],"type":"Point"}
+}

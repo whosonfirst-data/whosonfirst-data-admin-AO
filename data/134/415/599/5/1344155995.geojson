@@ -1,0 +1,67 @@
+{
+  "id": 1344155995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38885,-8.51353,15.38885,-8.51353",
+    "geom:latitude":-8.51353,
+    "geom:longitude":15.38885,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cachari",
+    "gn:country_code":"AO",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7762644,
+    "gn:latitude":-8.51353,
+    "gn:longitude":15.38885,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cachari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7762644
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"062c9f16aaa41c355ee48c6e904564b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1344155995,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1344155995,
+    "wof:lastmodified":1536737701,
+    "wof:name":"Cachari",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38885,
+    -8.51353,
+    15.38885,
+    -8.51353
+],
+  "geometry": {"coordinates":[15.38885,-8.51353],"type":"Point"}
+}

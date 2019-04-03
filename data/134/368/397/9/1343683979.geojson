@@ -1,0 +1,67 @@
+{
+  "id": 1343683979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5332,-10.92135,14.5332,-10.92135",
+    "geom:latitude":-10.92135,
+    "geom:longitude":14.5332,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sangue",
+    "gn:country_code":"AO",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865666,
+    "gn:latitude":-10.92135,
+    "gn:longitude":14.5332,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Sangue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865666
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"eee15550ca9bc0e858eb4e13f62cceed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799827,
+            "locality_id":1343683979,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343683979,
+    "wof:lastmodified":1536921821,
+    "wof:name":"Sangue",
+    "wof:parent_id":1108799827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5332,
+    -10.92135,
+    14.5332,
+    -10.92135
+],
+  "geometry": {"coordinates":[14.5332,-10.92135],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243055155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18701,-10.56844,18.18701,-10.56844",
+    "geom:latitude":-10.56844,
+    "geom:longitude":18.18701,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Xingombo",
+    "gn:country_code":"AO",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7861493,
+    "gn:latitude":-10.56844,
+    "gn:longitude":18.18701,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Xingombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7861493
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"554e1e4419949b456145e29548f16835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1243055155,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1243055155,
+    "wof:lastmodified":1536871576,
+    "wof:name":"Xingombo",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18701,
+    -10.56844,
+    18.18701,
+    -10.56844
+],
+  "geometry": {"coordinates":[18.18701,-10.56844],"type":"Point"}
+}

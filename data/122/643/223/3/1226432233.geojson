@@ -1,0 +1,67 @@
+{
+  "id": 1226432233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84623,-14.61159,14.84623,-14.61159",
+    "geom:latitude":-14.61159,
+    "geom:longitude":14.84623,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchiangala",
+    "gn:country_code":"AO",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7907726,
+    "gn:latitude":-14.61159,
+    "gn:longitude":14.84623,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchiangala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7907726
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5cfbae56efbe1d5085c0ee481961b169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799687,
+            "locality_id":1226432233,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1226432233,
+    "wof:lastmodified":1536664974,
+    "wof:name":"Tchiangala",
+    "wof:parent_id":1108799687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84623,
+    -14.61159,
+    14.84623,
+    -14.61159
+],
+  "geometry": {"coordinates":[14.84623,-14.61159],"type":"Point"}
+}

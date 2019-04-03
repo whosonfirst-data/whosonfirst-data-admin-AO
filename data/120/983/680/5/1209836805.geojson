@@ -1,0 +1,67 @@
+{
+  "id": 1209836805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38333,-16.36667,14.38333,-16.36667",
+    "geom:latitude":-16.36667,
+    "geom:longitude":14.38333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tchaiombo",
+    "gn:country_code":"AO",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3345947,
+    "gn:latitude":-16.36667,
+    "gn:longitude":14.38333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Tchaiombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345947
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9b1fc72abacde235f02c329012165b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799783,
+            "locality_id":1209836805,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1209836805,
+    "wof:lastmodified":1536394538,
+    "wof:name":"Tchaiombo",
+    "wof:parent_id":1108799783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38333,
+    -16.36667000000001,
+    14.38333,
+    -16.36667000000001
+],
+  "geometry": {"coordinates":[14.38333,-16.36667000000001],"type":"Point"}
+}

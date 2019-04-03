@@ -1,0 +1,67 @@
+{
+  "id": 1344170211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73797,-11.97546,16.73797,-11.97546",
+    "geom:latitude":-11.97546,
+    "geom:longitude":16.73797,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Samala",
+    "gn:country_code":"AO",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903561,
+    "gn:latitude":-11.97546,
+    "gn:longitude":16.73797,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Samala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903561
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d0a7291411d63f178c1d467184f83f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799907,
+            "locality_id":1344170211,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1344170211,
+    "wof:lastmodified":1536717485,
+    "wof:name":"Samala",
+    "wof:parent_id":1108799907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73797,
+    -11.97546,
+    16.73797,
+    -11.97546
+],
+  "geometry": {"coordinates":[16.73797,-11.97546],"type":"Point"}
+}

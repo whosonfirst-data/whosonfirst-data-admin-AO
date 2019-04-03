@@ -1,0 +1,72 @@
+{
+  "id": 1259414629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58222,-8.47691,15.58222,-8.47691",
+    "geom:latitude":-8.47691,
+    "geom:longitude":15.58222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mulanza Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239232,
+    "gn:latitude":-8.47691,
+    "gn:longitude":15.58222,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mulanza Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baluca",
+        "Mulanza II",
+        "Mulanza Segundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239232
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3ca7fd455d0d25359e672fb84d57c792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1259414629,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1259414629,
+    "wof:lastmodified":1537584618,
+    "wof:name":"Mulanza Segundo",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58222,
+    -8.47691,
+    15.58222,
+    -8.47691
+],
+  "geometry": {"coordinates":[15.58222,-8.47691],"type":"Point"}
+}

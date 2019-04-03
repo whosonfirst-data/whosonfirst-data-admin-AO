@@ -1,0 +1,61 @@
+{
+  "id": 1209307047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44838,-10.59344,15.44838,-10.59344",
+    "geom:latitude":-10.59344,
+    "geom:longitude":15.44838,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vumbe",
+    "gn:country_code":"AO",
+    "gn:dem":1283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867252,
+    "gn:latitude":-10.59344,
+    "gn:longitude":15.44838,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Vumbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867252
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f8f829c6a3e226343166640c315ec9ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209307047
+        }
+    ],
+    "wof:id":1209307047,
+    "wof:lastmodified":1536291159,
+    "wof:name":"Vumbe",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.448379999999998,
+    -10.59344,
+    15.448379999999998,
+    -10.59344
+],
+  "geometry": {"coordinates":[15.44838,-10.59344],"type":"Point"}
+}

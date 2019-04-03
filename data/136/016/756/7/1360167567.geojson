@@ -1,0 +1,67 @@
+{
+  "id": 1360167567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98332,-6.37259,14.98332,-6.37259",
+    "geom:latitude":-6.37259,
+    "geom:longitude":14.98332,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quizenguele",
+    "gn:country_code":"AO",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7688734,
+    "gn:latitude":-6.37259,
+    "gn:longitude":14.98332,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Quizenguele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688734
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"be47f8bd441670c0a49d1a948db98943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1360167567,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1360167567,
+    "wof:lastmodified":1536825768,
+    "wof:name":"Quizenguele",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98332,
+    -6.37259,
+    14.98332,
+    -6.37259
+],
+  "geometry": {"coordinates":[14.98332,-6.37259],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327024445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00779,-14.71252,16.00779,-14.71252",
+    "geom:latitude":-14.71252,
+    "geom:longitude":16.00779,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Vigesimo Primeiro de Janeiro",
+    "gn:country_code":"AO",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906699,
+    "gn:latitude":-14.71252,
+    "gn:longitude":16.00779,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Vig\u00e9simo Primeiro de Janeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906699
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8437875f149ce3d1570c305942e234ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1327024445,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1327024445,
+    "wof:lastmodified":1536772563,
+    "wof:name":"Vigesimo Primeiro de Janeiro",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00779,
+    -14.71252,
+    16.00779,
+    -14.71252
+],
+  "geometry": {"coordinates":[16.00779,-14.71252],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242790879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41837,-12.46355,16.41837,-12.46355",
+    "geom:latitude":-12.46355,
+    "geom:longitude":16.41837,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Salohoca",
+    "gn:country_code":"AO",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7904583,
+    "gn:latitude":-12.46355,
+    "gn:longitude":16.41837,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Salohoca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904583
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"73bb346cdd16e52aa12e3552fe0f32ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799735,
+            "locality_id":1242790879,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1242790879,
+    "wof:lastmodified":1536756450,
+    "wof:name":"Salohoca",
+    "wof:parent_id":1108799735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41837,
+    -12.46355,
+    16.41837,
+    -12.46355
+],
+  "geometry": {"coordinates":[16.41837,-12.46355],"type":"Point"}
+}

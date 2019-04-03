@@ -1,0 +1,72 @@
+{
+  "id": 1276844009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1,-13.93333,21.1,-13.93333",
+    "geom:latitude":-13.93333,
+    "geom:longitude":21.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Manjola",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876040,
+    "gn:latitude":-13.93333,
+    "gn:longitude":21.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Manjola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manj\u00f4lo",
+        "Manjola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876040
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"13001f241a249483b2e4ed06b691354d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1276844009,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1276844009,
+    "wof:lastmodified":1537584547,
+    "wof:name":"Manjola",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1,
+    -13.93333,
+    21.1,
+    -13.93333
+],
+  "geometry": {"coordinates":[21.1,-13.93333],"type":"Point"}
+}

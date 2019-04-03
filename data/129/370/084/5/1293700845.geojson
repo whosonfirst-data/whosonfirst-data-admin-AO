@@ -1,0 +1,73 @@
+{
+  "id": 1293700845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81667,-13.53333,14.81667,-13.53333",
+    "geom:latitude":-13.53333,
+    "geom:longitude":14.81667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Carique",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350495,
+    "gn:latitude":-13.53333,
+    "gn:longitude":14.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Carique",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calique",
+        "Corique",
+        "Carique"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350495
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9a70186fa035d2c2b617a92dc2f3f30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799707,
+            "locality_id":1293700845,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1293700845,
+    "wof:lastmodified":1537584778,
+    "wof:name":"Carique",
+    "wof:parent_id":1108799707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81667,
+    -13.53333,
+    14.81667,
+    -13.53333
+],
+  "geometry": {"coordinates":[14.81667,-13.53333],"type":"Point"}
+}

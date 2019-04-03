@@ -1,0 +1,67 @@
+{
+  "id": 1310227105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24357,-11.2402,15.24357,-11.2402",
+    "geom:latitude":-11.2402,
+    "geom:longitude":15.24357,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Munda Passa",
+    "gn:country_code":"AO",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7860774,
+    "gn:latitude":-11.2402,
+    "gn:longitude":15.24357,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Munda Passa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860774
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c95d7537c9c8b46e3132eaab825d3c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1310227105,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310227105,
+    "wof:lastmodified":1536820272,
+    "wof:name":"Munda Passa",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24357,
+    -11.2402,
+    15.24357,
+    -11.2402
+],
+  "geometry": {"coordinates":[15.24357,-11.2402],"type":"Point"}
+}

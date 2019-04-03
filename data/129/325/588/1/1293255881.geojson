@@ -1,0 +1,67 @@
+{
+  "id": 1293255881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28129,-9.29878,18.28129,-9.29878",
+    "geom:latitude":-9.29878,
+    "geom:longitude":18.28129,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cangola",
+    "gn:country_code":"AO",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787001,
+    "gn:latitude":-9.29878,
+    "gn:longitude":18.28129,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cangola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787001
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"17e9e63e46829bc288d08a656dfa0be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1293255881,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293255881,
+    "wof:lastmodified":1536621935,
+    "wof:name":"Cangola",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28129,
+    -9.29878,
+    18.28129,
+    -9.29878
+],
+  "geometry": {"coordinates":[18.28129,-9.29878],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209605871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11835,-12.05017,16.11835,-12.05017",
+    "geom:latitude":-12.05017,
+    "geom:longitude":16.11835,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchiculo",
+    "gn:country_code":"AO",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7904414,
+    "gn:latitude":-12.05017,
+    "gn:longitude":16.11835,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchiculo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904414
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a36e3f43cc0267794cfaf83c84194433",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209605871
+        }
+    ],
+    "wof:id":1209605871,
+    "wof:lastmodified":1536282013,
+    "wof:name":"Tchiculo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11835,
+    -12.05017,
+    16.11835,
+    -12.05017
+],
+  "geometry": {"coordinates":[16.11835,-12.05017],"type":"Point"}
+}

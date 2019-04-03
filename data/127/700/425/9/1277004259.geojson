@@ -1,0 +1,72 @@
+{
+  "id": 1277004259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7082,-11.74652,14.7082,-11.74652",
+    "geom:latitude":-11.74652,
+    "geom:longitude":14.7082,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Coiombe",
+    "gn:country_code":"AO",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3351945,
+    "gn:latitude":-11.74652,
+    "gn:longitude":14.7082,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Coiombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Caiombe",
+        "Aiombo",
+        "Coiombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351945
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"47324ad11979019578e8b74fec6456ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1277004259,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1277004259,
+    "wof:lastmodified":1537584806,
+    "wof:name":"Coiombe",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7082,
+    -11.74652,
+    14.7082,
+    -11.74652
+],
+  "geometry": {"coordinates":[14.7082,-11.74652],"type":"Point"}
+}

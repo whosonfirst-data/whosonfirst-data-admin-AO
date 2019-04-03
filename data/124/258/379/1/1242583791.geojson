@@ -1,0 +1,68 @@
+{
+  "id": 1242583791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03333,-16.33333,22.03333,-16.33333",
+    "geom:latitude":-16.33333,
+    "geom:longitude":22.03333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rivungo",
+    "gn:country_code":"AO",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875820,
+    "gn:latitude":-16.33333,
+    "gn:longitude":22.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rivungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875820,
+        "wk:page":"Rivungo"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9246405499d1a8818ac45320de4f6f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799779,
+            "locality_id":1242583791,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1242583791,
+    "wof:lastmodified":1537486195,
+    "wof:name":"Rivungo",
+    "wof:parent_id":1108799779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03333,
+    -16.33333,
+    22.03333,
+    -16.33333
+],
+  "geometry": {"coordinates":[22.03333,-16.33333],"type":"Point"}
+}

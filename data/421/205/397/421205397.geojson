@@ -1,0 +1,267 @@
+{
+  "id": 421205397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2401,-6.26703,14.2401,-6.26703",
+    "geom:latitude":-6.26703,
+    "geom:longitude":14.2401,
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "M'Banza Kongo"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0431\u0430\u043d\u0437\u0430 \u041a\u043e\u043d\u0433\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Mbanza Congo"
+    ],
+    "name:deu_x_preferred":[
+        "M\u2019banza Kongo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0628\u0646\u0632\u0627\u06a9\u0646\u06af\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Mbanza Kongo"
+    ],
+    "name:fra_x_preferred":[
+        "Mbanza-Kongo"
+    ],
+    "name:hrv_x_preferred":[
+        "M'banza Kongo"
+    ],
+    "name:ind_x_preferred":[
+        "M'banza-Kongo"
+    ],
+    "name:ita_x_preferred":[
+        "Mbanza Congo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f3\u30d0\u30f3\u30b6\uff1d\u30b3\u30f3\u30b4"
+    ],
+    "name:kon_x_preferred":[
+        "Mb\u00e2nza K\u00f4ngo"
+    ],
+    "name:kor_x_preferred":[
+        "\uc74c\ubc18\uc790\ucf69\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Mbanza Kongas"
+    ],
+    "name:msa_x_preferred":[
+        "Mbanza Kongo"
+    ],
+    "name:nld_x_preferred":[
+        "M'banza-Kongo"
+    ],
+    "name:nno_x_preferred":[
+        "Mbanza Kongo"
+    ],
+    "name:nor_x_preferred":[
+        "M'banza-Kongo"
+    ],
+    "name:pol_x_preferred":[
+        "M'banza-Kongo"
+    ],
+    "name:por_x_preferred":[
+        "M'Banza Kongo"
+    ],
+    "name:ron_x_preferred":[
+        "M'Banza-Kongo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0431\u0430\u043d\u0437\u0430-\u041a\u043e\u043d\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "M'Banza Kongo"
+    ],
+    "name:swa_x_preferred":[
+        "M'banza-Kongo"
+    ],
+    "name:swe_x_preferred":[
+        "Mbanza-Kongo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0431\u0430\u043d\u0437\u0430-\u041a\u043e\u043d\u0433\u043e"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e3o Salvador do Congo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0628\u0627\u0632\u0627-\u06a9\u0648\u0646\u06af\u0648"
+    ],
+    "name:war_x_preferred":[
+        "M'banza-Kongo"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u73ed\u624e\u525b\u679c"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Angola",
+    "ne:ADM0_A3":"AGO",
+    "ne:ADM1NAME":"Zaire",
+    "ne:ADMIN1_COD":16,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":2239520,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"M'banza Congo",
+    "ne:GN_POP":24220,
+    "ne:GTOPO30":409.0,
+    "ne:ISO_A2":"AO",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":-6.269606,
+    "ne:LONGITUDE":14.239999,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Mbanza-Congo",
+    "ne:MAX_AREAKM":7.0,
+    "ne:MAX_AREAMI":3.0,
+    "ne:MAX_BBXMAX":14.258333,
+    "ne:MAX_BBXMIN":14.225,
+    "ne:MAX_BBYMAX":-6.258333,
+    "ne:MAX_BBYMIN":-6.283333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":13.0,
+    "ne:MAX_PERMI":8.0,
+    "ne:MAX_POP10":60182,
+    "ne:MAX_POP20":60182,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":14.238542,
+    "ne:MEAN_BBYC":-6.26875,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":7.0,
+    "ne:MIN_AREAMI":3.0,
+    "ne:MIN_BBXMAX":14.258333,
+    "ne:MIN_BBXMIN":14.225,
+    "ne:MIN_BBYMAX":-6.258333,
+    "ne:MIN_BBYMIN":-6.283333,
+    "ne:MIN_PERKM":13.0,
+    "ne:MIN_PERMI":8.0,
+    "ne:NAME":"Mbanza-Congo",
+    "ne:NAMEALT":"Mbanza Congo",
+    "ne:NAMEASCII":"Mbanza-Congo",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":60182,
+    "ne:POP_MIN":24220,
+    "ne:POP_OTHER":60182,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Angola",
+    "ne:SOV_A3":"AGO",
+    "ne:TIMEZONE":"Africa/Luanda",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AO",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":2239520,
+    "qs:gn_pop":24220,
+    "qs:name":"M'banza Congo",
+    "qs:name_adm0":"Angola",
+    "qs:name_adm1":"Zaire",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":262986,
+    "qs:woe_adm0":23424745,
+    "qs:woe_id":1262109,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-6.266667,
+    "wd:longitude":14.25,
+    "wd:wordcount":786,
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239520,
+        "gp:id":1262109,
+        "qs:id":262986,
+        "wd:id":"Q500189",
+        "wk:page":"M'banza-Kongo"
+    },
+    "wof:country":"AO",
+    "wof:created":1459010223,
+    "wof:geomhash":"eafedbdf8273deadf877634eaac1d7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":421205397,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":421205397,
+    "wof:lastmodified":1527716215,
+    "wof:name":"M'banza Congo",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:population":24220,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2401,
+    -6.26703,
+    14.2401,
+    -6.26703
+],
+  "geometry": {"coordinates":[14.2401,-6.26703],"type":"Point"}
+}

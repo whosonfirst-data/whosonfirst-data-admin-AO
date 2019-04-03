@@ -1,0 +1,67 @@
+{
+  "id": 1310185351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90617,-8.99918,16.90617,-8.99918",
+    "geom:latitude":-8.99918,
+    "geom:longitude":16.90617,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Teca dia Quinguangua",
+    "gn:country_code":"AO",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7757695,
+    "gn:latitude":-8.99918,
+    "gn:longitude":16.90617,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Teca di\u00e1 Quingu\u00e2ngua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7757695
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9a1927cd22abe46956827cd0501f644b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1310185351,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1310185351,
+    "wof:lastmodified":1536880679,
+    "wof:name":"Teca dia Quinguangua",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90617,
+    -8.99918,
+    16.90617,
+    -8.99918
+],
+  "geometry": {"coordinates":[16.90617,-8.99918],"type":"Point"}
+}

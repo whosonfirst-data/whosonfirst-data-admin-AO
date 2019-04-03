@@ -1,0 +1,67 @@
+{
+  "id": 1293473395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19087,-11.00165,22.19087,-11.00165",
+    "geom:latitude":-11.00165,
+    "geom:longitude":22.19087,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Satchipexi",
+    "gn:country_code":"AO",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7900989,
+    "gn:latitude":-11.00165,
+    "gn:longitude":22.19087,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Satchipexi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900989
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9bd7901b3d226570b28f9f5ad2d6b5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1293473395,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1293473395,
+    "wof:lastmodified":1536807163,
+    "wof:name":"Satchipexi",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19087,
+    -11.00165,
+    22.19087,
+    -11.00165
+],
+  "geometry": {"coordinates":[22.19087,-11.00165],"type":"Point"}
+}

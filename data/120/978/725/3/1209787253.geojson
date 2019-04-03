@@ -1,0 +1,67 @@
+{
+  "id": 1209787253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19776,-8.81851,20.19776,-8.81851",
+    "geom:latitude":-8.81851,
+    "geom:longitude":20.19776,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tchituetue-Luere",
+    "gn:country_code":"AO",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7767481,
+    "gn:latitude":-8.81851,
+    "gn:longitude":20.19776,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Tchitu\u00e9tu\u00e9-Luere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7767481
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c89076d9ffaf055b459a62c74c4aa5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1209787253,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1209787253,
+    "wof:lastmodified":1536396628,
+    "wof:name":"Tchituetue-Luere",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19776,
+    -8.81851,
+    20.19776,
+    -8.81851
+],
+  "geometry": {"coordinates":[20.19776,-8.81851],"type":"Point"}
+}

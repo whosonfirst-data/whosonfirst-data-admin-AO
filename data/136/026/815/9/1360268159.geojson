@@ -1,0 +1,67 @@
+{
+  "id": 1360268159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93248,-7.7951,15.93248,-7.7951",
+    "geom:latitude":-7.7951,
+    "geom:longitude":15.93248,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mbata",
+    "gn:country_code":"AO",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537189,
+    "gn:latitude":-7.7951,
+    "gn:longitude":15.93248,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Mbata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537189
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a8bd0ecb5dfc1d0d3291ef05a135caf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799689,
+            "locality_id":1360268159,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1360268159,
+    "wof:lastmodified":1536681554,
+    "wof:name":"Mbata",
+    "wof:parent_id":1108799689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93248,
+    -7.7951,
+    15.93248,
+    -7.7951
+],
+  "geometry": {"coordinates":[15.93248,-7.7951],"type":"Point"}
+}

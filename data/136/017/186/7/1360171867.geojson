@@ -1,0 +1,67 @@
+{
+  "id": 1360171867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37389,-9.54194,16.37389,-9.54194",
+    "geom:latitude":-9.54194,
+    "geom:longitude":16.37389,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Vila Matilde",
+    "gn:country_code":"AO",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592255,
+    "gn:latitude":-9.54194,
+    "gn:longitude":16.37389,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Vila Matilde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592255
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ab020b07db03d28b7892c594f70331fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1360171867,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1360171867,
+    "wof:lastmodified":1536819630,
+    "wof:name":"Vila Matilde",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37389,
+    -9.54194,
+    16.37389,
+    -9.54194
+],
+  "geometry": {"coordinates":[16.37389,-9.54194],"type":"Point"}
+}

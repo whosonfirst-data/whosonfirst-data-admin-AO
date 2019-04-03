@@ -1,0 +1,67 @@
+{
+  "id": 1327355777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00945,-11.34213,15.00945,-11.34213",
+    "geom:latitude":-11.34213,
+    "geom:longitude":15.00945,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Colo-Colo",
+    "gn:country_code":"AO",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307956,
+    "gn:latitude":-11.34213,
+    "gn:longitude":15.00945,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Colo-Colo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307956
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7e9c3915588eaf9f96f5c8985c36dffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1327355777,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1327355777,
+    "wof:lastmodified":1536791880,
+    "wof:name":"Colo-Colo",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00945,
+    -11.34213,
+    15.00945,
+    -11.34213
+],
+  "geometry": {"coordinates":[15.00945,-11.34213],"type":"Point"}
+}

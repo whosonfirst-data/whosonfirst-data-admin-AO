@@ -1,0 +1,67 @@
+{
+  "id": 1293572051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6326,-7.68253,15.6326,-7.68253",
+    "geom:latitude":-7.68253,
+    "geom:longitude":15.6326,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimana",
+    "gn:country_code":"AO",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867989,
+    "gn:latitude":-7.68253,
+    "gn:longitude":15.6326,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quimana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867989
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ff6d94774a7c101ed1c49341084413ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799657,
+            "locality_id":1293572051,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1293572051,
+    "wof:lastmodified":1536665221,
+    "wof:name":"Quimana",
+    "wof:parent_id":1108799657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6326,
+    -7.68253,
+    15.6326,
+    -7.68253
+],
+  "geometry": {"coordinates":[15.6326,-7.68253],"type":"Point"}
+}

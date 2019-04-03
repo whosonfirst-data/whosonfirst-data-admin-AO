@@ -1,0 +1,67 @@
+{
+  "id": 1226629201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05404,-6.31719,15.05404,-6.31719",
+    "geom:latitude":-6.31719,
+    "geom:longitude":15.05404,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nsunzi",
+    "gn:country_code":"AO",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691213,
+    "gn:latitude":-6.31719,
+    "gn:longitude":15.05404,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Nsunzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691213
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5d9b77c3f80495e1538790db105afd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1226629201,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226629201,
+    "wof:lastmodified":1536882714,
+    "wof:name":"Nsunzi",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05404,
+    -6.31719,
+    15.05404,
+    -6.31719
+],
+  "geometry": {"coordinates":[15.05404,-6.31719],"type":"Point"}
+}

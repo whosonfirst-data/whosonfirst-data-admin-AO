@@ -1,0 +1,61 @@
+{
+  "id": 1209395009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92974,-9.06382,15.92974,-9.06382",
+    "geom:latitude":-9.06382,
+    "geom:longitude":15.92974,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quiglba",
+    "gn:country_code":"AO",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769139,
+    "gn:latitude":-9.06382,
+    "gn:longitude":15.92974,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quiglba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769139
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a0b852392ce6f08657c04de9fd2685e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209395009
+        }
+    ],
+    "wof:id":1209395009,
+    "wof:lastmodified":1536288332,
+    "wof:name":"Quiglba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92974,
+    -9.06382,
+    15.92974,
+    -9.06382
+],
+  "geometry": {"coordinates":[15.92974,-9.06382],"type":"Point"}
+}

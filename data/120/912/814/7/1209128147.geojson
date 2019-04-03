@@ -1,0 +1,61 @@
+{
+  "id": 1209128147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25,-11.86667,14.25,-11.86667",
+    "geom:latitude":-11.86667,
+    "geom:longitude":14.25,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cambambe",
+    "gn:country_code":"AO",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350980,
+    "gn:latitude":-11.86667,
+    "gn:longitude":14.25,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cambambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350980
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f126d8d94520418cb5c65a78be5a0002",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209128147
+        }
+    ],
+    "wof:id":1209128147,
+    "wof:lastmodified":1536296891,
+    "wof:name":"Cambambe",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25,
+    -11.86667,
+    14.25,
+    -11.86667
+],
+  "geometry": {"coordinates":[14.25,-11.86667],"type":"Point"}
+}

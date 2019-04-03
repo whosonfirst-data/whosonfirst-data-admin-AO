@@ -1,0 +1,67 @@
+{
+  "id": 1292972345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98147,-9.10027,19.98147,-9.10027",
+    "geom:latitude":-9.10027,
+    "geom:longitude":19.98147,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dangere",
+    "gn:country_code":"AO",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7778105,
+    "gn:latitude":-9.10027,
+    "gn:longitude":19.98147,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Danger\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778105
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"826b13b549256224aaf4e1b3a1b33549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1292972345,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1292972345,
+    "wof:lastmodified":1537031395,
+    "wof:name":"Dangere",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98147,
+    -9.10027,
+    19.98147,
+    -9.10027
+],
+  "geometry": {"coordinates":[19.98147,-9.10027],"type":"Point"}
+}

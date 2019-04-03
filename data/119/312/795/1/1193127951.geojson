@@ -1,0 +1,67 @@
+{
+  "id": 1193127951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1207,-12.24268,16.1207,-12.24268",
+    "geom:latitude":-12.24268,
+    "geom:longitude":16.1207,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Satchimbe",
+    "gn:country_code":"AO",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7904434,
+    "gn:latitude":-12.24268,
+    "gn:longitude":16.1207,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Satchimbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904434
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5e31f4dbe0be232fbb8a1fd0f26ad9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1193127951,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1193127951,
+    "wof:lastmodified":1536378909,
+    "wof:name":"Satchimbe",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1207,
+    -12.24268,
+    16.1207,
+    -12.24268
+],
+  "geometry": {"coordinates":[16.1207,-12.24268],"type":"Point"}
+}

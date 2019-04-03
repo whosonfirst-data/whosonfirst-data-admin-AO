@@ -1,0 +1,72 @@
+{
+  "id": 1310085733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68333,-9.41667,16.68333,-9.41667",
+    "geom:latitude":-9.41667,
+    "geom:longitude":16.68333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Safa",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237281,
+    "gn:latitude":-9.41667,
+    "gn:longitude":16.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Safa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e1fua",
+        "Safa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237281
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"80e28f8fcc44444ab09fba79aea6828d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799755,
+            "locality_id":1310085733,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1310085733,
+    "wof:lastmodified":1537584580,
+    "wof:name":"Safa",
+    "wof:parent_id":1108799755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68333,
+    -9.41667,
+    16.68333,
+    -9.41667
+],
+  "geometry": {"coordinates":[16.68333,-9.41667],"type":"Point"}
+}

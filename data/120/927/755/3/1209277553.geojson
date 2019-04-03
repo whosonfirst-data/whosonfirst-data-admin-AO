@@ -1,0 +1,61 @@
+{
+  "id": 1209277553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66471,-10.7588,20.66471,-10.7588",
+    "geom:latitude":-10.7588,
+    "geom:longitude":20.66471,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Capamba",
+    "gn:country_code":"AO",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7861651,
+    "gn:latitude":-10.7588,
+    "gn:longitude":20.66471,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Capamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7861651
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d72f3d4dafe38cc46b0074be7c0dbc43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209277553
+        }
+    ],
+    "wof:id":1209277553,
+    "wof:lastmodified":1536292139,
+    "wof:name":"Capamba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66471,
+    -10.7588,
+    20.66471,
+    -10.7588
+],
+  "geometry": {"coordinates":[20.66471,-10.7588],"type":"Point"}
+}

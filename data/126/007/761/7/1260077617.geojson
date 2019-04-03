@@ -1,0 +1,73 @@
+{
+  "id": 1260077617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18333,-11.45,14.18333,-11.45",
+    "geom:latitude":-11.45,
+    "geom:longitude":14.18333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Roca Caiala",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346417,
+    "gn:latitude":-11.45,
+    "gn:longitude":14.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ro\u00e7a Caiala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caiala",
+        "Kaiala",
+        "Ro\u00e7a Caiala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346417
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"32b10d29b7cf73db5985b861e66471bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1260077617,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1260077617,
+    "wof:lastmodified":1537584704,
+    "wof:name":"Roca Caiala",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18333,
+    -11.45,
+    14.18333,
+    -11.45
+],
+  "geometry": {"coordinates":[14.18333,-11.45],"type":"Point"}
+}

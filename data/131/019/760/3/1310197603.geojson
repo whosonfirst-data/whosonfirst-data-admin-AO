@@ -1,0 +1,72 @@
+{
+  "id": 1310197603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63333,-9.86667,14.63333,-9.86667",
+    "geom:latitude":-9.86667,
+    "geom:longitude":14.63333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Fazenda Rio Dao",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241176,
+    "gn:latitude":-9.86667,
+    "gn:longitude":14.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fazenda Rio D\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ro\u00e7a Rio D\u00e3o",
+        "Fazenda Rio D\u00e3o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241176
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d030a209bddde4a3a18c099b706f0bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1310197603,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310197603,
+    "wof:lastmodified":1537584642,
+    "wof:name":"Fazenda Rio Dao",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63333,
+    -9.86667,
+    14.63333,
+    -9.86667
+],
+  "geometry": {"coordinates":[14.63333,-9.86667],"type":"Point"}
+}

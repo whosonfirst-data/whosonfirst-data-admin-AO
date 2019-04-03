@@ -1,0 +1,61 @@
+{
+  "id": 1209301513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15932,-9.28843,16.15932,-9.28843",
+    "geom:latitude":-9.28843,
+    "geom:longitude":16.15932,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jimbo",
+    "gn:country_code":"AO",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771742,
+    "gn:latitude":-9.28843,
+    "gn:longitude":16.15932,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Jimbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771742
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5996eaa709a5fe815bb9b4cb5d45adec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209301513
+        }
+    ],
+    "wof:id":1209301513,
+    "wof:lastmodified":1536291341,
+    "wof:name":"Jimbo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15932,
+    -9.28843,
+    16.15932,
+    -9.28843
+],
+  "geometry": {"coordinates":[16.15932,-9.28843],"type":"Point"}
+}

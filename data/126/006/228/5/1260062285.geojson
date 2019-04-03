@@ -1,0 +1,67 @@
+{
+  "id": 1260062285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.37884,-6.20613,12.37884,-6.20613",
+    "geom:latitude":-6.20613,
+    "geom:longitude":12.37884,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mongo Soio",
+    "gn:country_code":"AO",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7663469,
+    "gn:latitude":-6.20613,
+    "gn:longitude":12.37884,
+    "gn:modification_date":"2011-02-09",
+    "gn:name":"Mongo Soio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663469
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"39f448e5a839c04c80192a95c383e0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799751,
+            "locality_id":1260062285,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1260062285,
+    "wof:lastmodified":1537017852,
+    "wof:name":"Mongo Soio",
+    "wof:parent_id":1108799751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.37884,
+    -6.20613,
+    12.37884,
+    -6.20613
+],
+  "geometry": {"coordinates":[12.37884,-6.20613],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276323627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03333,-13.48333,16.03333,-13.48333",
+    "geom:latitude":-13.48333,
+    "geom:longitude":16.03333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chicala",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349981,
+    "gn:latitude":-13.48333,
+    "gn:longitude":16.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chicala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043a\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chibanda",
+        "Chibonda",
+        "Chicala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349981
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7729bcae69e2cd6f9baa5bb7f2cdc5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799671,
+            "locality_id":1276323627,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1276323627,
+    "wof:lastmodified":1537584767,
+    "wof:name":"Chicala",
+    "wof:parent_id":1108799671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03333,
+    -13.48333,
+    16.03333,
+    -13.48333
+],
+  "geometry": {"coordinates":[16.03333,-13.48333],"type":"Point"}
+}

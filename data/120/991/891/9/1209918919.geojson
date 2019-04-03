@@ -1,0 +1,67 @@
+{
+  "id": 1209918919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24289,-8.72617,15.24289,-8.72617",
+    "geom:latitude":-8.72617,
+    "geom:longitude":15.24289,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quimbango Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7762837,
+    "gn:latitude":-8.72617,
+    "gn:longitude":15.24289,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quimbango Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7762837
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1def585b141dc94f2461bbd5bbbf8b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799733,
+            "locality_id":1209918919,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1209918919,
+    "wof:lastmodified":1536370683,
+    "wof:name":"Quimbango Primeiro",
+    "wof:parent_id":1108799733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24289,
+    -8.72617,
+    15.24289,
+    -8.72617
+],
+  "geometry": {"coordinates":[15.24289,-8.72617],"type":"Point"}
+}

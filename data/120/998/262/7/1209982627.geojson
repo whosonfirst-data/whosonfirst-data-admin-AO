@@ -1,0 +1,70 @@
+{
+  "id": 1209982627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54928,-9.44581,20.54928,-9.44581",
+    "geom:latitude":-9.44581,
+    "geom:longitude":20.54928,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tchandumbua",
+    "gn:country_code":"AO",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7770476,
+    "gn:latitude":-9.44581,
+    "gn:longitude":20.54928,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tchandumbua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samulambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7770476
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0a1f40bc8d498eb2b3eb8e814b5cdad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1209982627,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1209982627,
+    "wof:lastmodified":1537584810,
+    "wof:name":"Tchandumbua",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54928,
+    -9.44581,
+    20.54928,
+    -9.44581
+],
+  "geometry": {"coordinates":[20.54928,-9.44581],"type":"Point"}
+}

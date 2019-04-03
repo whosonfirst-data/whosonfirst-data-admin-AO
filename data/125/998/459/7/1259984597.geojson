@@ -1,0 +1,67 @@
+{
+  "id": 1259984597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55639,-9.08474,15.55639,-9.08474",
+    "geom:latitude":-9.08474,
+    "geom:longitude":15.55639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cacunha",
+    "gn:country_code":"AO",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769101,
+    "gn:latitude":-9.08474,
+    "gn:longitude":15.55639,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cacunha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769101
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fc555c01a22cd7f9d942a2dd32285193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1259984597,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1259984597,
+    "wof:lastmodified":1536632009,
+    "wof:name":"Cacunha",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55639,
+    -9.08474,
+    15.55639,
+    -9.08474
+],
+  "geometry": {"coordinates":[15.55639,-9.08474],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277152831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35121,-9.92056,20.35121,-9.92056",
+    "geom:latitude":-9.92056,
+    "geom:longitude":20.35121,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Saquembe",
+    "gn:country_code":"AO",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7789974,
+    "gn:latitude":-9.92056,
+    "gn:longitude":20.35121,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Saquembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789974
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7400536cece08708f40fbba858abdec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1277152831,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1277152831,
+    "wof:lastmodified":1536666729,
+    "wof:name":"Saquembe",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35121,
+    -9.92056,
+    20.35121,
+    -9.92056
+],
+  "geometry": {"coordinates":[20.35121,-9.92056],"type":"Point"}
+}

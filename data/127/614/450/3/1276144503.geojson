@@ -1,0 +1,67 @@
+{
+  "id": 1276144503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90502,-11.0082,13.90502,-11.0082",
+    "geom:latitude":-11.0082,
+    "geom:longitude":13.90502,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Balela",
+    "gn:country_code":"AO",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307881,
+    "gn:latitude":-11.0082,
+    "gn:longitude":13.90502,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Balela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307881
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"739e3bac5dfac90c08aac8b126fc7b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799795,
+            "locality_id":1276144503,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276144503,
+    "wof:lastmodified":1537030449,
+    "wof:name":"Balela",
+    "wof:parent_id":1108799795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90502,
+    -11.0082,
+    13.90502,
+    -11.0082
+],
+  "geometry": {"coordinates":[13.90502,-11.0082],"type":"Point"}
+}

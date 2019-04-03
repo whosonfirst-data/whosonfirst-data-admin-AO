@@ -1,0 +1,67 @@
+{
+  "id": 1276131657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25318,-11.67146,17.25318,-11.67146",
+    "geom:latitude":-11.67146,
+    "geom:longitude":17.25318,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchiculungo",
+    "gn:country_code":"AO",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901681,
+    "gn:latitude":-11.67146,
+    "gn:longitude":17.25318,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchiculungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901681
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9a2ac9492c4643cbd3998d3de8ee8403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1276131657,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1276131657,
+    "wof:lastmodified":1537046842,
+    "wof:name":"Tchiculungo",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25318,
+    -11.67146,
+    17.25318,
+    -11.67146
+],
+  "geometry": {"coordinates":[17.25318,-11.67146],"type":"Point"}
+}

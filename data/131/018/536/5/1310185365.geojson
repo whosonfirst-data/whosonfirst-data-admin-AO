@@ -1,0 +1,67 @@
+{
+  "id": 1310185365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41167,-9.69361,16.41167,-9.69361",
+    "geom:latitude":-9.69361,
+    "geom:longitude":16.41167,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Rute",
+    "gn:country_code":"AO",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592324,
+    "gn:latitude":-9.69361,
+    "gn:longitude":16.41167,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Rute",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592324
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e17efb0a3a560841f2417f103a74829b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799805,
+            "locality_id":1310185365,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1310185365,
+    "wof:lastmodified":1536880659,
+    "wof:name":"Rute",
+    "wof:parent_id":1108799805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41167,
+    -9.69361,
+    16.41167,
+    -9.69361
+],
+  "geometry": {"coordinates":[16.41167,-9.69361],"type":"Point"}
+}

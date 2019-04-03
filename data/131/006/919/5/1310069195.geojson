@@ -1,0 +1,67 @@
+{
+  "id": 1310069195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71092,-8.27864,20.71092,-8.27864",
+    "geom:latitude":-8.27864,
+    "geom:longitude":20.71092,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sambuquila",
+    "gn:country_code":"AO",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7766392,
+    "gn:latitude":-8.27864,
+    "gn:longitude":20.71092,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Sambuquila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7766392
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"075b9089b40c5b5e2410dc95aa90bf68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1310069195,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1310069195,
+    "wof:lastmodified":1537047064,
+    "wof:name":"Sambuquila",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71092,
+    -8.27864,
+    20.71092,
+    -8.27864
+],
+  "geometry": {"coordinates":[20.71092,-8.27864],"type":"Point"}
+}

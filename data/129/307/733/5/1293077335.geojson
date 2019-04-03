@@ -1,0 +1,77 @@
+{
+  "id": 1293077335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80839,-9.52337,17.80839,-9.52337",
+    "geom:latitude":-9.52337,
+    "geom:longitude":17.80839,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Xa Muteba",
+    "gn:country_code":"AO",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236397,
+    "gn:latitude":-9.52337,
+    "gn:longitude":17.80839,
+    "gn:modification_date":"2018-03-18",
+    "gn:name":"X\u00e1 Muteba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Outubro",
+        "Cinco de Outubro",
+        "X\u00e1-Mateba",
+        "Cinco d\u2019Outubro",
+        "5 de Outubro",
+        "Cha Muteba",
+        "X\u00e1 Muteba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236397,
+        "wk:page":"X%C3%A1-Muteba"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e420d3662f140a2aa991d28e1dd2ebc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1293077335,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293077335,
+    "wof:lastmodified":1537584570,
+    "wof:name":"Xa Muteba",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80839,
+    -9.52337,
+    17.80839,
+    -9.52337
+],
+  "geometry": {"coordinates":[17.80839,-9.52337],"type":"Point"}
+}

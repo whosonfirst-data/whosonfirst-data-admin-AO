@@ -1,0 +1,74 @@
+{
+  "id": 1293768017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77732,-14.55354,14.77732,-14.55354",
+    "geom:latitude":-14.55354,
+    "geom:longitude":14.77732,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cuvelai",
+    "gn:country_code":"AO",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348992,
+    "gn:latitude":-14.55354,
+    "gn:longitude":14.77732,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cuvelai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0432\u0435\u043b\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Buvelai",
+        "Cuvelai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348992
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bf15c0192dca8a4baeb932870990d5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799807,
+            "locality_id":1293768017,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1293768017,
+    "wof:lastmodified":1537584746,
+    "wof:name":"Cuvelai",
+    "wof:parent_id":1108799807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77732,
+    -14.55354,
+    14.77732,
+    -14.55354
+],
+  "geometry": {"coordinates":[14.77732,-14.55354],"type":"Point"}
+}

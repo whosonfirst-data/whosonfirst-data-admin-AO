@@ -1,0 +1,70 @@
+{
+  "id": 1310403405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25276,-11.06706,14.25276,-11.06706",
+    "geom:latitude":-11.06706,
+    "geom:longitude":14.25276,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ngunza",
+    "gn:country_code":"AO",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348394,
+    "gn:latitude":-11.06706,
+    "gn:longitude":14.25276,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngunza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gunza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348394
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ee28c8e48a608d5a663cf9d6d38f1b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1310403405,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310403405,
+    "wof:lastmodified":1537584735,
+    "wof:name":"Ngunza",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25276,
+    -11.06706,
+    14.25276,
+    -11.06706
+],
+  "geometry": {"coordinates":[14.25276,-11.06706],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226314409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46729,-7.49805,21.46729,-7.49805",
+    "geom:latitude":-7.49805,
+    "geom:longitude":21.46729,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Malambo",
+    "gn:country_code":"AO",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891245,
+    "gn:latitude":-7.49805,
+    "gn:longitude":21.46729,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Malambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891245
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d11273d6c687d3ff81ca1e178f6c0a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1226314409,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1226314409,
+    "wof:lastmodified":1536833760,
+    "wof:name":"Malambo",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46729,
+    -7.49805,
+    21.46729,
+    -7.49805
+],
+  "geometry": {"coordinates":[21.46729,-7.49805],"type":"Point"}
+}

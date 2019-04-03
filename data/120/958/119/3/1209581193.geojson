@@ -1,0 +1,61 @@
+{
+  "id": 1209581193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46649,-8.72214,14.46649,-8.72214",
+    "geom:latitude":-8.72214,
+    "geom:longitude":14.46649,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dungue",
+    "gn:country_code":"AO",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2241317,
+    "gn:latitude":-8.72214,
+    "gn:longitude":14.46649,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Dungue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241317
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a18cde9e3d7b00dc2bb9a494e7f248c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209581193
+        }
+    ],
+    "wof:id":1209581193,
+    "wof:lastmodified":1536282783,
+    "wof:name":"Dungue",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46649,
+    -8.72214,
+    14.46649,
+    -8.72214
+],
+  "geometry": {"coordinates":[14.46649,-8.72214],"type":"Point"}
+}

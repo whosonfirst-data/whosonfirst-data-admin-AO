@@ -1,0 +1,72 @@
+{
+  "id": 1225938639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15,-17.33333,17.15,-17.33333",
+    "geom:latitude":-17.33333,
+    "geom:longitude":17.15,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ametinho",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351893,
+    "gn:latitude":-17.33333,
+    "gn:longitude":17.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ametinho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ametinhe",
+        "Ametinho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351893
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e9b1a62cd08ddf636e08d0191b514b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799923,
+            "locality_id":1225938639,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1225938639,
+    "wof:lastmodified":1537584805,
+    "wof:name":"Ametinho",
+    "wof:parent_id":1108799923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15,
+    -17.33333,
+    17.15,
+    -17.33333
+],
+  "geometry": {"coordinates":[17.15,-17.33333],"type":"Point"}
+}

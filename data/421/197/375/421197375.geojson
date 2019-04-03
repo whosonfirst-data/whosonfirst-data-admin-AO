@@ -1,0 +1,111 @@
+{
+  "id": 421197375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78333,-11.55,20.78333,-11.55",
+    "geom:latitude":-11.55,
+    "geom:longitude":20.78333,
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Lumeje"
+    ],
+    "name:deu_x_preferred":[
+        "Cameia"
+    ],
+    "name:dut_x_preferred":[
+        "Cameia"
+    ],
+    "name:eng_x_preferred":[
+        "Cameia"
+    ],
+    "name:fre_x_preferred":[
+        "Cameia"
+    ],
+    "name:ger_x_preferred":[
+        "Cameia"
+    ],
+    "name:ita_x_preferred":[
+        "Lumeje"
+    ],
+    "name:por_x_preferred":[
+        "Lumeje"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043c\u0435\u0436\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Lumege"
+    ],
+    "qs:gn_country":"AO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":876123,
+    "qs:gn_pop":4972,
+    "qs:name":"Lumeje",
+    "qs:name_adm0":"Angola",
+    "qs:name_adm1":"Moxico",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":129784,
+    "qs:woe_adm0":23424745,
+    "qs:woe_id":1468857,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876123,
+        "gp:id":1468857,
+        "qs:id":129784,
+        "wd:id":"Q3840597"
+    },
+    "wof:country":"AO",
+    "wof:created":1459009911,
+    "wof:geomhash":"f9d172edb1174acbb67169f714923f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799791,
+            "locality_id":421197375,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":421197375,
+    "wof:lastmodified":1527716408,
+    "wof:name":"Lumeje",
+    "wof:parent_id":1108799791,
+    "wof:placetype":"locality",
+    "wof:population":4972,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78333,
+    -11.55,
+    20.78333,
+    -11.55
+],
+  "geometry": {"coordinates":[20.78333,-11.55],"type":"Point"}
+}

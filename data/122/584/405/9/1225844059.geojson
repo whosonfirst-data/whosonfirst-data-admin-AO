@@ -1,0 +1,70 @@
+{
+  "id": 1225844059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43369,-8.23241,15.43369,-8.23241",
+    "geom:latitude":-8.23241,
+    "geom:longitude":15.43369,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Luelo",
+    "gn:country_code":"AO",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240209,
+    "gn:latitude":-8.23241,
+    "gn:longitude":15.43369,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Luelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240209
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4d6b151b8ecda2cc10dc0a48b87d2850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1225844059,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1225844059,
+    "wof:lastmodified":1537584628,
+    "wof:name":"Luelo",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43369,
+    -8.23241,
+    15.43369,
+    -8.23241
+],
+  "geometry": {"coordinates":[15.43369,-8.23241],"type":"Point"}
+}

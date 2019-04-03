@@ -1,0 +1,67 @@
+{
+  "id": 1310584173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91667,-6.48333,14.91667,-6.48333",
+    "geom:latitude":-6.48333,
+    "geom:longitude":14.91667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quilumbo",
+    "gn:country_code":"AO",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238300,
+    "gn:latitude":-6.48333,
+    "gn:longitude":14.91667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quilumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238300
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"86d12ea11a9aec8e3ad9856bb765b945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1310584173,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1310584173,
+    "wof:lastmodified":1536803432,
+    "wof:name":"Quilumbo",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91667,
+    -6.48333,
+    14.91667,
+    -6.48333
+],
+  "geometry": {"coordinates":[14.91667,-6.48333],"type":"Point"}
+}

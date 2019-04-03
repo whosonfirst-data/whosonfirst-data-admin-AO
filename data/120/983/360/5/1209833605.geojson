@@ -1,0 +1,67 @@
+{
+  "id": 1209833605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04706,-10.39606,14.04706,-10.39606",
+    "geom:latitude":-10.39606,
+    "geom:longitude":14.04706,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Calumbi",
+    "gn:country_code":"AO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856779,
+    "gn:latitude":-10.39606,
+    "gn:longitude":14.04706,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Calumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856779
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"660a54b281304ea76d6ce722418f9009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799943,
+            "locality_id":1209833605,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1209833605,
+    "wof:lastmodified":1536395890,
+    "wof:name":"Calumbi",
+    "wof:parent_id":1108799943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04706,
+    -10.39606,
+    14.04706,
+    -10.39606
+],
+  "geometry": {"coordinates":[14.04706,-10.39606],"type":"Point"}
+}

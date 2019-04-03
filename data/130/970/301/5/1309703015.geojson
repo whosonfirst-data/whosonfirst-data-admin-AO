@@ -1,0 +1,67 @@
+{
+  "id": 1309703015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57417,-13.01139,15.57417,-13.01139",
+    "geom:latitude":-13.01139,
+    "geom:longitude":15.57417,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sacanombo",
+    "gn:country_code":"AO",
+    "gn:dem":1724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371533,
+    "gn:latitude":-13.01139,
+    "gn:longitude":15.57417,
+    "gn:modification_date":"1998-04-02",
+    "gn:name":"Sacanombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371533
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3440f576f8aa0ba8eb2a6ae97842742e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":1309703015,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1309703015,
+    "wof:lastmodified":1537076248,
+    "wof:name":"Sacanombo",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57417,
+    -13.01139,
+    15.57417,
+    -13.01139
+],
+  "geometry": {"coordinates":[15.57417,-13.01139],"type":"Point"}
+}

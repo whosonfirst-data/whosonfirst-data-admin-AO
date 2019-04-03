@@ -1,0 +1,67 @@
+{
+  "id": 1327338447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42067,-8.76406,15.42067,-8.76406",
+    "geom:latitude":-8.76406,
+    "geom:longitude":15.42067,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mizaza",
+    "gn:country_code":"AO",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7763030,
+    "gn:latitude":-8.76406,
+    "gn:longitude":15.42067,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mizaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7763030
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d4072bcc8c8ce6e08cb12294c198940f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1327338447,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1327338447,
+    "wof:lastmodified":1536815672,
+    "wof:name":"Mizaza",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42067,
+    -8.76406,
+    15.42067,
+    -8.76406
+],
+  "geometry": {"coordinates":[15.42067,-8.76406],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259882949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98531,-11.46506,16.98531,-11.46506",
+    "geom:latitude":-11.46506,
+    "geom:longitude":16.98531,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Catetula",
+    "gn:country_code":"AO",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858872,
+    "gn:latitude":-11.46506,
+    "gn:longitude":16.98531,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Catetula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858872
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ac93e64c7d98feb76bed0222fe6badbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1259882949,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1259882949,
+    "wof:lastmodified":1536780422,
+    "wof:name":"Catetula",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98531,
+    -11.46506,
+    16.98531,
+    -11.46506
+],
+  "geometry": {"coordinates":[16.98531,-11.46506],"type":"Point"}
+}

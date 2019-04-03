@@ -1,0 +1,67 @@
+{
+  "id": 1293074123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7,-6.16667,16.7,-6.16667",
+    "geom:latitude":-6.16667,
+    "geom:longitude":16.7,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sua Ienga",
+    "gn:country_code":"AO",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236961,
+    "gn:latitude":-6.16667,
+    "gn:longitude":16.7,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Su\u00e1 Ienga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236961
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e9e584ff079c161638ee09a306fd815c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1293074123,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1293074123,
+    "wof:lastmodified":1536885637,
+    "wof:name":"Sua Ienga",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7,
+    -6.16667,
+    16.7,
+    -6.16667
+],
+  "geometry": {"coordinates":[16.7,-6.16667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344265717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68088,-11.94806,16.68088,-11.94806",
+    "geom:latitude":-11.94806,
+    "geom:longitude":16.68088,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Canguli",
+    "gn:country_code":"AO",
+    "gn:dem":1716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903537,
+    "gn:latitude":-11.94806,
+    "gn:longitude":16.68088,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Canguli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903537
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d3b015dcabf942df65a0a65628505901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799907,
+            "locality_id":1344265717,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1344265717,
+    "wof:lastmodified":1537073386,
+    "wof:name":"Canguli",
+    "wof:parent_id":1108799907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68088,
+    -11.94806,
+    16.68088,
+    -11.94806
+],
+  "geometry": {"coordinates":[16.68088,-11.94806],"type":"Point"}
+}

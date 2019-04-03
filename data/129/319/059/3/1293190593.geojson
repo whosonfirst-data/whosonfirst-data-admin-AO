@@ -1,0 +1,67 @@
+{
+  "id": 1293190593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6249,-14.60286,14.6249,-14.60286",
+    "geom:latitude":-14.60286,
+    "geom:longitude":14.6249,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zundo",
+    "gn:country_code":"AO",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7907780,
+    "gn:latitude":-14.60286,
+    "gn:longitude":14.6249,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Zundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7907780
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9a56ab6de01bca584a448d8f3cd4518c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799929,
+            "locality_id":1293190593,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1293190593,
+    "wof:lastmodified":1536718469,
+    "wof:name":"Zundo",
+    "wof:parent_id":1108799929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6249,
+    -14.60286,
+    14.6249,
+    -14.60286
+],
+  "geometry": {"coordinates":[14.6249,-14.60286],"type":"Point"}
+}

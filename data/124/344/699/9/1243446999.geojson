@@ -1,0 +1,67 @@
+{
+  "id": 1243446999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84816,-9.99814,14.84816,-9.99814",
+    "geom:latitude":-9.99814,
+    "geom:longitude":14.84816,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Socola",
+    "gn:country_code":"AO",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346059,
+    "gn:latitude":-9.99814,
+    "gn:longitude":14.84816,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Socola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346059
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2e75e4ade1d27263820db9c38b548430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1243446999,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1243446999,
+    "wof:lastmodified":1536804606,
+    "wof:name":"Socola",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84816,
+    -9.99814,
+    14.84816,
+    -9.99814
+],
+  "geometry": {"coordinates":[14.84816,-9.99814],"type":"Point"}
+}

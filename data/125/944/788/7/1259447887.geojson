@@ -1,0 +1,67 @@
+{
+  "id": 1259447887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45493,-8.8078,13.45493,-8.8078",
+    "geom:latitude":-8.8078,
+    "geom:longitude":13.45493,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Musseque Sequele",
+    "gn:country_code":"AO",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7758769,
+    "gn:latitude":-8.8078,
+    "gn:longitude":13.45493,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Musseque Sequele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667669,
+        1108799945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7758769
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"99fb2e1f74799b99834dc446a7b1936d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799945,
+            "locality_id":1259447887,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":1259447887,
+    "wof:lastmodified":1536910399,
+    "wof:name":"Musseque Sequele",
+    "wof:parent_id":1108799945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45493,
+    -8.8078,
+    13.45493,
+    -8.8078
+],
+  "geometry": {"coordinates":[13.45493,-8.8078],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360164791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93921,-8.55679,16.93921,-8.55679",
+    "geom:latitude":-8.55679,
+    "geom:longitude":16.93921,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mbinga Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7757835,
+    "gn:latitude":-8.55679,
+    "gn:longitude":16.93921,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mbinga Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7757835
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5b6722c6ec50f0578a2b1262a5b4347a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1360164791,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1360164791,
+    "wof:lastmodified":1536829749,
+    "wof:name":"Mbinga Segundo",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93921,
+    -8.55679,
+    16.93921,
+    -8.55679
+],
+  "geometry": {"coordinates":[16.93921,-8.55679],"type":"Point"}
+}

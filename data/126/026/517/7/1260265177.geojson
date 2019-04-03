@@ -1,0 +1,67 @@
+{
+  "id": 1260265177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,-6.35,14.11667,-6.35",
+    "geom:latitude":-6.35,
+    "geom:longitude":14.11667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lemo",
+    "gn:country_code":"AO",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240604,
+    "gn:latitude":-6.35,
+    "gn:longitude":14.11667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Lemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240604
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"32e49fe7437600cfd76bb60e3be9828e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1260265177,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1260265177,
+    "wof:lastmodified":1536736523,
+    "wof:name":"Lemo",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    -6.35,
+    14.11667,
+    -6.35
+],
+  "geometry": {"coordinates":[14.11667,-6.35],"type":"Point"}
+}

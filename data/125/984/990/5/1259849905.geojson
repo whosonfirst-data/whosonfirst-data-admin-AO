@@ -1,0 +1,72 @@
+{
+  "id": 1259849905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95,-7.88333,15.95,-7.88333",
+    "geom:latitude":-7.88333,
+    "geom:longitude":15.95,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cambueta",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242765,
+    "gn:latitude":-7.88333,
+    "gn:longitude":15.95,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cambueta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cambuete",
+        "Cambueta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242765
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"34196831752e875171d4cd9bad402cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799689,
+            "locality_id":1259849905,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1259849905,
+    "wof:lastmodified":1537584668,
+    "wof:name":"Cambueta",
+    "wof:parent_id":1108799689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95,
+    -7.88333,
+    15.95,
+    -7.88333
+],
+  "geometry": {"coordinates":[15.95,-7.88333],"type":"Point"}
+}

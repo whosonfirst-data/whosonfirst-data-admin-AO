@@ -1,0 +1,61 @@
+{
+  "id": 1209291675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.396,-10.72357,17.396,-10.72357",
+    "geom:latitude":-10.72357,
+    "geom:longitude":17.396,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Saputo",
+    "gn:country_code":"AO",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900384,
+    "gn:latitude":-10.72357,
+    "gn:longitude":17.396,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Saputo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900384
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"70dcac90c91d4c09c2d554bb66341271",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209291675
+        }
+    ],
+    "wof:id":1209291675,
+    "wof:lastmodified":1536291672,
+    "wof:name":"Saputo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.396,
+    -10.72357,
+    17.396,
+    -10.72357
+],
+  "geometry": {"coordinates":[17.396,-10.72357],"type":"Point"}
+}

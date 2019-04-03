@@ -1,0 +1,67 @@
+{
+  "id": 1310609855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73106,-11.26513,16.73106,-11.26513",
+    "geom:latitude":-11.26513,
+    "geom:longitude":16.73106,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Calitongo",
+    "gn:country_code":"AO",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858856,
+    "gn:latitude":-11.26513,
+    "gn:longitude":16.73106,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Calitongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858856
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"21beab36ab80c7b71eb37e32dcff0488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1310609855,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1310609855,
+    "wof:lastmodified":1536766736,
+    "wof:name":"Calitongo",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73106,
+    -11.26513,
+    16.73106,
+    -11.26513
+],
+  "geometry": {"coordinates":[16.73106,-11.26513],"type":"Point"}
+}

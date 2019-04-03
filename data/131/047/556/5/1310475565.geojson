@@ -1,0 +1,67 @@
+{
+  "id": 1310475565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03161,-10.69652,22.03161,-10.69652",
+    "geom:latitude":-10.69652,
+    "geom:longitude":22.03161,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nganga",
+    "gn:country_code":"AO",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7863882,
+    "gn:latitude":-10.69652,
+    "gn:longitude":22.03161,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Nganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863882
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4f13fa08a0a5a02047cc2100f8871c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1310475565,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1310475565,
+    "wof:lastmodified":1536960081,
+    "wof:name":"Nganga",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03161,
+    -10.69652,
+    22.03161,
+    -10.69652
+],
+  "geometry": {"coordinates":[22.03161,-10.69652],"type":"Point"}
+}

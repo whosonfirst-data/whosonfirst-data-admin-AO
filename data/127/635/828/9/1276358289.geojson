@@ -1,0 +1,67 @@
+{
+  "id": 1276358289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03028,-10.50396,14.03028,-10.50396",
+    "geom:latitude":-10.50396,
+    "geom:longitude":14.03028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sete",
+    "gn:country_code":"AO",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866177,
+    "gn:latitude":-10.50396,
+    "gn:longitude":14.03028,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Sete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866177
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1517e3afbfa1e2f8ff3f3770e2d830be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799943,
+            "locality_id":1276358289,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276358289,
+    "wof:lastmodified":1536744826,
+    "wof:name":"Sete",
+    "wof:parent_id":1108799943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03028,
+    -10.50396,
+    14.03028,
+    -10.50396
+],
+  "geometry": {"coordinates":[14.03028,-10.50396],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259590737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36667,-5.53333,12.36667,-5.53333",
+    "geom:latitude":-5.53333,
+    "geom:longitude":12.36667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baca",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243879,
+    "gn:latitude":-5.53333,
+    "gn:longitude":12.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Baca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Baca",
+        "M\u2019Baca",
+        "U\u2019Baca",
+        "Baca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667683,
+        1108799777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243879
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4c3a3a43fe561f05e2f69bfc69bdd254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799777,
+            "locality_id":1259590737,
+            "region_id":85667683
+        }
+    ],
+    "wof:id":1259590737,
+    "wof:lastmodified":1537584684,
+    "wof:name":"Baca",
+    "wof:parent_id":1108799777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36667,
+    -5.53333,
+    12.36667,
+    -5.53333
+],
+  "geometry": {"coordinates":[12.36667,-5.53333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276541465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08135,-11.35503,15.08135,-11.35503",
+    "geom:latitude":-11.35503,
+    "geom:longitude":15.08135,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cambango",
+    "gn:country_code":"AO",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7860633,
+    "gn:latitude":-11.35503,
+    "gn:longitude":15.08135,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cambango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860633
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7b637e060a7eec3ea7cb5e8183479468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1276541465,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276541465,
+    "wof:lastmodified":1536996330,
+    "wof:name":"Cambango",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08135,
+    -11.35503,
+    15.08135,
+    -11.35503
+],
+  "geometry": {"coordinates":[15.08135,-11.35503],"type":"Point"}
+}

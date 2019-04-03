@@ -1,0 +1,74 @@
+{
+  "id": 1360168253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91667,-16.1,21.91667,-16.1",
+    "geom:latitude":-16.1,
+    "geom:longitude":21.91667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Caimana",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876663,
+    "gn:latitude":-16.1,
+    "gn:longitude":21.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caimana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uacacanga",
+        "Uacanga",
+        "Cacacanga",
+        "Caimana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876663
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4da51f07dcc27613eb145cb30e822e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1360168253,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1360168253,
+    "wof:lastmodified":1537584565,
+    "wof:name":"Caimana",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91667,
+    -16.1,
+    21.91667,
+    -16.1
+],
+  "geometry": {"coordinates":[21.91667,-16.1],"type":"Point"}
+}

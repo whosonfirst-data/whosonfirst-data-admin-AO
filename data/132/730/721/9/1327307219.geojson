@@ -1,0 +1,67 @@
+{
+  "id": 1327307219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22395,-6.52435,16.22395,-6.52435",
+    "geom:latitude":-6.52435,
+    "geom:longitude":16.22395,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quipaxi",
+    "gn:country_code":"AO",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535842,
+    "gn:latitude":-6.52435,
+    "gn:longitude":16.22395,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Quip\u00e1xi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535842
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8a350a99fe0531dd6c748e49dc923693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1327307219,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1327307219,
+    "wof:lastmodified":1536860314,
+    "wof:name":"Quipaxi",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22395,
+    -6.52435,
+    16.22395,
+    -6.52435
+],
+  "geometry": {"coordinates":[16.22395,-6.52435],"type":"Point"}
+}

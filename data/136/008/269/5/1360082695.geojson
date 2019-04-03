@@ -1,0 +1,71 @@
+{
+  "id": 1360082695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10762,-12.21462,16.10762,-12.21462",
+    "geom:latitude":-12.21462,
+    "geom:longitude":16.10762,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lunge",
+    "gn:country_code":"AO",
+    "gn:dem":1740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347650,
+    "gn:latitude":-12.21462,
+    "gn:longitude":16.10762,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lunge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lunje",
+        "Lunge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347650
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f983e3989cb2989e31acfd8b35bd2fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1360082695,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1360082695,
+    "wof:lastmodified":1537584725,
+    "wof:name":"Lunge",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10762,
+    -12.21462,
+    16.10762,
+    -12.21462
+],
+  "geometry": {"coordinates":[16.10762,-12.21462],"type":"Point"}
+}

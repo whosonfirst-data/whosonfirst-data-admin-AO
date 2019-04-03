@@ -1,0 +1,67 @@
+{
+  "id": 1310337015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68757,-9.59799,14.68757,-9.59799",
+    "geom:latitude":-9.59799,
+    "geom:longitude":14.68757,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Catema",
+    "gn:country_code":"AO",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783788,
+    "gn:latitude":-9.59799,
+    "gn:longitude":14.68757,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Catema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783788
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b780a4b858fbcb6209995c46050c3065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799789,
+            "locality_id":1310337015,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1310337015,
+    "wof:lastmodified":1536662585,
+    "wof:name":"Catema",
+    "wof:parent_id":1108799789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68757,
+    -9.59799,
+    14.68757,
+    -9.59799
+],
+  "geometry": {"coordinates":[14.68757,-9.59799],"type":"Point"}
+}

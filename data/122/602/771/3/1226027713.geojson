@@ -1,0 +1,67 @@
+{
+  "id": 1226027713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87498,-6.99641,15.87498,-6.99641",
+    "geom:latitude":-6.99641,
+    "geom:longitude":15.87498,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lema",
+    "gn:country_code":"AO",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240634,
+    "gn:latitude":-6.99641,
+    "gn:longitude":15.87498,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Lema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240634
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c31a2c72d24151d47545c51c2b30cb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799715,
+            "locality_id":1226027713,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226027713,
+    "wof:lastmodified":1536751090,
+    "wof:name":"Lema",
+    "wof:parent_id":1108799715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87498,
+    -6.99641,
+    15.87498,
+    -6.99641
+],
+  "geometry": {"coordinates":[15.87498,-6.99641],"type":"Point"}
+}

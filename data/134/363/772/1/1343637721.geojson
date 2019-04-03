@@ -1,0 +1,67 @@
+{
+  "id": 1343637721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32868,-7.42224,21.32868,-7.42224",
+    "geom:latitude":-7.42224,
+    "geom:longitude":21.32868,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cale",
+    "gn:country_code":"AO",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891221,
+    "gn:latitude":-7.42224,
+    "gn:longitude":21.32868,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891221
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f0c3fba9a0c8cd1636be8022573650da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1343637721,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1343637721,
+    "wof:lastmodified":1536987098,
+    "wof:name":"Cale",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32868,
+    -7.42224,
+    21.32868,
+    -7.42224
+],
+  "geometry": {"coordinates":[21.32868,-7.42224],"type":"Point"}
+}

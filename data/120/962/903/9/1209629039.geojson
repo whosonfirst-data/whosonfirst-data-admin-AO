@@ -1,0 +1,70 @@
+{
+  "id": 1209629039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.1025,-12.95167,13.1025,-12.95167",
+    "geom:latitude":-12.95167,
+    "geom:longitude":13.1025,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dombe Grande",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348896,
+    "gn:latitude":-12.95167,
+    "gn:longitude":13.1025,
+    "gn:modification_date":"2018-03-18",
+    "gn:name":"Dombe Grande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043c\u0431\u0435 \u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:und_x_variant":[
+        "Dombe",
+        "Dombe Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348896,
+        "wk:page":"Dombe_Grande"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dcd2dd0888a9b2ec2138a8a199fbf1f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209629039
+        }
+    ],
+    "wof:id":1209629039,
+    "wof:lastmodified":1537584744,
+    "wof:name":"Dombe Grande",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.1025,
+    -12.95167,
+    13.1025,
+    -12.95167
+],
+  "geometry": {"coordinates":[13.1025,-12.95167],"type":"Point"}
+}

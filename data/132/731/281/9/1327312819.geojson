@@ -1,0 +1,67 @@
+{
+  "id": 1327312819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03333,-14.41667,21.03333,-14.41667",
+    "geom:latitude":-14.41667,
+    "geom:longitude":21.03333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Capua",
+    "gn:country_code":"AO",
+    "gn:dem":1241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876564,
+    "gn:latitude":-14.41667,
+    "gn:longitude":21.03333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Capua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876564
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5f4a809b81f6a6438a240a6ce2145c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1327312819,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1327312819,
+    "wof:lastmodified":1536852467,
+    "wof:name":"Capua",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03333,
+    -14.41667,
+    21.03333,
+    -14.41667
+],
+  "geometry": {"coordinates":[21.03333,-14.41667],"type":"Point"}
+}

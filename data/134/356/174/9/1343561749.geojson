@@ -1,0 +1,73 @@
+{
+  "id": 1343561749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06667,-16.56667,22.06667,-16.56667",
+    "geom:latitude":-16.56667,
+    "geom:longitude":22.06667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lumbamba",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876128,
+    "gn:latitude":-16.56667,
+    "gn:longitude":22.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lumbamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uamanda",
+        "Siwananda",
+        "Lumbamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876128
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"682230aa4af7ae3a953ceb23b6dd96cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799779,
+            "locality_id":1343561749,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1343561749,
+    "wof:lastmodified":1537584549,
+    "wof:name":"Lumbamba",
+    "wof:parent_id":1108799779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06667,
+    -16.56667,
+    22.06667,
+    -16.56667
+],
+  "geometry": {"coordinates":[22.06667,-16.56667],"type":"Point"}
+}

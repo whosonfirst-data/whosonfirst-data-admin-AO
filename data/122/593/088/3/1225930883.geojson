@@ -1,0 +1,67 @@
+{
+  "id": 1225930883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75775,-10.96508,17.75775,-10.96508",
+    "geom:latitude":-10.96508,
+    "geom:longitude":17.75775,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chicongo",
+    "gn:country_code":"AO",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900712,
+    "gn:latitude":-10.96508,
+    "gn:longitude":17.75775,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Chicongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900712
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"32ef2f66561a503266a00054c4f8f823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799651,
+            "locality_id":1225930883,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1225930883,
+    "wof:lastmodified":1536890542,
+    "wof:name":"Chicongo",
+    "wof:parent_id":1108799651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75775,
+    -10.96508,
+    17.75775,
+    -10.96508
+],
+  "geometry": {"coordinates":[17.75775,-10.96508],"type":"Point"}
+}

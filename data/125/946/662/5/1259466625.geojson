@@ -1,0 +1,67 @@
+{
+  "id": 1259466625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.28982,-10.71618,22.28982,-10.71618",
+    "geom:latitude":-10.71618,
+    "geom:longitude":22.28982,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Missao Velha",
+    "gn:country_code":"AO",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7863820,
+    "gn:latitude":-10.71618,
+    "gn:longitude":22.28982,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Miss\u00e3o Velha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863820
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"25f838dc4e9c1ddfb092ad7c75acaa13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1259466625,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1259466625,
+    "wof:lastmodified":1536882353,
+    "wof:name":"Missao Velha",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.28982,
+    -10.71618,
+    22.28982,
+    -10.71618
+],
+  "geometry": {"coordinates":[22.28982,-10.71618],"type":"Point"}
+}

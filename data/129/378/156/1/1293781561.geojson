@@ -1,0 +1,72 @@
+{
+  "id": 1293781561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18396,-11.22986,15.18396,-11.22986",
+    "geom:latitude":-11.22986,
+    "geom:longitude":15.18396,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quiondo Cassonga",
+    "gn:country_code":"AO",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3350393,
+    "gn:latitude":-11.22986,
+    "gn:longitude":15.18396,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quiondo Cassonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Cossonga",
+        "Cassonga",
+        "Quiondo Cassonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350393
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4cc258f872d22b0e24c819ebadaf2504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1293781561,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293781561,
+    "wof:lastmodified":1537584776,
+    "wof:name":"Quiondo Cassonga",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18396,
+    -11.22986,
+    15.18396,
+    -11.22986
+],
+  "geometry": {"coordinates":[15.18396,-11.22986],"type":"Point"}
+}

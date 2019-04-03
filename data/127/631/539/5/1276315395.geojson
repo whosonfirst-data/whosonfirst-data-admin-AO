@@ -1,0 +1,67 @@
+{
+  "id": 1276315395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66667,-6.23333,14.66667,-6.23333",
+    "geom:latitude":-6.23333,
+    "geom:longitude":14.66667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quizulo",
+    "gn:country_code":"AO",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237368,
+    "gn:latitude":-6.23333,
+    "gn:longitude":14.66667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quizulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237368
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0afd0c41460b819e30eb365abd2d39bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799899,
+            "locality_id":1276315395,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1276315395,
+    "wof:lastmodified":1536802742,
+    "wof:name":"Quizulo",
+    "wof:parent_id":1108799899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66667,
+    -6.23333,
+    14.66667,
+    -6.23333
+],
+  "geometry": {"coordinates":[14.66667,-6.23333],"type":"Point"}
+}

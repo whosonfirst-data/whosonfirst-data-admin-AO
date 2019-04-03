@@ -1,0 +1,72 @@
+{
+  "id": 1360305503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45927,-12.44595,15.45927,-12.44595",
+    "geom:latitude":-12.44595,
+    "geom:longitude":15.45927,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Caliueque Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350498,
+    "gn:latitude":-12.44595,
+    "gn:longitude":15.45927,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caliueque Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carivecua",
+        "Carioeque",
+        "Caliueque Segundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350498
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6efd2fde9f72dd887751f0283eeb88f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1360305503,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1360305503,
+    "wof:lastmodified":1537584778,
+    "wof:name":"Caliueque Segundo",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45927,
+    -12.44595,
+    15.45927,
+    -12.44595
+],
+  "geometry": {"coordinates":[15.45927,-12.44595],"type":"Point"}
+}

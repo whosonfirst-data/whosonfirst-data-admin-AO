@@ -1,0 +1,72 @@
+{
+  "id": 1226728713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.27529,-11.34663,21.27529,-11.34663",
+    "geom:latitude":-11.34663,
+    "geom:longitude":21.27529,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Calomba",
+    "gn:country_code":"AO",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875682,
+    "gn:latitude":-11.34663,
+    "gn:longitude":21.27529,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Calomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calamba",
+        "Calomba",
+        "Saulombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875682
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"064466b4632d82699b726f2529b694cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799791,
+            "locality_id":1226728713,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1226728713,
+    "wof:lastmodified":1537584534,
+    "wof:name":"Calomba",
+    "wof:parent_id":1108799791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.27529,
+    -11.34663,
+    21.27529,
+    -11.34663
+],
+  "geometry": {"coordinates":[21.27529,-11.34663],"type":"Point"}
+}

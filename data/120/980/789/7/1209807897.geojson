@@ -1,0 +1,67 @@
+{
+  "id": 1209807897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87619,-11.4942,14.87619,-11.4942",
+    "geom:latitude":-11.4942,
+    "geom:longitude":14.87619,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Songo",
+    "gn:country_code":"AO",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3346039,
+    "gn:latitude":-11.4942,
+    "gn:longitude":14.87619,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Songo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346039
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3f97e6d71830685c509c9b195e5a1305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1209807897,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1209807897,
+    "wof:lastmodified":1536387774,
+    "wof:name":"Songo",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87619,
+    -11.4942,
+    14.87619,
+    -11.4942
+],
+  "geometry": {"coordinates":[14.87619,-11.4942],"type":"Point"}
+}

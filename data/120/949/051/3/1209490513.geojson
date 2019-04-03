@@ -1,0 +1,61 @@
+{
+  "id": 1209490513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7275,-8.61333,13.7275,-8.61333",
+    "geom:latitude":-8.61333,
+    "geom:longitude":13.7275,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Morima",
+    "gn:country_code":"AO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591845,
+    "gn:latitude":-8.61333,
+    "gn:longitude":13.7275,
+    "gn:modification_date":"1998-05-29",
+    "gn:name":"Morima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591845
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ffeb0dfeef565ffb06c4049306ab02f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209490513
+        }
+    ],
+    "wof:id":1209490513,
+    "wof:lastmodified":1536285500,
+    "wof:name":"Morima",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7275,
+    -8.61333,
+    13.7275,
+    -8.61333
+],
+  "geometry": {"coordinates":[13.7275,-8.61333],"type":"Point"}
+}

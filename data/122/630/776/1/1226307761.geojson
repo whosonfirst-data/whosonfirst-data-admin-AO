@@ -1,0 +1,67 @@
+{
+  "id": 1226307761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40118,-8.74939,13.40118,-8.74939",
+    "geom:latitude":-8.74939,
+    "geom:longitude":13.40118,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Barra do Bengo",
+    "gn:country_code":"AO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591941,
+    "gn:latitude":-8.74939,
+    "gn:longitude":13.40118,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Barra do Bengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667669,
+        1108799945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591941
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d38a125f6c0341c7ab8b9698da4bf227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799945,
+            "locality_id":1226307761,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":1226307761,
+    "wof:lastmodified":1536843344,
+    "wof:name":"Barra do Bengo",
+    "wof:parent_id":1108799945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40118,
+    -8.74939,
+    13.40118,
+    -8.74939
+],
+  "geometry": {"coordinates":[13.40118,-8.74939],"type":"Point"}
+}

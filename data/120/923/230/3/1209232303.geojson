@@ -1,0 +1,66 @@
+{
+  "id": 1209232303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93333,-12.61667,14.93333,-12.61667",
+    "geom:latitude":-12.61667,
+    "geom:longitude":14.93333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Limite",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347966,
+    "gn:latitude":-12.61667,
+    "gn:longitude":14.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Limite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cambiete",
+        "Limite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347966
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"424bc91829ccb1d03b5421af24da28af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209232303
+        }
+    ],
+    "wof:id":1209232303,
+    "wof:lastmodified":1537584729,
+    "wof:name":"Limite",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93333,
+    -12.61667,
+    14.93333,
+    -12.61667
+],
+  "geometry": {"coordinates":[14.93333,-12.61667],"type":"Point"}
+}

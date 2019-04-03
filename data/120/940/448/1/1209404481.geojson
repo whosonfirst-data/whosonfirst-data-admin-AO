@@ -1,0 +1,66 @@
+{
+  "id": 1209404481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75,-14.91667,13.75,-14.91667",
+    "geom:latitude":-14.91667,
+    "geom:longitude":13.75,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Caculuvar",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351359,
+    "gn:latitude":-14.91667,
+    "gn:longitude":13.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caculuvar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coculovar",
+        "Caculuvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351359
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"984aa38eaa96f644c831d6c504a2fd94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209404481
+        }
+    ],
+    "wof:id":1209404481,
+    "wof:lastmodified":1537584795,
+    "wof:name":"Caculuvar",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75,
+    -14.91667,
+    13.75,
+    -14.91667
+],
+  "geometry": {"coordinates":[13.75,-14.91667],"type":"Point"}
+}

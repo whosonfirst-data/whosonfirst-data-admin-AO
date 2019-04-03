@@ -1,0 +1,67 @@
+{
+  "id": 1242950255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.69688,-8.73316,16.69688,-8.73316",
+    "geom:latitude":-8.73316,
+    "geom:longitude":16.69688,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Muta Mbandi",
+    "gn:country_code":"AO",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7757891,
+    "gn:latitude":-8.73316,
+    "gn:longitude":16.69688,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muta Mb\u00e2ndi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7757891
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9fd5993322dd2df46b6ed52be3dcbebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1242950255,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1242950255,
+    "wof:lastmodified":1537022972,
+    "wof:name":"Muta Mbandi",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69688,
+    -8.73316,
+    16.69688,
+    -8.73316
+],
+  "geometry": {"coordinates":[16.69688,-8.73316],"type":"Point"}
+}

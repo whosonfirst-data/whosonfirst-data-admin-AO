@@ -1,0 +1,61 @@
+{
+  "id": 1209498033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28333,-7.46667,15.28333,-7.46667",
+    "geom:latitude":-7.46667,
+    "geom:longitude":15.28333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quinzanze",
+    "gn:country_code":"AO",
+    "gn:dem":1197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237843,
+    "gn:latitude":-7.46667,
+    "gn:longitude":15.28333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quinzanze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237843
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ac8598a7d1fe02176b0de0d9372fc1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209498033
+        }
+    ],
+    "wof:id":1209498033,
+    "wof:lastmodified":1536285273,
+    "wof:name":"Quinzanze",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28333,
+    -7.46667,
+    15.28333,
+    -7.46667
+],
+  "geometry": {"coordinates":[15.28333,-7.46667],"type":"Point"}
+}

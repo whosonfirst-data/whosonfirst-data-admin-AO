@@ -1,0 +1,61 @@
+{
+  "id": 1209685363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4874,-5.88421,13.4874,-5.88421",
+    "geom:latitude":-5.88421,
+    "geom:longitude":13.4874,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quinguvo",
+    "gn:country_code":"AO",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7644652,
+    "gn:latitude":-5.88421,
+    "gn:longitude":13.4874,
+    "gn:modification_date":"2011-01-05",
+    "gn:name":"Quinguvo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7644652
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7cee4b7759729998cf143966354d0855",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209685363
+        }
+    ],
+    "wof:id":1209685363,
+    "wof:lastmodified":1536279430,
+    "wof:name":"Quinguvo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4874,
+    -5.88421,
+    13.4874,
+    -5.88421
+],
+  "geometry": {"coordinates":[13.4874,-5.88421],"type":"Point"}
+}

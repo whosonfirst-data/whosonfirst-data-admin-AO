@@ -1,0 +1,61 @@
+{
+  "id": 1209507679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,-11.91667,15.35,-11.91667",
+    "geom:latitude":-11.91667,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chissaca",
+    "gn:country_code":"AO",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349583,
+    "gn:latitude":-11.91667,
+    "gn:longitude":15.35,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chissaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349583
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8c4fa6185d42ec71168612cccf4ff35b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209507679
+        }
+    ],
+    "wof:id":1209507679,
+    "wof:lastmodified":1536284982,
+    "wof:name":"Chissaca",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    -11.91667,
+    15.35,
+    -11.91667
+],
+  "geometry": {"coordinates":[15.35,-11.91667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259977137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23333,-11.83333,15.23333,-11.83333",
+    "geom:latitude":-11.83333,
+    "geom:longitude":15.23333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chilaletende",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349866,
+    "gn:latitude":-11.83333,
+    "gn:longitude":15.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chil\u00e1letende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chat\u00f3lica",
+        "Chil\u00e1letende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349866
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"27b57c73cc38c4fb947082ec0b28aace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1259977137,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259977137,
+    "wof:lastmodified":1537584764,
+    "wof:name":"Chilaletende",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23333,
+    -11.83333,
+    15.23333,
+    -11.83333
+],
+  "geometry": {"coordinates":[15.23333,-11.83333],"type":"Point"}
+}

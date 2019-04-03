@@ -1,0 +1,67 @@
+{
+  "id": 1259501145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78664,-12.49795,14.78664,-12.49795",
+    "geom:latitude":-12.49795,
+    "geom:longitude":14.78664,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sezalema",
+    "gn:country_code":"AO",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7903055,
+    "gn:latitude":-12.49795,
+    "gn:longitude":14.78664,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Sezalema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903055
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fa71dbc2aa07f27efeea3f329b9113e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799737,
+            "locality_id":1259501145,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1259501145,
+    "wof:lastmodified":1536832402,
+    "wof:name":"Sezalema",
+    "wof:parent_id":1108799737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78664,
+    -12.49795,
+    14.78664,
+    -12.49795
+],
+  "geometry": {"coordinates":[14.78664,-12.49795],"type":"Point"}
+}

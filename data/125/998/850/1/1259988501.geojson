@@ -1,0 +1,72 @@
+{
+  "id": 1259988501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83333,-11.51667,17.83333,-11.51667",
+    "geom:latitude":-11.51667,
+    "geom:longitude":17.83333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chimuanga",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349769,
+    "gn:latitude":-11.51667,
+    "gn:longitude":17.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chimuanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimuang",
+        "Chimuanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349769
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"381bf9ce946f8882036d9dd48ee74bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799719,
+            "locality_id":1259988501,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1259988501,
+    "wof:lastmodified":1537584762,
+    "wof:name":"Chimuanga",
+    "wof:parent_id":1108799719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83333,
+    -11.51667,
+    17.83333,
+    -11.51667
+],
+  "geometry": {"coordinates":[17.83333,-11.51667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326507213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91399,-9.04795,15.91399,-9.04795",
+    "geom:latitude":-9.04795,
+    "geom:longitude":15.91399,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Heji ia Ngombe",
+    "gn:country_code":"AO",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769132,
+    "gn:latitude":-9.04795,
+    "gn:longitude":15.91399,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Heji i\u00e1 Ngombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769132
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"544b5ebb0d618eaa8ecd1a61c1fe4058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1326507213,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1326507213,
+    "wof:lastmodified":1537019300,
+    "wof:name":"Heji ia Ngombe",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91399,
+    -9.04795,
+    15.91399,
+    -9.04795
+],
+  "geometry": {"coordinates":[15.91399,-9.04795],"type":"Point"}
+}

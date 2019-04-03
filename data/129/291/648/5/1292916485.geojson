@@ -1,0 +1,67 @@
+{
+  "id": 1292916485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53333,-10.93333,16.53333,-10.93333",
+    "geom:latitude":-10.93333,
+    "geom:longitude":16.53333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Urimba",
+    "gn:country_code":"AO",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3345606,
+    "gn:latitude":-10.93333,
+    "gn:longitude":16.53333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Urimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345606
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"714f6b7280ad59f1b9594a5d232ed5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1292916485,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1292916485,
+    "wof:lastmodified":1536613687,
+    "wof:name":"Urimba",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53333,
+    -10.93333,
+    16.53333,
+    -10.93333
+],
+  "geometry": {"coordinates":[16.53333,-10.93333],"type":"Point"}
+}

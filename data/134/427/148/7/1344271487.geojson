@@ -1,0 +1,72 @@
+{
+  "id": 1344271487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43722,-12.67833,13.43722,-12.67833",
+    "geom:latitude":-12.67833,
+    "geom:longitude":13.43722,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Capurulo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350539,
+    "gn:latitude":-12.67833,
+    "gn:longitude":13.43722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Capurulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lengue",
+        "Capurulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350539
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"85431e9466d6fb487051cb972322e726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799959,
+            "locality_id":1344271487,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1344271487,
+    "wof:lastmodified":1537584779,
+    "wof:name":"Capurulo",
+    "wof:parent_id":1108799959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.43722,
+    -12.67833,
+    13.43722,
+    -12.67833
+],
+  "geometry": {"coordinates":[13.43722,-12.67833],"type":"Point"}
+}

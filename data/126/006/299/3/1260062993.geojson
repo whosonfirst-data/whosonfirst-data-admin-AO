@@ -1,0 +1,67 @@
+{
+  "id": 1260062993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17216,-8.13995,15.17216,-8.13995",
+    "geom:latitude":-8.13995,
+    "geom:longitude":15.17216,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Catulo",
+    "gn:country_code":"AO",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242106,
+    "gn:latitude":-8.13995,
+    "gn:longitude":15.17216,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Catulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242106
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4a0f8c146a209c39ea2ad79d9b67ea28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799843,
+            "locality_id":1260062993,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1260062993,
+    "wof:lastmodified":1537016853,
+    "wof:name":"Catulo",
+    "wof:parent_id":1108799843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17216,
+    -8.13995,
+    15.17216,
+    -8.13995
+],
+  "geometry": {"coordinates":[15.17216,-8.13995],"type":"Point"}
+}

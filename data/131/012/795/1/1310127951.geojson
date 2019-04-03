@@ -1,0 +1,67 @@
+{
+  "id": 1310127951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40065,-10.57041,15.40065,-10.57041",
+    "geom:latitude":-10.57041,
+    "geom:longitude":15.40065,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hulundo",
+    "gn:country_code":"AO",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7867109,
+    "gn:latitude":-10.57041,
+    "gn:longitude":15.40065,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Hulundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867109
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"20eb9b7c1f4c145748231013c0007a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1310127951,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310127951,
+    "wof:lastmodified":1536963989,
+    "wof:name":"Hulundo",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40065,
+    -10.57041,
+    15.40065,
+    -10.57041
+],
+  "geometry": {"coordinates":[15.40065,-10.57041],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276409623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45155,-6.09918,14.45155,-6.09918",
+    "geom:latitude":-6.09918,
+    "geom:longitude":14.45155,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Undze",
+    "gn:country_code":"AO",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236548,
+    "gn:latitude":-6.09918,
+    "gn:longitude":14.45155,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Undze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unza",
+        "Unze",
+        "Undze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236548
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"49325097e5a99dd15895dffe967bf927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799899,
+            "locality_id":1276409623,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1276409623,
+    "wof:lastmodified":1537584571,
+    "wof:name":"Undze",
+    "wof:parent_id":1108799899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45155,
+    -6.09918,
+    14.45155,
+    -6.09918
+],
+  "geometry": {"coordinates":[14.45155,-6.09918],"type":"Point"}
+}

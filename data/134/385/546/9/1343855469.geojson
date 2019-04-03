@@ -1,0 +1,67 @@
+{
+  "id": 1343855469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04842,-11.11533,15.04842,-11.11533",
+    "geom:latitude":-11.11533,
+    "geom:longitude":15.04842,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quimema",
+    "gn:country_code":"AO",
+    "gn:dem":1288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7860876,
+    "gn:latitude":-11.11533,
+    "gn:longitude":15.04842,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quimema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860876
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ff2a3cc4d761f6be93f66b06aa7d77ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1343855469,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343855469,
+    "wof:lastmodified":1536673810,
+    "wof:name":"Quimema",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04842,
+    -11.11533,
+    15.04842,
+    -11.11533
+],
+  "geometry": {"coordinates":[15.04842,-11.11533],"type":"Point"}
+}

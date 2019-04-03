@@ -1,0 +1,67 @@
+{
+  "id": 1259788323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06174,-9.68611,15.06174,-9.68611",
+    "geom:latitude":-9.68611,
+    "geom:longitude":15.06174,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quindongo",
+    "gn:country_code":"AO",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2237985,
+    "gn:latitude":-9.68611,
+    "gn:longitude":15.06174,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Quindongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237985
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b5c4b60480f578f61885cb03986e7342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799789,
+            "locality_id":1259788323,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1259788323,
+    "wof:lastmodified":1536916673,
+    "wof:name":"Quindongo",
+    "wof:parent_id":1108799789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06174,
+    -9.68611,
+    15.06174,
+    -9.68611
+],
+  "geometry": {"coordinates":[15.06174,-9.68611],"type":"Point"}
+}

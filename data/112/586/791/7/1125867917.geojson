@@ -1,0 +1,130 @@
+{
+  "id": 1125867917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4925,-14.91717,13.4925,-14.91717",
+    "geom:latitude":-14.91717,
+    "geom:longitude":13.4925,
+    "gn:gn_country":"AO",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":102541,
+    "gn:population":102541,
+    "iso:country":"AO",
+    "lbl:latitude":-14.91717,
+    "lbl:longitude":13.4925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0628\u0627\u0646\u063a\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0443\u0431\u0430\u043d\u0433\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Lubango"
+    ],
+    "name:eng_x_preferred":[
+        "Lubango"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0628\u0646\u06af\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Lubango"
+    ],
+    "name:fra_x_preferred":[
+        "Lubango"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30d0\u30f3\u30b4"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\ubc29\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Lubangas"
+    ],
+    "name:por_x_historical":[
+        "S\u00e1 da Bandeira"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e1 da Bandeira"
+    ],
+    "name:por_x_variant":[
+        "Lubango"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0431\u0430\u043d\u0433\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0431\u0430\u043d\u0433\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u73ed\u6208"
+    ],
+    "qs_pg:aaroncc":"AO",
+    "qs_pg:gn_country":"AO",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":3347762,
+    "qs_pg:gn_pop":102541,
+    "qs_pg:name":"Lubango",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":95386,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347762,
+        "qs_pg:id":95386
+    },
+    "wof:country":"AO",
+    "wof:created":1497294138,
+    "wof:geomhash":"922914dcfe787f3f63bdbaf710c625db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799869,
+            "locality_id":1125867917,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1125867917,
+    "wof:lastmodified":1534379078,
+    "wof:name":"Lubango",
+    "wof:parent_id":1108799869,
+    "wof:placetype":"locality",
+    "wof:population":102541,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[
+        1141909315
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4925,
+    -14.91717,
+    13.4925,
+    -14.91717
+],
+  "geometry": {"coordinates":[13.4925,-14.91717],"type":"Point"}
+}

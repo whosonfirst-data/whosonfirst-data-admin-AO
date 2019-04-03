@@ -1,0 +1,67 @@
+{
+  "id": 1276654731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85844,-12.08318,14.85844,-12.08318",
+    "geom:latitude":-12.08318,
+    "geom:longitude":14.85844,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pessera Palanca",
+    "gn:country_code":"AO",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7902741,
+    "gn:latitude":-12.08318,
+    "gn:longitude":14.85844,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Pessera Palanca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7902741
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"caf51c78f32fa9c42e97f5fb9b259ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1276654731,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276654731,
+    "wof:lastmodified":1536844085,
+    "wof:name":"Pessera Palanca",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85844,
+    -12.08318,
+    14.85844,
+    -12.08318
+],
+  "geometry": {"coordinates":[14.85844,-12.08318],"type":"Point"}
+}

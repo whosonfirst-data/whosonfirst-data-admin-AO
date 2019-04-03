@@ -1,0 +1,67 @@
+{
+  "id": 1193033767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66667,-12.76667,14.66667,-12.76667",
+    "geom:latitude":-12.76667,
+    "geom:longitude":14.66667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Caquele",
+    "gn:country_code":"AO",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350533,
+    "gn:latitude":-12.76667,
+    "gn:longitude":14.66667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Caquele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350533
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ac51d8dad74afe9c7919b58281591854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799707,
+            "locality_id":1193033767,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1193033767,
+    "wof:lastmodified":1536383239,
+    "wof:name":"Caquele",
+    "wof:parent_id":1108799707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66667,
+    -12.76667,
+    14.66667,
+    -12.76667
+],
+  "geometry": {"coordinates":[14.66667,-12.76667],"type":"Point"}
+}

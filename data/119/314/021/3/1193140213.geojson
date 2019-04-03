@@ -1,0 +1,67 @@
+{
+  "id": 1193140213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17233,-11.98782,17.17233,-11.98782",
+    "geom:latitude":-11.98782,
+    "geom:longitude":17.17233,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Saiaio",
+    "gn:country_code":"AO",
+    "gn:dem":1560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901925,
+    "gn:latitude":-11.98782,
+    "gn:longitude":17.17233,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Saiaio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901925
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"02d1b68f12adff72a216e58b5f723415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799633,
+            "locality_id":1193140213,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1193140213,
+    "wof:lastmodified":1536366529,
+    "wof:name":"Saiaio",
+    "wof:parent_id":1108799633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17233,
+    -11.98782,
+    17.17233,
+    -11.98782
+],
+  "geometry": {"coordinates":[17.17233,-11.98782],"type":"Point"}
+}

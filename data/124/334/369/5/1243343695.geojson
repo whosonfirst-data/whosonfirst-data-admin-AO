@@ -1,0 +1,67 @@
+{
+  "id": 1243343695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3625,-9.60111,16.3625,-9.60111",
+    "geom:latitude":-9.60111,
+    "geom:longitude":16.3625,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Camissoge",
+    "gn:country_code":"AO",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592287,
+    "gn:latitude":-9.60111,
+    "gn:longitude":16.3625,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Camissoge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592287
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"db012e5d804fffdbcd0ab4f09708b9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1243343695,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1243343695,
+    "wof:lastmodified":1536953852,
+    "wof:name":"Camissoge",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3625,
+    -9.60111,
+    16.3625,
+    -9.60111
+],
+  "geometry": {"coordinates":[16.3625,-9.60111],"type":"Point"}
+}

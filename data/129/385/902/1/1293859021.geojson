@@ -1,0 +1,67 @@
+{
+  "id": 1293859021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,-9.55,14.11667,-9.55",
+    "geom:latitude":-9.55,
+    "geom:longitude":14.11667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Canzongo",
+    "gn:country_code":"AO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242483,
+    "gn:latitude":-9.55,
+    "gn:longitude":14.11667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Canzongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242483
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c990c079be6e062c0c6ad084ca26452b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1293859021,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1293859021,
+    "wof:lastmodified":1536748467,
+    "wof:name":"Canzongo",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    -9.55,
+    14.11667,
+    -9.55
+],
+  "geometry": {"coordinates":[14.11667,-9.55],"type":"Point"}
+}

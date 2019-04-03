@@ -1,0 +1,67 @@
+{
+  "id": 1242944507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89027,-8.68835,17.89027,-8.68835",
+    "geom:latitude":-8.68835,
+    "geom:longitude":17.89027,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cangulungo",
+    "gn:country_code":"AO",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768290,
+    "gn:latitude":-8.68835,
+    "gn:longitude":17.89027,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cangulungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768290
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"85fae8fcce844a255b848d3ce4528c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1242944507,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1242944507,
+    "wof:lastmodified":1537030985,
+    "wof:name":"Cangulungo",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89027,
+    -8.68835,
+    17.89027,
+    -8.68835
+],
+  "geometry": {"coordinates":[17.89027,-8.68835],"type":"Point"}
+}

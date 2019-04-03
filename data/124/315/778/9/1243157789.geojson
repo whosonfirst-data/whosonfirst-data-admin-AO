@@ -1,0 +1,67 @@
+{
+  "id": 1243157789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32198,-12.05297,15.32198,-12.05297",
+    "geom:latitude":-12.05297,
+    "geom:longitude":15.32198,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ucuma",
+    "gn:country_code":"AO",
+    "gn:dem":1449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537437,
+    "gn:latitude":-12.05297,
+    "gn:longitude":15.32198,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ucuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537437
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8e8b5b2dec2652795810f8bfdafc5b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1243157789,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1243157789,
+    "wof:lastmodified":1536725121,
+    "wof:name":"Ucuma",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32198,
+    -12.05297,
+    15.32198,
+    -12.05297
+],
+  "geometry": {"coordinates":[15.32198,-12.05297],"type":"Point"}
+}

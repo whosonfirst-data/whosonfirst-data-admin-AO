@@ -1,0 +1,70 @@
+{
+  "id": 1259670795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33689,-11.09971,18.33689,-11.09971",
+    "geom:latitude":-11.09971,
+    "geom:longitude":18.33689,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Samununga",
+    "gn:country_code":"AO",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7772476,
+    "gn:latitude":-11.09971,
+    "gn:longitude":18.33689,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Samununga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tehirili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7772476
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cb26fdfe4876725b074de8dc2b9fe2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799651,
+            "locality_id":1259670795,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1259670795,
+    "wof:lastmodified":1537584810,
+    "wof:name":"Samununga",
+    "wof:parent_id":1108799651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33689,
+    -11.09971,
+    18.33689,
+    -11.09971
+],
+  "geometry": {"coordinates":[18.33689,-11.09971],"type":"Point"}
+}

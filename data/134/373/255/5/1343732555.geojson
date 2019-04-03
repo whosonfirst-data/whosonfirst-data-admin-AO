@@ -1,0 +1,67 @@
+{
+  "id": 1343732555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1,-6.1,15.1,-6.1",
+    "geom:latitude":-6.1,
+    "geom:longitude":15.1,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dande",
+    "gn:country_code":"AO",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241487,
+    "gn:latitude":-6.1,
+    "gn:longitude":15.1,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Dande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241487
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8c3194eb5a3bac32b48caea20d620d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1343732555,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343732555,
+    "wof:lastmodified":1536850104,
+    "wof:name":"Dande",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1,
+    -6.1,
+    15.1,
+    -6.1
+],
+  "geometry": {"coordinates":[15.1,-6.1],"type":"Point"}
+}

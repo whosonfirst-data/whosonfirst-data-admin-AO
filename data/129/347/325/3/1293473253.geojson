@@ -1,0 +1,67 @@
+{
+  "id": 1293473253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23843,-10.68718,22.23843,-10.68718",
+    "geom:latitude":-10.68718,
+    "geom:longitude":22.23843,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Quatro de Fevereiro",
+    "gn:country_code":"AO",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7863797,
+    "gn:latitude":-10.68718,
+    "gn:longitude":22.23843,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quatro de Fevereiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863797
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"486f798bd05d3c2412ebbac52bf3a9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1293473253,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1293473253,
+    "wof:lastmodified":1536807365,
+    "wof:name":"Quatro de Fevereiro",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23843,
+    -10.68718,
+    22.23843,
+    -10.68718
+],
+  "geometry": {"coordinates":[22.23843,-10.68718],"type":"Point"}
+}

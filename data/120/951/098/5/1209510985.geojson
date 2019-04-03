@@ -1,0 +1,61 @@
+{
+  "id": 1209510985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02187,-14.683,16.02187,-14.683",
+    "geom:latitude":-14.683,
+    "geom:longitude":16.02187,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cuandja A",
+    "gn:country_code":"AO",
+    "gn:dem":1445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906690,
+    "gn:latitude":-14.683,
+    "gn:longitude":16.02187,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cuandja A",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906690
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"30d144c35f37ba64f8c6b709d1230a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209510985
+        }
+    ],
+    "wof:id":1209510985,
+    "wof:lastmodified":1536284882,
+    "wof:name":"Cuandja A",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02187,
+    -14.683,
+    16.02187,
+    -14.683
+],
+  "geometry": {"coordinates":[16.02187,-14.683],"type":"Point"}
+}

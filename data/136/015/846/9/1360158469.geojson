@@ -1,0 +1,67 @@
+{
+  "id": 1360158469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81667,-11.86667,22.81667,-11.86667",
+    "geom:latitude":-11.86667,
+    "geom:longitude":22.81667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jamba",
+    "gn:country_code":"AO",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876250,
+    "gn:latitude":-11.86667,
+    "gn:longitude":22.81667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Jamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876250
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9efe94a019f94dc8deb9d394b91176e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1360158469,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1360158469,
+    "wof:lastmodified":1536838878,
+    "wof:name":"Jamba",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81667,
+    -11.86667,
+    22.81667,
+    -11.86667
+],
+  "geometry": {"coordinates":[22.81667,-11.86667],"type":"Point"}
+}

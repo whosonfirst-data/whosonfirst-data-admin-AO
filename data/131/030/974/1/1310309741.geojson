@@ -1,0 +1,67 @@
+{
+  "id": 1310309741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31597,-9.12772,15.31597,-9.12772",
+    "geom:latitude":-9.12772,
+    "geom:longitude":15.31597,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cacolombolo",
+    "gn:country_code":"AO",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7769449,
+    "gn:latitude":-9.12772,
+    "gn:longitude":15.31597,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cacolombolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769449
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4493fff46f041bf0a5ebf4c6ebe4138d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799905,
+            "locality_id":1310309741,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1310309741,
+    "wof:lastmodified":1536702028,
+    "wof:name":"Cacolombolo",
+    "wof:parent_id":1108799905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31597,
+    -9.12772,
+    15.31597,
+    -9.12772
+],
+  "geometry": {"coordinates":[15.31597,-9.12772],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326510215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73362,-9.46508,15.73362,-9.46508",
+    "geom:latitude":-9.46508,
+    "geom:longitude":15.73362,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cabengo Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243278,
+    "gn:latitude":-9.46508,
+    "gn:longitude":15.73362,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cabengo Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243278
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c691252d9d218b1f90c9963db04c13d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1326510215,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1326510215,
+    "wof:lastmodified":1537584674,
+    "wof:name":"Cabengo Primeiro",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73362,
+    -9.46508,
+    15.73362,
+    -9.46508
+],
+  "geometry": {"coordinates":[15.73362,-9.46508],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209212677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49465,-10.57423,14.49465,-10.57423",
+    "geom:latitude":-10.57423,
+    "geom:longitude":14.49465,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Calucanda",
+    "gn:country_code":"AO",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866223,
+    "gn:latitude":-10.57423,
+    "gn:longitude":14.49465,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Calucanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866223
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b8528a5d3544edbed682930e48cfc8a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209212677
+        }
+    ],
+    "wof:id":1209212677,
+    "wof:lastmodified":1536294238,
+    "wof:name":"Calucanda",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49465,
+    -10.57423,
+    14.49465,
+    -10.57423
+],
+  "geometry": {"coordinates":[14.49465,-10.57423],"type":"Point"}
+}

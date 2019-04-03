@@ -1,0 +1,67 @@
+{
+  "id": 1243386413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35878,-8.19164,15.35878,-8.19164",
+    "geom:latitude":-8.19164,
+    "geom:longitude":15.35878,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quipupa",
+    "gn:country_code":"AO",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237725,
+    "gn:latitude":-8.19164,
+    "gn:longitude":15.35878,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Quipupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237725
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"32aa086bc63c7d8c231890afeb4c5f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1243386413,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1243386413,
+    "wof:lastmodified":1536891847,
+    "wof:name":"Quipupa",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35878,
+    -8.19164,
+    15.35878,
+    -8.19164
+],
+  "geometry": {"coordinates":[15.35878,-8.19164],"type":"Point"}
+}

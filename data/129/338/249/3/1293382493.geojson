@@ -1,0 +1,67 @@
+{
+  "id": 1293382493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51358,-10.72427,14.51358,-10.72427",
+    "geom:latitude":-10.72427,
+    "geom:longitude":14.51358,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Catamba de Xariaia",
+    "gn:country_code":"AO",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865623,
+    "gn:latitude":-10.72427,
+    "gn:longitude":14.51358,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Catamba de Xariaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865623
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f8289c436f3ea05290c4a50ea14eabbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799827,
+            "locality_id":1293382493,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293382493,
+    "wof:lastmodified":1536939139,
+    "wof:name":"Catamba de Xariaia",
+    "wof:parent_id":1108799827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51358,
+    -10.72427,
+    14.51358,
+    -10.72427
+],
+  "geometry": {"coordinates":[14.51358,-10.72427],"type":"Point"}
+}

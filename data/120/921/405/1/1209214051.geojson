@@ -1,0 +1,67 @@
+{
+  "id": 1209214051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36667,-9.51667,14.36667,-9.51667",
+    "geom:latitude":-9.51667,
+    "geom:longitude":14.36667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Fazenda Calengue",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241267,
+    "gn:latitude":-9.51667,
+    "gn:longitude":14.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fazenda Calengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calenque",
+        "Calengue",
+        "Fazenda Calengue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241267
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0c357a5c672cd98cab2265da5248fc13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209214051
+        }
+    ],
+    "wof:id":1209214051,
+    "wof:lastmodified":1537584643,
+    "wof:name":"Fazenda Calengue",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36667,
+    -9.51667,
+    14.36667,
+    -9.51667
+],
+  "geometry": {"coordinates":[14.36667,-9.51667],"type":"Point"}
+}

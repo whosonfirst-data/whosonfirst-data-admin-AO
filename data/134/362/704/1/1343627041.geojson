@@ -1,0 +1,67 @@
+{
+  "id": 1343627041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26804,-9.65805,14.26804,-9.65805",
+    "geom:latitude":-9.65805,
+    "geom:longitude":14.26804,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ndalangombe",
+    "gn:country_code":"AO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307472,
+    "gn:latitude":-9.65805,
+    "gn:longitude":14.26804,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ndalangombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307472
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a9e045b035e2f4d8d9f8089f9b7bd41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1343627041,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1343627041,
+    "wof:lastmodified":1537002576,
+    "wof:name":"Ndalangombe",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26804,
+    -9.65805,
+    14.26804,
+    -9.65805
+],
+  "geometry": {"coordinates":[14.26804,-9.65805],"type":"Point"}
+}

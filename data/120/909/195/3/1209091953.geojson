@@ -1,0 +1,67 @@
+{
+  "id": 1209091953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06667,-11.96667,16.06667,-11.96667",
+    "geom:latitude":-11.96667,
+    "geom:longitude":16.06667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Colembe",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349366,
+    "gn:latitude":-11.96667,
+    "gn:longitude":16.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Colembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calembe",
+        "Calemba",
+        "Colembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349366
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6c0bae11d2106f8dc7198058b012e1fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209091953
+        }
+    ],
+    "wof:id":1209091953,
+    "wof:lastmodified":1537584751,
+    "wof:name":"Colembe",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06667,
+    -11.96667,
+    16.06667,
+    -11.96667
+],
+  "geometry": {"coordinates":[16.06667,-11.96667],"type":"Point"}
+}

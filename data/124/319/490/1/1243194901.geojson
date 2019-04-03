@@ -1,0 +1,67 @@
+{
+  "id": 1243194901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1136,-8.61681,15.1136,-8.61681",
+    "geom:latitude":-8.61681,
+    "geom:longitude":15.1136,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aldeia Nova",
+    "gn:country_code":"AO",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243927,
+    "gn:latitude":-8.61681,
+    "gn:longitude":15.1136,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Alde\u00eda Nova",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243927
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"97eef16e5f0d08db0e9e2a7a6dc5a5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799619,
+            "locality_id":1243194901,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1243194901,
+    "wof:lastmodified":1536671173,
+    "wof:name":"Aldeia Nova",
+    "wof:parent_id":1108799619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1136,
+    -8.61681,
+    15.1136,
+    -8.61681
+],
+  "geometry": {"coordinates":[15.1136,-8.61681],"type":"Point"}
+}

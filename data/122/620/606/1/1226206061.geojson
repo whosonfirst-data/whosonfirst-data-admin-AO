@@ -1,0 +1,73 @@
+{
+  "id": 1226206061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47734,-8.65937,18.47734,-8.65937",
+    "geom:latitude":-8.65937,
+    "geom:longitude":18.47734,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tchimbongi",
+    "gn:country_code":"AO",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238152,
+    "gn:latitude":-8.65937,
+    "gn:longitude":18.47734,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchimbongi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimbonge",
+        "Quimbange",
+        "Quimbonge",
+        "Tchimbongi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238152
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a667c7a1abb2c02f126e40378caa1a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799661,
+            "locality_id":1226206061,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1226206061,
+    "wof:lastmodified":1537584598,
+    "wof:name":"Tchimbongi",
+    "wof:parent_id":1108799661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47734,
+    -8.65937,
+    18.47734,
+    -8.65937
+],
+  "geometry": {"coordinates":[18.47734,-8.65937],"type":"Point"}
+}

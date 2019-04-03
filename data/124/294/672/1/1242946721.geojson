@@ -1,0 +1,67 @@
+{
+  "id": 1242946721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20448,-10.77503,22.20448,-10.77503",
+    "geom:latitude":-10.77503,
+    "geom:longitude":22.20448,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cafula Sapassa",
+    "gn:country_code":"AO",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7863874,
+    "gn:latitude":-10.77503,
+    "gn:longitude":22.20448,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cafula Sapassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863874
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"756489dfa1bd77371183e0fdafc77139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1242946721,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1242946721,
+    "wof:lastmodified":1537027937,
+    "wof:name":"Cafula Sapassa",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20448,
+    -10.77503,
+    22.20448,
+    -10.77503
+],
+  "geometry": {"coordinates":[22.20448,-10.77503],"type":"Point"}
+}

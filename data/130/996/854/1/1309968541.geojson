@@ -1,0 +1,67 @@
+{
+  "id": 1309968541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7,-8.05,14.7,-8.05",
+    "geom:latitude":-8.05,
+    "geom:longitude":14.7,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Capele",
+    "gn:country_code":"AO",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242437,
+    "gn:latitude":-8.05,
+    "gn:longitude":14.7,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Capele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242437
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1bdea7ea85223e36050f6709970fb358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799629,
+            "locality_id":1309968541,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1309968541,
+    "wof:lastmodified":1536696901,
+    "wof:name":"Capele",
+    "wof:parent_id":1108799629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7,
+    -8.05,
+    14.7,
+    -8.05
+],
+  "geometry": {"coordinates":[14.7,-8.05],"type":"Point"}
+}

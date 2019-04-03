@@ -1,0 +1,72 @@
+{
+  "id": 1276344337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7,-13.43333,16.7,-13.43333",
+    "geom:latitude":-13.43333,
+    "geom:longitude":16.7,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chissoca",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349555,
+    "gn:latitude":-13.43333,
+    "gn:longitude":16.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chissoca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quissoca",
+        "Chissoca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349555
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0d3008b5948b149d8ae2d13c0142eb9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799947,
+            "locality_id":1276344337,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1276344337,
+    "wof:lastmodified":1537584755,
+    "wof:name":"Chissoca",
+    "wof:parent_id":1108799947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7,
+    -13.43333,
+    16.7,
+    -13.43333
+],
+  "geometry": {"coordinates":[16.7,-13.43333],"type":"Point"}
+}

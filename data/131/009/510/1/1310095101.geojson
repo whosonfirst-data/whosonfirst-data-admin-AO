@@ -1,0 +1,67 @@
+{
+  "id": 1310095101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96948,-14.54334,14.96948,-14.54334",
+    "geom:latitude":-14.54334,
+    "geom:longitude":14.96948,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hamuiela",
+    "gn:country_code":"AO",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7907745,
+    "gn:latitude":-14.54334,
+    "gn:longitude":14.96948,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Hamuiela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7907745
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b26b2667433d52e009bce5db6f56de98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799605,
+            "locality_id":1310095101,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1310095101,
+    "wof:lastmodified":1537010822,
+    "wof:name":"Hamuiela",
+    "wof:parent_id":1108799605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96948,
+    -14.54334,
+    14.96948,
+    -14.54334
+],
+  "geometry": {"coordinates":[14.96948,-14.54334],"type":"Point"}
+}

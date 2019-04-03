@@ -1,0 +1,67 @@
+{
+  "id": 1310390961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15271,-12.42781,15.15271,-12.42781",
+    "geom:latitude":-12.42781,
+    "geom:longitude":15.15271,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Moco",
+    "gn:country_code":"AO",
+    "gn:dem":1938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":8308575,
+    "gn:latitude":-12.42781,
+    "gn:longitude":15.15271,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"M\u00f4co",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308575
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d65b420e33a4e5117ebf741ea4effb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1310390961,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1310390961,
+    "wof:lastmodified":1537079089,
+    "wof:name":"Moco",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15271,
+    -12.42781,
+    15.15271,
+    -12.42781
+],
+  "geometry": {"coordinates":[15.15271,-12.42781],"type":"Point"}
+}

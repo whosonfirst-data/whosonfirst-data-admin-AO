@@ -1,0 +1,67 @@
+{
+  "id": 1193273377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89354,-10.23703,14.89354,-10.23703",
+    "geom:latitude":-10.23703,
+    "geom:longitude":14.89354,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Capanda",
+    "gn:country_code":"AO",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7859412,
+    "gn:latitude":-10.23703,
+    "gn:longitude":14.89354,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Capanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859412
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"10c5daff5500a9cce45f9766d8135408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1193273377,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1193273377,
+    "wof:lastmodified":1536368036,
+    "wof:name":"Capanda",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89354,
+    -10.23703,
+    14.89354,
+    -10.23703
+],
+  "geometry": {"coordinates":[14.89354,-10.23703],"type":"Point"}
+}

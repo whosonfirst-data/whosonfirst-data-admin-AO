@@ -1,0 +1,61 @@
+{
+  "id": 1209687367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68272,-9.12024,17.68272,-9.12024",
+    "geom:latitude":-9.12024,
+    "geom:longitude":17.68272,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cassua",
+    "gn:country_code":"AO",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785880,
+    "gn:latitude":-9.12024,
+    "gn:longitude":17.68272,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cassua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785880
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"35ae712e2c82c0f62ae7ef8add66e9ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209687367
+        }
+    ],
+    "wof:id":1209687367,
+    "wof:lastmodified":1536279364,
+    "wof:name":"Cassua",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68272,
+    -9.12024,
+    17.68272,
+    -9.12024
+],
+  "geometry": {"coordinates":[17.68272,-9.12024],"type":"Point"}
+}

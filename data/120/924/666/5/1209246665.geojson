@@ -1,0 +1,66 @@
+{
+  "id": 1209246665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76667,-9.33333,14.76667,-9.33333",
+    "geom:latitude":-9.33333,
+    "geom:longitude":14.76667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Roca Flor de Cazengo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237333,
+    "gn:latitude":-9.33333,
+    "gn:longitude":14.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ro\u00e7a Flor de Cazengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fazenda Salvaterra",
+        "Ro\u00e7a Flor de Cazengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237333
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3f810eeb4ea09cef7bb36ae952ea1871",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209246665
+        }
+    ],
+    "wof:id":1209246665,
+    "wof:lastmodified":1537584581,
+    "wof:name":"Roca Flor de Cazengo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76667,
+    -9.33333,
+    14.76667,
+    -9.33333
+],
+  "geometry": {"coordinates":[14.76667,-9.33333],"type":"Point"}
+}

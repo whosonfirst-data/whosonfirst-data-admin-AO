@@ -1,0 +1,76 @@
+{
+  "id": 1226433233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16667,-13.11667,15.16667,-13.11667",
+    "geom:latitude":-13.11667,
+    "geom:longitude":15.16667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Catabola",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350371,
+    "gn:latitude":-13.11667,
+    "gn:longitude":15.16667,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Catabola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u0431\u043e\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Cababola",
+        "Catabola",
+        "Catavola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350371
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fc85824456703112f4db870fc5784dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799831,
+            "locality_id":1226433233,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1226433233,
+    "wof:lastmodified":1537584775,
+    "wof:name":"Catabola",
+    "wof:parent_id":1108799831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16667,
+    -13.11667,
+    15.16667,
+    -13.11667
+],
+  "geometry": {"coordinates":[15.16667,-13.11667],"type":"Point"}
+}

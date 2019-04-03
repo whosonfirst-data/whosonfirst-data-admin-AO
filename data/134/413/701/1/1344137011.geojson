@@ -1,0 +1,67 @@
+{
+  "id": 1344137011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96667,-9.06667,15.96667,-9.06667",
+    "geom:latitude":-9.06667,
+    "geom:longitude":15.96667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Camata",
+    "gn:country_code":"AO",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242848,
+    "gn:latitude":-9.06667,
+    "gn:longitude":15.96667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Camata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242848
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f101c061b97b362b270d3dc8604a9739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1344137011,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1344137011,
+    "wof:lastmodified":1536765540,
+    "wof:name":"Camata",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96667,
+    -9.06667,
+    15.96667,
+    -9.06667
+],
+  "geometry": {"coordinates":[15.96667,-9.06667],"type":"Point"}
+}

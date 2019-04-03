@@ -1,0 +1,71 @@
+{
+  "id": 1343462663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5161,-12.31938,14.5161,-12.31938",
+    "geom:latitude":-12.31938,
+    "geom:longitude":14.5161,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chingongo",
+    "gn:country_code":"AO",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349728,
+    "gn:latitude":-12.31938,
+    "gn:longitude":14.5161,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chingongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchingongo",
+        "Chingongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349728
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fbdb1c21f6025f2786ccb90507b3e39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799737,
+            "locality_id":1343462663,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1343462663,
+    "wof:lastmodified":1537584760,
+    "wof:name":"Chingongo",
+    "wof:parent_id":1108799737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5161,
+    -12.31938,
+    14.5161,
+    -12.31938
+],
+  "geometry": {"coordinates":[14.5161,-12.31938],"type":"Point"}
+}

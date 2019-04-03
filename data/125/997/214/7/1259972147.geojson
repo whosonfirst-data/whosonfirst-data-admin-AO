@@ -1,0 +1,72 @@
+{
+  "id": 1259972147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23802,-11.45978,15.23802,-11.45978",
+    "geom:latitude":-11.45978,
+    "geom:longitude":15.23802,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cauanji",
+    "gn:country_code":"AO",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3350211,
+    "gn:latitude":-11.45978,
+    "gn:longitude":15.23802,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cauanji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Caundje",
+        "Cauenje",
+        "Cauanji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350211
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"afc83d9805c74189fcb8c9d929595da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1259972147,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259972147,
+    "wof:lastmodified":1537584772,
+    "wof:name":"Cauanji",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23802,
+    -11.45978,
+    15.23802,
+    -11.45978
+],
+  "geometry": {"coordinates":[15.23802,-11.45978],"type":"Point"}
+}

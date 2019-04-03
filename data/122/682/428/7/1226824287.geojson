@@ -1,0 +1,67 @@
+{
+  "id": 1226824287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76007,-8.76399,14.76007,-8.76399",
+    "geom:latitude":-8.76399,
+    "geom:longitude":14.76007,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cababa Tumbo",
+    "gn:country_code":"AO",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7764028,
+    "gn:latitude":-8.76399,
+    "gn:longitude":14.76007,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cababa Tumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764028
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7721e0249e3d0e18a0feb6f18c5e98ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799817,
+            "locality_id":1226824287,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1226824287,
+    "wof:lastmodified":1537096042,
+    "wof:name":"Cababa Tumbo",
+    "wof:parent_id":1108799817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76007,
+    -8.76399,
+    14.76007,
+    -8.76399
+],
+  "geometry": {"coordinates":[14.76007,-8.76399],"type":"Point"}
+}

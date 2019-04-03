@@ -1,0 +1,72 @@
+{
+  "id": 1209808137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33582,-10.64145,14.33582,-10.64145",
+    "geom:latitude":-10.64145,
+    "geom:longitude":14.33582,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quilenda",
+    "gn:country_code":"AO",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346561,
+    "gn:latitude":-10.64145,
+    "gn:longitude":14.33582,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quilenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quienda",
+        "Quilenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346561,
+        "wk:page":"Quilenda"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6fdb7000e8a2a2b96414db91608b6dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799949,
+            "locality_id":1209808137,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1209808137,
+    "wof:lastmodified":1537584707,
+    "wof:name":"Quilenda",
+    "wof:parent_id":1108799949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33582,
+    -10.64145,
+    14.33582,
+    -10.64145
+],
+  "geometry": {"coordinates":[14.33582,-10.64145],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209786735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51667,-13.63333,18.51667,-13.63333",
+    "geom:latitude":-13.63333,
+    "geom:longitude":18.51667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Salumana",
+    "gn:country_code":"AO",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346309,
+    "gn:latitude":-13.63333,
+    "gn:longitude":18.51667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Salumana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346309
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0b980d2cbfaceb786d60591edc24201f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799641,
+            "locality_id":1209786735,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1209786735,
+    "wof:lastmodified":1536396842,
+    "wof:name":"Salumana",
+    "wof:parent_id":1108799641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51667,
+    -13.63333,
+    18.51667,
+    -13.63333
+],
+  "geometry": {"coordinates":[18.51667,-13.63333],"type":"Point"}
+}

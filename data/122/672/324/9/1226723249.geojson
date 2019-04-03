@@ -1,0 +1,67 @@
+{
+  "id": 1226723249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37644,-6.92919,15.37644,-6.92919",
+    "geom:latitude":-6.92919,
+    "geom:longitude":15.37644,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quicongo",
+    "gn:country_code":"AO",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238502,
+    "gn:latitude":-6.92919,
+    "gn:longitude":15.37644,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Quicongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238502
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"280af2dc18f8fcb16fc753bbc12a7df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1226723249,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226723249,
+    "wof:lastmodified":1536747835,
+    "wof:name":"Quicongo",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37644,
+    -6.92919,
+    15.37644,
+    -6.92919
+],
+  "geometry": {"coordinates":[15.37644,-6.92919],"type":"Point"}
+}

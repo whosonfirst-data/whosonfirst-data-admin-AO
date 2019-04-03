@@ -1,0 +1,67 @@
+{
+  "id": 1209711019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33575,-12.06713,15.33575,-12.06713",
+    "geom:latitude":-12.06713,
+    "geom:longitude":15.33575,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ngambole",
+    "gn:country_code":"AO",
+    "gn:dem":1431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7906287,
+    "gn:latitude":-12.06713,
+    "gn:longitude":15.33575,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Ngambole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906287
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8f0afac8937d0d06a05b7dc820c3d603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1209711019,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1209711019,
+    "wof:lastmodified":1536390692,
+    "wof:name":"Ngambole",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33575,
+    -12.06713,
+    15.33575,
+    -12.06713
+],
+  "geometry": {"coordinates":[15.33575,-12.06713],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209988969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08419,-5.84925,14.08419,-5.84925",
+    "geom:latitude":-5.84925,
+    "geom:longitude":14.08419,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Luvo",
+    "gn:country_code":"AO",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240048,
+    "gn:latitude":-5.84925,
+    "gn:longitude":14.08419,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Luvo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240048
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3311495149139527831e764b71c3806a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1209988969,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1209988969,
+    "wof:lastmodified":1536387299,
+    "wof:name":"Luvo",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08419,
+    -5.84925,
+    14.08419,
+    -5.84925
+],
+  "geometry": {"coordinates":[14.08419,-5.84925],"type":"Point"}
+}

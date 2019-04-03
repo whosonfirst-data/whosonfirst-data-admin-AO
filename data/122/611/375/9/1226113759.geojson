@@ -1,0 +1,67 @@
+{
+  "id": 1226113759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9157,-9.19165,17.9157,-9.19165",
+    "geom:latitude":-9.19165,
+    "geom:longitude":17.9157,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cambamba quia Cassambe",
+    "gn:country_code":"AO",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7785884,
+    "gn:latitude":-9.19165,
+    "gn:longitude":17.9157,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cambamba qui\u00e1 Cassambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785884
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e624de34a7fb633d6353ac9b616c963c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1226113759,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1226113759,
+    "wof:lastmodified":1536625124,
+    "wof:name":"Cambamba quia Cassambe",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9157,
+    -9.19165,
+    17.9157,
+    -9.19165
+],
+  "geometry": {"coordinates":[17.9157,-9.19165],"type":"Point"}
+}

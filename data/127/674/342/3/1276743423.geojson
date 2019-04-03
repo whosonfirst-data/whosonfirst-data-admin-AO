@@ -1,0 +1,67 @@
+{
+  "id": 1276743423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41908,-7.88832,17.41908,-7.88832",
+    "geom:latitude":-7.88832,
+    "geom:longitude":17.41908,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mundondo",
+    "gn:country_code":"AO",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7869620,
+    "gn:latitude":-7.88832,
+    "gn:longitude":17.41908,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Mundondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7869620
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9b58ef56a6b986660ce97e8013ee0aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799621,
+            "locality_id":1276743423,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276743423,
+    "wof:lastmodified":1536726809,
+    "wof:name":"Mundondo",
+    "wof:parent_id":1108799621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41907999999999,
+    -7.88832,
+    17.41907999999999,
+    -7.88832
+],
+  "geometry": {"coordinates":[17.41907999999999,-7.88832],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209913185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01169,-8.39147,15.01169,-8.39147",
+    "geom:latitude":-8.39147,
+    "geom:longitude":15.01169,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lulendo",
+    "gn:country_code":"AO",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8535644,
+    "gn:latitude":-8.39147,
+    "gn:longitude":15.01169,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Lulendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535644
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aa417be6346b4e6262f9cf59c600a580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799619,
+            "locality_id":1209913185,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1209913185,
+    "wof:lastmodified":1536376574,
+    "wof:name":"Lulendo",
+    "wof:parent_id":1108799619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01169,
+    -8.39147,
+    15.01169,
+    -8.39147
+],
+  "geometry": {"coordinates":[15.01169,-8.39147],"type":"Point"}
+}

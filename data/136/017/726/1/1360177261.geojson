@@ -1,0 +1,67 @@
+{
+  "id": 1360177261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88802,-10.46979,14.88802,-10.46979",
+    "geom:latitude":-10.46979,
+    "geom:longitude":14.88802,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sagrada",
+    "gn:country_code":"AO",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9386010,
+    "gn:latitude":-10.46979,
+    "gn:longitude":14.88802,
+    "gn:modification_date":"2014-08-16",
+    "gn:name":"Sagrada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9386010
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9afd48fa7253b699b5ec6ce447594569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1360177261,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1360177261,
+    "wof:lastmodified":1536812173,
+    "wof:name":"Sagrada",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88802,
+    -10.46979,
+    14.88802,
+    -10.46979
+],
+  "geometry": {"coordinates":[14.88802,-10.46979],"type":"Point"}
+}

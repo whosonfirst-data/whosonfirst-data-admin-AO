@@ -1,0 +1,67 @@
+{
+  "id": 1226462577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60944,-12.67278,15.60944,-12.67278",
+    "geom:latitude":-12.67278,
+    "geom:longitude":15.60944,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Portugal",
+    "gn:country_code":"AO",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372196,
+    "gn:latitude":-12.67278,
+    "gn:longitude":15.60944,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Portugal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372196
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"91a04c705082eef26d771b94cbfc69a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1226462577,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1226462577,
+    "wof:lastmodified":1536619150,
+    "wof:name":"Portugal",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60944,
+    -12.67278,
+    15.60944,
+    -12.67278
+],
+  "geometry": {"coordinates":[15.60944,-12.67278],"type":"Point"}
+}

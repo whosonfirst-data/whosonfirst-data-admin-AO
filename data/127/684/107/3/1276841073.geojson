@@ -1,0 +1,72 @@
+{
+  "id": 1276841073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73333,-12.98333,22.73333,-12.98333",
+    "geom:latitude":-12.98333,
+    "geom:longitude":22.73333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Caripande",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876550,
+    "gn:latitude":-12.98333,
+    "gn:longitude":22.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caripande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chepena",
+        "Caripande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876550
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6ea468312628ae91bfa7d898778e74cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1276841073,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1276841073,
+    "wof:lastmodified":1537584560,
+    "wof:name":"Caripande",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73333,
+    -12.98333,
+    22.73333,
+    -12.98333
+],
+  "geometry": {"coordinates":[22.73333,-12.98333],"type":"Point"}
+}

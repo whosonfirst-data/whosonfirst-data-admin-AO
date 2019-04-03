@@ -1,0 +1,67 @@
+{
+  "id": 1293275067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2192,-6.2177,16.2192,-6.2177",
+    "geom:latitude":-6.2177,
+    "geom:longitude":16.2192,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimbati",
+    "gn:country_code":"AO",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544829,
+    "gn:latitude":-6.2177,
+    "gn:longitude":16.2192,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Quimbati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544829
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"db0536c46e43540759519370afb4f5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1293275067,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1293275067,
+    "wof:lastmodified":1537090103,
+    "wof:name":"Quimbati",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2192,
+    -6.2177,
+    16.2192,
+    -6.2177
+],
+  "geometry": {"coordinates":[16.2192,-6.2177],"type":"Point"}
+}

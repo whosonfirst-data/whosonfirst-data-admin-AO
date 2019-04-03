@@ -1,0 +1,67 @@
+{
+  "id": 1292983111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10932,-6.36036,14.10932,-6.36036",
+    "geom:latitude":-6.36036,
+    "geom:longitude":14.10932,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Luanica",
+    "gn:country_code":"AO",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240431,
+    "gn:latitude":-6.36036,
+    "gn:longitude":14.10932,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Luanica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240431
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2017c66c520304f5d1b6c8ebcf9a2c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1292983111,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1292983111,
+    "wof:lastmodified":1537016425,
+    "wof:name":"Luanica",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10932,
+    -6.36036,
+    14.10932,
+    -6.36036
+],
+  "geometry": {"coordinates":[14.10932,-6.36036],"type":"Point"}
+}

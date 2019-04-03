@@ -1,0 +1,67 @@
+{
+  "id": 1360251217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73627,-9.56191,21.73627,-9.56191",
+    "geom:latitude":-9.56191,
+    "geom:longitude":21.73627,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Capechi",
+    "gn:country_code":"AO",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7790203,
+    "gn:latitude":-9.56191,
+    "gn:longitude":21.73627,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cap\u00e9chi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7790203
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"00a528f584b0ad005979975dabbe0ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799787,
+            "locality_id":1360251217,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1360251217,
+    "wof:lastmodified":1536706344,
+    "wof:name":"Capechi",
+    "wof:parent_id":1108799787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73627,
+    -9.56191,
+    21.73627,
+    -9.56191
+],
+  "geometry": {"coordinates":[21.73627,-9.56191],"type":"Point"}
+}

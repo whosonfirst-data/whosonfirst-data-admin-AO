@@ -1,0 +1,67 @@
+{
+  "id": 1276202003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42981,-9.26557,21.42981,-9.26557",
+    "geom:latitude":-9.26557,
+    "geom:longitude":21.42981,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ndala Tchiluagi",
+    "gn:country_code":"AO",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771290,
+    "gn:latitude":-9.26557,
+    "gn:longitude":21.42981,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Ndala Tchilu\u00e1gi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771290
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b418bb3ff34c3be3422543d3929a47af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799787,
+            "locality_id":1276202003,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1276202003,
+    "wof:lastmodified":1536955095,
+    "wof:name":"Ndala Tchiluagi",
+    "wof:parent_id":1108799787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42981,
+    -9.26557,
+    21.42981,
+    -9.26557
+],
+  "geometry": {"coordinates":[21.42981,-9.26557],"type":"Point"}
+}

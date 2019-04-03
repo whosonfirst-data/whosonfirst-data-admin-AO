@@ -1,0 +1,72 @@
+{
+  "id": 1327410897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86667,-8.31667,15.86667,-8.31667",
+    "geom:latitude":-8.31667,
+    "geom:longitude":15.86667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gango",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241041,
+    "gn:latitude":-8.31667,
+    "gn:longitude":15.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gange",
+        "Gango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241041
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fcc07ac2d9e1b3c1e37a68898e2d449d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1327410897,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1327410897,
+    "wof:lastmodified":1537584640,
+    "wof:name":"Gango",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86667,
+    -8.31667,
+    15.86667,
+    -8.31667
+],
+  "geometry": {"coordinates":[15.86667,-8.31667],"type":"Point"}
+}

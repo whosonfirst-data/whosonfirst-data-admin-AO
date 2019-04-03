@@ -1,0 +1,67 @@
+{
+  "id": 1243262983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59459,-8.48806,15.59459,-8.48806",
+    "geom:latitude":-8.48806,
+    "geom:longitude":15.59459,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Primeiro Aldeamento",
+    "gn:country_code":"AO",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7737345,
+    "gn:latitude":-8.48806,
+    "gn:longitude":15.59459,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Primeiro Aldeamento",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7737345
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0c79d49fcfe963744972ae33d5187852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1243262983,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1243262983,
+    "wof:lastmodified":1537067090,
+    "wof:name":"Primeiro Aldeamento",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59459,
+    -8.48806,
+    15.59459,
+    -8.48806
+],
+  "geometry": {"coordinates":[15.59459,-8.48806],"type":"Point"}
+}

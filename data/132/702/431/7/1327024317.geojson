@@ -1,0 +1,77 @@
+{
+  "id": 1327024317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.375,-15.02479,13.375,-15.02479",
+    "geom:latitude":-15.02479,
+    "geom:longitude":13.375,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Humpata",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348287,
+    "gn:latitude":-15.02479,
+    "gn:longitude":13.375,
+    "gn:modification_date":"2014-08-15",
+    "gn:name":"Humpata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u043c\u043f\u0430\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "S\u00e3o Januaria",
+        "S\u00e3o Januario da Humpata",
+        "Humpata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348287,
+        "wk:page":"Humpata"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"17df782d1572a441e594f44a2cc5848c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799749,
+            "locality_id":1327024317,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1327024317,
+    "wof:lastmodified":1537584733,
+    "wof:name":"Humpata",
+    "wof:parent_id":1108799749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.375,
+    -15.02479,
+    13.375,
+    -15.02479
+],
+  "geometry": {"coordinates":[13.375,-15.02479],"type":"Point"}
+}

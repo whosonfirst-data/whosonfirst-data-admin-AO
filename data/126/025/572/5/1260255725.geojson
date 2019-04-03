@@ -1,0 +1,67 @@
+{
+  "id": 1260255725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92535,-6.00572,15.92535,-6.00572",
+    "geom:latitude":-6.00572,
+    "geom:longitude":15.92535,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zonge",
+    "gn:country_code":"AO",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306719,
+    "gn:latitude":-6.00572,
+    "gn:longitude":15.92535,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306719
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"41c23627d7b9bb02f46ca4e7643e77e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1260255725,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1260255725,
+    "wof:lastmodified":1536749335,
+    "wof:name":"Zonge",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92535,
+    -6.00572,
+    15.92535,
+    -6.00572
+],
+  "geometry": {"coordinates":[15.92535,-6.00572],"type":"Point"}
+}

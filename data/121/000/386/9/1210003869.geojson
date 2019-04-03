@@ -1,0 +1,67 @@
+{
+  "id": 1210003869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39065,-9.40496,16.39065,-9.40496",
+    "geom:latitude":-9.40496,
+    "geom:longitude":16.39065,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cassangi",
+    "gn:country_code":"AO",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592068,
+    "gn:latitude":-9.40496,
+    "gn:longitude":16.39065,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Cassangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592068
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8c6921a7e56700164b60684fc0b53868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1210003869,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1210003869,
+    "wof:lastmodified":1536375796,
+    "wof:name":"Cassangi",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39065,
+    -9.40496,
+    16.39065,
+    -9.40496
+],
+  "geometry": {"coordinates":[16.39065,-9.40496],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226825031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44158,-9.07136,20.44158,-9.07136",
+    "geom:latitude":-9.07136,
+    "geom:longitude":20.44158,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Samachata Pensamento",
+    "gn:country_code":"AO",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769954,
+    "gn:latitude":-9.07136,
+    "gn:longitude":20.44158,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Samachata Pensamento",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769954
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3fa469c15ad12cddc4d06d92e8cc1d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1226825031,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1226825031,
+    "wof:lastmodified":1537094984,
+    "wof:name":"Samachata Pensamento",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44158,
+    -9.07136,
+    20.44158,
+    -9.07136
+],
+  "geometry": {"coordinates":[20.44158,-9.07136],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277077515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58333,-12.93333,17.58333,-12.93333",
+    "geom:latitude":-12.93333,
+    "geom:longitude":17.58333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ceptia",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350121,
+    "gn:latitude":-12.93333,
+    "gn:longitude":17.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ceptia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Captia",
+        "Ceptia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350121
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"812df963b71cc7d6b8b61215394975ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799709,
+            "locality_id":1277077515,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1277077515,
+    "wof:lastmodified":1537584770,
+    "wof:name":"Ceptia",
+    "wof:parent_id":1108799709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58333,
+    -12.93333,
+    17.58333,
+    -12.93333
+],
+  "geometry": {"coordinates":[17.58333,-12.93333],"type":"Point"}
+}

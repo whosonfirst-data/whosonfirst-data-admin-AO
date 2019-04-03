@@ -1,0 +1,67 @@
+{
+  "id": 1326813883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17387,-11.35325,21.17387,-11.35325",
+    "geom:latitude":-11.35325,
+    "geom:longitude":21.17387,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Caluena",
+    "gn:country_code":"AO",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768024,
+    "gn:latitude":-11.35325,
+    "gn:longitude":21.17387,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Caluena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768024
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3503813414c7d4a8beb2d2243aac3ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799791,
+            "locality_id":1326813883,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1326813883,
+    "wof:lastmodified":1537072131,
+    "wof:name":"Caluena",
+    "wof:parent_id":1108799791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17387,
+    -11.35325,
+    21.17387,
+    -11.35325
+],
+  "geometry": {"coordinates":[21.17387,-11.35325],"type":"Point"}
+}

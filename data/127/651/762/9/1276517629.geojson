@@ -1,0 +1,71 @@
+{
+  "id": 1276517629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26787,-7.15676,14.26787,-7.15676",
+    "geom:latitude":-7.15676,
+    "geom:longitude":14.26787,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Toto",
+    "gn:country_code":"AO",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236684,
+    "gn:latitude":-7.15676,
+    "gn:longitude":14.26787,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Toto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campo de Avia\u00e7\u00e3o de T\u00f4to",
+        "Toto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236684
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"96ab2e0f4a336508bd98652f61b0c465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799951,
+            "locality_id":1276517629,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1276517629,
+    "wof:lastmodified":1537584573,
+    "wof:name":"Toto",
+    "wof:parent_id":1108799951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26787,
+    -7.15676,
+    14.26787,
+    -7.15676
+],
+  "geometry": {"coordinates":[14.26787,-7.15676],"type":"Point"}
+}

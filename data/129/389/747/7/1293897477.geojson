@@ -1,0 +1,70 @@
+{
+  "id": 1293897477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89329,-12.31728,13.89329,-12.31728",
+    "geom:latitude":-12.31728,
+    "geom:longitude":13.89329,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Culango",
+    "gn:country_code":"AO",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3372366,
+    "gn:latitude":-12.31728,
+    "gn:longitude":13.89329,
+    "gn:modification_date":"2013-11-12",
+    "gn:name":"Culango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Colango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372366
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5cebd0bfb681ce20d0d182e7b961102b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1293897477,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1293897477,
+    "wof:lastmodified":1537584807,
+    "wof:name":"Culango",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89329,
+    -12.31728,
+    13.89329,
+    -12.31728
+],
+  "geometry": {"coordinates":[13.89329,-12.31728],"type":"Point"}
+}

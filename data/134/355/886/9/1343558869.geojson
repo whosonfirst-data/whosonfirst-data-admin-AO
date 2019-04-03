@@ -1,0 +1,74 @@
+{
+  "id": 1343558869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7239,-9.77862,14.7239,-9.77862",
+    "geom:latitude":-9.77862,
+    "geom:longitude":14.7239,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dundo",
+    "gn:country_code":"AO",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2241331,
+    "gn:latitude":-9.77862,
+    "gn:longitude":14.7239,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043d\u0434\u0443"
+    ],
+    "name:und_x_variant":[
+        "Banza de Dundo",
+        "Dundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241331
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b148077e6366629e9f1bf30b95cc416b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1343558869,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343558869,
+    "wof:lastmodified":1537584644,
+    "wof:name":"Dundo",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7239,
+    -9.77862,
+    14.7239,
+    -9.77862
+],
+  "geometry": {"coordinates":[14.7239,-9.77862],"type":"Point"}
+}

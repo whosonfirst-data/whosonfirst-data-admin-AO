@@ -1,0 +1,67 @@
+{
+  "id": 1326627669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78785,-11.01556,14.78785,-11.01556",
+    "geom:latitude":-11.01556,
+    "geom:longitude":14.78785,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hengo",
+    "gn:country_code":"AO",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348359,
+    "gn:latitude":-11.01556,
+    "gn:longitude":14.78785,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Hengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348359
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"68cf8c094a20c9f336f4eb1b8c47a95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799659,
+            "locality_id":1326627669,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1326627669,
+    "wof:lastmodified":1536845348,
+    "wof:name":"Hengo",
+    "wof:parent_id":1108799659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78785,
+    -11.01556,
+    14.78785,
+    -11.01556
+],
+  "geometry": {"coordinates":[14.78785,-11.01556],"type":"Point"}
+}

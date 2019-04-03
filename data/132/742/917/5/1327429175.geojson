@@ -1,0 +1,67 @@
+{
+  "id": 1327429175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55698,-11.5729,14.55698,-11.5729",
+    "geom:latitude":-11.5729,
+    "geom:longitude":14.55698,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cupombo",
+    "gn:country_code":"AO",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7901348,
+    "gn:latitude":-11.5729,
+    "gn:longitude":14.55698,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cupombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901348
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a4b61a7c6a2a0ae8db1d740d8d0e7fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1327429175,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1327429175,
+    "wof:lastmodified":1536685465,
+    "wof:name":"Cupombo",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55698,
+    -11.5729,
+    14.55698,
+    -11.5729
+],
+  "geometry": {"coordinates":[14.55698,-11.5729],"type":"Point"}
+}

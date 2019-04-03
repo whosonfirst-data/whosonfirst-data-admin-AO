@@ -1,0 +1,67 @@
+{
+  "id": 1243329821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6262,-9.68014,20.6262,-9.68014",
+    "geom:latitude":-9.68014,
+    "geom:longitude":20.6262,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tamba Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7790063,
+    "gn:latitude":-9.68014,
+    "gn:longitude":20.6262,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Tamba Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7790063
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bb62ae0a84a40fa65ec522cdef111b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1243329821,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1243329821,
+    "wof:lastmodified":1536973373,
+    "wof:name":"Tamba Segundo",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6262,
+    -9.68014,
+    20.6262,
+    -9.68014
+],
+  "geometry": {"coordinates":[20.6262,-9.68014],"type":"Point"}
+}

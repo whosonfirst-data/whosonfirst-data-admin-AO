@@ -1,0 +1,67 @@
+{
+  "id": 1209938487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55806,-9.98595,14.55806,-9.98595",
+    "geom:latitude":-9.98595,
+    "geom:longitude":14.55806,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Binga",
+    "gn:country_code":"AO",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243567,
+    "gn:latitude":-9.98595,
+    "gn:longitude":14.55806,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Binga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243567
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d72247570674a573721371bae56cc4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1209938487,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1209938487,
+    "wof:lastmodified":1536389547,
+    "wof:name":"Binga",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55806,
+    -9.98595,
+    14.55806,
+    -9.98595
+],
+  "geometry": {"coordinates":[14.55806,-9.98595],"type":"Point"}
+}

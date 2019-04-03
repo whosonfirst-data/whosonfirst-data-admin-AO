@@ -1,0 +1,67 @@
+{
+  "id": 1360164965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27719,-8.51637,16.27719,-8.51637",
+    "geom:latitude":-8.51637,
+    "geom:longitude":16.27719,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tungo ia Tena",
+    "gn:country_code":"AO",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7758341,
+    "gn:latitude":-8.51637,
+    "gn:longitude":16.27719,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Tungo i\u00e1 Tena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7758341
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e94a137882e7aff82ed6c5bdf833f60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1360164965,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1360164965,
+    "wof:lastmodified":1536829487,
+    "wof:name":"Tungo ia Tena",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27719,
+    -8.51637,
+    16.27719,
+    -8.51637
+],
+  "geometry": {"coordinates":[16.27719,-8.51637],"type":"Point"}
+}

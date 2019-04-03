@@ -1,0 +1,73 @@
+{
+  "id": 1260351505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65,-8.36667,13.65,-8.36667",
+    "geom:latitude":-8.36667,
+    "geom:longitude":13.65,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cazeta",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241962,
+    "gn:latitude":-8.36667,
+    "gn:longitude":13.65,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cazeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gazeta",
+        "Lifune",
+        "Cazeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241962
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1f3d88c3eef42a7cd947e4828dd9dd8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799875,
+            "locality_id":1260351505,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1260351505,
+    "wof:lastmodified":1537584656,
+    "wof:name":"Cazeta",
+    "wof:parent_id":1108799875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65,
+    -8.36667,
+    13.65,
+    -8.36667
+],
+  "geometry": {"coordinates":[13.65,-8.36667],"type":"Point"}
+}

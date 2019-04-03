@@ -1,0 +1,67 @@
+{
+  "id": 1243149349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36089,-9.68602,17.36089,-9.68602",
+    "geom:latitude":-9.68602,
+    "geom:longitude":17.36089,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cabubi",
+    "gn:country_code":"AO",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785607,
+    "gn:latitude":-9.68602,
+    "gn:longitude":17.36089,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cabubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785607
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"85b20e9e922378ff52ddaee7a0d2700b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799887,
+            "locality_id":1243149349,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1243149349,
+    "wof:lastmodified":1536736976,
+    "wof:name":"Cabubi",
+    "wof:parent_id":1108799887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36089,
+    -9.68602,
+    17.36089,
+    -9.68602
+],
+  "geometry": {"coordinates":[17.36089,-9.68602],"type":"Point"}
+}

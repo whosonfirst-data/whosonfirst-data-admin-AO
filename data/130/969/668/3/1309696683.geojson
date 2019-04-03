@@ -1,0 +1,67 @@
+{
+  "id": 1309696683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0701,-14.51402,15.0701,-14.51402",
+    "geom:latitude":-14.51402,
+    "geom:longitude":15.0701,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cantao Quatro",
+    "gn:country_code":"AO",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908123,
+    "gn:latitude":-14.51402,
+    "gn:longitude":15.0701,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cant\u00e3o Quatro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908123
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0f1c98ce4ff319a4ce63b9dd755d361b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799605,
+            "locality_id":1309696683,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1309696683,
+    "wof:lastmodified":1537085288,
+    "wof:name":"Cantao Quatro",
+    "wof:parent_id":1108799605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0701,
+    -14.51402,
+    15.0701,
+    -14.51402
+],
+  "geometry": {"coordinates":[15.0701,-14.51402],"type":"Point"}
+}

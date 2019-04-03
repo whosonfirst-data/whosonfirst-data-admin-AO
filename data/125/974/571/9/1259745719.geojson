@@ -1,0 +1,67 @@
+{
+  "id": 1259745719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44555,-8.47874,14.44555,-8.47874",
+    "geom:latitude":-8.47874,
+    "geom:longitude":14.44555,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ngombe do Piri",
+    "gn:country_code":"AO",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535630,
+    "gn:latitude":-8.47874,
+    "gn:longitude":14.44555,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ngombe do Piri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535630
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"72c802942cd70ee859cc4dff7bb64b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799859,
+            "locality_id":1259745719,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1259745719,
+    "wof:lastmodified":1536977073,
+    "wof:name":"Ngombe do Piri",
+    "wof:parent_id":1108799859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44555,
+    -8.47874,
+    14.44555,
+    -8.47874
+],
+  "geometry": {"coordinates":[14.44555,-8.47874],"type":"Point"}
+}

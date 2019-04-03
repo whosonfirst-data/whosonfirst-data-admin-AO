@@ -1,0 +1,67 @@
+{
+  "id": 1243346919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50498,-11.19914,22.50498,-11.19914",
+    "geom:latitude":-11.19914,
+    "geom:longitude":22.50498,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Caxita",
+    "gn:country_code":"AO",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7772354,
+    "gn:latitude":-11.19914,
+    "gn:longitude":22.50498,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Caxita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7772354
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"619ad6327d2a9ef3c7ae9370146a2aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799891,
+            "locality_id":1243346919,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1243346919,
+    "wof:lastmodified":1536949379,
+    "wof:name":"Caxita",
+    "wof:parent_id":1108799891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50498,
+    -11.19914,
+    22.50498,
+    -11.19914
+],
+  "geometry": {"coordinates":[22.50498,-11.19914],"type":"Point"}
+}

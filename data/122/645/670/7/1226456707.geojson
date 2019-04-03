@@ -1,0 +1,67 @@
+{
+  "id": 1226456707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35,-12.45,14.35,-12.45",
+    "geom:latitude":-12.45,
+    "geom:longitude":14.35,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Calvario",
+    "gn:country_code":"AO",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351018,
+    "gn:latitude":-12.45,
+    "gn:longitude":14.35,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Calv\u00e1rio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351018
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"65cf3d0f2ea54382fd6d315a777de376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799837,
+            "locality_id":1226456707,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1226456707,
+    "wof:lastmodified":1536627866,
+    "wof:name":"Calvario",
+    "wof:parent_id":1108799837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35,
+    -12.45,
+    14.35,
+    -12.45
+],
+  "geometry": {"coordinates":[14.35,-12.45],"type":"Point"}
+}

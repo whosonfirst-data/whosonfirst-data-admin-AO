@@ -1,0 +1,67 @@
+{
+  "id": 1343779791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5782,-11.93883,14.5782,-11.93883",
+    "geom:latitude":-11.93883,
+    "geom:longitude":14.5782,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Canema",
+    "gn:country_code":"AO",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7901504,
+    "gn:latitude":-11.93883,
+    "gn:longitude":14.5782,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Canema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901504
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"48dc7014bee284091d0be04f5662011e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799837,
+            "locality_id":1343779791,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1343779791,
+    "wof:lastmodified":1536783561,
+    "wof:name":"Canema",
+    "wof:parent_id":1108799837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5782,
+    -11.93883,
+    14.5782,
+    -11.93883
+],
+  "geometry": {"coordinates":[14.5782,-11.93883],"type":"Point"}
+}

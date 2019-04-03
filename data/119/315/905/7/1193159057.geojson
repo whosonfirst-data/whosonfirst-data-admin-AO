@@ -1,0 +1,67 @@
+{
+  "id": 1193159057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18216,-10.26354,15.18216,-10.26354",
+    "geom:latitude":-10.26354,
+    "geom:longitude":15.18216,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Umbate Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7855997,
+    "gn:latitude":-10.26354,
+    "gn:longitude":15.18216,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Umbate Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855997
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"38fc83d3226751bf72dc7c5c12c36285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1193159057,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1193159057,
+    "wof:lastmodified":1536370021,
+    "wof:name":"Umbate Segundo",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18216,
+    -10.26354,
+    15.18216,
+    -10.26354
+],
+  "geometry": {"coordinates":[15.18216,-10.26354],"type":"Point"}
+}

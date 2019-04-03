@@ -1,0 +1,67 @@
+{
+  "id": 1225811557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9713,-9.89872,19.9713,-9.89872",
+    "geom:latitude":-9.89872,
+    "geom:longitude":19.9713,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tchonge",
+    "gn:country_code":"AO",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787228,
+    "gn:latitude":-9.89872,
+    "gn:longitude":19.9713,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Tchonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787228
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e55997acdd17211f59e0b26d4f9aad50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1225811557,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1225811557,
+    "wof:lastmodified":1537060443,
+    "wof:name":"Tchonge",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9713,
+    -9.89872,
+    19.9713,
+    -9.89872
+],
+  "geometry": {"coordinates":[19.9713,-9.89872],"type":"Point"}
+}

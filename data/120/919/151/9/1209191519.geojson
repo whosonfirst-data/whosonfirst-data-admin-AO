@@ -1,0 +1,61 @@
+{
+  "id": 1209191519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.24151,-9.74053,17.24151,-9.74053",
+    "geom:latitude":-9.74053,
+    "geom:longitude":17.24151,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Calussa",
+    "gn:country_code":"AO",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785566,
+    "gn:latitude":-9.74053,
+    "gn:longitude":17.24151,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Calussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785566
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"39fd32ef2d3a2e5afa492f35979233f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209191519
+        }
+    ],
+    "wof:id":1209191519,
+    "wof:lastmodified":1536294917,
+    "wof:name":"Calussa",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.24151,
+    -9.74053,
+    17.24151,
+    -9.74053
+],
+  "geometry": {"coordinates":[17.24151,-9.74053],"type":"Point"}
+}

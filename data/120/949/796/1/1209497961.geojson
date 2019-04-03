@@ -1,0 +1,61 @@
+{
+  "id": 1209497961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25164,-5.87331,15.25164,-5.87331",
+    "geom:latitude":-5.87331,
+    "geom:longitude":15.25164,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mbanza Sosso",
+    "gn:country_code":"AO",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7663084,
+    "gn:latitude":-5.87331,
+    "gn:longitude":15.25164,
+    "gn:modification_date":"2011-02-09",
+    "gn:name":"Mbanza Sosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663084
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"060c05d4781b5c84f411dd344ef81376",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209497961
+        }
+    ],
+    "wof:id":1209497961,
+    "wof:lastmodified":1536285275,
+    "wof:name":"Mbanza Sosso",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25164,
+    -5.87331,
+    15.25164,
+    -5.87331
+],
+  "geometry": {"coordinates":[15.25164,-5.87331],"type":"Point"}
+}

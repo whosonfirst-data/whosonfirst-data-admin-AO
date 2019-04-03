@@ -1,0 +1,67 @@
+{
+  "id": 1193100223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49111,-10.81611,20.49111,-10.81611",
+    "geom:latitude":-10.81611,
+    "geom:longitude":20.49111,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Malucanga",
+    "gn:country_code":"AO",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105831,
+    "gn:latitude":-10.81611,
+    "gn:longitude":20.49111,
+    "gn:modification_date":"1999-06-15",
+    "gn:name":"Malucanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105831
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9c9cba636fdcb5c24bdc46c35599b516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799823,
+            "locality_id":1193100223,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1193100223,
+    "wof:lastmodified":1536384248,
+    "wof:name":"Malucanga",
+    "wof:parent_id":1108799823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49111,
+    -10.81611,
+    20.49111,
+    -10.81611
+],
+  "geometry": {"coordinates":[20.49111,-10.81611],"type":"Point"}
+}

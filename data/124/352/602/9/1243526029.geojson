@@ -1,0 +1,67 @@
+{
+  "id": 1243526029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03887,-7.42277,20.03887,-7.42277",
+    "geom:latitude":-7.42277,
+    "geom:longitude":20.03887,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tanda",
+    "gn:country_code":"AO",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7745250,
+    "gn:latitude":-7.42277,
+    "gn:longitude":20.03887,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Tanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745250
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5e7e66b9328a43c98866cd19742b8d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "locality_id":1243526029,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1243526029,
+    "wof:lastmodified":1536691059,
+    "wof:name":"Tanda",
+    "wof:parent_id":1108799855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03887000000001,
+    -7.42277,
+    20.03887000000001,
+    -7.42277
+],
+  "geometry": {"coordinates":[20.03887000000001,-7.42277],"type":"Point"}
+}

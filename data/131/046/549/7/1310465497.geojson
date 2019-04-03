@@ -1,0 +1,74 @@
+{
+  "id": 1310465497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53333,-7.3,20.53333,-7.3",
+    "geom:latitude":-7.3,
+    "geom:longitude":20.53333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chicapa",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145811,
+    "gn:latitude":-7.3,
+    "gn:longitude":20.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chicapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mulando",
+        "Shikapa",
+        "Mulundo",
+        "Chicapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145811
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7381affbb11e71d6ecb9fab1cc50196b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "locality_id":1310465497,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1310465497,
+    "wof:lastmodified":1537584528,
+    "wof:name":"Chicapa",
+    "wof:parent_id":1108799855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53333,
+    -7.3,
+    20.53333,
+    -7.3
+],
+  "geometry": {"coordinates":[20.53333,-7.3],"type":"Point"}
+}

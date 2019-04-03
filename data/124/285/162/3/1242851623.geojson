@@ -1,0 +1,67 @@
+{
+  "id": 1242851623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94785,-9.09335,15.94785,-9.09335",
+    "geom:latitude":-9.09335,
+    "geom:longitude":15.94785,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cazela",
+    "gn:country_code":"AO",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769141,
+    "gn:latitude":-9.09335,
+    "gn:longitude":15.94785,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cazela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769141
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d594dce7aefb35b4390a84d1310e3a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1242851623,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1242851623,
+    "wof:lastmodified":1536669012,
+    "wof:name":"Cazela",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94785,
+    -9.09335,
+    15.94785,
+    -9.09335
+],
+  "geometry": {"coordinates":[15.94785,-9.09335],"type":"Point"}
+}

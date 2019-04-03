@@ -1,0 +1,67 @@
+{
+  "id": 1242868745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72005,-14.87124,14.72005,-14.87124",
+    "geom:latitude":-14.87124,
+    "geom:longitude":14.72005,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchingole",
+    "gn:country_code":"AO",
+    "gn:dem":1265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7907700,
+    "gn:latitude":-14.87124,
+    "gn:longitude":14.72005,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchingole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7907700
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"852cbd208447898bccb0c1ceef568ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799929,
+            "locality_id":1242868745,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1242868745,
+    "wof:lastmodified":1536643674,
+    "wof:name":"Tchingole",
+    "wof:parent_id":1108799929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72005,
+    -14.87124,
+    14.72005,
+    -14.87124
+],
+  "geometry": {"coordinates":[14.72005,-14.87124],"type":"Point"}
+}

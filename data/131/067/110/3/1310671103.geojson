@@ -1,0 +1,67 @@
+{
+  "id": 1310671103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16394,-7.72815,15.16394,-7.72815",
+    "geom:latitude":-7.72815,
+    "geom:longitude":15.16394,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quissamba",
+    "gn:country_code":"AO",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867750,
+    "gn:latitude":-7.72815,
+    "gn:longitude":15.16394,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quissamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867750
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"130fd6ac0b6e3706e8757a316b8ef32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799643,
+            "locality_id":1310671103,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1310671103,
+    "wof:lastmodified":1536678072,
+    "wof:name":"Quissamba",
+    "wof:parent_id":1108799643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16394,
+    -7.72815,
+    15.16394,
+    -7.72815
+],
+  "geometry": {"coordinates":[15.16394,-7.72815],"type":"Point"}
+}

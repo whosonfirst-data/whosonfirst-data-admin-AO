@@ -1,0 +1,67 @@
+{
+  "id": 1343962817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50706,-8.97479,14.50706,-8.97479",
+    "geom:latitude":-8.97479,
+    "geom:longitude":14.50706,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quilemba",
+    "gn:country_code":"AO",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2238362,
+    "gn:latitude":-8.97479,
+    "gn:longitude":14.50706,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Quilemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238362
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c0b12dec0a2651c9f55ca39f5b79a800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799607,
+            "locality_id":1343962817,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1343962817,
+    "wof:lastmodified":1537015803,
+    "wof:name":"Quilemba",
+    "wof:parent_id":1108799607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50706,
+    -8.97479,
+    14.50706,
+    -8.97479
+],
+  "geometry": {"coordinates":[14.50706,-8.97479],"type":"Point"}
+}

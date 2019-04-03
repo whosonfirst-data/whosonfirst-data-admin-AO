@@ -1,0 +1,67 @@
+{
+  "id": 1310410605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16455,-8.62037,15.16455,-8.62037",
+    "geom:latitude":-8.62037,
+    "geom:longitude":15.16455,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cabari Camulaza",
+    "gn:country_code":"AO",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7762563,
+    "gn:latitude":-8.62037,
+    "gn:longitude":15.16455,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cabari Camulaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7762563
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"77bcc00146d24dddf182c7ff65bc0bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799733,
+            "locality_id":1310410605,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1310410605,
+    "wof:lastmodified":1537051686,
+    "wof:name":"Cabari Camulaza",
+    "wof:parent_id":1108799733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16455,
+    -8.62037,
+    15.16455,
+    -8.62037
+],
+  "geometry": {"coordinates":[15.16455,-8.62037],"type":"Point"}
+}

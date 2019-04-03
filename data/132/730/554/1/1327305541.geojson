@@ -1,0 +1,67 @@
+{
+  "id": 1327305541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.74202,-9.46118,17.74202,-9.46118",
+    "geom:latitude":-9.46118,
+    "geom:longitude":17.74202,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Domingos Longonga",
+    "gn:country_code":"AO",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7785903,
+    "gn:latitude":-9.46118,
+    "gn:longitude":17.74202,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Domingos Longonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785903
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"83e55e37e91aa981e191e9e3a38aca76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1327305541,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1327305541,
+    "wof:lastmodified":1536862724,
+    "wof:name":"Domingos Longonga",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.74202,
+    -9.46118,
+    17.74202,
+    -9.46118
+],
+  "geometry": {"coordinates":[17.74202,-9.46118],"type":"Point"}
+}

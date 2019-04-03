@@ -1,0 +1,72 @@
+{
+  "id": 1242699931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05,-11.45,15.05,-11.45",
+    "geom:latitude":-11.45,
+    "geom:longitude":15.05,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Diquita",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348908,
+    "gn:latitude":-11.45,
+    "gn:longitude":15.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diquita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caxita",
+        "Diquita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348908
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2df4fdd1ed525950c40b7b6dd98ca9c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1242699931,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1242699931,
+    "wof:lastmodified":1537584744,
+    "wof:name":"Diquita",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05,
+    -11.45,
+    15.05,
+    -11.45
+],
+  "geometry": {"coordinates":[15.05,-11.45],"type":"Point"}
+}

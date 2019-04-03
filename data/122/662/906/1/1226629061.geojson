@@ -1,0 +1,71 @@
+{
+  "id": 1226629061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67292,-6.65499,16.67292,-6.65499",
+    "geom:latitude":-6.65499,
+    "geom:longitude":16.67292,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Camuanga",
+    "gn:country_code":"AO",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242685,
+    "gn:latitude":-6.65499,
+    "gn:longitude":16.67292,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Camuanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quissangue",
+        "Camuanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242685
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2e712af42f3d1ff8adb3fdbf71720694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1226629061,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226629061,
+    "wof:lastmodified":1537584666,
+    "wof:name":"Camuanga",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67292,
+    -6.65499,
+    16.67292,
+    -6.65499
+],
+  "geometry": {"coordinates":[16.67292,-6.65499],"type":"Point"}
+}

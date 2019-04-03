@@ -1,0 +1,71 @@
+{
+  "id": 1293892309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05966,-11.49748,17.05966,-11.49748",
+    "geom:latitude":-11.49748,
+    "geom:longitude":17.05966,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Imbocolo",
+    "gn:country_code":"AO",
+    "gn:dem":1704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348247,
+    "gn:latitude":-11.49748,
+    "gn:longitude":17.05966,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Imbocolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imbocal",
+        "Imbocole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348247
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"738354b116ffb1efd3efef4084127f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1293892309,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1293892309,
+    "wof:lastmodified":1537584732,
+    "wof:name":"Imbocolo",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05966,
+    -11.49748,
+    17.05966,
+    -11.49748
+],
+  "geometry": {"coordinates":[17.05966,-11.49748],"type":"Point"}
+}

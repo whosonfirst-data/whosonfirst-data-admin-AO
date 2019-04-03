@@ -1,0 +1,70 @@
+{
+  "id": 1276873347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16826,-14.5908,18.16826,-14.5908",
+    "geom:latitude":-14.5908,
+    "geom:longitude":18.16826,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Samucono",
+    "gn:country_code":"AO",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346265,
+    "gn:latitude":-14.5908,
+    "gn:longitude":18.16826,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Samucono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samucoco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346265
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"466ec11c2ced8beea5e5c778b1ef41f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799691,
+            "locality_id":1276873347,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1276873347,
+    "wof:lastmodified":1537584699,
+    "wof:name":"Samucono",
+    "wof:parent_id":1108799691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16826,
+    -14.5908,
+    18.16826,
+    -14.5908
+],
+  "geometry": {"coordinates":[18.16826,-14.5908],"type":"Point"}
+}

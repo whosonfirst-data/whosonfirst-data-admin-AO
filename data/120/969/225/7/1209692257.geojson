@@ -1,0 +1,61 @@
+{
+  "id": 1209692257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70516,-8.96495,17.70516,-8.96495",
+    "geom:latitude":-8.96495,
+    "geom:longitude":17.70516,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mutamba",
+    "gn:country_code":"AO",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768214,
+    "gn:latitude":-8.96495,
+    "gn:longitude":17.70516,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mutamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768214
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bb226d98189bf72a5a098123f322b99d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209692257
+        }
+    ],
+    "wof:id":1209692257,
+    "wof:lastmodified":1536279199,
+    "wof:name":"Mutamba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70516,
+    -8.96495,
+    17.70516,
+    -8.96495
+],
+  "geometry": {"coordinates":[17.70516,-8.96495],"type":"Point"}
+}

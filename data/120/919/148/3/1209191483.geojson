@@ -1,0 +1,61 @@
+{
+  "id": 1209191483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91917,-9.42772,15.91917,-9.42772",
+    "geom:latitude":-9.42772,
+    "geom:longitude":15.91917,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Massola",
+    "gn:country_code":"AO",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769257,
+    "gn:latitude":-9.42772,
+    "gn:longitude":15.91917,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Massola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769257
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a03555113fb9512236b7c4374c1027f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209191483
+        }
+    ],
+    "wof:id":1209191483,
+    "wof:lastmodified":1536294918,
+    "wof:name":"Massola",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91917,
+    -9.42772,
+    15.91917,
+    -9.42772
+],
+  "geometry": {"coordinates":[15.91917,-9.42772],"type":"Point"}
+}

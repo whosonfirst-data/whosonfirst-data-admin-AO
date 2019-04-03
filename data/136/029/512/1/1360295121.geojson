@@ -1,0 +1,67 @@
+{
+  "id": 1360295121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.59544,-12.37325,13.59544,-12.37325",
+    "geom:latitude":-12.37325,
+    "geom:longitude":13.59544,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lixeira",
+    "gn:country_code":"AO",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8634746,
+    "gn:latitude":-12.37325,
+    "gn:longitude":13.59544,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Lixeira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8634746
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3a9663ce43d8341a380d7c7aa48ec8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1360295121,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1360295121,
+    "wof:lastmodified":1536641703,
+    "wof:name":"Lixeira",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59544,
+    -12.37325,
+    13.59544,
+    -12.37325
+],
+  "geometry": {"coordinates":[13.59544,-12.37325],"type":"Point"}
+}

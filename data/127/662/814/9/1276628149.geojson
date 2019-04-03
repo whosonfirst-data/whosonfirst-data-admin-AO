@@ -1,0 +1,67 @@
+{
+  "id": 1276628149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06221,-6.33108,15.06221,-6.33108",
+    "geom:latitude":-6.33108,
+    "geom:longitude":15.06221,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quiladiadia",
+    "gn:country_code":"AO",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691212,
+    "gn:latitude":-6.33108,
+    "gn:longitude":15.06221,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Quiladiadia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691212
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"65b0ad1820b3979ebb4a9549b88c5b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1276628149,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1276628149,
+    "wof:lastmodified":1536880366,
+    "wof:name":"Quiladiadia",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06221,
+    -6.33108,
+    15.06221,
+    -6.33108
+],
+  "geometry": {"coordinates":[15.06221,-6.33108],"type":"Point"}
+}

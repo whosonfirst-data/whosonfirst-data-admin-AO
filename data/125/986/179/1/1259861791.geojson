@@ -1,0 +1,70 @@
+{
+  "id": 1259861791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49173,-5.91447,13.49173,-5.91447",
+    "geom:latitude":-5.91447,
+    "geom:longitude":13.49173,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ncossa Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7644641,
+    "gn:latitude":-5.91447,
+    "gn:longitude":13.49173,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ncossa Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lucala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7644641
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"de0071f6e5d4d505eeeddedf6a4d914b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799679,
+            "locality_id":1259861791,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1259861791,
+    "wof:lastmodified":1537584807,
+    "wof:name":"Ncossa Primeiro",
+    "wof:parent_id":1108799679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49173,
+    -5.91447,
+    13.49173,
+    -5.91447
+],
+  "geometry": {"coordinates":[13.49173,-5.91447],"type":"Point"}
+}

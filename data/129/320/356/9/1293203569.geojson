@@ -1,0 +1,67 @@
+{
+  "id": 1293203569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03802,-11.60464,17.03802,-11.60464",
+    "geom:latitude":-11.60464,
+    "geom:longitude":17.03802,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchifuacumba",
+    "gn:country_code":"AO",
+    "gn:dem":1726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901630,
+    "gn:latitude":-11.60464,
+    "gn:longitude":17.03802,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchifuacumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901630
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ea763a08d7db8ba6ca09f0dd08db154b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1293203569,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1293203569,
+    "wof:lastmodified":1536699641,
+    "wof:name":"Tchifuacumba",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03802,
+    -11.60464,
+    17.03802,
+    -11.60464
+],
+  "geometry": {"coordinates":[17.03802,-11.60464],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259943279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81667,-9.13333,21.81667,-9.13333",
+    "geom:latitude":-9.13333,
+    "geom:longitude":21.81667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tabango",
+    "gn:country_code":"AO",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145520,
+    "gn:latitude":-9.13333,
+    "gn:longitude":21.81667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Tabango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145520
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1112be3102b02132e61e29cf0a33834c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799787,
+            "locality_id":1259943279,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1259943279,
+    "wof:lastmodified":1536693384,
+    "wof:name":"Tabango",
+    "wof:parent_id":1108799787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81667,
+    -9.13333,
+    21.81667,
+    -9.13333
+],
+  "geometry": {"coordinates":[21.81667,-9.13333],"type":"Point"}
+}

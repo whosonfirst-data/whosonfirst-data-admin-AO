@@ -1,0 +1,67 @@
+{
+  "id": 1293361871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04966,-9.8156,18.04966,-9.8156",
+    "geom:latitude":-9.8156,
+    "geom:longitude":18.04966,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Malanga quia Calomba",
+    "gn:country_code":"AO",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786829,
+    "gn:latitude":-9.8156,
+    "gn:longitude":18.04966,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Malanga qui\u00e1 Calomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786829
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6aac3fe0df29ecf827d62926886ab7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1293361871,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293361871,
+    "wof:lastmodified":1536967941,
+    "wof:name":"Malanga quia Calomba",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04966,
+    -9.8156,
+    18.04966,
+    -9.8156
+],
+  "geometry": {"coordinates":[18.04966,-9.8156],"type":"Point"}
+}

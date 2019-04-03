@@ -1,0 +1,76 @@
+{
+  "id": 1310587545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.84485,-15.80394,11.84485,-15.80394",
+    "geom:latitude":-15.80394,
+    "geom:longitude":11.84485,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tombua",
+    "gn:country_code":"AO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3345790,
+    "gn:latitude":-15.80394,
+    "gn:longitude":11.84485,
+    "gn:modification_date":"2014-10-14",
+    "gn:name":"T\u00f4mbua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0431\u0443\u0430"
+    ],
+    "name:und_x_variant":[
+        "Porto Alexandre",
+        "Port Alexander",
+        "T\u00f4mbua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667717,
+        1108799761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345790,
+        "wk:page":"T%C3%B4mbwa"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"88cda6505d3cc8c8ee997afd9171704c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799761,
+            "locality_id":1310587545,
+            "region_id":85667717
+        }
+    ],
+    "wof:id":1310587545,
+    "wof:lastmodified":1537584690,
+    "wof:name":"Tombua",
+    "wof:parent_id":1108799761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.84485,
+    -15.80394,
+    11.84485,
+    -15.80394
+],
+  "geometry": {"coordinates":[11.84485,-15.80394],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260161013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11437,-11.10229,18.11437,-11.10229",
+    "geom:latitude":-11.10229,
+    "geom:longitude":18.11437,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Calelo",
+    "gn:country_code":"AO",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7772490,
+    "gn:latitude":-11.10229,
+    "gn:longitude":18.11437,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Calelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7772490
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3df6ac042c66f56f3e17183a8958ebb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799651,
+            "locality_id":1260161013,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1260161013,
+    "wof:lastmodified":1536878024,
+    "wof:name":"Calelo",
+    "wof:parent_id":1108799651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11437,
+    -11.10229,
+    18.11437,
+    -11.10229
+],
+  "geometry": {"coordinates":[18.11437,-11.10229],"type":"Point"}
+}

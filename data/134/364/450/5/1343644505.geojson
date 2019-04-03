@@ -1,0 +1,67 @@
+{
+  "id": 1343644505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24198,-5.8799,15.24198,-5.8799",
+    "geom:latitude":-5.8799,
+    "geom:longitude":15.24198,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quioa",
+    "gn:country_code":"AO",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7663083,
+    "gn:latitude":-5.8799,
+    "gn:longitude":15.24198,
+    "gn:modification_date":"2011-02-09",
+    "gn:name":"Quioa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663083
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0f201af41103f94db7c9ad977b074c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1343644505,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343644505,
+    "wof:lastmodified":1536977533,
+    "wof:name":"Quioa",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24198,
+    -5.8799,
+    15.24198,
+    -5.8799
+],
+  "geometry": {"coordinates":[15.24198,-5.8799],"type":"Point"}
+}

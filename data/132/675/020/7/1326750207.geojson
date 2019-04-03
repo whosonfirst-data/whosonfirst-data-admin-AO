@@ -1,0 +1,67 @@
+{
+  "id": 1326750207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,-12.73333,15.15,-12.73333",
+    "geom:latitude":-12.73333,
+    "geom:longitude":15.15,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Elende",
+    "gn:country_code":"AO",
+    "gn:dem":1732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348770,
+    "gn:latitude":-12.73333,
+    "gn:longitude":15.15,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Elende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348770
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"42c5a01dfc95d1d8ab3657be89b6f5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799845,
+            "locality_id":1326750207,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1326750207,
+    "wof:lastmodified":1536669796,
+    "wof:name":"Elende",
+    "wof:parent_id":1108799845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    -12.73333,
+    15.15,
+    -12.73333
+],
+  "geometry": {"coordinates":[15.15,-12.73333],"type":"Point"}
+}

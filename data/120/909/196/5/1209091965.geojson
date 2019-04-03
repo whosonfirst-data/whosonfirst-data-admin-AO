@@ -1,0 +1,66 @@
+{
+  "id": 1209091965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,-12.78333,15.35,-12.78333",
+    "geom:latitude":-12.78333,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sapalanca",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346155,
+    "gn:latitude":-12.78333,
+    "gn:longitude":15.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sapalanca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sambalanca",
+        "Sapalanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346155
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9a45dd26ed8b9c8e17d27ee69993c205",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209091965
+        }
+    ],
+    "wof:id":1209091965,
+    "wof:lastmodified":1537584696,
+    "wof:name":"Sapalanca",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    -12.78333,
+    15.35,
+    -12.78333
+],
+  "geometry": {"coordinates":[15.35,-12.78333],"type":"Point"}
+}

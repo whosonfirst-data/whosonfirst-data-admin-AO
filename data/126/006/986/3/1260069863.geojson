@@ -1,0 +1,67 @@
+{
+  "id": 1260069863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6387,-14.53816,14.6387,-14.53816",
+    "geom:latitude":-14.53816,
+    "geom:longitude":14.6387,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchova",
+    "gn:country_code":"AO",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7907781,
+    "gn:latitude":-14.53816,
+    "gn:longitude":14.6387,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchova",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7907781
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4752cfa76a7c91fe3f3348d8294efcdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799929,
+            "locality_id":1260069863,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1260069863,
+    "wof:lastmodified":1537006939,
+    "wof:name":"Tchova",
+    "wof:parent_id":1108799929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6387,
+    -14.53816,
+    14.6387,
+    -14.53816
+],
+  "geometry": {"coordinates":[14.6387,-14.53816],"type":"Point"}
+}

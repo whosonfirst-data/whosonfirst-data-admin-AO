@@ -1,0 +1,67 @@
+{
+  "id": 1260310003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81667,-14.03333,17.81667,-14.03333",
+    "geom:latitude":-14.03333,
+    "geom:longitude":17.81667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chianda",
+    "gn:country_code":"AO",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350015,
+    "gn:latitude":-14.03333,
+    "gn:longitude":17.81667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chianda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350015
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4968c48b72b49598c80e5ef08555cae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799961,
+            "locality_id":1260310003,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1260310003,
+    "wof:lastmodified":1536676416,
+    "wof:name":"Chianda",
+    "wof:parent_id":1108799961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81667000000001,
+    -14.03333,
+    17.81667000000001,
+    -14.03333
+],
+  "geometry": {"coordinates":[17.81667000000001,-14.03333],"type":"Point"}
+}

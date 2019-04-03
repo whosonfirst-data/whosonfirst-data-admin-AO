@@ -1,0 +1,67 @@
+{
+  "id": 1343953317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82874,-11.65749,14.82874,-11.65749",
+    "geom:latitude":-11.65749,
+    "geom:longitude":14.82874,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sacupula",
+    "gn:country_code":"AO",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7901376,
+    "gn:latitude":-11.65749,
+    "gn:longitude":14.82874,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Sacupula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901376
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"655ee04419e473e8a3657ac5b6fc006c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1343953317,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343953317,
+    "wof:lastmodified":1537029109,
+    "wof:name":"Sacupula",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82874,
+    -11.65749,
+    14.82874,
+    -11.65749
+],
+  "geometry": {"coordinates":[14.82874,-11.65749],"type":"Point"}
+}

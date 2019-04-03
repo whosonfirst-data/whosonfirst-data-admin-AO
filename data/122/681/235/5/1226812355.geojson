@@ -1,0 +1,67 @@
+{
+  "id": 1226812355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37425,-9.61219,20.37425,-9.61219",
+    "geom:latitude":-9.61219,
+    "geom:longitude":20.37425,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Caluambo",
+    "gn:country_code":"AO",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7789908,
+    "gn:latitude":-9.61219,
+    "gn:longitude":20.37425,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Caluambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789908
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a6ca38842e1bdc33f90a89a1782bf31a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1226812355,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1226812355,
+    "wof:lastmodified":1536617544,
+    "wof:name":"Caluambo",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37425,
+    -9.61219,
+    20.37425,
+    -9.61219
+],
+  "geometry": {"coordinates":[20.37425,-9.61219],"type":"Point"}
+}

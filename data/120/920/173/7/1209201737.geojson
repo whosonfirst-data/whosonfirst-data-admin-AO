@@ -1,0 +1,61 @@
+{
+  "id": 1209201737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34833,-9.505,16.34833,-9.505",
+    "geom:latitude":-9.505,
+    "geom:longitude":16.34833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guine",
+    "gn:country_code":"AO",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592244,
+    "gn:latitude":-9.505,
+    "gn:longitude":16.34833,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Guine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592244
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f887e4f110f67f317867b20e4db26ac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209201737
+        }
+    ],
+    "wof:id":1209201737,
+    "wof:lastmodified":1536294586,
+    "wof:name":"Guine",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.348329999999994,
+    -9.505,
+    16.348329999999994,
+    -9.505
+],
+  "geometry": {"coordinates":[16.34832999999999,-9.505],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209612579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68915,-10.87206,14.68915,-10.87206",
+    "geom:latitude":-10.87206,
+    "geom:longitude":14.68915,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Conde Centro",
+    "gn:country_code":"AO",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537128,
+    "gn:latitude":-10.87206,
+    "gn:longitude":14.68915,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Conde Centro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537128
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0eb602aa2440b3e1897417dd03517135",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209612579
+        }
+    ],
+    "wof:id":1209612579,
+    "wof:lastmodified":1536281799,
+    "wof:name":"Conde Centro",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68915,
+    -10.87206,
+    14.68915,
+    -10.87206
+],
+  "geometry": {"coordinates":[14.68915,-10.87206],"type":"Point"}
+}

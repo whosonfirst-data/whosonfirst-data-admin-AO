@@ -1,0 +1,67 @@
+{
+  "id": 1193273261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51997,-11.44117,15.51997,-11.44117",
+    "geom:latitude":-11.44117,
+    "geom:longitude":15.51997,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mambo",
+    "gn:country_code":"AO",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7859022,
+    "gn:latitude":-11.44117,
+    "gn:longitude":15.51997,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Mambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859022
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b3ca18e804fc801650b016d25c834c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1193273261,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1193273261,
+    "wof:lastmodified":1536368174,
+    "wof:name":"Mambo",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51997,
+    -11.44117,
+    15.51997,
+    -11.44117
+],
+  "geometry": {"coordinates":[15.51997,-11.44117],"type":"Point"}
+}

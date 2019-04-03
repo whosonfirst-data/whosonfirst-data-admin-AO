@@ -1,0 +1,67 @@
+{
+  "id": 1259806373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77692,-8.93995,14.77692,-8.93995",
+    "geom:latitude":-8.93995,
+    "geom:longitude":14.77692,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lundo",
+    "gn:country_code":"AO",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7764195,
+    "gn:latitude":-8.93995,
+    "gn:longitude":14.77692,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Lundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764195
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f16a02931109be55749ca61e4e424ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799881,
+            "locality_id":1259806373,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1259806373,
+    "wof:lastmodified":1536889901,
+    "wof:name":"Lundo",
+    "wof:parent_id":1108799881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77692,
+    -8.93995,
+    14.77692,
+    -8.93995
+],
+  "geometry": {"coordinates":[14.77692,-8.93995],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309988987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8,-8.28333,14.8,-8.28333",
+    "geom:latitude":-8.28333,
+    "geom:longitude":14.8,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quifuafua",
+    "gn:country_code":"AO",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238433,
+    "gn:latitude":-8.28333,
+    "gn:longitude":14.8,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quifuafua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238433
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8280380064372a6f9005993bd5f55834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799843,
+            "locality_id":1309988987,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1309988987,
+    "wof:lastmodified":1536667163,
+    "wof:name":"Quifuafua",
+    "wof:parent_id":1108799843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8,
+    -8.28333,
+    14.8,
+    -8.28333
+],
+  "geometry": {"coordinates":[14.8,-8.28333],"type":"Point"}
+}

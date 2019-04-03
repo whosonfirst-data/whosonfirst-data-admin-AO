@@ -1,0 +1,67 @@
+{
+  "id": 1360078375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36201,-10.96618,14.36201,-10.96618",
+    "geom:latitude":-10.96618,
+    "geom:longitude":14.36201,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Longue de Cima",
+    "gn:country_code":"AO",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537138,
+    "gn:latitude":-10.96618,
+    "gn:longitude":14.36201,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Longu\u00e9 de Cima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537138
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"831decbb04c45d7b523b914c80359135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799827,
+            "locality_id":1360078375,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1360078375,
+    "wof:lastmodified":1536955474,
+    "wof:name":"Longue de Cima",
+    "wof:parent_id":1108799827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36201,
+    -10.96618,
+    14.36201,
+    -10.96618
+],
+  "geometry": {"coordinates":[14.36201,-10.96618],"type":"Point"}
+}

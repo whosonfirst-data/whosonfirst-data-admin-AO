@@ -1,0 +1,67 @@
+{
+  "id": 1226339767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35243,-10.74467,14.35243,-10.74467",
+    "geom:latitude":-10.74467,
+    "geom:longitude":14.35243,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mbanza de Cassusso",
+    "gn:country_code":"AO",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866587,
+    "gn:latitude":-10.74467,
+    "gn:longitude":14.35243,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Mbanza de Cassusso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866587
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"22ae631c0d0460e28993e832e003aa55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799949,
+            "locality_id":1226339767,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226339767,
+    "wof:lastmodified":1536798223,
+    "wof:name":"Mbanza de Cassusso",
+    "wof:parent_id":1108799949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35243,
+    -10.74467,
+    14.35243,
+    -10.74467
+],
+  "geometry": {"coordinates":[14.35243,-10.74467],"type":"Point"}
+}

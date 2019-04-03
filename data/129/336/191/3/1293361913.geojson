@@ -1,0 +1,67 @@
+{
+  "id": 1293361913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57998,-8.51525,20.57998,-8.51525",
+    "geom:latitude":-8.51525,
+    "geom:longitude":20.57998,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Passa Bem",
+    "gn:country_code":"AO",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7764448,
+    "gn:latitude":-8.51525,
+    "gn:longitude":20.57998,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Passa Bem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764448
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4d8288bf29fb9c59005d5c90d71d2d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1293361913,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293361913,
+    "wof:lastmodified":1536967886,
+    "wof:name":"Passa Bem",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57998,
+    -8.51525,
+    20.57998,
+    -8.51525
+],
+  "geometry": {"coordinates":[20.57998,-8.51525],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344078907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12119,-10.49322,14.12119,-10.49322",
+    "geom:latitude":-10.49322,
+    "geom:longitude":14.12119,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sequele",
+    "gn:country_code":"AO",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856943,
+    "gn:latitude":-10.49322,
+    "gn:longitude":14.12119,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Sequele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856943
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"843f8c87b6145a28f27f41cd060e5757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799943,
+            "locality_id":1344078907,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1344078907,
+    "wof:lastmodified":1536847935,
+    "wof:name":"Sequele",
+    "wof:parent_id":1108799943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12119,
+    -10.49322,
+    14.12119,
+    -10.49322
+],
+  "geometry": {"coordinates":[14.12119,-10.49322],"type":"Point"}
+}

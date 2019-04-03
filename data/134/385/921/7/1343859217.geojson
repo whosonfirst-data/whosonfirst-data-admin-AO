@@ -1,0 +1,67 @@
+{
+  "id": 1343859217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.65565,-14.65413,17.65565,-14.65413",
+    "geom:latitude":-14.65413,
+    "geom:longitude":17.65565,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Macueba",
+    "gn:country_code":"AO",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908988,
+    "gn:latitude":-14.65413,
+    "gn:longitude":17.65565,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Macueba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908988
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"85a00d3e4268f639f18d9a8da0a2ff83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799961,
+            "locality_id":1343859217,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1343859217,
+    "wof:lastmodified":1536668417,
+    "wof:name":"Macueba",
+    "wof:parent_id":1108799961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.65565,
+    -14.65413,
+    17.65565,
+    -14.65413
+],
+  "geometry": {"coordinates":[17.65565,-14.65413],"type":"Point"}
+}

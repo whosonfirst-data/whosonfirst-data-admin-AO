@@ -1,0 +1,67 @@
+{
+  "id": 1242570255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9023,-10.50147,14.9023,-10.50147",
+    "geom:latitude":-10.50147,
+    "geom:longitude":14.9023,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lucala Dui",
+    "gn:country_code":"AO",
+    "gn:dem":1393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7865558,
+    "gn:latitude":-10.50147,
+    "gn:longitude":14.9023,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Lucala Dui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865558
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fd3d83d8a204c215bdf01b1b8bb646d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1242570255,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1242570255,
+    "wof:lastmodified":1537071186,
+    "wof:name":"Lucala Dui",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9023,
+    -10.50147,
+    14.9023,
+    -10.50147
+],
+  "geometry": {"coordinates":[14.9023,-10.50147],"type":"Point"}
+}

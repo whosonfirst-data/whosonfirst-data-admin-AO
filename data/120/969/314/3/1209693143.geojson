@@ -1,0 +1,66 @@
+{
+  "id": 1209693143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05,-9.38333,17.05,-9.38333",
+    "geom:latitude":-9.38333,
+    "geom:longitude":17.05,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Catomba",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242128,
+    "gn:latitude":-9.38333,
+    "gn:longitude":17.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Catomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Catoio",
+        "Catomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242128
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d84d9698950940fcf5eb913560abd26b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209693143
+        }
+    ],
+    "wof:id":1209693143,
+    "wof:lastmodified":1537584659,
+    "wof:name":"Catomba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05,
+    -9.38333,
+    17.05,
+    -9.38333
+],
+  "geometry": {"coordinates":[17.05,-9.38333],"type":"Point"}
+}

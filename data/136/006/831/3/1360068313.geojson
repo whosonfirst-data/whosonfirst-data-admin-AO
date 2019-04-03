@@ -1,0 +1,67 @@
+{
+  "id": 1360068313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79404,-6.65071,15.79404,-6.65071",
+    "geom:latitude":-6.65071,
+    "geom:longitude":15.79404,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Secula",
+    "gn:country_code":"AO",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754804,
+    "gn:latitude":-6.65071,
+    "gn:longitude":15.79404,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Secula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754804
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0c42b8200e5d58196745ae26e148eee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799715,
+            "locality_id":1360068313,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1360068313,
+    "wof:lastmodified":1536969596,
+    "wof:name":"Secula",
+    "wof:parent_id":1108799715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79404,
+    -6.65071,
+    15.79404,
+    -6.65071
+],
+  "geometry": {"coordinates":[15.79404,-6.65071],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209788879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05802,-6.63657,15.05802,-6.63657",
+    "geom:latitude":-6.63657,
+    "geom:longitude":15.05802,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aldeia Piloto",
+    "gn:country_code":"AO",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754193,
+    "gn:latitude":-6.63657,
+    "gn:longitude":15.05802,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Aldeia Piloto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754193
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8cd55c8d31db56accd8987253a564a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1209788879,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1209788879,
+    "wof:lastmodified":1536395925,
+    "wof:name":"Aldeia Piloto",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05802,
+    -6.63657,
+    15.05802,
+    -6.63657
+],
+  "geometry": {"coordinates":[15.05802,-6.63657],"type":"Point"}
+}

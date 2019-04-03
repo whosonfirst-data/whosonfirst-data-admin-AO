@@ -1,0 +1,72 @@
+{
+  "id": 1293674663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43194,-12.64333,15.43194,-12.64333",
+    "geom:latitude":-12.64333,
+    "geom:longitude":15.43194,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Canhala Colohombo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371995,
+    "gn:latitude":-12.64333,
+    "gn:longitude":15.43194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Canhala Colohombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canhalecoloombo",
+        "Canhala Colohombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371995
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"71d79ad5018ee595ca9e5c3968b0e06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1293674663,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1293674663,
+    "wof:lastmodified":1537584807,
+    "wof:name":"Canhala Colohombo",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43194,
+    -12.64333,
+    15.43194,
+    -12.64333
+],
+  "geometry": {"coordinates":[15.43194,-12.64333],"type":"Point"}
+}

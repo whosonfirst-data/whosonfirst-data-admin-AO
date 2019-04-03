@@ -1,0 +1,67 @@
+{
+  "id": 1293353929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56941,-8.26036,19.56941,-8.26036",
+    "geom:latitude":-8.26036,
+    "geom:longitude":19.56941,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muacazage",
+    "gn:country_code":"AO",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7900910,
+    "gn:latitude":-8.26036,
+    "gn:longitude":19.56941,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Muacazage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900910
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"868b4fca99afeae1b0eb2ef7f92b1b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799669,
+            "locality_id":1293353929,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293353929,
+    "wof:lastmodified":1536979105,
+    "wof:name":"Muacazage",
+    "wof:parent_id":1108799669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56941,
+    -8.26036,
+    19.56941,
+    -8.26036
+],
+  "geometry": {"coordinates":[19.56941,-8.26036],"type":"Point"}
+}

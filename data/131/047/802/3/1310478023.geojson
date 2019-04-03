@@ -1,0 +1,67 @@
+{
+  "id": 1310478023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22618,-8.83598,18.22618,-8.83598",
+    "geom:latitude":-8.83598,
+    "geom:longitude":18.22618,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muana Cagi",
+    "gn:country_code":"AO",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7765248,
+    "gn:latitude":-8.83598,
+    "gn:longitude":18.22618,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muana Cagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7765248
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2e91ed341d8b6f882eaef377fd376b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1310478023,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1310478023,
+    "wof:lastmodified":1536956622,
+    "wof:name":"Muana Cagi",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22618,
+    -8.83598,
+    18.22618,
+    -8.83598
+],
+  "geometry": {"coordinates":[18.22618,-8.83598],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209123867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50376,-11.9407,14.50376,-11.9407",
+    "geom:latitude":-11.9407,
+    "geom:longitude":14.50376,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Capoco",
+    "gn:country_code":"AO",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7901511,
+    "gn:latitude":-11.9407,
+    "gn:longitude":14.50376,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Capoco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901511
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0dfbfdfddd14c15aab15159d61e8ced5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209123867
+        }
+    ],
+    "wof:id":1209123867,
+    "wof:lastmodified":1536297015,
+    "wof:name":"Capoco",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50376,
+    -11.9407,
+    14.50376,
+    -11.9407
+],
+  "geometry": {"coordinates":[14.50376,-11.9407],"type":"Point"}
+}

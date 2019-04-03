@@ -1,0 +1,70 @@
+{
+  "id": 1309883055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6796,-9.08459,15.6796,-9.08459",
+    "geom:latitude":-9.08459,
+    "geom:longitude":15.6796,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quinje",
+    "gn:country_code":"AO",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237960,
+    "gn:latitude":-9.08459,
+    "gn:longitude":15.6796,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quinje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quinge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237960
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ecb90e32cbde8eb649af785a96d22145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1309883055,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1309883055,
+    "wof:lastmodified":1537584594,
+    "wof:name":"Quinje",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6796,
+    -9.08459,
+    15.6796,
+    -9.08459
+],
+  "geometry": {"coordinates":[15.6796,-9.08459],"type":"Point"}
+}

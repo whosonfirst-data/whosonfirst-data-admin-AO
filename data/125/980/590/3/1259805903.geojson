@@ -1,0 +1,67 @@
+{
+  "id": 1259805903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85,-12.28333,15.85,-12.28333",
+    "geom:latitude":-12.28333,
+    "geom:longitude":15.85,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Caiti",
+    "gn:country_code":"AO",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351231,
+    "gn:latitude":-12.28333,
+    "gn:longitude":15.85,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Caiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351231
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f081ad6cc3855cbcecdaa69fa8404e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799931,
+            "locality_id":1259805903,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1259805903,
+    "wof:lastmodified":1536890616,
+    "wof:name":"Caiti",
+    "wof:parent_id":1108799931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85,
+    -12.28333,
+    15.85,
+    -12.28333
+],
+  "geometry": {"coordinates":[15.85,-12.28333],"type":"Point"}
+}

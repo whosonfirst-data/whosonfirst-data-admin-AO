@@ -1,0 +1,74 @@
+{
+  "id": 1310219381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20472,-12.59972,13.20472,-12.59972",
+    "geom:latitude":-12.59972,
+    "geom:longitude":13.20472,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Baia Farta",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351786,
+    "gn:latitude":-12.59972,
+    "gn:longitude":13.20472,
+    "gn:modification_date":"2018-03-18",
+    "gn:name":"Ba\u00eda Farta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Farta",
+        "Bahia Farta",
+        "Ba\u00eda Farta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351786,
+        "wk:page":"Ba%C3%ADa_Farta"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"89e6b7f522615d5dee4aee4291c46d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799781,
+            "locality_id":1310219381,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1310219381,
+    "wof:lastmodified":1537584803,
+    "wof:name":"Baia Farta",
+    "wof:parent_id":1108799781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20472,
+    -12.59972,
+    13.20472,
+    -12.59972
+],
+  "geometry": {"coordinates":[13.20472,-12.59972],"type":"Point"}
+}

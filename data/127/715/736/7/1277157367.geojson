@@ -1,0 +1,71 @@
+{
+  "id": 1277157367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14995,-9.46893,16.14995,-9.46893",
+    "geom:latitude":-9.46893,
+    "geom:longitude":16.14995,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ndembue",
+    "gn:country_code":"AO",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771616,
+    "gn:latitude":-9.46893,
+    "gn:longitude":16.14995,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nd\u00e9mbue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nd\u00e9mbue",
+        "Cassongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771616
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aaef5b5fc9e15805c4921ddb9ba63550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1277157367,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1277157367,
+    "wof:lastmodified":1537584810,
+    "wof:name":"Ndembue",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14995,
+    -9.46893,
+    16.14995,
+    -9.46893
+],
+  "geometry": {"coordinates":[16.14995,-9.46893],"type":"Point"}
+}

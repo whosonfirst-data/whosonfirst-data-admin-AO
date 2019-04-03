@@ -1,0 +1,72 @@
+{
+  "id": 1209898321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.15,-6.26667,13.15,-6.26667",
+    "geom:latitude":-6.26667,
+    "geom:longitude":13.15,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gongue",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240909,
+    "gn:latitude":-6.26667,
+    "gn:longitude":13.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gongue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ondo",
+        "Gongue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240909
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"241361c4c4a7bd6c5e608586198f172c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799679,
+            "locality_id":1209898321,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1209898321,
+    "wof:lastmodified":1537584637,
+    "wof:name":"Gongue",
+    "wof:parent_id":1108799679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.15,
+    -6.26667,
+    13.15,
+    -6.26667
+],
+  "geometry": {"coordinates":[13.15,-6.26667],"type":"Point"}
+}

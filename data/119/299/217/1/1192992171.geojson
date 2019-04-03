@@ -1,0 +1,73 @@
+{
+  "id": 1192992171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85,-12.7,20.85,-12.7",
+    "geom:latitude":-12.7,
+    "geom:longitude":20.85,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Soana",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875667,
+    "gn:latitude":-12.7,
+    "gn:longitude":20.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Soana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soana Chimbancatio",
+        "Soana Shimbankanu",
+        "Soana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875667
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"89d0276ce9768c29a7a63a9be82b1030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799729,
+            "locality_id":1192992171,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1192992171,
+    "wof:lastmodified":1537584533,
+    "wof:name":"Soana",
+    "wof:parent_id":1108799729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85,
+    -12.7,
+    20.85,
+    -12.7
+],
+  "geometry": {"coordinates":[20.85,-12.7],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343434071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84283,-6.70728,15.84283,-6.70728",
+    "geom:latitude":-6.70728,
+    "geom:longitude":15.84283,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ialama",
+    "gn:country_code":"AO",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754813,
+    "gn:latitude":-6.70728,
+    "gn:longitude":15.84283,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Ialama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754813
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e064be4164061cad710f17e5df748c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799715,
+            "locality_id":1343434071,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343434071,
+    "wof:lastmodified":1536784931,
+    "wof:name":"Ialama",
+    "wof:parent_id":1108799715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84283,
+    -6.70728,
+    15.84283,
+    -6.70728
+],
+  "geometry": {"coordinates":[15.84283,-6.70728],"type":"Point"}
+}

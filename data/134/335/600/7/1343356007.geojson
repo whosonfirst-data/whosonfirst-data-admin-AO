@@ -1,0 +1,67 @@
+{
+  "id": 1343356007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,-17.31667,14.16667,-17.31667",
+    "geom:latitude":-17.31667,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Carenge",
+    "gn:country_code":"AO",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350520,
+    "gn:latitude":-17.31667,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Carenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350520
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6df39aa9bc1b3d07b18f93cc42caf73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799849,
+            "locality_id":1343356007,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1343356007,
+    "wof:lastmodified":1536896862,
+    "wof:name":"Carenge",
+    "wof:parent_id":1108799849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    -17.31667,
+    14.16667,
+    -17.31667
+],
+  "geometry": {"coordinates":[14.16667,-17.31667],"type":"Point"}
+}

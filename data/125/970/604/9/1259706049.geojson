@@ -1,0 +1,67 @@
+{
+  "id": 1259706049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31082,-11.02331,14.31082,-11.02331",
+    "geom:latitude":-11.02331,
+    "geom:longitude":14.31082,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ngonda",
+    "gn:country_code":"AO",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7864425,
+    "gn:latitude":-11.02331,
+    "gn:longitude":14.31082,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Ngonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7864425
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5429f9dc45df446a412a1cf2b4fe5432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1259706049,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259706049,
+    "wof:lastmodified":1537033185,
+    "wof:name":"Ngonda",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31082,
+    -11.02331,
+    14.31082,
+    -11.02331
+],
+  "geometry": {"coordinates":[14.31082,-11.02331],"type":"Point"}
+}

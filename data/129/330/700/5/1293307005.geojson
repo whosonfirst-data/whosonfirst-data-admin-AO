@@ -1,0 +1,67 @@
+{
+  "id": 1293307005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97977,-11.97469,13.97977,-11.97469",
+    "geom:latitude":-11.97469,
+    "geom:longitude":13.97977,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Cambulaco",
+    "gn:country_code":"AO",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3371642,
+    "gn:latitude":-11.97469,
+    "gn:longitude":13.97977,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Cambulaco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371642
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c691650cd30c58a8eb5862d8f7ed6eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1293307005,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1293307005,
+    "wof:lastmodified":1537045264,
+    "wof:name":"Cambulaco",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97977,
+    -11.97469,
+    13.97977,
+    -11.97469
+],
+  "geometry": {"coordinates":[13.97977,-11.97469],"type":"Point"}
+}

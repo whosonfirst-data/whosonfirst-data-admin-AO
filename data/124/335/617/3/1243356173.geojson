@@ -1,0 +1,71 @@
+{
+  "id": 1243356173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88727,-9.86309,14.88727,-9.86309",
+    "geom:latitude":-9.86309,
+    "geom:longitude":14.88727,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bango ia Cachica",
+    "gn:country_code":"AO",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243787,
+    "gn:latitude":-9.86309,
+    "gn:longitude":14.88727,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Bango i\u00e1 Cachica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bango",
+        "Bango i\u00e1 Cachica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243787
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"28391b0e53031048dc08511fb59a4f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1243356173,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1243356173,
+    "wof:lastmodified":1537584683,
+    "wof:name":"Bango ia Cachica",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88727,
+    -9.86309,
+    14.88727,
+    -9.86309
+],
+  "geometry": {"coordinates":[14.88727,-9.86309],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193159147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10775,-11.40765,15.10775,-11.40765",
+    "geom:latitude":-11.40765,
+    "geom:longitude":15.10775,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quicocoto",
+    "gn:country_code":"AO",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7860623,
+    "gn:latitude":-11.40765,
+    "gn:longitude":15.10775,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quicocoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860623
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c695e039fcab4e73cf6fd4766aff875e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1193159147,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1193159147,
+    "wof:lastmodified":1536369923,
+    "wof:name":"Quicocoto",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10775,
+    -11.40765,
+    15.10775,
+    -11.40765
+],
+  "geometry": {"coordinates":[15.10775,-11.40765],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344139763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88333,-8.16667,15.88333,-8.16667",
+    "geom:latitude":-8.16667,
+    "geom:longitude":15.88333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Boia",
+    "gn:country_code":"AO",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243540,
+    "gn:latitude":-8.16667,
+    "gn:longitude":15.88333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Boia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243540
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aa689ac2844b9c729b73e5a11cbb5f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799689,
+            "locality_id":1344139763,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1344139763,
+    "wof:lastmodified":1536761450,
+    "wof:name":"Boia",
+    "wof:parent_id":1108799689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88333,
+    -8.16667,
+    15.88333,
+    -8.16667
+],
+  "geometry": {"coordinates":[15.88333,-8.16667],"type":"Point"}
+}

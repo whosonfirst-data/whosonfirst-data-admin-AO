@@ -1,0 +1,67 @@
+{
+  "id": 1226151911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27084,-11.57635,17.27084,-11.57635",
+    "geom:latitude":-11.57635,
+    "geom:longitude":17.27084,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Calumbinga",
+    "gn:country_code":"AO",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901606,
+    "gn:latitude":-11.57635,
+    "gn:longitude":17.27084,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Calumbinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901606
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a8f653911c871fb8ac05414495c7eb45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1226151911,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1226151911,
+    "wof:lastmodified":1537065835,
+    "wof:name":"Calumbinga",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27084,
+    -11.57635,
+    17.27084,
+    -11.57635
+],
+  "geometry": {"coordinates":[17.27084,-11.57635],"type":"Point"}
+}

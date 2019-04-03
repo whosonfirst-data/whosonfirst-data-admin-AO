@@ -1,0 +1,67 @@
+{
+  "id": 1209818471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03231,-11.60593,17.03231,-11.60593",
+    "geom:latitude":-11.60593,
+    "geom:longitude":17.03231,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lubungululo",
+    "gn:country_code":"AO",
+    "gn:dem":1750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901629,
+    "gn:latitude":-11.60593,
+    "gn:longitude":17.03231,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Lubungululo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901629
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8d4270d142915c55a2d3635a3344c3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1209818471,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1209818471,
+    "wof:lastmodified":1536381330,
+    "wof:name":"Lubungululo",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03231,
+    -11.60593,
+    17.03231,
+    -11.60593
+],
+  "geometry": {"coordinates":[17.03231,-11.60593],"type":"Point"}
+}

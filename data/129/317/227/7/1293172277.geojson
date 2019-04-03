@@ -1,0 +1,72 @@
+{
+  "id": 1293172277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46667,-10.1,18.46667,-10.1",
+    "geom:latitude":-10.1,
+    "geom:longitude":18.46667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cafunge",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351311,
+    "gn:latitude":-10.1,
+    "gn:longitude":18.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cafunge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calunga",
+        "Cafunge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351311
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e6f90ead36c7b4b791fcd4faec1f4ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1293172277,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293172277,
+    "wof:lastmodified":1537584794,
+    "wof:name":"Cafunge",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46667,
+    -10.1,
+    18.46667,
+    -10.1
+],
+  "geometry": {"coordinates":[18.46667,-10.1],"type":"Point"}
+}

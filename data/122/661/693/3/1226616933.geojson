@@ -1,0 +1,72 @@
+{
+  "id": 1226616933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13333,-10.83333,22.13333,-10.83333",
+    "geom:latitude":-10.83333,
+    "geom:longitude":22.13333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Caiumbe",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876659,
+    "gn:latitude":-10.83333,
+    "gn:longitude":22.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caiumbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caiembe",
+        "Caiumbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876659
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8e3943fd100c946375cfec7123aa4714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1226616933,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1226616933,
+    "wof:lastmodified":1537584564,
+    "wof:name":"Caiumbe",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13333,
+    -10.83333,
+    22.13333,
+    -10.83333
+],
+  "geometry": {"coordinates":[22.13333,-10.83333],"type":"Point"}
+}

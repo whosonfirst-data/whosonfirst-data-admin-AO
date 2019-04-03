@@ -1,0 +1,73 @@
+{
+  "id": 1243455373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3053,-16.91305,19.3053,-16.91305",
+    "geom:latitude":-16.91305,
+    "geom:longitude":19.3053,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mavue",
+    "gn:country_code":"AO",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3347395,
+    "gn:latitude":-16.91305,
+    "gn:longitude":19.3053,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Mavu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:por_x_preferred":[
+        "Mavu\u00e9"
+    ],
+    "name:por_x_variant":[
+        "Mau\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347395
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0c254a3d98e8751c6149557cfe3c7f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799597,
+            "locality_id":1243455373,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1243455373,
+    "wof:lastmodified":1537584721,
+    "wof:name":"Mavue",
+    "wof:parent_id":1108799597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3053,
+    -16.91305,
+    19.3053,
+    -16.91305
+],
+  "geometry": {"coordinates":[19.3053,-16.91305],"type":"Point"}
+}

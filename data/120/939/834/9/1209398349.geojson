@@ -1,0 +1,61 @@
+{
+  "id": 1209398349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81667,-13.46667,21.81667,-13.46667",
+    "geom:latitude":-13.46667,
+    "geom:longitude":21.81667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cachungo",
+    "gn:country_code":"AO",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876682,
+    "gn:latitude":-13.46667,
+    "gn:longitude":21.81667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cachungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876682
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7b98b1661591a5bf8f16508f0d1f83cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209398349
+        }
+    ],
+    "wof:id":1209398349,
+    "wof:lastmodified":1536288227,
+    "wof:name":"Cachungo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81667,
+    -13.46667,
+    21.81667,
+    -13.46667
+],
+  "geometry": {"coordinates":[21.81667,-13.46667],"type":"Point"}
+}

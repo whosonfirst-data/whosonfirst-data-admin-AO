@@ -1,0 +1,67 @@
+{
+  "id": 1360098059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42989,-11.45473,17.42989,-11.45473",
+    "geom:latitude":-11.45473,
+    "geom:longitude":17.42989,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Camunda",
+    "gn:country_code":"AO",
+    "gn:dem":1309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787957,
+    "gn:latitude":-11.45473,
+    "gn:longitude":17.42989,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Camunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787957
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ef64a588d0baf3037046657edb435d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1360098059,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1360098059,
+    "wof:lastmodified":1536927567,
+    "wof:name":"Camunda",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42989,
+    -11.45473,
+    17.42989,
+    -11.45473
+],
+  "geometry": {"coordinates":[17.42989,-11.45473],"type":"Point"}
+}

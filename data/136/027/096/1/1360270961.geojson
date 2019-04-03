@@ -1,0 +1,74 @@
+{
+  "id": 1360270961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,-13.4,15.41667,-13.4",
+    "geom:latitude":-13.4,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Catata Nova",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350330,
+    "gn:latitude":-13.4,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Catata Nova",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cata-a-Nova",
+        "Catata-a-Nova",
+        "Catata",
+        "Catata Nova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350330
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"362febd5e5609f7197ce35c276f9d405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":1360270961,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1360270961,
+    "wof:lastmodified":1537584774,
+    "wof:name":"Catata Nova",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41667,
+    -13.4,
+    15.41667,
+    -13.4
+],
+  "geometry": {"coordinates":[15.41667,-13.4],"type":"Point"}
+}

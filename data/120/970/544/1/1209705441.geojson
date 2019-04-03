@@ -1,0 +1,67 @@
+{
+  "id": 1209705441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63236,-14.64532,15.63236,-14.64532",
+    "geom:latitude":-14.64532,
+    "geom:longitude":15.63236,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Liapeca",
+    "gn:country_code":"AO",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908351,
+    "gn:latitude":-14.64532,
+    "gn:longitude":15.63236,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Liapeca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908351
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3b589cf5e6a2b4e95de5b7ff440c8edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1209705441,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1209705441,
+    "wof:lastmodified":1536393069,
+    "wof:name":"Liapeca",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63236,
+    -14.64532,
+    15.63236,
+    -14.64532
+],
+  "geometry": {"coordinates":[15.63236,-14.64532],"type":"Point"}
+}

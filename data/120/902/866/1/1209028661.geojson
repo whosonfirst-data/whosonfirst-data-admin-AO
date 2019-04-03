@@ -1,0 +1,61 @@
+{
+  "id": 1209028661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86081,-10.61341,13.86081,-10.61341",
+    "geom:latitude":-10.61341,
+    "geom:longitude":13.86081,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cambambe Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865135,
+    "gn:latitude":-10.61341,
+    "gn:longitude":13.86081,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cambambe Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865135
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5b9ca750d9cc249afa033bb79c96060c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209028661
+        }
+    ],
+    "wof:id":1209028661,
+    "wof:lastmodified":1536299914,
+    "wof:name":"Cambambe Primeiro",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86081,
+    -10.61341,
+    13.86081,
+    -10.61341
+],
+  "geometry": {"coordinates":[13.86081,-10.61341],"type":"Point"}
+}

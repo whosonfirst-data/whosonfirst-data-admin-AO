@@ -1,0 +1,67 @@
+{
+  "id": 1260370423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08821,-9.30979,16.08821,-9.30979",
+    "geom:latitude":-9.30979,
+    "geom:longitude":16.08821,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zingo",
+    "gn:country_code":"AO",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771693,
+    "gn:latitude":-9.30979,
+    "gn:longitude":16.08821,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Zingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771693
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8aab9e1ea6716e1ca97805bbc47772d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1260370423,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1260370423,
+    "wof:lastmodified":1537089218,
+    "wof:name":"Zingo",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08821,
+    -9.30979,
+    16.08821,
+    -9.30979
+],
+  "geometry": {"coordinates":[16.08821,-9.30979],"type":"Point"}
+}

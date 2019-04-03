@@ -1,0 +1,67 @@
+{
+  "id": 1360061281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04767,-11.13058,20.04767,-11.13058",
+    "geom:latitude":-11.13058,
+    "geom:longitude":20.04767,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Decimo Primeiro de Novembro",
+    "gn:country_code":"AO",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7766159,
+    "gn:latitude":-11.13058,
+    "gn:longitude":20.04767,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"D\u00e9cimo Primeiro de Novembro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7766159
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d6913417aa22b22036524753cf2647cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799823,
+            "locality_id":1360061281,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1360061281,
+    "wof:lastmodified":1536979463,
+    "wof:name":"Decimo Primeiro de Novembro",
+    "wof:parent_id":1108799823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04767,
+    -11.13058,
+    20.04767,
+    -11.13058
+],
+  "geometry": {"coordinates":[20.04767,-11.13058],"type":"Point"}
+}

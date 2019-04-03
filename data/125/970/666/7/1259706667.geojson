@@ -1,0 +1,72 @@
+{
+  "id": 1259706667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46601,-8.99126,15.46601,-8.99126",
+    "geom:latitude":-8.99126,
+    "geom:longitude":15.46601,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ndala Cabala",
+    "gn:country_code":"AO",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241522,
+    "gn:latitude":-8.99126,
+    "gn:longitude":15.46601,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ndala Cabala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuale",
+        "Dala Cabala",
+        "Ndala Cabala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241522
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0748b63c5d54369c976ad3817e3895d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1259706667,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1259706667,
+    "wof:lastmodified":1537584648,
+    "wof:name":"Ndala Cabala",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46601,
+    -8.99126,
+    15.46601,
+    -8.99126
+],
+  "geometry": {"coordinates":[15.46601,-8.99126],"type":"Point"}
+}

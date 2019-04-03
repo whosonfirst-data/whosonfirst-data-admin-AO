@@ -1,0 +1,67 @@
+{
+  "id": 1310198293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75397,-11.77946,14.75397,-11.77946",
+    "geom:latitude":-11.77946,
+    "geom:longitude":14.75397,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tchim",
+    "gn:country_code":"AO",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7901417,
+    "gn:latitude":-11.77946,
+    "gn:longitude":14.75397,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901417
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b6523aac0d1491b54a8532bf231d644c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1310198293,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310198293,
+    "wof:lastmodified":1536861282,
+    "wof:name":"Tchim",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75397,
+    -11.77946,
+    14.75397,
+    -11.77946
+],
+  "geometry": {"coordinates":[14.75397,-11.77946],"type":"Point"}
+}

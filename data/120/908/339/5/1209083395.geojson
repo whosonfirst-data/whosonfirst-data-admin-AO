@@ -1,0 +1,66 @@
+{
+  "id": 1209083395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91667,-8.28333,16.91667,-8.28333",
+    "geom:latitude":-8.28333,
+    "geom:longitude":16.91667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Camana Bande",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242861,
+    "gn:latitude":-8.28333,
+    "gn:longitude":16.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Camana Bande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C. Bando",
+        "Camana Bande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242861
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"db74dbd877ce56842a16baaf58868e7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209083395
+        }
+    ],
+    "wof:id":1209083395,
+    "wof:lastmodified":1537584669,
+    "wof:name":"Camana Bande",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91667,
+    -8.28333,
+    16.91667,
+    -8.28333
+],
+  "geometry": {"coordinates":[16.91667,-8.28333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276766759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93333,-13.33333,12.93333,-13.33333",
+    "geom:latitude":-13.33333,
+    "geom:longitude":12.93333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Cimo",
+    "gn:country_code":"AO",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349393,
+    "gn:latitude":-13.33333,
+    "gn:longitude":12.93333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349393
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"15c0c08e715e617630114b75ace8626e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799781,
+            "locality_id":1276766759,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1276766759,
+    "wof:lastmodified":1536695260,
+    "wof:name":"Cimo",
+    "wof:parent_id":1108799781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93333,
+    -13.33333,
+    12.93333,
+    -13.33333
+],
+  "geometry": {"coordinates":[12.93333,-13.33333],"type":"Point"}
+}

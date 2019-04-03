@@ -1,0 +1,68 @@
+{
+  "id": 1259604535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76135,-16.17886,15.76135,-16.17886",
+    "geom:latitude":-16.17886,
+    "geom:longitude":15.76135,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3348986.0",
+    "gn:asciiname":"Mupa",
+    "gn:country_code":"AO",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347092,
+    "gn:latitude":-16.17886,
+    "gn:longitude":15.76135,
+    "gn:modification_date":"2014-08-16",
+    "gn:name":"Mupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347092
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c1f987c0aa429df46620ad16a4ea4f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799639,
+            "locality_id":1259604535,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1259604535,
+    "wof:lastmodified":1536684494,
+    "wof:name":"Mupa",
+    "wof:parent_id":1108799639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76135,
+    -16.17886,
+    15.76135,
+    -16.17886
+],
+  "geometry": {"coordinates":[15.76135,-16.17886],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242574769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30882,-12.13447,15.30882,-12.13447",
+    "geom:latitude":-12.13447,
+    "geom:longitude":15.30882,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Naloto",
+    "gn:country_code":"AO",
+    "gn:dem":1441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906283,
+    "gn:latitude":-12.13447,
+    "gn:longitude":15.30882,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Naloto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906283
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cdd0e116cab349af3fc5837254a59440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1242574769,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1242574769,
+    "wof:lastmodified":1537064895,
+    "wof:name":"Naloto",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30882,
+    -12.13447,
+    15.30882,
+    -12.13447
+],
+  "geometry": {"coordinates":[15.30882,-12.13447],"type":"Point"}
+}

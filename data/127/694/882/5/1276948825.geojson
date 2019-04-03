@@ -1,0 +1,67 @@
+{
+  "id": 1276948825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8822,-10.74779,21.8822,-10.74779",
+    "geom:latitude":-10.74779,
+    "geom:longitude":21.8822,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bondja",
+    "gn:country_code":"AO",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7864115,
+    "gn:latitude":-10.74779,
+    "gn:longitude":21.8822,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Bondja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7864115
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"48eb9da9fc75a3c74c797855b6e5b552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1276948825,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1276948825,
+    "wof:lastmodified":1536949303,
+    "wof:name":"Bondja",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8822,
+    -10.74779,
+    21.8822,
+    -10.74779
+],
+  "geometry": {"coordinates":[21.8822,-10.74779],"type":"Point"}
+}

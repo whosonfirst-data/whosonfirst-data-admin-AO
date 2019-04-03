@@ -1,0 +1,67 @@
+{
+  "id": 1276424277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16373,-11.45175,22.16373,-11.45175",
+    "geom:latitude":-11.45175,
+    "geom:longitude":22.16373,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Liambingua",
+    "gn:country_code":"AO",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7900987,
+    "gn:latitude":-11.45175,
+    "gn:longitude":22.16373,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Liambingua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900987
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5702201826ae88450348dd9a4cc7be4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799891,
+            "locality_id":1276424277,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1276424277,
+    "wof:lastmodified":1536656929,
+    "wof:name":"Liambingua",
+    "wof:parent_id":1108799891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16373,
+    -11.45175,
+    22.16373,
+    -11.45175
+],
+  "geometry": {"coordinates":[22.16373,-11.45175],"type":"Point"}
+}

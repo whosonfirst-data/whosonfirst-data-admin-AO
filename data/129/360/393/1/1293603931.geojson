@@ -1,0 +1,67 @@
+{
+  "id": 1293603931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9275,-12.61083,13.9275,-12.61083",
+    "geom:latitude":-12.61083,
+    "geom:longitude":13.9275,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Imbirique",
+    "gn:country_code":"AO",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372424,
+    "gn:latitude":-12.61083,
+    "gn:longitude":13.9275,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Imbirique",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372424
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e50678793d103b37feb28d94fecf6b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799837,
+            "locality_id":1293603931,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1293603931,
+    "wof:lastmodified":1536616961,
+    "wof:name":"Imbirique",
+    "wof:parent_id":1108799837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9275,
+    -12.61083,
+    13.9275,
+    -12.61083
+],
+  "geometry": {"coordinates":[13.9275,-12.61083],"type":"Point"}
+}

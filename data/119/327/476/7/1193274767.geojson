@@ -1,0 +1,67 @@
+{
+  "id": 1193274767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7219,-8.92888,14.7219,-8.92888",
+    "geom:latitude":-8.92888,
+    "geom:longitude":14.7219,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Madeira",
+    "gn:country_code":"AO",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7764186,
+    "gn:latitude":-8.92888,
+    "gn:longitude":14.7219,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Madeira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764186
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7b8e7ee0f43cb32cd8a5cd0614489e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799881,
+            "locality_id":1193274767,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1193274767,
+    "wof:lastmodified":1536366842,
+    "wof:name":"Madeira",
+    "wof:parent_id":1108799881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7219,
+    -8.92888,
+    14.7219,
+    -8.92888
+],
+  "geometry": {"coordinates":[14.7219,-8.92888],"type":"Point"}
+}

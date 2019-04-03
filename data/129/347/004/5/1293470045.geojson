@@ -1,0 +1,67 @@
+{
+  "id": 1293470045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29977,-9.95697,17.29977,-9.95697",
+    "geom:latitude":-9.95697,
+    "geom:longitude":17.29977,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quiemba",
+    "gn:country_code":"AO",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7785575,
+    "gn:latitude":-9.95697,
+    "gn:longitude":17.29977,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Quiemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785575
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"716ecc060bc97f73d5b3826ebb5ff1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799771,
+            "locality_id":1293470045,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293470045,
+    "wof:lastmodified":1536811739,
+    "wof:name":"Quiemba",
+    "wof:parent_id":1108799771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29977,
+    -9.95697,
+    17.29977,
+    -9.95697
+],
+  "geometry": {"coordinates":[17.29977,-9.95697],"type":"Point"}
+}

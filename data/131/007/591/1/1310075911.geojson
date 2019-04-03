@@ -1,0 +1,67 @@
+{
+  "id": 1310075911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08298,-6.29616,15.08298,-6.29616",
+    "geom:latitude":-6.29616,
+    "geom:longitude":15.08298,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Fungo",
+    "gn:country_code":"AO",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7735433,
+    "gn:latitude":-6.29616,
+    "gn:longitude":15.08298,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Fungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7735433
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bf6e1504e925d23180739fe81390a879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1310075911,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1310075911,
+    "wof:lastmodified":1537037666,
+    "wof:name":"Fungo",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08298,
+    -6.29616,
+    15.08298,
+    -6.29616
+],
+  "geometry": {"coordinates":[15.08298,-6.29616],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259480683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83333,-11.08333,14.83333,-11.08333",
+    "geom:latitude":-11.08333,
+    "geom:longitude":14.83333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cangongue",
+    "gn:country_code":"AO",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350739,
+    "gn:latitude":-11.08333,
+    "gn:longitude":14.83333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cangongue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350739
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"714d64eadc9cd5f8237f994b7cba7794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799659,
+            "locality_id":1259480683,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259480683,
+    "wof:lastmodified":1536861419,
+    "wof:name":"Cangongue",
+    "wof:parent_id":1108799659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83333,
+    -11.08333,
+    14.83333,
+    -11.08333
+],
+  "geometry": {"coordinates":[14.83333,-11.08333],"type":"Point"}
+}

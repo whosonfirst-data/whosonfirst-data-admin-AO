@@ -1,0 +1,67 @@
+{
+  "id": 1327320863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.30487,-9.19412,16.30487,-9.19412",
+    "geom:latitude":-9.19412,
+    "geom:longitude":16.30487,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Manjondo",
+    "gn:country_code":"AO",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7771477,
+    "gn:latitude":-9.19412,
+    "gn:longitude":16.30487,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Manjondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771477
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cee08793d2cfc06d1b837fa2d67ee67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1327320863,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1327320863,
+    "wof:lastmodified":1536840909,
+    "wof:name":"Manjondo",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30487,
+    -9.19412,
+    16.30487,
+    -9.19412
+],
+  "geometry": {"coordinates":[16.30487,-9.19412],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276652087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,-12.18333,15.01667,-12.18333",
+    "geom:latitude":-12.18333,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cambambe",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350979,
+    "gn:latitude":-12.18333,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cambambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0431\u0430\u043c\u0431\u0435"
+    ],
+    "name:und_x_variant":[
+        "Cumbambi",
+        "Cambambe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350979
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1738c6bedf725588ddf2a3701bfe6717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1276652087,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276652087,
+    "wof:lastmodified":1537584788,
+    "wof:name":"Cambambe",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    -12.18333,
+    15.01667,
+    -12.18333
+],
+  "geometry": {"coordinates":[15.01667,-12.18333],"type":"Point"}
+}

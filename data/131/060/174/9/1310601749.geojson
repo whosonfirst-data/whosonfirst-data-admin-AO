@@ -1,0 +1,67 @@
+{
+  "id": 1310601749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53799,-14.55522,16.53799,-14.55522",
+    "geom:latitude":-14.55522,
+    "geom:longitude":16.53799,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Muleque",
+    "gn:country_code":"AO",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908878,
+    "gn:latitude":-14.55522,
+    "gn:longitude":16.53799,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Muleque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908878
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"081231366e6cb02bafbcbcfefb9a2af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799877,
+            "locality_id":1310601749,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1310601749,
+    "wof:lastmodified":1536778585,
+    "wof:name":"Muleque",
+    "wof:parent_id":1108799877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53799,
+    -14.55522,
+    16.53799,
+    -14.55522
+],
+  "geometry": {"coordinates":[16.53799,-14.55522],"type":"Point"}
+}

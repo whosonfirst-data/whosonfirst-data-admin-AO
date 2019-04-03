@@ -1,0 +1,67 @@
+{
+  "id": 1343848789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44293,-12.37411,15.44293,-12.37411",
+    "geom:latitude":-12.37411,
+    "geom:longitude":15.44293,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchihula",
+    "gn:country_code":"AO",
+    "gn:dem":1808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7906339,
+    "gn:latitude":-12.37411,
+    "gn:longitude":15.44293,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchihula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906339
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1479f4ac671d62113ba8778b543ca042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1343848789,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1343848789,
+    "wof:lastmodified":1536683418,
+    "wof:name":"Tchihula",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44293,
+    -12.37411,
+    15.44293,
+    -12.37411
+],
+  "geometry": {"coordinates":[15.44293,-12.37411],"type":"Point"}
+}

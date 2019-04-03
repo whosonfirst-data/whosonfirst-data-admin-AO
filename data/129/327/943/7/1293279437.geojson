@@ -1,0 +1,67 @@
+{
+  "id": 1293279437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13083,-9.5975,16.13083,-9.5975",
+    "geom:latitude":-9.5975,
+    "geom:longitude":16.13083,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zenga",
+    "gn:country_code":"AO",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592187,
+    "gn:latitude":-9.5975,
+    "gn:longitude":16.13083,
+    "gn:modification_date":"1998-06-11",
+    "gn:name":"Zenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592187
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1a3b27638f92f42481103f7c2d8ada87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1293279437,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293279437,
+    "wof:lastmodified":1537083806,
+    "wof:name":"Zenga",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13083,
+    -9.5975,
+    16.13083,
+    -9.5975
+],
+  "geometry": {"coordinates":[16.13083,-9.5975],"type":"Point"}
+}

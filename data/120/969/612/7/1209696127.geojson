@@ -1,0 +1,61 @@
+{
+  "id": 1209696127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.34504,-10.6642,17.34504,-10.6642",
+    "geom:latitude":-10.6642,
+    "geom:longitude":17.34504,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Silombo",
+    "gn:country_code":"AO",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7900383,
+    "gn:latitude":-10.6642,
+    "gn:longitude":17.34504,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Silombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900383
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"62668e31f72ec2ca2ee5f9af2d6c08fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209696127
+        }
+    ],
+    "wof:id":1209696127,
+    "wof:lastmodified":1536279068,
+    "wof:name":"Silombo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.34504,
+    -10.6642,
+    17.34504,
+    -10.6642
+],
+  "geometry": {"coordinates":[17.34504,-10.6642],"type":"Point"}
+}

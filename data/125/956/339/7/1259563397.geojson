@@ -1,0 +1,67 @@
+{
+  "id": 1259563397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8414,-9.12321,15.8414,-9.12321",
+    "geom:latitude":-9.12321,
+    "geom:longitude":15.8414,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Njungo de Baixo",
+    "gn:country_code":"AO",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769152,
+    "gn:latitude":-9.12321,
+    "gn:longitude":15.8414,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Njungo de Baixo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769152
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ed97ec823cadb9f95aedb436f6ed6086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1259563397,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1259563397,
+    "wof:lastmodified":1536743565,
+    "wof:name":"Njungo de Baixo",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8414,
+    -9.12321,
+    15.8414,
+    -9.12321
+],
+  "geometry": {"coordinates":[15.8414,-9.12321],"type":"Point"}
+}

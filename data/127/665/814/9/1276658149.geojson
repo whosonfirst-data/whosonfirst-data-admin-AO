@@ -1,0 +1,72 @@
+{
+  "id": 1276658149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21667,-17.08333,18.21667,-17.08333",
+    "geom:latitude":-17.08333,
+    "geom:longitude":18.21667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dala Catambi",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348962,
+    "gn:latitude":-17.08333,
+    "gn:longitude":18.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dala Catambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capendi",
+        "Dala Catambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348962
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0b537936578b9b937f40bb7af1cdce95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799821,
+            "locality_id":1276658149,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1276658149,
+    "wof:lastmodified":1537584745,
+    "wof:name":"Dala Catambi",
+    "wof:parent_id":1108799821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21667,
+    -17.08333,
+    18.21667,
+    -17.08333
+],
+  "geometry": {"coordinates":[18.21667,-17.08333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209538081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38333,-11.91667,16.38333,-11.91667",
+    "geom:latitude":-11.91667,
+    "geom:longitude":16.38333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Palanca",
+    "gn:country_code":"AO",
+    "gn:dem":1684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346781,
+    "gn:latitude":-11.91667,
+    "gn:longitude":16.38333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Palanca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346781
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a2d0409024b215344bc3f8003be21ddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209538081
+        }
+    ],
+    "wof:id":1209538081,
+    "wof:lastmodified":1536284074,
+    "wof:name":"Palanca",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.383329999999994,
+    -11.91667,
+    16.383329999999994,
+    -11.91667
+],
+  "geometry": {"coordinates":[16.38332999999999,-11.91667],"type":"Point"}
+}

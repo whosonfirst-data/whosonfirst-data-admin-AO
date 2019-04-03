@@ -1,0 +1,72 @@
+{
+  "id": 1226215015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3,-6.88333,14.3,-6.88333",
+    "geom:latitude":-6.88333,
+    "geom:longitude":14.3,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ima",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240747,
+    "gn:latitude":-6.88333,
+    "gn:longitude":14.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ina",
+        "Ima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240747
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7e863b29a93c39faa9a860a6a1a6d3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799951,
+            "locality_id":1226215015,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226215015,
+    "wof:lastmodified":1537584634,
+    "wof:name":"Ima",
+    "wof:parent_id":1108799951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3,
+    -6.88333,
+    14.3,
+    -6.88333
+],
+  "geometry": {"coordinates":[14.3,-6.88333],"type":"Point"}
+}

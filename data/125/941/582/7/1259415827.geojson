@@ -1,0 +1,72 @@
+{
+  "id": 1259415827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.01667,-15.9,19.01667,-15.9",
+    "geom:latitude":-15.9,
+    "geom:longitude":19.01667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Candonga",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350799,
+    "gn:latitude":-15.9,
+    "gn:longitude":19.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Candonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangondo",
+        "Candonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350799
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cf6ec9399086b754849d4391c4cac41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799691,
+            "locality_id":1259415827,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1259415827,
+    "wof:lastmodified":1537584785,
+    "wof:name":"Candonga",
+    "wof:parent_id":1108799691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01667,
+    -15.9,
+    19.01667,
+    -15.9
+],
+  "geometry": {"coordinates":[19.01667,-15.9],"type":"Point"}
+}

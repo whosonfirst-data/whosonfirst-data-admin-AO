@@ -1,0 +1,67 @@
+{
+  "id": 1293387663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9053,-10.79855,13.9053,-10.79855",
+    "geom:latitude":-10.79855,
+    "geom:longitude":13.9053,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Camuio Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865090,
+    "gn:latitude":-10.79855,
+    "gn:longitude":13.9053,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Camuio Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865090
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"532c096a5ea6b5c527800c2fe7e73f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799943,
+            "locality_id":1293387663,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293387663,
+    "wof:lastmodified":1536931689,
+    "wof:name":"Camuio Primeiro",
+    "wof:parent_id":1108799943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9053,
+    -10.79855,
+    13.9053,
+    -10.79855
+],
+  "geometry": {"coordinates":[13.9053,-10.79855],"type":"Point"}
+}

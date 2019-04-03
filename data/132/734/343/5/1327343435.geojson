@@ -1,0 +1,67 @@
+{
+  "id": 1327343435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98611,-12.35556,13.98611,-12.35556",
+    "geom:latitude":-12.35556,
+    "geom:longitude":13.98611,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chirumbo",
+    "gn:country_code":"AO",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372376,
+    "gn:latitude":-12.35556,
+    "gn:longitude":13.98611,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Chirumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372376
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c1e7c6f9cfeba6f72ff3ca2f689668e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799837,
+            "locality_id":1327343435,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1327343435,
+    "wof:lastmodified":1536808807,
+    "wof:name":"Chirumbo",
+    "wof:parent_id":1108799837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98611,
+    -12.35556,
+    13.98611,
+    -12.35556
+],
+  "geometry": {"coordinates":[13.98611,-12.35556],"type":"Point"}
+}

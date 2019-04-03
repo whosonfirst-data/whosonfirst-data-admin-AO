@@ -1,0 +1,74 @@
+{
+  "id": 1343383409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01382,-10.5131,16.01382,-10.5131",
+    "geom:latitude":-10.5131,
+    "geom:longitude":16.01382,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mussende",
+    "gn:country_code":"AO",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347072,
+    "gn:latitude":-10.5131,
+    "gn:longitude":16.01382,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mussende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0441\u0435\u043d\u0434\u0435"
+    ],
+    "name:und_x_variant":[
+        "Luime",
+        "Mussende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347072
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5f20b2e833dc877c64e4fdc62620dd8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1343383409,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343383409,
+    "wof:lastmodified":1537584715,
+    "wof:name":"Mussende",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01382000000001,
+    -10.5131,
+    16.01382000000001,
+    -10.5131
+],
+  "geometry": {"coordinates":[16.01382000000001,-10.5131],"type":"Point"}
+}

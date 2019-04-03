@@ -1,0 +1,67 @@
+{
+  "id": 1193260649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76667,-5.98333,14.76667,-5.98333",
+    "geom:latitude":-5.98333,
+    "geom:longitude":14.76667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Luvaca",
+    "gn:country_code":"AO",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240061,
+    "gn:latitude":-5.98333,
+    "gn:longitude":14.76667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Luvaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240061
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"30ffa18a1e90284f3a4287dc780fcc0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799899,
+            "locality_id":1193260649,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1193260649,
+    "wof:lastmodified":1536381247,
+    "wof:name":"Luvaca",
+    "wof:parent_id":1108799899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76667,
+    -5.98333,
+    14.76667,
+    -5.98333
+],
+  "geometry": {"coordinates":[14.76667,-5.98333],"type":"Point"}
+}

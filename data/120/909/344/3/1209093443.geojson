@@ -1,0 +1,61 @@
+{
+  "id": 1209093443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39872,-11.2316,18.39872,-11.2316",
+    "geom:latitude":-11.2316,
+    "geom:longitude":18.39872,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Muamuxinda",
+    "gn:country_code":"AO",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7772447,
+    "gn:latitude":-11.2316,
+    "gn:longitude":18.39872,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muamuxinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7772447
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3b718728e5a46bf6d3df83fe62c5b1fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209093443
+        }
+    ],
+    "wof:id":1209093443,
+    "wof:lastmodified":1536297963,
+    "wof:name":"Muamuxinda",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39872,
+    -11.2316,
+    18.39872,
+    -11.2316
+],
+  "geometry": {"coordinates":[18.39872,-11.2316],"type":"Point"}
+}

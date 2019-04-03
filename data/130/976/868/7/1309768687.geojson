@@ -1,0 +1,67 @@
+{
+  "id": 1309768687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89694,-9.72337,13.89694,-9.72337",
+    "geom:latitude":-9.72337,
+    "geom:longitude":13.89694,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mienga",
+    "gn:country_code":"AO",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7782936,
+    "gn:latitude":-9.72337,
+    "gn:longitude":13.89694,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Mienga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7782936
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6637232e246516bde63e3d80eb69f2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1309768687,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1309768687,
+    "wof:lastmodified":1536983938,
+    "wof:name":"Mienga",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89694,
+    -9.72337,
+    13.89694,
+    -9.72337
+],
+  "geometry": {"coordinates":[13.89694,-9.72337],"type":"Point"}
+}

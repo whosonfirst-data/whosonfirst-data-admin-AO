@@ -1,0 +1,67 @@
+{
+  "id": 1293353597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49639,-10.80389,20.49639,-10.80389",
+    "geom:latitude":-10.80389,
+    "geom:longitude":20.49639,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sangage",
+    "gn:country_code":"AO",
+    "gn:dem":1197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105833,
+    "gn:latitude":-10.80389,
+    "gn:longitude":20.49639,
+    "gn:modification_date":"1999-06-15",
+    "gn:name":"Sangage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105833
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"83b4f08148192a1126ba65df709ab044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799823,
+            "locality_id":1293353597,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1293353597,
+    "wof:lastmodified":1536979575,
+    "wof:name":"Sangage",
+    "wof:parent_id":1108799823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49639,
+    -10.80389,
+    20.49639,
+    -10.80389
+],
+  "geometry": {"coordinates":[20.49639,-10.80389],"type":"Point"}
+}

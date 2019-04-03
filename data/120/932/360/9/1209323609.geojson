@@ -1,0 +1,65 @@
+{
+  "id": 1209323609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76667,-13.51667,16.76667,-13.51667",
+    "geom:latitude":-13.51667,
+    "geom:longitude":16.76667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chitembo",
+    "gn:country_code":"AO",
+    "gn:dem":1589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349516,
+    "gn:latitude":-13.51667,
+    "gn:longitude":16.76667,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Chitembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchitembo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349516,
+        "wk:page":"Chitembo"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"95af4c1ebcb3e88edf9ce5f790244a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209323609
+        }
+    ],
+    "wof:id":1209323609,
+    "wof:lastmodified":1537584755,
+    "wof:name":"Chitembo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76667,
+    -13.51667,
+    16.76667,
+    -13.51667
+],
+  "geometry": {"coordinates":[16.76667,-13.51667],"type":"Point"}
+}

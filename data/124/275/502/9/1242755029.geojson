@@ -1,0 +1,67 @@
+{
+  "id": 1242755029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.24489,-8.86047,17.24489,-8.86047",
+    "geom:latitude":-8.86047,
+    "geom:longitude":17.24489,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quizenga",
+    "gn:country_code":"AO",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7756192,
+    "gn:latitude":-8.86047,
+    "gn:longitude":17.24489,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quizenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756192
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c73eb20efaa5745f372d97f9a5335fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799725,
+            "locality_id":1242755029,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1242755029,
+    "wof:lastmodified":1536807868,
+    "wof:name":"Quizenga",
+    "wof:parent_id":1108799725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.24489,
+    -8.86047,
+    17.24489,
+    -8.86047
+],
+  "geometry": {"coordinates":[17.24489,-8.86047],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310276405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13058,-8.18866,19.13058,-8.18866",
+    "geom:latitude":-8.18866,
+    "geom:longitude":19.13058,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Saluembe",
+    "gn:country_code":"AO",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7898697,
+    "gn:latitude":-8.18866,
+    "gn:longitude":19.13058,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Saluembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898697
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f9be90c7dad0ff0d3bef26fd266b7ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799661,
+            "locality_id":1310276405,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1310276405,
+    "wof:lastmodified":1536749855,
+    "wof:name":"Saluembe",
+    "wof:parent_id":1108799661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13058,
+    -8.18866,
+    19.13058,
+    -8.18866
+],
+  "geometry": {"coordinates":[19.13058,-8.18866],"type":"Point"}
+}

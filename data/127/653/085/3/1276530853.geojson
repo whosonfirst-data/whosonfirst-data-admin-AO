@@ -1,0 +1,70 @@
+{
+  "id": 1276530853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89967,-6.73113,15.89967,-6.73113",
+    "geom:latitude":-6.73113,
+    "geom:longitude":15.89967,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Teca Mbanga",
+    "gn:country_code":"AO",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754879,
+    "gn:latitude":-6.73113,
+    "gn:longitude":15.89967,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Teca Mbanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Segundo de Novembro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754879
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b766add7d8581864f53aff32703ad2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799715,
+            "locality_id":1276530853,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1276530853,
+    "wof:lastmodified":1537584808,
+    "wof:name":"Teca Mbanga",
+    "wof:parent_id":1108799715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89967,
+    -6.73113,
+    15.89967,
+    -6.73113
+],
+  "geometry": {"coordinates":[15.89967,-6.73113],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259752819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40651,-6.16865,14.40651,-6.16865",
+    "geom:latitude":-6.16865,
+    "geom:longitude":14.40651,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mbanza Tamba",
+    "gn:country_code":"AO",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243703,
+    "gn:latitude":-6.16865,
+    "gn:longitude":14.40651,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbanza Tamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanda",
+        "Banza Tanda",
+        "Banza Tamba",
+        "Mbanza Tamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243703
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"df58efc8ccb7b785e8308fcc8a907e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1259752819,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1259752819,
+    "wof:lastmodified":1537584680,
+    "wof:name":"Mbanza Tamba",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40651,
+    -6.16865,
+    14.40651,
+    -6.16865
+],
+  "geometry": {"coordinates":[14.40651,-6.16865],"type":"Point"}
+}

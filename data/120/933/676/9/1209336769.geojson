@@ -1,0 +1,61 @@
+{
+  "id": 1209336769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39123,-10.90935,14.39123,-10.90935",
+    "geom:latitude":-10.90935,
+    "geom:longitude":14.39123,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zela",
+    "gn:country_code":"AO",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866716,
+    "gn:latitude":-10.90935,
+    "gn:longitude":14.39123,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Zela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866716
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0925bde6c633824dd60e5cccd9b0609b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209336769
+        }
+    ],
+    "wof:id":1209336769,
+    "wof:lastmodified":1536290194,
+    "wof:name":"Zela",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.391229999999998,
+    -10.90935,
+    14.391229999999998,
+    -10.90935
+],
+  "geometry": {"coordinates":[14.39123,-10.90935],"type":"Point"}
+}

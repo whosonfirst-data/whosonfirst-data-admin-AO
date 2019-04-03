@@ -1,0 +1,61 @@
+{
+  "id": 1209401913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57482,-10.10557,17.57482,-10.10557",
+    "geom:latitude":-10.10557,
+    "geom:longitude":17.57482,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cunga",
+    "gn:country_code":"AO",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7868805,
+    "gn:latitude":-10.10557,
+    "gn:longitude":17.57482,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7868805
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d65b2426ce93a5224482bc19249f1af0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209401913
+        }
+    ],
+    "wof:id":1209401913,
+    "wof:lastmodified":1536288118,
+    "wof:name":"Cunga",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.574820000000006,
+    -10.10557,
+    17.574820000000006,
+    -10.10557
+],
+  "geometry": {"coordinates":[17.57482000000001,-10.10557],"type":"Point"}
+}

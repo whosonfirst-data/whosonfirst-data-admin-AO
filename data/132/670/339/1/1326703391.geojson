@@ -1,0 +1,67 @@
+{
+  "id": 1326703391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58347,-6.14405,15.58347,-6.14405",
+    "geom:latitude":-6.14405,
+    "geom:longitude":15.58347,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quintuani",
+    "gn:country_code":"AO",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7693634,
+    "gn:latitude":-6.14405,
+    "gn:longitude":15.58347,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Quintuani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7693634
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c52eaab82bec9855a096c418e8b33a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1326703391,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1326703391,
+    "wof:lastmodified":1536737365,
+    "wof:name":"Quintuani",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58347,
+    -6.14405,
+    15.58347,
+    -6.14405
+],
+  "geometry": {"coordinates":[15.58347,-6.14405],"type":"Point"}
+}

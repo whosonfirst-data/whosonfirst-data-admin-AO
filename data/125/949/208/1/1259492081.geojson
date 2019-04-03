@@ -1,0 +1,67 @@
+{
+  "id": 1259492081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4,-12.6,18.4,-12.6",
+    "geom:latitude":-12.6,
+    "geom:longitude":18.4,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bacuma",
+    "gn:country_code":"AO",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351789,
+    "gn:latitude":-12.6,
+    "gn:longitude":18.4,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Bacuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351789
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6c168331c80231599262ce7770a65d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799729,
+            "locality_id":1259492081,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1259492081,
+    "wof:lastmodified":1536845276,
+    "wof:name":"Bacuma",
+    "wof:parent_id":1108799729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4,
+    -12.6,
+    18.4,
+    -12.6
+],
+  "geometry": {"coordinates":[18.4,-12.6],"type":"Point"}
+}

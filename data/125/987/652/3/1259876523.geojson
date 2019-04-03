@@ -1,0 +1,67 @@
+{
+  "id": 1259876523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36667,-13.16194,15.36667,-13.16194",
+    "geom:latitude":-13.16194,
+    "geom:longitude":15.36667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Balavande",
+    "gn:country_code":"AO",
+    "gn:dem":1788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371478,
+    "gn:latitude":-13.16194,
+    "gn:longitude":15.36667,
+    "gn:modification_date":"1998-03-31",
+    "gn:name":"Balavand\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371478
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b2beb0cae7001f3d0f0af419835b1fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799831,
+            "locality_id":1259876523,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1259876523,
+    "wof:lastmodified":1536789678,
+    "wof:name":"Balavande",
+    "wof:parent_id":1108799831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36667,
+    -13.16194,
+    15.36667,
+    -13.16194
+],
+  "geometry": {"coordinates":[15.36667,-13.16194],"type":"Point"}
+}

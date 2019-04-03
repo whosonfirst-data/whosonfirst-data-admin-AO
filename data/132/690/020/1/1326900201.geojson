@@ -1,0 +1,67 @@
+{
+  "id": 1326900201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21667,-5.98333,14.21667,-5.98333",
+    "geom:latitude":-5.98333,
+    "geom:longitude":14.21667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quinssende",
+    "gn:country_code":"AO",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237882,
+    "gn:latitude":-5.98333,
+    "gn:longitude":14.21667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quinssende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237882
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d664e26affa1f599cd79bf12a9e02c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1326900201,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1326900201,
+    "wof:lastmodified":1536951206,
+    "wof:name":"Quinssende",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21667,
+    -5.98333,
+    14.21667,
+    -5.98333
+],
+  "geometry": {"coordinates":[14.21667,-5.98333],"type":"Point"}
+}

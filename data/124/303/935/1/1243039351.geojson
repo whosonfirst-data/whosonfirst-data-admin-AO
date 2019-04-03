@@ -1,0 +1,67 @@
+{
+  "id": 1243039351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03333,-7.73333,20.03333,-7.73333",
+    "geom:latitude":-7.73333,
+    "geom:longitude":20.03333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chambumba",
+    "gn:country_code":"AO",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145827,
+    "gn:latitude":-7.73333,
+    "gn:longitude":20.03333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chambumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145827
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"80d0331f6c26676d422d5715831231de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1243039351,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1243039351,
+    "wof:lastmodified":1536895275,
+    "wof:name":"Chambumba",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03333,
+    -7.73333,
+    20.03333,
+    -7.73333
+],
+  "geometry": {"coordinates":[20.03333,-7.73333],"type":"Point"}
+}

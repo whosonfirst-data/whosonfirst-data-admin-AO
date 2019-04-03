@@ -1,0 +1,73 @@
+{
+  "id": 1259352635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.64965,-6.75277,12.64965,-6.75277",
+    "geom:latitude":-6.75277,
+    "geom:longitude":12.64965,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Cacongo",
+    "gn:country_code":"AO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243180,
+    "gn:latitude":-6.75277,
+    "gn:longitude":12.64965,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Cacongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quicongue",
+        "Caconga",
+        "Kakongo",
+        "Cacongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243180
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1f43916cb33378a10a0152237fc94f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799615,
+            "locality_id":1259352635,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1259352635,
+    "wof:lastmodified":1537584673,
+    "wof:name":"Cacongo",
+    "wof:parent_id":1108799615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.64965,
+    -6.75277,
+    12.64965,
+    -6.75277
+],
+  "geometry": {"coordinates":[12.64965,-6.75277],"type":"Point"}
+}

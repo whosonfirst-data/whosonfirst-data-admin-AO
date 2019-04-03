@@ -1,0 +1,67 @@
+{
+  "id": 1293077341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40685,-9.3979,18.40685,-9.3979",
+    "geom:latitude":-9.3979,
+    "geom:longitude":18.40685,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muhungo",
+    "gn:country_code":"AO",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787013,
+    "gn:latitude":-9.3979,
+    "gn:longitude":18.40685,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Muhungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787013
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d57bc0ddb3d88112ec84659316664715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799965,
+            "locality_id":1293077341,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293077341,
+    "wof:lastmodified":1536880729,
+    "wof:name":"Muhungo",
+    "wof:parent_id":1108799965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40685,
+    -9.3979,
+    18.40685,
+    -9.3979
+],
+  "geometry": {"coordinates":[18.40685,-9.3979],"type":"Point"}
+}

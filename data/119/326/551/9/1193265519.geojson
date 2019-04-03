@@ -1,0 +1,67 @@
+{
+  "id": 1193265519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50771,-8.73048,16.50771,-8.73048",
+    "geom:latitude":-8.73048,
+    "geom:longitude":16.50771,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quimonha",
+    "gn:country_code":"AO",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7757787,
+    "gn:latitude":-8.73048,
+    "gn:longitude":16.50771,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quimonha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7757787
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"90977505b356c479f85d967a948ea9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1193265519,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1193265519,
+    "wof:lastmodified":1536376300,
+    "wof:name":"Quimonha",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50771,
+    -8.73048,
+    16.50771,
+    -8.73048
+],
+  "geometry": {"coordinates":[16.50771,-8.73048],"type":"Point"}
+}

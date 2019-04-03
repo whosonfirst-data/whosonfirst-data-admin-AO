@@ -1,0 +1,67 @@
+{
+  "id": 1293361841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54431,-8.39561,20.54431,-8.39561",
+    "geom:latitude":-8.39561,
+    "geom:longitude":20.54431,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mussanguege Terceiro",
+    "gn:country_code":"AO",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7766280,
+    "gn:latitude":-8.39561,
+    "gn:longitude":20.54431,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mussanguege Terceiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7766280
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"356c3f2ca0470c0c20d6c3a28acd662c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1293361841,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293361841,
+    "wof:lastmodified":1536967984,
+    "wof:name":"Mussanguege Terceiro",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54431,
+    -8.39561,
+    20.54431,
+    -8.39561
+],
+  "geometry": {"coordinates":[20.54431,-8.39561],"type":"Point"}
+}

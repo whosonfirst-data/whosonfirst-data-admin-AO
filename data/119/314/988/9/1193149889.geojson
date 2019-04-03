@@ -1,0 +1,67 @@
+{
+  "id": 1193149889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07376,-11.47287,17.07376,-11.47287",
+    "geom:latitude":-11.47287,
+    "geom:longitude":17.07376,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Samiamba",
+    "gn:country_code":"AO",
+    "gn:dem":1660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787991,
+    "gn:latitude":-11.47287,
+    "gn:longitude":17.07376,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Samiamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787991
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c3da98db3ea0caf1c250909e21da4f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1193149889,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1193149889,
+    "wof:lastmodified":1536379376,
+    "wof:name":"Samiamba",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07376,
+    -11.47287,
+    17.07376,
+    -11.47287
+],
+  "geometry": {"coordinates":[17.07376,-11.47287],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343444527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05,-11.78333,23.05,-11.78333",
+    "geom:latitude":-11.78333,
+    "geom:longitude":23.05,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Checoje",
+    "gn:country_code":"AO",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876459,
+    "gn:latitude":-11.78333,
+    "gn:longitude":23.05,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Checoje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876459
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9c75b66dc59cb81f95a5fe1fc2d19765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1343444527,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1343444527,
+    "wof:lastmodified":1536769763,
+    "wof:name":"Checoje",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05,
+    -11.78333,
+    23.05,
+    -11.78333
+],
+  "geometry": {"coordinates":[23.05,-11.78333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344136173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6,-14.06667,13.6,-14.06667",
+    "geom:latitude":-14.06667,
+    "geom:longitude":13.6,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Cassimbas",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350430,
+    "gn:latitude":-14.06667,
+    "gn:longitude":13.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cassimbas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cacimbas",
+        "Casimba",
+        "Cassimbas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350430
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6ea98c2f02afded5cf01e100bfb08f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799723,
+            "locality_id":1344136173,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1344136173,
+    "wof:lastmodified":1537584777,
+    "wof:name":"Cassimbas",
+    "wof:parent_id":1108799723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6,
+    -14.06667,
+    13.6,
+    -14.06667
+],
+  "geometry": {"coordinates":[13.6,-14.06667],"type":"Point"}
+}

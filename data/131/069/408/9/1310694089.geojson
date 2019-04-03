@@ -1,0 +1,67 @@
+{
+  "id": 1310694089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82055,-11.25035,14.82055,-11.25035",
+    "geom:latitude":-11.25035,
+    "geom:longitude":14.82055,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sanje",
+    "gn:country_code":"AO",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7860387,
+    "gn:latitude":-11.25035,
+    "gn:longitude":14.82055,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Sanje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860387
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"babac6729a879cf7bbc39fde85fd09c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1310694089,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310694089,
+    "wof:lastmodified":1536644244,
+    "wof:name":"Sanje",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82055,
+    -11.25035,
+    14.82055,
+    -11.25035
+],
+  "geometry": {"coordinates":[14.82055,-11.25035],"type":"Point"}
+}

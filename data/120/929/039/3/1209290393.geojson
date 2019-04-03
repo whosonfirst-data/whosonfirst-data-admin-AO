@@ -1,0 +1,61 @@
+{
+  "id": 1209290393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97062,-10.30657,18.97062,-10.30657",
+    "geom:latitude":-10.30657,
+    "geom:longitude":18.97062,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tchanguegi",
+    "gn:country_code":"AO",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891394,
+    "gn:latitude":-10.30657,
+    "gn:longitude":18.97062,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchangu\u00e9gi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891394
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a62abe10173a8188eb239baacfdf5a82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209290393
+        }
+    ],
+    "wof:id":1209290393,
+    "wof:lastmodified":1536291714,
+    "wof:name":"Tchanguegi",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97062,
+    -10.30657,
+    18.97062,
+    -10.30657
+],
+  "geometry": {"coordinates":[18.97062,-10.30657],"type":"Point"}
+}

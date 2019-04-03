@@ -1,0 +1,67 @@
+{
+  "id": 1242936699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49074,-9.42033,18.49074,-9.42033",
+    "geom:latitude":-9.42033,
+    "geom:longitude":18.49074,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muamulemba",
+    "gn:country_code":"AO",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7787017,
+    "gn:latitude":-9.42033,
+    "gn:longitude":18.49074,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Muamulemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787017
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"23e4cf16eea9f3cfc18b4c6787c9792b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799965,
+            "locality_id":1242936699,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1242936699,
+    "wof:lastmodified":1537041854,
+    "wof:name":"Muamulemba",
+    "wof:parent_id":1108799965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49074,
+    -9.42033,
+    18.49074,
+    -9.42033
+],
+  "geometry": {"coordinates":[18.49074,-9.42033],"type":"Point"}
+}

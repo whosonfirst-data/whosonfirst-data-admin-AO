@@ -1,0 +1,72 @@
+{
+  "id": 1326517179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80635,-8.72862,15.80635,-8.72862",
+    "geom:latitude":-8.72862,
+    "geom:longitude":15.80635,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mbege",
+    "gn:country_code":"AO",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243663,
+    "gn:latitude":-8.72862,
+    "gn:longitude":15.80635,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enguire",
+        "Bege",
+        "Mbege"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243663
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c2d5fbf066aa86dd110f91e7eaa497bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1326517179,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1326517179,
+    "wof:lastmodified":1537584679,
+    "wof:name":"Mbege",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80635,
+    -8.72862,
+    15.80635,
+    -8.72862
+],
+  "geometry": {"coordinates":[15.80635,-8.72862],"type":"Point"}
+}

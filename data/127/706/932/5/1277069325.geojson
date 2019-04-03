@@ -1,0 +1,67 @@
+{
+  "id": 1277069325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34731,-10.79192,14.34731,-10.79192",
+    "geom:latitude":-10.79192,
+    "geom:longitude":14.34731,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nvungi",
+    "gn:country_code":"AO",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866736,
+    "gn:latitude":-10.79192,
+    "gn:longitude":14.34731,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Nvungi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866736
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b766513a835f6135edf4ed15e6eb7ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799827,
+            "locality_id":1277069325,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1277069325,
+    "wof:lastmodified":1536787434,
+    "wof:name":"Nvungi",
+    "wof:parent_id":1108799827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34731,
+    -10.79192,
+    14.34731,
+    -10.79192
+],
+  "geometry": {"coordinates":[14.34731,-10.79192],"type":"Point"}
+}

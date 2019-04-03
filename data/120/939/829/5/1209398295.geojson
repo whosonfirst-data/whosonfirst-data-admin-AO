@@ -1,0 +1,66 @@
+{
+  "id": 1209398295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91667,-14.08333,20.91667,-14.08333",
+    "geom:latitude":-14.08333,
+    "geom:longitude":20.91667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Samueque",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875728,
+    "gn:latitude":-14.08333,
+    "gn:longitude":20.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Samueque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cazengue",
+        "Samueque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875728
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1f3fd52d34aca1a2aad54122184690a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209398295
+        }
+    ],
+    "wof:id":1209398295,
+    "wof:lastmodified":1537584536,
+    "wof:name":"Samueque",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91667,
+    -14.08333,
+    20.91667,
+    -14.08333
+],
+  "geometry": {"coordinates":[20.91667,-14.08333],"type":"Point"}
+}

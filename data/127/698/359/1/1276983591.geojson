@@ -1,0 +1,70 @@
+{
+  "id": 1276983591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07249,-11.58451,17.07249,-11.58451",
+    "geom:latitude":-11.58451,
+    "geom:longitude":17.07249,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Talala",
+    "gn:country_code":"AO",
+    "gn:dem":1689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3345960,
+    "gn:latitude":-11.58451,
+    "gn:longitude":17.07249,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Talala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345960
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"96491a8f8e953e04e91cb8aa8b9f41c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1276983591,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1276983591,
+    "wof:lastmodified":1537584693,
+    "wof:name":"Talala",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07249,
+    -11.58451,
+    17.07249,
+    -11.58451
+],
+  "geometry": {"coordinates":[17.07249,-11.58451],"type":"Point"}
+}

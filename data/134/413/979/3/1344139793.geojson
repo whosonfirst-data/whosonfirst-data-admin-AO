@@ -1,0 +1,70 @@
+{
+  "id": 1344139793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02384,-6.52536,15.02384,-6.52536",
+    "geom:latitude":-6.52536,
+    "geom:longitude":15.02384,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zongo",
+    "gn:country_code":"AO",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236993,
+    "gn:latitude":-6.52536,
+    "gn:longitude":15.02384,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Songo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236993
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bf13350a0493968e52ba7c4c176f8abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1344139793,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1344139793,
+    "wof:lastmodified":1537584576,
+    "wof:name":"Zongo",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02384,
+    -6.52536,
+    15.02384,
+    -6.52536
+],
+  "geometry": {"coordinates":[15.02384,-6.52536],"type":"Point"}
+}

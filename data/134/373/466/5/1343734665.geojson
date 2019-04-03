@@ -1,0 +1,70 @@
+{
+  "id": 1343734665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48882,-6.01387,14.48882,-6.01387",
+    "geom:latitude":-6.01387,
+    "geom:longitude":14.48882,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ngando",
+    "gn:country_code":"AO",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241067,
+    "gn:latitude":-6.01387,
+    "gn:longitude":14.48882,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241067
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6d99b277216a7b5e614cd0794d5eccd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799899,
+            "locality_id":1343734665,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1343734665,
+    "wof:lastmodified":1537584640,
+    "wof:name":"Ngando",
+    "wof:parent_id":1108799899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48882,
+    -6.01387,
+    14.48882,
+    -6.01387
+],
+  "geometry": {"coordinates":[14.48882,-6.01387],"type":"Point"}
+}

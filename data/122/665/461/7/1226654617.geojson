@@ -1,0 +1,67 @@
+{
+  "id": 1226654617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89905,-11.6934,16.89905,-11.6934",
+    "geom:latitude":-11.6934,
+    "geom:longitude":16.89905,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Cambali",
+    "gn:country_code":"AO",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903573,
+    "gn:latitude":-11.6934,
+    "gn:longitude":16.89905,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cambali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903573
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d7f19e60eddd04fe2ef6fd6a9966f07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1226654617,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1226654617,
+    "wof:lastmodified":1536845479,
+    "wof:name":"Cambali",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89905,
+    -11.6934,
+    16.89905,
+    -11.6934
+],
+  "geometry": {"coordinates":[16.89905,-11.6934],"type":"Point"}
+}

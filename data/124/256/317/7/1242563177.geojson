@@ -1,0 +1,72 @@
+{
+  "id": 1242563177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19759,-12.3161,15.19759,-12.3161",
+    "geom:latitude":-12.3161,
+    "geom:longitude":15.19759,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Conga Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":1678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3349312,
+    "gn:latitude":-12.3161,
+    "gn:longitude":15.19759,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Conga Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Uconga",
+        "Conga",
+        "Conga Primeiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349312
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cdc157e4ce56fdc5b91c58ed3c7063b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1242563177,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1242563177,
+    "wof:lastmodified":1537584751,
+    "wof:name":"Conga Primeiro",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19759,
+    -12.3161,
+    15.19759,
+    -12.3161
+],
+  "geometry": {"coordinates":[15.19759,-12.3161],"type":"Point"}
+}

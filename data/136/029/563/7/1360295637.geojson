@@ -1,0 +1,67 @@
+{
+  "id": 1360295637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99361,-12.58944,13.99361,-12.58944",
+    "geom:latitude":-12.58944,
+    "geom:longitude":13.99361,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Uguira",
+    "gn:country_code":"AO",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372415,
+    "gn:latitude":-12.58944,
+    "gn:longitude":13.99361,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Uguira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372415
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7608ee1ff8f29e40589c03758c4e3ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799837,
+            "locality_id":1360295637,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1360295637,
+    "wof:lastmodified":1536640912,
+    "wof:name":"Uguira",
+    "wof:parent_id":1108799837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99361,
+    -12.58944,
+    13.99361,
+    -12.58944
+],
+  "geometry": {"coordinates":[13.99361,-12.58944],"type":"Point"}
+}

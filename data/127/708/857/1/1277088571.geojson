@@ -1,0 +1,67 @@
+{
+  "id": 1277088571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76667,-12.4,14.76667,-12.4",
+    "geom:latitude":-12.4,
+    "geom:longitude":14.76667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Caviri",
+    "gn:country_code":"AO",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350156,
+    "gn:latitude":-12.4,
+    "gn:longitude":14.76667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Caviri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350156
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1c4b2c849c823fbe70dc08bbb9b21529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799737,
+            "locality_id":1277088571,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1277088571,
+    "wof:lastmodified":1536759316,
+    "wof:name":"Caviri",
+    "wof:parent_id":1108799737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76667,
+    -12.4,
+    14.76667,
+    -12.4
+],
+  "geometry": {"coordinates":[14.76667,-12.4],"type":"Point"}
+}

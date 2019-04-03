@@ -1,0 +1,67 @@
+{
+  "id": 1310696409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01737,-14.72805,16.01737,-14.72805",
+    "geom:latitude":-14.72805,
+    "geom:longitude":16.01737,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cavinga",
+    "gn:country_code":"AO",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906701,
+    "gn:latitude":-14.72805,
+    "gn:longitude":16.01737,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cavinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906701
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"63a151ca745109d77bc0120fa06882f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1310696409,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1310696409,
+    "wof:lastmodified":1536640612,
+    "wof:name":"Cavinga",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01737,
+    -14.72805,
+    16.01737,
+    -14.72805
+],
+  "geometry": {"coordinates":[16.01737,-14.72805],"type":"Point"}
+}

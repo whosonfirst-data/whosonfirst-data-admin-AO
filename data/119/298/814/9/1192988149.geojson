@@ -1,0 +1,67 @@
+{
+  "id": 1192988149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45,-6.11667,14.45,-6.11667",
+    "geom:latitude":-6.11667,
+    "geom:longitude":14.45,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gombe",
+    "gn:country_code":"AO",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240966,
+    "gn:latitude":-6.11667,
+    "gn:longitude":14.45,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Gombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240966
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aa6b21578fc5d4c7df9e0d24917e2da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799899,
+            "locality_id":1192988149,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1192988149,
+    "wof:lastmodified":1536383795,
+    "wof:name":"Gombe",
+    "wof:parent_id":1108799899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45,
+    -6.11667,
+    14.45,
+    -6.11667
+],
+  "geometry": {"coordinates":[14.45,-6.11667],"type":"Point"}
+}

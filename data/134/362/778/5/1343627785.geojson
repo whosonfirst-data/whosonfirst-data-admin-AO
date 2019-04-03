@@ -1,0 +1,67 @@
+{
+  "id": 1343627785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75,-9.5,20.75,-9.5",
+    "geom:latitude":-9.5,
+    "geom:longitude":20.75,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Chambinga",
+    "gn:country_code":"AO",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145828,
+    "gn:latitude":-9.5,
+    "gn:longitude":20.75,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chambinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145828
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"afd1e9fb511937ff777dfe6cc4efffee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799787,
+            "locality_id":1343627785,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1343627785,
+    "wof:lastmodified":1537001510,
+    "wof:name":"Chambinga",
+    "wof:parent_id":1108799787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75,
+    -9.5,
+    20.75,
+    -9.5
+],
+  "geometry": {"coordinates":[20.75,-9.5],"type":"Point"}
+}

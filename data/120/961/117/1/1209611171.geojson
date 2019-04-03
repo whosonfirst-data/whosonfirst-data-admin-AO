@@ -1,0 +1,66 @@
+{
+  "id": 1209611171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4652,-15.18311,13.4652,-15.18311",
+    "geom:latitude":-15.18311,
+    "geom:longitude":13.4652,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mendonca",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347357,
+    "gn:latitude":-15.18311,
+    "gn:longitude":13.4652,
+    "gn:modification_date":"2014-08-16",
+    "gn:name":"Mendon\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A. Mendon\u00e7a",
+        "Mendon\u00e7a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347357
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d533f8cd45aa88791955d4d02412c09c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209611171
+        }
+    ],
+    "wof:id":1209611171,
+    "wof:lastmodified":1537584720,
+    "wof:name":"Mendonca",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4652,
+    -15.18311,
+    13.4652,
+    -15.18311
+],
+  "geometry": {"coordinates":[13.4652,-15.18311],"type":"Point"}
+}

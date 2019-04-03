@@ -1,0 +1,74 @@
+{
+  "id": 1292905379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.4,-4.85,12.4,-4.85",
+    "geom:latitude":-4.85,
+    "geom:longitude":12.4,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Inhoca",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240730,
+    "gn:latitude":-4.85,
+    "gn:longitude":12.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Inhoca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Incoche",
+        "Inanica",
+        "Inhuca",
+        "Inhoca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667683,
+        1108799803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240730
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"77b21ec25f7d647ac46156f86a3eaf02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799803,
+            "locality_id":1292905379,
+            "region_id":85667683
+        }
+    ],
+    "wof:id":1292905379,
+    "wof:lastmodified":1537584634,
+    "wof:name":"Inhoca",
+    "wof:parent_id":1108799803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4,
+    -4.85,
+    12.4,
+    -4.85
+],
+  "geometry": {"coordinates":[12.4,-4.85],"type":"Point"}
+}

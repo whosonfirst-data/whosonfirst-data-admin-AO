@@ -1,0 +1,67 @@
+{
+  "id": 1344234075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82525,-8.94163,15.82525,-8.94163",
+    "geom:latitude":-8.94163,
+    "geom:longitude":15.82525,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Buaza",
+    "gn:country_code":"AO",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7759204,
+    "gn:latitude":-8.94163,
+    "gn:longitude":15.82525,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Buaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759204
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"678b59c90fe04507f02dbaa9b7b2459a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1344234075,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1344234075,
+    "wof:lastmodified":1536623150,
+    "wof:name":"Buaza",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82525,
+    -8.94163,
+    15.82525,
+    -8.94163
+],
+  "geometry": {"coordinates":[15.82525,-8.94163],"type":"Point"}
+}

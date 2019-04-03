@@ -1,0 +1,67 @@
+{
+  "id": 1343524515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25496,-9.65897,20.25496,-9.65897",
+    "geom:latitude":-9.65897,
+    "geom:longitude":20.25496,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muailunga",
+    "gn:country_code":"AO",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145654,
+    "gn:latitude":-9.65897,
+    "gn:longitude":20.25496,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Muailunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145654
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7a8c6db71ce9433ab0ce506e4ffb1979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1343524515,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1343524515,
+    "wof:lastmodified":1536653882,
+    "wof:name":"Muailunga",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25496,
+    -9.65897,
+    20.25496,
+    -9.65897
+],
+  "geometry": {"coordinates":[20.25496,-9.65897],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209407401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3572,-10.81044,14.3572,-10.81044",
+    "geom:latitude":-10.81044,
+    "geom:longitude":14.3572,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quissacra",
+    "gn:country_code":"AO",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866611,
+    "gn:latitude":-10.81044,
+    "gn:longitude":14.3572,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quissacra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866611
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"521ba048ba2292eaf301e335e585d7a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209407401
+        }
+    ],
+    "wof:id":1209407401,
+    "wof:lastmodified":1536287950,
+    "wof:name":"Quissacra",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3572,
+    -10.81044,
+    14.3572,
+    -10.81044
+],
+  "geometry": {"coordinates":[14.3572,-10.81044],"type":"Point"}
+}

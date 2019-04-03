@@ -1,0 +1,72 @@
+{
+  "id": 1259965149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4678,-12.01317,15.4678,-12.01317",
+    "geom:latitude":-12.01317,
+    "geom:longitude":15.4678,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cambendji",
+    "gn:country_code":"AO",
+    "gn:dem":1432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350966,
+    "gn:latitude":-12.01317,
+    "gn:longitude":15.4678,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cambendji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cambendie",
+        "Cambenje",
+        "Cambendji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350966
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d093b87dac74ee942e4e8f8519383994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1259965149,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1259965149,
+    "wof:lastmodified":1537584788,
+    "wof:name":"Cambendji",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4678,
+    -12.01317,
+    15.4678,
+    -12.01317
+],
+  "geometry": {"coordinates":[15.4678,-12.01317],"type":"Point"}
+}

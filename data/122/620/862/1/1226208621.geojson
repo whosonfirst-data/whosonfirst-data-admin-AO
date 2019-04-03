@@ -1,0 +1,67 @@
+{
+  "id": 1226208621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85661,-10.06455,18.85661,-10.06455",
+    "geom:latitude":-10.06455,
+    "geom:longitude":18.85661,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tchicuta",
+    "gn:country_code":"AO",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891423,
+    "gn:latitude":-10.06455,
+    "gn:longitude":18.85661,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchicuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891423
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"01dab334bb8173a10c5b7971a6fa1888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799965,
+            "locality_id":1226208621,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1226208621,
+    "wof:lastmodified":1536986447,
+    "wof:name":"Tchicuta",
+    "wof:parent_id":1108799965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85661,
+    -10.06455,
+    18.85661,
+    -10.06455
+],
+  "geometry": {"coordinates":[18.85661,-10.06455],"type":"Point"}
+}

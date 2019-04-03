@@ -1,0 +1,67 @@
+{
+  "id": 1242989041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11861,-12.87167,13.11861,-12.87167",
+    "geom:latitude":-12.87167,
+    "geom:longitude":13.11861,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Duti",
+    "gn:country_code":"AO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372295,
+    "gn:latitude":-12.87167,
+    "gn:longitude":13.11861,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Duti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372295
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"010939a2bec248444b278f2342c62592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799781,
+            "locality_id":1242989041,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1242989041,
+    "wof:lastmodified":1536967728,
+    "wof:name":"Duti",
+    "wof:parent_id":1108799781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11861,
+    -12.87167,
+    13.11861,
+    -12.87167
+],
+  "geometry": {"coordinates":[13.11861,-12.87167],"type":"Point"}
+}

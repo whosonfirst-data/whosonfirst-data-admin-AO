@@ -1,0 +1,67 @@
+{
+  "id": 1343935001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85969,-11.0327,17.85969,-11.0327",
+    "geom:latitude":-11.0327,
+    "geom:longitude":17.85969,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tchindingo",
+    "gn:country_code":"AO",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7789465,
+    "gn:latitude":-11.0327,
+    "gn:longitude":17.85969,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Tchindingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789465
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"39e63abb9db497da79b96b39f91d364a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799651,
+            "locality_id":1343935001,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343935001,
+    "wof:lastmodified":1537054443,
+    "wof:name":"Tchindingo",
+    "wof:parent_id":1108799651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85969,
+    -11.0327,
+    17.85969,
+    -11.0327
+],
+  "geometry": {"coordinates":[17.85969,-11.0327],"type":"Point"}
+}

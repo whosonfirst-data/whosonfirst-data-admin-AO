@@ -1,0 +1,69 @@
+{
+  "id": 1343773529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16667,-5.3,12.16667,-5.3",
+    "geom:latitude":-5.3,
+    "geom:longitude":12.16667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tubo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236668,
+    "gn:latitude":-5.3,
+    "gn:longitude":12.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tubo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntumba",
+        "Tumba",
+        "Ntumbo",
+        "Tembo",
+        "Tubo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236668
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"eb620923f1f1e71e2f09be2bb6819d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343773529,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343773529,
+    "wof:lastmodified":1537584573,
+    "wof:name":"Tubo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16667,
+    -5.3,
+    12.16667,
+    -5.3
+],
+  "geometry": {"coordinates":[12.16667,-5.3],"type":"Point"}
+}

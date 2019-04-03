@@ -1,0 +1,71 @@
+{
+  "id": 1309888675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80444,-8.28894,14.80444,-8.28894",
+    "geom:latitude":-8.28894,
+    "geom:longitude":14.80444,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quifuata",
+    "gn:country_code":"AO",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238430,
+    "gn:latitude":-8.28894,
+    "gn:longitude":14.80444,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quifuata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vista Alegre",
+        "Quifuata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238430
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7f961c3875b6155b24244cead7ffd5ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799843,
+            "locality_id":1309888675,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1309888675,
+    "wof:lastmodified":1537584605,
+    "wof:name":"Quifuata",
+    "wof:parent_id":1108799843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80444,
+    -8.28894,
+    14.80444,
+    -8.28894
+],
+  "geometry": {"coordinates":[14.80444,-8.28894],"type":"Point"}
+}

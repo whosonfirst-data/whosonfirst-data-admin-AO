@@ -1,0 +1,67 @@
+{
+  "id": 1226429635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3471,-9.16734,16.3471,-9.16734",
+    "geom:latitude":-9.16734,
+    "geom:longitude":16.3471,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nessa Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771504,
+    "gn:latitude":-9.16734,
+    "gn:longitude":16.3471,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Nessa Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771504
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cf6b308b1fd1dd24cff1c2822ed9155f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1226429635,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226429635,
+    "wof:lastmodified":1536668716,
+    "wof:name":"Nessa Segundo",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3471,
+    -9.16734,
+    16.3471,
+    -9.16734
+],
+  "geometry": {"coordinates":[16.3471,-9.16734],"type":"Point"}
+}

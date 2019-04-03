@@ -1,0 +1,72 @@
+{
+  "id": 1326850505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34966,-12.18822,15.34966,-12.18822",
+    "geom:latitude":-12.18822,
+    "geom:longitude":15.34966,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ulono",
+    "gn:country_code":"AO",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3345581,
+    "gn:latitude":-12.18822,
+    "gn:longitude":15.34966,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ulono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uatono",
+        "Utono",
+        "Ulono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345581
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"595d435e44ff1d28638dcb9af9a7e920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1326850505,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1326850505,
+    "wof:lastmodified":1537584687,
+    "wof:name":"Ulono",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34966,
+    -12.18822,
+    15.34966,
+    -12.18822
+],
+  "geometry": {"coordinates":[15.34966,-12.18822],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259359337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13427,-8.45397,21.13427,-8.45397",
+    "geom:latitude":-8.45397,
+    "geom:longitude":21.13427,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tchiafua",
+    "gn:country_code":"AO",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":145813,
+    "gn:latitude":-8.45397,
+    "gn:longitude":21.13427,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchiafua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Chiafua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145813
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f29c7e07570a586b3837cab19b29d4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1259359337,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1259359337,
+    "wof:lastmodified":1537584529,
+    "wof:name":"Tchiafua",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13427,
+    -8.45397,
+    21.13427,
+    -8.45397
+],
+  "geometry": {"coordinates":[21.13427,-8.45397],"type":"Point"}
+}

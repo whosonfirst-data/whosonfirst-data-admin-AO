@@ -1,0 +1,67 @@
+{
+  "id": 1276849705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93333,-12.83333,22.93333,-12.83333",
+    "geom:latitude":-12.83333,
+    "geom:longitude":22.93333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chitohola",
+    "gn:country_code":"AO",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876370,
+    "gn:latitude":-12.83333,
+    "gn:longitude":22.93333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chitohola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876370
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"034abe84fca59e821234bf7343196d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1276849705,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1276849705,
+    "wof:lastmodified":1537078422,
+    "wof:name":"Chitohola",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93333,
+    -12.83333,
+    22.93333,
+    -12.83333
+],
+  "geometry": {"coordinates":[22.93333,-12.83333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309910657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17474,-9.45998,15.17474,-9.45998",
+    "geom:latitude":-9.45998,
+    "geom:longitude":15.17474,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quissequele",
+    "gn:country_code":"AO",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7769630,
+    "gn:latitude":-9.45998,
+    "gn:longitude":15.17474,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quissequele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769630
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"57d1e168b0bef497d7e2f666b01f9569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799713,
+            "locality_id":1309910657,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1309910657,
+    "wof:lastmodified":1536780423,
+    "wof:name":"Quissequele",
+    "wof:parent_id":1108799713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17474,
+    -9.45998,
+    15.17474,
+    -9.45998
+],
+  "geometry": {"coordinates":[15.17474,-9.45998],"type":"Point"}
+}

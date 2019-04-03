@@ -1,0 +1,67 @@
+{
+  "id": 1310468177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.76682,-11.03171,20.76682,-11.03171",
+    "geom:latitude":-11.03171,
+    "geom:longitude":20.76682,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muatchimbundo",
+    "gn:country_code":"AO",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7772282,
+    "gn:latitude":-11.03171,
+    "gn:longitude":20.76682,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muatchimbundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7772282
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"087be6c1e41a5dfa412b36ecfc09fc93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799823,
+            "locality_id":1310468177,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1310468177,
+    "wof:lastmodified":1536970512,
+    "wof:name":"Muatchimbundo",
+    "wof:parent_id":1108799823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.76682000000001,
+    -11.03171,
+    20.76682000000001,
+    -11.03171
+],
+  "geometry": {"coordinates":[20.76682000000001,-11.03171],"type":"Point"}
+}

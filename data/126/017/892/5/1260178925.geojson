@@ -1,0 +1,72 @@
+{
+  "id": 1260178925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62667,-12.72889,15.62667,-12.72889",
+    "geom:latitude":-12.72889,
+    "geom:longitude":15.62667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Caliongo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3350045,
+    "gn:latitude":-12.72889,
+    "gn:longitude":15.62667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caliongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Chariongo",
+        "Caliongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350045
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e1405821e9fa9e47b028eca20df04f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799931,
+            "locality_id":1260178925,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1260178925,
+    "wof:lastmodified":1537584769,
+    "wof:name":"Caliongo",
+    "wof:parent_id":1108799931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62667,
+    -12.72889,
+    15.62667,
+    -12.72889
+],
+  "geometry": {"coordinates":[15.62667,-12.72889],"type":"Point"}
+}

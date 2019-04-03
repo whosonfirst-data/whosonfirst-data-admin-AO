@@ -1,0 +1,67 @@
+{
+  "id": 1242600391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.091,-8.35344,15.091,-8.35344",
+    "geom:latitude":-8.35344,
+    "geom:longitude":15.091,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quibemba",
+    "gn:country_code":"AO",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2238653,
+    "gn:latitude":-8.35344,
+    "gn:longitude":15.091,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Quibemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238653
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c8ef843168296c212f465fee54bc3811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799619,
+            "locality_id":1242600391,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1242600391,
+    "wof:lastmodified":1537029578,
+    "wof:name":"Quibemba",
+    "wof:parent_id":1108799619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.091,
+    -8.35344,
+    15.091,
+    -8.35344
+],
+  "geometry": {"coordinates":[15.091,-8.35344],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310097965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,-11.86667,15.35,-11.86667",
+    "geom:latitude":-11.86667,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Queve Cangombe",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346601,
+    "gn:latitude":-11.86667,
+    "gn:longitude":15.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Queve Cangombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangombe",
+        "Cangombe",
+        "Queve Cangombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346601
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5cabcbafaa602d5a12eb879764801baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1310097965,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310097965,
+    "wof:lastmodified":1537584708,
+    "wof:name":"Queve Cangombe",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    -11.86667,
+    15.35,
+    -11.86667
+],
+  "geometry": {"coordinates":[15.35,-11.86667],"type":"Point"}
+}

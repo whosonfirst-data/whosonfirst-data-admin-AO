@@ -1,0 +1,67 @@
+{
+  "id": 1193107385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06329,-6.97893,15.06329,-6.97893",
+    "geom:latitude":-6.97893,
+    "geom:longitude":15.06329,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mucungulo",
+    "gn:country_code":"AO",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7753690,
+    "gn:latitude":-6.97893,
+    "gn:longitude":15.06329,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mucungulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7753690
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"25b4f01d10d809507cefea51f0fbc139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799753,
+            "locality_id":1193107385,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1193107385,
+    "wof:lastmodified":1536377020,
+    "wof:name":"Mucungulo",
+    "wof:parent_id":1108799753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06329,
+    -6.97893,
+    15.06329,
+    -6.97893
+],
+  "geometry": {"coordinates":[15.06329,-6.97893],"type":"Point"}
+}

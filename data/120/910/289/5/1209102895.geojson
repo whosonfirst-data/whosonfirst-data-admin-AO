@@ -1,0 +1,68 @@
+{
+  "id": 1209102895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23333,-12.56667,16.23333,-12.56667",
+    "geom:latitude":-12.56667,
+    "geom:longitude":16.23333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Catchiungo",
+    "gn:country_code":"AO",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348094,
+    "gn:latitude":-12.56667,
+    "gn:longitude":16.23333,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Catchiungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bela Vista",
+        "Vila-Nova",
+        "Katchiungo",
+        "Catchiungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348094,
+        "wk:page":"Katchiungo"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aa42ae8563c144661f75414fcbf484ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209102895
+        }
+    ],
+    "wof:id":1209102895,
+    "wof:lastmodified":1537584730,
+    "wof:name":"Catchiungo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23333,
+    -12.56667,
+    16.23333,
+    -12.56667
+],
+  "geometry": {"coordinates":[16.23333,-12.56667],"type":"Point"}
+}

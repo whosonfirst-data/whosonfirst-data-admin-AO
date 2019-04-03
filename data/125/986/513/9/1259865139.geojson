@@ -1,0 +1,67 @@
+{
+  "id": 1259865139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45314,-12.12539,15.45314,-12.12539",
+    "geom:latitude":-12.12539,
+    "geom:longitude":15.45314,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Candjungo",
+    "gn:country_code":"AO",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906338,
+    "gn:latitude":-12.12539,
+    "gn:longitude":15.45314,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Candjungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906338
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"012097355be3e024bd510490161f7e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1259865139,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1259865139,
+    "wof:lastmodified":1536805489,
+    "wof:name":"Candjungo",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45314,
+    -12.12539,
+    15.45314,
+    -12.12539
+],
+  "geometry": {"coordinates":[15.45314,-12.12539],"type":"Point"}
+}

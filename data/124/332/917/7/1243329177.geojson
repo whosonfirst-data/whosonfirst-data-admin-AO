@@ -1,0 +1,71 @@
+{
+  "id": 1243329177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.09894,-9.52166,14.09894,-9.52166",
+    "geom:latitude":-9.52166,
+    "geom:longitude":14.09894,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cabonda",
+    "gn:country_code":"AO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243252,
+    "gn:latitude":-9.52166,
+    "gn:longitude":14.09894,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cabonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cambondo",
+        "Cabonda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243252
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"54a96778b429be88214e0df8a2886118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799789,
+            "locality_id":1243329177,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1243329177,
+    "wof:lastmodified":1537584674,
+    "wof:name":"Cabonda",
+    "wof:parent_id":1108799789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.09894,
+    -9.52166,
+    14.09894,
+    -9.52166
+],
+  "geometry": {"coordinates":[14.09894,-9.52166],"type":"Point"}
+}

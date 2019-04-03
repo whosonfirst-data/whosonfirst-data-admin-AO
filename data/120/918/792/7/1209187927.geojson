@@ -1,0 +1,67 @@
+{
+  "id": 1209187927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93333,-11.9,19.93333,-11.9",
+    "geom:latitude":-11.9,
+    "geom:longitude":19.93333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sacassende",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346369,
+    "gn:latitude":-11.9,
+    "gn:longitude":19.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sacassende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sacassanda",
+        "Sacassande",
+        "Sacassende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346369
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"099d1691da078ecdba951766b365d6d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209187927
+        }
+    ],
+    "wof:id":1209187927,
+    "wof:lastmodified":1537584702,
+    "wof:name":"Sacassende",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93333,
+    -11.9,
+    19.93333,
+    -11.9
+],
+  "geometry": {"coordinates":[19.93333,-11.9],"type":"Point"}
+}

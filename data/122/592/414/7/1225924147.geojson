@@ -1,0 +1,67 @@
+{
+  "id": 1225924147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05194,-9.63611,16.05194,-9.63611",
+    "geom:latitude":-9.63611,
+    "geom:longitude":16.05194,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tualungo",
+    "gn:country_code":"AO",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592176,
+    "gn:latitude":-9.63611,
+    "gn:longitude":16.05194,
+    "gn:modification_date":"1998-06-11",
+    "gn:name":"Tualungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592176
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"06273853ae2d46ca295bb3637aa7e9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1225924147,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1225924147,
+    "wof:lastmodified":1536900735,
+    "wof:name":"Tualungo",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05194,
+    -9.63611,
+    16.05194,
+    -9.63611
+],
+  "geometry": {"coordinates":[16.05194,-9.63611],"type":"Point"}
+}

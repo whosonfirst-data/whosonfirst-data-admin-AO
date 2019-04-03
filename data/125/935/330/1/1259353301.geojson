@@ -1,0 +1,67 @@
+{
+  "id": 1259353301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09715,-7.36113,15.09715,-7.36113",
+    "geom:latitude":-7.36113,
+    "geom:longitude":15.09715,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quidianga",
+    "gn:country_code":"AO",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535743,
+    "gn:latitude":-7.36113,
+    "gn:longitude":15.09715,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Quidianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535743
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a57aa91f82fafdaa55b8721b5e9783f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799753,
+            "locality_id":1259353301,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1259353301,
+    "wof:lastmodified":1537043996,
+    "wof:name":"Quidianga",
+    "wof:parent_id":1108799753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09715,
+    -7.36113,
+    15.09715,
+    -7.36113
+],
+  "geometry": {"coordinates":[15.09715,-7.36113],"type":"Point"}
+}

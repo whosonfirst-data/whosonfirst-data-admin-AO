@@ -1,0 +1,67 @@
+{
+  "id": 1243458537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74875,-12.19491,14.74875,-12.19491",
+    "geom:latitude":-12.19491,
+    "geom:longitude":14.74875,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Caponte",
+    "gn:country_code":"AO",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350560,
+    "gn:latitude":-12.19491,
+    "gn:longitude":14.74875,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Caponte",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350560
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"26ff5542e5b86e15752f4fe2737aa72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799737,
+            "locality_id":1243458537,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1243458537,
+    "wof:lastmodified":1536788494,
+    "wof:name":"Caponte",
+    "wof:parent_id":1108799737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74875,
+    -12.19491,
+    14.74875,
+    -12.19491
+],
+  "geometry": {"coordinates":[14.74875,-12.19491],"type":"Point"}
+}

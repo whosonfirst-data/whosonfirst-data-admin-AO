@@ -1,0 +1,67 @@
+{
+  "id": 1310485197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31667,-15.31667,21.31667,-15.31667",
+    "geom:latitude":-15.31667,
+    "geom:longitude":21.31667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Canjonja",
+    "gn:country_code":"AO",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876585,
+    "gn:latitude":-15.31667,
+    "gn:longitude":21.31667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Canjonja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876585
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"84c3f5076e5d401ff1a507b1a01f3e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1310485197,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1310485197,
+    "wof:lastmodified":1536946608,
+    "wof:name":"Canjonja",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31667,
+    -15.31667,
+    21.31667,
+    -15.31667
+],
+  "geometry": {"coordinates":[21.31667,-15.31667],"type":"Point"}
+}

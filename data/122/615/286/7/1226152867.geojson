@@ -1,0 +1,67 @@
+{
+  "id": 1226152867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.07722,-12.85139,13.07722,-12.85139",
+    "geom:latitude":-12.85139,
+    "geom:longitude":13.07722,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Candombe",
+    "gn:country_code":"AO",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372292,
+    "gn:latitude":-12.85139,
+    "gn:longitude":13.07722,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Candombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372292
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"daa2abd81192c83ec2577bce02aa2f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799781,
+            "locality_id":1226152867,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1226152867,
+    "wof:lastmodified":1537064492,
+    "wof:name":"Candombe",
+    "wof:parent_id":1108799781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07722,
+    -12.85139,
+    13.07722,
+    -12.85139
+],
+  "geometry": {"coordinates":[13.07722,-12.85139],"type":"Point"}
+}

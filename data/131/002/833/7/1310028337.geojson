@@ -1,0 +1,67 @@
+{
+  "id": 1310028337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35637,-8.45205,15.35637,-8.45205",
+    "geom:latitude":-8.45205,
+    "geom:longitude":15.35637,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cambamba",
+    "gn:country_code":"AO",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698513,
+    "gn:latitude":-8.45205,
+    "gn:longitude":15.35637,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Cambamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698513
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e33226c1321b4bdd31284e6cb3e6c47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799809,
+            "locality_id":1310028337,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1310028337,
+    "wof:lastmodified":1536607590,
+    "wof:name":"Cambamba",
+    "wof:parent_id":1108799809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35637,
+    -8.45205,
+    15.35637,
+    -8.45205
+],
+  "geometry": {"coordinates":[15.35637,-8.45205],"type":"Point"}
+}

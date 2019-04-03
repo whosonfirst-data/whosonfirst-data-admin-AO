@@ -1,0 +1,67 @@
+{
+  "id": 1293093715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23673,-10.74525,14.23673,-10.74525",
+    "geom:latitude":-10.74525,
+    "geom:longitude":14.23673,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Candondo",
+    "gn:country_code":"AO",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866564,
+    "gn:latitude":-10.74525,
+    "gn:longitude":14.23673,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Candondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866564
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ccf0c9757ab1a9ce5c17a6c797c1769c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799943,
+            "locality_id":1293093715,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293093715,
+    "wof:lastmodified":1536856533,
+    "wof:name":"Candondo",
+    "wof:parent_id":1108799943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23673,
+    -10.74525,
+    14.23673,
+    -10.74525
+],
+  "geometry": {"coordinates":[14.23673,-10.74525],"type":"Point"}
+}

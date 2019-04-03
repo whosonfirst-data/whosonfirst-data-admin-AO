@@ -1,0 +1,67 @@
+{
+  "id": 1293398849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79035,-11.87329,16.79035,-11.87329",
+    "geom:latitude":-11.87329,
+    "geom:longitude":16.79035,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Satacaia",
+    "gn:country_code":"AO",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903558,
+    "gn:latitude":-11.87329,
+    "gn:longitude":16.79035,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Satacaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903558
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f403cda4225c1edfca32aa87da0549f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799907,
+            "locality_id":1293398849,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1293398849,
+    "wof:lastmodified":1536915184,
+    "wof:name":"Satacaia",
+    "wof:parent_id":1108799907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79035,
+    -11.87329,
+    16.79035,
+    -11.87329
+],
+  "geometry": {"coordinates":[16.79035,-11.87329],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260077749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3628,-11.38312,14.3628,-11.38312",
+    "geom:latitude":-11.38312,
+    "geom:longitude":14.3628,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quibanga",
+    "gn:country_code":"AO",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7864611,
+    "gn:latitude":-11.38312,
+    "gn:longitude":14.3628,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quibanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7864611
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"858d87c7eb7038aa716f3830902a0309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1260077749,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1260077749,
+    "wof:lastmodified":1536995532,
+    "wof:name":"Quibanga",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3628,
+    -11.38312,
+    14.3628,
+    -11.38312
+],
+  "geometry": {"coordinates":[14.3628,-11.38312],"type":"Point"}
+}

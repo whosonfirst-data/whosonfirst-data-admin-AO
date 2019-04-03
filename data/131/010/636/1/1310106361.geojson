@@ -1,0 +1,67 @@
+{
+  "id": 1310106361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67615,-14.64213,17.67615,-14.64213",
+    "geom:latitude":-14.64213,
+    "geom:longitude":17.67615,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hoji ya Henda",
+    "gn:country_code":"AO",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7909038,
+    "gn:latitude":-14.64213,
+    "gn:longitude":17.67615,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Hoji y\u00e1 Henda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909038
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8dd0813710278516917bf00c7a32b644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799961,
+            "locality_id":1310106361,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1310106361,
+    "wof:lastmodified":1536994429,
+    "wof:name":"Hoji ya Henda",
+    "wof:parent_id":1108799961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67615,
+    -14.64213,
+    17.67615,
+    -14.64213
+],
+  "geometry": {"coordinates":[17.67615,-14.64213],"type":"Point"}
+}

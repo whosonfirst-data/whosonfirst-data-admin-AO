@@ -1,0 +1,67 @@
+{
+  "id": 1260365029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96667,-8.58333,14.96667,-8.58333",
+    "geom:latitude":-8.58333,
+    "geom:longitude":14.96667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bengue",
+    "gn:country_code":"AO",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243594,
+    "gn:latitude":-8.58333,
+    "gn:longitude":14.96667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Bengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243594
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dd151d678c97c26a5d4f6f86b17bc002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799817,
+            "locality_id":1260365029,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1260365029,
+    "wof:lastmodified":1537096411,
+    "wof:name":"Bengue",
+    "wof:parent_id":1108799817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96667,
+    -8.58333,
+    14.96667,
+    -8.58333
+],
+  "geometry": {"coordinates":[14.96667,-8.58333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309798425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70238,-11.56616,14.70238,-11.56616",
+    "geom:latitude":-11.56616,
+    "geom:longitude":14.70238,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vila Graca",
+    "gn:country_code":"AO",
+    "gn:dem":1278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7901430,
+    "gn:latitude":-11.56616,
+    "gn:longitude":14.70238,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Vila Graca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901430
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e8e8bf65a6ab7b8999143da76cbba582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1309798425,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1309798425,
+    "wof:lastmodified":1536942290,
+    "wof:name":"Vila Graca",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70238,
+    -11.56616,
+    14.70238,
+    -11.56616
+],
+  "geometry": {"coordinates":[14.70238,-11.56616],"type":"Point"}
+}

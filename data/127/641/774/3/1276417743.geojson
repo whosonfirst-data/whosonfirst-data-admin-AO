@@ -1,0 +1,67 @@
+{
+  "id": 1276417743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17102,-8.89557,17.17102,-8.89557",
+    "geom:latitude":-8.89557,
+    "geom:longitude":17.17102,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pambala",
+    "gn:country_code":"AO",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7756187,
+    "gn:latitude":-8.89557,
+    "gn:longitude":17.17102,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Pambala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756187
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6dca4c0b33539bf7d322ea6c056482f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799725,
+            "locality_id":1276417743,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276417743,
+    "wof:lastmodified":1536665616,
+    "wof:name":"Pambala",
+    "wof:parent_id":1108799725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17102,
+    -8.89557,
+    17.17102,
+    -8.89557
+],
+  "geometry": {"coordinates":[17.17102,-8.89557],"type":"Point"}
+}

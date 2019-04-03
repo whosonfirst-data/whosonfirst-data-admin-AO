@@ -1,0 +1,67 @@
+{
+  "id": 1327316633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12976,-6.97577,16.12976,-6.97577",
+    "geom:latitude":-6.97577,
+    "geom:longitude":16.12976,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quiteca Panzo",
+    "gn:country_code":"AO",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7755700,
+    "gn:latitude":-6.97577,
+    "gn:longitude":16.12976,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quiteca Panzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755700
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"804a734f1fbcdf96f558bf0a288a9b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799599,
+            "locality_id":1327316633,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1327316633,
+    "wof:lastmodified":1536846956,
+    "wof:name":"Quiteca Panzo",
+    "wof:parent_id":1108799599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12976,
+    -6.97577,
+    16.12976,
+    -6.97577
+],
+  "geometry": {"coordinates":[16.12976,-6.97577],"type":"Point"}
+}

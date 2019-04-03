@@ -1,0 +1,67 @@
+{
+  "id": 1242782831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9593,-8.94806,14.9593,-8.94806",
+    "geom:latitude":-8.94806,
+    "geom:longitude":14.9593,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Camacua",
+    "gn:country_code":"AO",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7764203,
+    "gn:latitude":-8.94806,
+    "gn:longitude":14.9593,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Camacua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764203
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"313d5725be318fa38456f3b3ac362b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799881,
+            "locality_id":1242782831,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1242782831,
+    "wof:lastmodified":1536768461,
+    "wof:name":"Camacua",
+    "wof:parent_id":1108799881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9593,
+    -8.94806,
+    14.9593,
+    -8.94806
+],
+  "geometry": {"coordinates":[14.9593,-8.94806],"type":"Point"}
+}

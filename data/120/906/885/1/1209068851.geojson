@@ -1,0 +1,61 @@
+{
+  "id": 1209068851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67111,-8.5575,13.67111,-8.5575",
+    "geom:latitude":-8.5575,
+    "geom:longitude":13.67111,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Paranhos",
+    "gn:country_code":"AO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591788,
+    "gn:latitude":-8.5575,
+    "gn:longitude":13.67111,
+    "gn:modification_date":"1998-05-29",
+    "gn:name":"Paranhos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591788
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3abffce0ec8023302b2bc9a1da3f7874",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209068851
+        }
+    ],
+    "wof:id":1209068851,
+    "wof:lastmodified":1536298712,
+    "wof:name":"Paranhos",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67111,
+    -8.5575,
+    13.67111,
+    -8.5575
+],
+  "geometry": {"coordinates":[13.67111,-8.5575],"type":"Point"}
+}

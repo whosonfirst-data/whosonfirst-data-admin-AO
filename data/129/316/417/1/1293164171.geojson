@@ -1,0 +1,67 @@
+{
+  "id": 1293164171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27694,-10.80611,20.27694,-10.80611",
+    "geom:latitude":-10.80611,
+    "geom:longitude":20.27694,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Carima",
+    "gn:country_code":"AO",
+    "gn:dem":1225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105827,
+    "gn:latitude":-10.80611,
+    "gn:longitude":20.27694,
+    "gn:modification_date":"1999-06-15",
+    "gn:name":"Carima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105827
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f8c5d3782593789679e36d816df2b48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799823,
+            "locality_id":1293164171,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1293164171,
+    "wof:lastmodified":1536756427,
+    "wof:name":"Carima",
+    "wof:parent_id":1108799823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27694,
+    -10.80611,
+    20.27694,
+    -10.80611
+],
+  "geometry": {"coordinates":[20.27694,-10.80611],"type":"Point"}
+}

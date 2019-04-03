@@ -1,0 +1,67 @@
+{
+  "id": 1276625003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96667,-7.43333,15.96667,-7.43333",
+    "geom:latitude":-7.43333,
+    "geom:longitude":15.96667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Camegeto",
+    "gn:country_code":"AO",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242751,
+    "gn:latitude":-7.43333,
+    "gn:longitude":15.96667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cameg\u00eato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242751
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b1718c0d939ce8e0bddca519f8716944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799617,
+            "locality_id":1276625003,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1276625003,
+    "wof:lastmodified":1536884793,
+    "wof:name":"Camegeto",
+    "wof:parent_id":1108799617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96667,
+    -7.43333,
+    15.96667,
+    -7.43333
+],
+  "geometry": {"coordinates":[15.96667,-7.43333],"type":"Point"}
+}

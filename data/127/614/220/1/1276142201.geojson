@@ -1,0 +1,74 @@
+{
+  "id": 1276142201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5175,-12.75917,15.5175,-12.75917",
+    "geom:latitude":-12.75917,
+    "geom:longitude":15.5175,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Calia",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350518,
+    "gn:latitude":-12.75917,
+    "gn:longitude":15.5175,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"C\u00e1lia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cucira",
+        "C\u00e1ria",
+        "Curia",
+        "C\u00e1lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350518
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dd825113542d1bac48497b7a5d27c117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":1276142201,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276142201,
+    "wof:lastmodified":1537584779,
+    "wof:name":"Calia",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5175,
+    -12.75917,
+    15.5175,
+    -12.75917
+],
+  "geometry": {"coordinates":[15.5175,-12.75917],"type":"Point"}
+}

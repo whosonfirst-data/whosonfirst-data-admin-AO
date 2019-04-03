@@ -1,0 +1,67 @@
+{
+  "id": 1310465489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61882,-8.36982,17.61882,-8.36982",
+    "geom:latitude":-8.36982,
+    "geom:longitude":17.61882,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Catchinga",
+    "gn:country_code":"AO",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7893812,
+    "gn:latitude":-8.36982,
+    "gn:longitude":17.61882,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Catchinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893812
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2a3d2abac1db89c36804be7bf1d5e424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1310465489,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1310465489,
+    "wof:lastmodified":1536974279,
+    "wof:name":"Catchinga",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61882,
+    -8.36982,
+    17.61882,
+    -8.36982
+],
+  "geometry": {"coordinates":[17.61882,-8.36982],"type":"Point"}
+}

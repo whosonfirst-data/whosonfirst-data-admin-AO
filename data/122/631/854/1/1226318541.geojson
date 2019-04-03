@@ -1,0 +1,67 @@
+{
+  "id": 1226318541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04387,-10.97618,19.04387,-10.97618",
+    "geom:latitude":-10.97618,
+    "geom:longitude":19.04387,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muatchianvua",
+    "gn:country_code":"AO",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307974,
+    "gn:latitude":-10.97618,
+    "gn:longitude":19.04387,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Muatchi\u00e2nvua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307974
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fda69d0965de9af3bf9b3f7a04a9ff76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799647,
+            "locality_id":1226318541,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1226318541,
+    "wof:lastmodified":1536827828,
+    "wof:name":"Muatchianvua",
+    "wof:parent_id":1108799647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04387,
+    -10.97618,
+    19.04387,
+    -10.97618
+],
+  "geometry": {"coordinates":[19.04387,-10.97618],"type":"Point"}
+}

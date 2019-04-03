@@ -1,0 +1,71 @@
+{
+  "id": 1243048197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.127,-7.91467,16.127,-7.91467",
+    "geom:latitude":-7.91467,
+    "geom:longitude":16.127,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mucolo",
+    "gn:country_code":"AO",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239324,
+    "gn:latitude":-7.91467,
+    "gn:longitude":16.127,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Mucolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maiate",
+        "Mucolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239324
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"88cd7ab4359ef025521da2d4230f806e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799689,
+            "locality_id":1243048197,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1243048197,
+    "wof:lastmodified":1537584620,
+    "wof:name":"Mucolo",
+    "wof:parent_id":1108799689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.127,
+    -7.91467,
+    16.127,
+    -7.91467
+],
+  "geometry": {"coordinates":[16.127,-7.91467],"type":"Point"}
+}

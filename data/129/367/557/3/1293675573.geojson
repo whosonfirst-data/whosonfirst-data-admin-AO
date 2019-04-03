@@ -1,0 +1,73 @@
+{
+  "id": 1293675573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16139,-15.06528,12.16139,-15.06528",
+    "geom:latitude":-15.06528,
+    "geom:longitude":12.16139,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Giraul",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348529,
+    "gn:latitude":-15.06528,
+    "gn:longitude":12.16139,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gira\u00fal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gira\u00fal de Baixo",
+        "Giraul de Cima",
+        "Gira\u00fal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667717,
+        1108799953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348529
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"61c4e3e71e7c2c375c3f9b56e70db3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799953,
+            "locality_id":1293675573,
+            "region_id":85667717
+        }
+    ],
+    "wof:id":1293675573,
+    "wof:lastmodified":1537584737,
+    "wof:name":"Giraul",
+    "wof:parent_id":1108799953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16139,
+    -15.06528,
+    12.16139,
+    -15.06528
+],
+  "geometry": {"coordinates":[12.16139,-15.06528],"type":"Point"}
+}

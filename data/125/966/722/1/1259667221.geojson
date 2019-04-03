@@ -1,0 +1,72 @@
+{
+  "id": 1259667221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73333,-14.63333,21.73333,-14.63333",
+    "geom:latitude":-14.63333,
+    "geom:longitude":21.73333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sanhumbo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875698,
+    "gn:latitude":-14.63333,
+    "gn:longitude":21.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sanhumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanhundo",
+        "Sanhumbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875698
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c3de7e86662285fbc9f7497d5395c8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1259667221,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1259667221,
+    "wof:lastmodified":1537584534,
+    "wof:name":"Sanhumbo",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73333,
+    -14.63333,
+    21.73333,
+    -14.63333
+],
+  "geometry": {"coordinates":[21.73333,-14.63333],"type":"Point"}
+}

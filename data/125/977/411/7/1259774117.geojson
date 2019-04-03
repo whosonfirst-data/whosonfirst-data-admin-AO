@@ -1,0 +1,67 @@
+{
+  "id": 1259774117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49139,-12.50278,15.49139,-12.50278",
+    "geom:latitude":-12.50278,
+    "geom:longitude":15.49139,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchinequesse",
+    "gn:country_code":"AO",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371935,
+    "gn:latitude":-12.50278,
+    "gn:longitude":15.49139,
+    "gn:modification_date":"1998-06-19",
+    "gn:name":"Tchinequesse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371935
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"49e9a3ac648d07ac030a578b3ebe06a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1259774117,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1259774117,
+    "wof:lastmodified":1536937419,
+    "wof:name":"Tchinequesse",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49139,
+    -12.50278,
+    15.49139,
+    -12.50278
+],
+  "geometry": {"coordinates":[15.49139,-12.50278],"type":"Point"}
+}

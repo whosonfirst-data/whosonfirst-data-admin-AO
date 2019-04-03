@@ -1,0 +1,70 @@
+{
+  "id": 1277153277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07152,-8.76174,18.07152,-8.76174",
+    "geom:latitude":-8.76174,
+    "geom:longitude":18.07152,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Alberto",
+    "gn:country_code":"AO",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7765237,
+    "gn:latitude":-8.76174,
+    "gn:longitude":18.07152,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Alberto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pensamento"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7765237
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"80d0cef7c822ecabedc81318b24a2245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1277153277,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1277153277,
+    "wof:lastmodified":1537584808,
+    "wof:name":"Alberto",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07152,
+    -8.76174,
+    18.07152,
+    -8.76174
+],
+  "geometry": {"coordinates":[18.07152,-8.76174],"type":"Point"}
+}

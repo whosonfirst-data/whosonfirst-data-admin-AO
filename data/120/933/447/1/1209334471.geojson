@@ -1,0 +1,64 @@
+{
+  "id": 1209334471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,-11.51667,15.8,-11.51667",
+    "geom:latitude":-11.51667,
+    "geom:longitude":15.8,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nganda",
+    "gn:country_code":"AO",
+    "gn:dem":1635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348586,
+    "gn:latitude":-11.51667,
+    "gn:longitude":15.8,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Nganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348586
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a93312ac7077ba417e6bfde41260f99c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209334471
+        }
+    ],
+    "wof:id":1209334471,
+    "wof:lastmodified":1537584738,
+    "wof:name":"Nganda",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    -11.51667,
+    15.8,
+    -11.51667
+],
+  "geometry": {"coordinates":[15.8,-11.51667],"type":"Point"}
+}

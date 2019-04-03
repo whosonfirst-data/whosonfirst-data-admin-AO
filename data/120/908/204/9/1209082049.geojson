@@ -1,0 +1,67 @@
+{
+  "id": 1209082049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13333,-9.18333,21.13333,-9.18333",
+    "geom:latitude":-9.18333,
+    "geom:longitude":21.13333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bige",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145943,
+    "gn:latitude":-9.18333,
+    "gn:longitude":21.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bige",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beje",
+        "Sajungo",
+        "Bige"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145943
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"97eee1a565f93d9982d31b72f4036505",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209082049
+        }
+    ],
+    "wof:id":1209082049,
+    "wof:lastmodified":1537584532,
+    "wof:name":"Bige",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13333,
+    -9.18333,
+    21.13333,
+    -9.18333
+],
+  "geometry": {"coordinates":[21.13333,-9.18333],"type":"Point"}
+}

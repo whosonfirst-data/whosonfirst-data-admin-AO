@@ -1,0 +1,61 @@
+{
+  "id": 1209621401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.79486,-14.64418,17.79486,-14.64418",
+    "geom:latitude":-14.64418,
+    "geom:longitude":17.79486,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Quilamba",
+    "gn:country_code":"AO",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7909023,
+    "gn:latitude":-14.64418,
+    "gn:longitude":17.79486,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Quilamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909023
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1193885171df77612dc1780beeb58ed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209621401
+        }
+    ],
+    "wof:id":1209621401,
+    "wof:lastmodified":1536281506,
+    "wof:name":"Quilamba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79486,
+    -14.64418,
+    17.79486,
+    -14.64418
+],
+  "geometry": {"coordinates":[17.79486,-14.64418],"type":"Point"}
+}

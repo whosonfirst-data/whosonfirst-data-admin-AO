@@ -1,0 +1,67 @@
+{
+  "id": 1242750983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16757,-6.48107,16.16757,-6.48107",
+    "geom:latitude":-6.48107,
+    "geom:longitude":16.16757,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quitanda Baioca",
+    "gn:country_code":"AO",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544969,
+    "gn:latitude":-6.48107,
+    "gn:longitude":16.16757,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Quitanda Baioca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544969
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a72bf239a8e0d82920a57b97d11ff3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1242750983,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1242750983,
+    "wof:lastmodified":1536813404,
+    "wof:name":"Quitanda Baioca",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16757,
+    -6.48107,
+    16.16757,
+    -6.48107
+],
+  "geometry": {"coordinates":[16.16757,-6.48107],"type":"Point"}
+}

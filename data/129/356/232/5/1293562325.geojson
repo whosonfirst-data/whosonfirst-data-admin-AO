@@ -1,0 +1,67 @@
+{
+  "id": 1293562325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.29487,-7.12342,16.29487,-7.12342",
+    "geom:latitude":-7.12342,
+    "geom:longitude":16.29487,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimuenga Ngoma",
+    "gn:country_code":"AO",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7745600,
+    "gn:latitude":-7.12342,
+    "gn:longitude":16.29487,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quimuenga Ngoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745600
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e2e6a9bfc7d80b2217e5e4816db51343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799617,
+            "locality_id":1293562325,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1293562325,
+    "wof:lastmodified":1536679287,
+    "wof:name":"Quimuenga Ngoma",
+    "wof:parent_id":1108799617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.29487,
+    -7.12342,
+    16.29487,
+    -7.12342
+],
+  "geometry": {"coordinates":[16.29487,-7.12342],"type":"Point"}
+}

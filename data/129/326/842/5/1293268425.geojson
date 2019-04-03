@@ -1,0 +1,73 @@
+{
+  "id": 1293268425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38333,-8.31667,19.38333,-8.31667",
+    "geom:latitude":-8.31667,
+    "geom:longitude":19.38333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chacala Sacanena",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241929,
+    "gn:latitude":-8.31667,
+    "gn:longitude":19.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chacala Sacanena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabola",
+        "Cabala",
+        "Chacala Sacanena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241929
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"baaffe9ee75fd462833cac937517c148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799661,
+            "locality_id":1293268425,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293268425,
+    "wof:lastmodified":1537584656,
+    "wof:name":"Chacala Sacanena",
+    "wof:parent_id":1108799661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38333,
+    -8.31667,
+    19.38333,
+    -8.31667
+],
+  "geometry": {"coordinates":[19.38333,-8.31667],"type":"Point"}
+}

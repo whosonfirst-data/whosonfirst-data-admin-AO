@@ -1,0 +1,67 @@
+{
+  "id": 1259391455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87978,-11.8533,16.87978,-11.8533",
+    "geom:latitude":-11.8533,
+    "geom:longitude":16.87978,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchituque",
+    "gn:country_code":"AO",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903572,
+    "gn:latitude":-11.8533,
+    "gn:longitude":16.87978,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchituque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903572
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bd4c3249f2a36abb9659e8b4bbb4d66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799907,
+            "locality_id":1259391455,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1259391455,
+    "wof:lastmodified":1536989856,
+    "wof:name":"Tchituque",
+    "wof:parent_id":1108799907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87978,
+    -11.8533,
+    16.87978,
+    -11.8533
+],
+  "geometry": {"coordinates":[16.87978,-11.8533],"type":"Point"}
+}

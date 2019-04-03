@@ -1,0 +1,67 @@
+{
+  "id": 1193020035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8,-13.2,12.8,-13.2",
+    "geom:latitude":-13.2,
+    "geom:longitude":12.8,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Equimina",
+    "gn:country_code":"AO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348737,
+    "gn:latitude":-13.2,
+    "gn:longitude":12.8,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Equimina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348737
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4c13252b1487067fb7ff4c8ecaac1bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799781,
+            "locality_id":1193020035,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1193020035,
+    "wof:lastmodified":1536374231,
+    "wof:name":"Equimina",
+    "wof:parent_id":1108799781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8,
+    -13.2,
+    12.8,
+    -13.2
+],
+  "geometry": {"coordinates":[12.8,-13.2],"type":"Point"}
+}

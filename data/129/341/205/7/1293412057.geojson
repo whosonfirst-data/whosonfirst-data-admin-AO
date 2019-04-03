@@ -1,0 +1,67 @@
+{
+  "id": 1293412057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54056,-12.9925,15.54056,-12.9925",
+    "geom:latitude":-12.9925,
+    "geom:longitude":15.54056,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ngumbe",
+    "gn:country_code":"AO",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372147,
+    "gn:latitude":-12.9925,
+    "gn:longitude":15.54056,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Ngumbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372147
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"abea835a58a776079a3f40d2a8006b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":1293412057,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1293412057,
+    "wof:lastmodified":1536895647,
+    "wof:name":"Ngumbe",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54056,
+    -12.9925,
+    15.54056,
+    -12.9925
+],
+  "geometry": {"coordinates":[15.54056,-12.9925],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343254469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27294,-11.2596,15.27294,-11.2596",
+    "geom:latitude":-11.2596,
+    "geom:longitude":15.27294,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Calimbangala",
+    "gn:country_code":"AO",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7860778,
+    "gn:latitude":-11.2596,
+    "gn:longitude":15.27294,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Calimbangala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860778
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3ab0762d6556a57d22b82f87b338f17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1343254469,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343254469,
+    "wof:lastmodified":1537041818,
+    "wof:name":"Calimbangala",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27294,
+    -11.2596,
+    15.27294,
+    -11.2596
+],
+  "geometry": {"coordinates":[15.27294,-11.2596],"type":"Point"}
+}

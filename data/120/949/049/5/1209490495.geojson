@@ -1,0 +1,61 @@
+{
+  "id": 1209490495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6,-10.1,13.6,-10.1",
+    "geom:latitude":-10.1,
+    "geom:longitude":13.6,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cangungula",
+    "gn:country_code":"AO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350721,
+    "gn:latitude":-10.1,
+    "gn:longitude":13.6,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cangungula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350721
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f3ffb2cf9030ae22dfab1e98fd8b4b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209490495
+        }
+    ],
+    "wof:id":1209490495,
+    "wof:lastmodified":1536285501,
+    "wof:name":"Cangungula",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6,
+    -10.1,
+    13.6,
+    -10.1
+],
+  "geometry": {"coordinates":[13.6,-10.1],"type":"Point"}
+}

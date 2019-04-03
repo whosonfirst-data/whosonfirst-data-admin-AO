@@ -1,0 +1,67 @@
+{
+  "id": 1293284999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71899,-10.60502,15.71899,-10.60502",
+    "geom:latitude":-10.60502,
+    "geom:longitude":15.71899,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tchivili",
+    "gn:country_code":"AO",
+    "gn:dem":1393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7899564,
+    "gn:latitude":-10.60502,
+    "gn:longitude":15.71899,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchivili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7899564
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ae9cee7d84e97b1cc423ac1e9f9032cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1293284999,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293284999,
+    "wof:lastmodified":1537075838,
+    "wof:name":"Tchivili",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71899,
+    -10.60502,
+    15.71899,
+    -10.60502
+],
+  "geometry": {"coordinates":[15.71899,-10.60502],"type":"Point"}
+}

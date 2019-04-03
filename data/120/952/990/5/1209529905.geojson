@@ -1,0 +1,66 @@
+{
+  "id": 1209529905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64,-12.68389,13.64,-12.68389",
+    "geom:latitude":-12.68389,
+    "geom:longitude":13.64,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chimelundo",
+    "gn:country_code":"AO",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349774,
+    "gn:latitude":-12.68389,
+    "gn:longitude":13.64,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Chim\u00e9lundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chim\u00e9lundo",
+        "Chimelundo",
+        "Tchimelundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349774
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cc330d5cda909294efd22b01ff7dac47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209529905
+        }
+    ],
+    "wof:id":1209529905,
+    "wof:lastmodified":1537584762,
+    "wof:name":"Chimelundo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64,
+    -12.68389,
+    13.64,
+    -12.68389
+],
+  "geometry": {"coordinates":[13.64,-12.68389],"type":"Point"}
+}

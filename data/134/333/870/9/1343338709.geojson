@@ -1,0 +1,67 @@
+{
+  "id": 1343338709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55438,-8.3579,16.55438,-8.3579",
+    "geom:latitude":-8.3579,
+    "geom:longitude":16.55438,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Samba",
+    "gn:country_code":"AO",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7744103,
+    "gn:latitude":-8.3579,
+    "gn:longitude":16.55438,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Samba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7744103
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3d3ec205af35320e5e3b48d6d6e98390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1343338709,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343338709,
+    "wof:lastmodified":1536922714,
+    "wof:name":"Samba",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55438,
+    -8.3579,
+    16.55438,
+    -8.3579
+],
+  "geometry": {"coordinates":[16.55438,-8.3579],"type":"Point"}
+}

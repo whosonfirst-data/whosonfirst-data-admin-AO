@@ -1,0 +1,69 @@
+{
+  "id": 1209385231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1959,-6.19901,16.1959,-6.19901",
+    "geom:latitude":-6.19901,
+    "geom:longitude":16.1959,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Icoca",
+    "gn:country_code":"AO",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240757,
+    "gn:latitude":-6.19901,
+    "gn:longitude":16.1959,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Icoca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Icoca"
+    ],
+    "name:und_x_variant":[
+        "Ioca",
+        "Ikoka",
+        "Icoca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240757
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ff4cf707d76f92e76be63cf993951845",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209385231
+        }
+    ],
+    "wof:id":1209385231,
+    "wof:lastmodified":1537584634,
+    "wof:name":"Icoca",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1959,
+    -6.19901,
+    16.1959,
+    -6.19901
+],
+  "geometry": {"coordinates":[16.1959,-6.19901],"type":"Point"}
+}

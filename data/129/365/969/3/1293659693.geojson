@@ -1,0 +1,67 @@
+{
+  "id": 1293659693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25,-7.16667,14.25,-7.16667",
+    "geom:latitude":-7.16667,
+    "geom:longitude":14.25,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Fazenda Cid Adao",
+    "gn:country_code":"AO",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241254,
+    "gn:latitude":-7.16667,
+    "gn:longitude":14.25,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Fazenda Cid Ad\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241254
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8052d86084bbc5483cfbd890d26eeb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799951,
+            "locality_id":1293659693,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1293659693,
+    "wof:lastmodified":1537034593,
+    "wof:name":"Fazenda Cid Adao",
+    "wof:parent_id":1108799951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25,
+    -7.16667,
+    14.25,
+    -7.16667
+],
+  "geometry": {"coordinates":[14.25,-7.16667],"type":"Point"}
+}

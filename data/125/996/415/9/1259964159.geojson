@@ -1,0 +1,70 @@
+{
+  "id": 1259964159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8886,-14.66553,14.8886,-14.66553",
+    "geom:latitude":-14.66553,
+    "geom:longitude":14.8886,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchivi",
+    "gn:country_code":"AO",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3345804,
+    "gn:latitude":-14.66553,
+    "gn:longitude":14.8886,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchivi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tivi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345804
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f385bc3665f12e481eb7e48b66cd401a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799687,
+            "locality_id":1259964159,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1259964159,
+    "wof:lastmodified":1537584690,
+    "wof:name":"Tchivi",
+    "wof:parent_id":1108799687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8886,
+    -14.66553,
+    14.8886,
+    -14.66553
+],
+  "geometry": {"coordinates":[14.8886,-14.66553],"type":"Point"}
+}

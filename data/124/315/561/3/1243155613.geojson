@@ -1,0 +1,72 @@
+{
+  "id": 1243155613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61667,-11.55,20.61667,-11.55",
+    "geom:latitude":-11.55,
+    "geom:longitude":20.61667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sacutoa",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875774,
+    "gn:latitude":-11.55,
+    "gn:longitude":20.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sacutoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saculo",
+        "Sacutoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875774
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fd8a0b9a20500b0352689382a5d6d267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799915,
+            "locality_id":1243155613,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1243155613,
+    "wof:lastmodified":1537584538,
+    "wof:name":"Sacutoa",
+    "wof:parent_id":1108799915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61667000000001,
+    -11.55,
+    20.61667000000001,
+    -11.55
+],
+  "geometry": {"coordinates":[20.61667000000001,-11.55],"type":"Point"}
+}

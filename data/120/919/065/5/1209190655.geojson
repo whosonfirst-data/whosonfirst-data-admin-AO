@@ -1,0 +1,61 @@
+{
+  "id": 1209190655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01206,-8.74447,18.01206,-8.74447",
+    "geom:latitude":-8.74447,
+    "geom:longitude":18.01206,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Camanguanda",
+    "gn:country_code":"AO",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7765233,
+    "gn:latitude":-8.74447,
+    "gn:longitude":18.01206,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Camanguanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7765233
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bcc9e4d1a9de35bdea381b169e76be9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209190655
+        }
+    ],
+    "wof:id":1209190655,
+    "wof:lastmodified":1536294946,
+    "wof:name":"Camanguanda",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01206,
+    -8.74447,
+    18.01206,
+    -8.74447
+],
+  "geometry": {"coordinates":[18.01206,-8.74447],"type":"Point"}
+}

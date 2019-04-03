@@ -1,0 +1,72 @@
+{
+  "id": 1277045119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21834,-6.1839,14.21834,-6.1839",
+    "geom:latitude":-6.1839,
+    "geom:longitude":14.21834,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lunguegi",
+    "gn:country_code":"AO",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240148,
+    "gn:latitude":-6.1839,
+    "gn:longitude":14.21834,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lungu\u00e9gi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lungueji",
+        "Lunguege",
+        "Lungu\u00e9gi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240148
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7701c0376709a95b927e5779228fe8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1277045119,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1277045119,
+    "wof:lastmodified":1537584628,
+    "wof:name":"Lunguegi",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21834,
+    -6.1839,
+    14.21834,
+    -6.1839
+],
+  "geometry": {"coordinates":[14.21834,-6.1839],"type":"Point"}
+}

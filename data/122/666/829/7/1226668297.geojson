@@ -1,0 +1,67 @@
+{
+  "id": 1226668297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16928,-11.30413,15.16928,-11.30413",
+    "geom:latitude":-11.30413,
+    "geom:longitude":15.16928,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gradil",
+    "gn:country_code":"AO",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7860798,
+    "gn:latitude":-11.30413,
+    "gn:longitude":15.16928,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Gradil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860798
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ff61e6f44d711900cbde800da9240ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1226668297,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226668297,
+    "wof:lastmodified":1536826124,
+    "wof:name":"Gradil",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16928,
+    -11.30413,
+    15.16928,
+    -11.30413
+],
+  "geometry": {"coordinates":[15.16928,-11.30413],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326913097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24204,-7.74903,15.24204,-7.74903",
+    "geom:latitude":-7.74903,
+    "geom:longitude":15.24204,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cabala",
+    "gn:country_code":"AO",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243316,
+    "gn:latitude":-7.74903,
+    "gn:longitude":15.24204,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cabala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Culo Cabalo",
+        "Cabala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243316
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aeb7959db90ea1da556c36f29cd78851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799765,
+            "locality_id":1326913097,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1326913097,
+    "wof:lastmodified":1537584675,
+    "wof:name":"Cabala",
+    "wof:parent_id":1108799765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24204,
+    -7.74903,
+    15.24204,
+    -7.74903
+],
+  "geometry": {"coordinates":[15.24204,-7.74903],"type":"Point"}
+}

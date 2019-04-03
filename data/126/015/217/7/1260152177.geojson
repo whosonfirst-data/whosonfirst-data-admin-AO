@@ -1,0 +1,67 @@
+{
+  "id": 1260152177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27225,-10.18634,18.27225,-10.18634",
+    "geom:latitude":-10.18634,
+    "geom:longitude":18.27225,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tchassizenga",
+    "gn:country_code":"AO",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7869533,
+    "gn:latitude":-10.18634,
+    "gn:longitude":18.27225,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Tchassizenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7869533
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7a61d132a33c9aa91b0ed206f2f6bffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1260152177,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1260152177,
+    "wof:lastmodified":1536890536,
+    "wof:name":"Tchassizenga",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27225,
+    -10.18634,
+    18.27225,
+    -10.18634
+],
+  "geometry": {"coordinates":[18.27225,-10.18634],"type":"Point"}
+}

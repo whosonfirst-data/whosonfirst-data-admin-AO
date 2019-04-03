@@ -1,0 +1,67 @@
+{
+  "id": 1343634557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02197,-7.25009,16.02197,-7.25009",
+    "geom:latitude":-7.25009,
+    "geom:longitude":16.02197,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimaindula",
+    "gn:country_code":"AO",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7745447,
+    "gn:latitude":-7.25009,
+    "gn:longitude":16.02197,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quimaindula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745447
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ca6f23469334e7e0f743d6fb6081b0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799617,
+            "locality_id":1343634557,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343634557,
+    "wof:lastmodified":1536991698,
+    "wof:name":"Quimaindula",
+    "wof:parent_id":1108799617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02197,
+    -7.25009,
+    16.02197,
+    -7.25009
+],
+  "geometry": {"coordinates":[16.02197,-7.25009],"type":"Point"}
+}

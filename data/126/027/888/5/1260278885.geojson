@@ -1,0 +1,72 @@
+{
+  "id": 1260278885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33639,-12.60139,15.33639,-12.60139",
+    "geom:latitude":-12.60139,
+    "geom:longitude":15.33639,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Catapi",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371979,
+    "gn:latitude":-12.60139,
+    "gn:longitude":15.33639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Catapi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Catape",
+        "Catapi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371979
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"471c97138344c2991b40da3a40ecab23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1260278885,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1260278885,
+    "wof:lastmodified":1537584807,
+    "wof:name":"Catapi",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33639,
+    -12.60139,
+    15.33639,
+    -12.60139
+],
+  "geometry": {"coordinates":[15.33639,-12.60139],"type":"Point"}
+}

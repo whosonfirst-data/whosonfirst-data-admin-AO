@@ -1,0 +1,67 @@
+{
+  "id": 1343758651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04826,-14.9062,15.04826,-14.9062",
+    "geom:latitude":-14.9062,
+    "geom:longitude":15.04826,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchipalanguela",
+    "gn:country_code":"AO",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908140,
+    "gn:latitude":-14.9062,
+    "gn:longitude":15.04826,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchipalanguela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908140
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d4c3551ea112a1f3d77967eb3d2372f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799687,
+            "locality_id":1343758651,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1343758651,
+    "wof:lastmodified":1536812967,
+    "wof:name":"Tchipalanguela",
+    "wof:parent_id":1108799687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04826,
+    -14.9062,
+    15.04826,
+    -14.9062
+],
+  "geometry": {"coordinates":[15.04826,-14.9062],"type":"Point"}
+}

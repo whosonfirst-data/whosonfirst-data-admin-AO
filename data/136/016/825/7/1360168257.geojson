@@ -1,0 +1,73 @@
+{
+  "id": 1360168257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96667,-14.05,21.96667,-14.05",
+    "geom:latitude":-14.05,
+    "geom:longitude":21.96667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Caulula",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876505,
+    "gn:latitude":-14.05,
+    "gn:longitude":21.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caulula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caulila",
+        "Caulala",
+        "Caulula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876505
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2dd64c27f975a2886bd2ce84a0053635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1360168257,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1360168257,
+    "wof:lastmodified":1537584559,
+    "wof:name":"Caulula",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96667,
+    -14.05,
+    21.96667,
+    -14.05
+],
+  "geometry": {"coordinates":[21.96667,-14.05],"type":"Point"}
+}

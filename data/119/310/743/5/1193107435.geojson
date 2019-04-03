@@ -1,0 +1,67 @@
+{
+  "id": 1193107435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3604,-6.24632,16.3604,-6.24632",
+    "geom:latitude":-6.24632,
+    "geom:longitude":16.3604,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimibuatelele",
+    "gn:country_code":"AO",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544838,
+    "gn:latitude":-6.24632,
+    "gn:longitude":16.3604,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Quimibuatelele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544838
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a995b4243ab954225b156e40e6d82700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1193107435,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1193107435,
+    "wof:lastmodified":1536376967,
+    "wof:name":"Quimibuatelele",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3604,
+    -6.24632,
+    16.3604,
+    -6.24632
+],
+  "geometry": {"coordinates":[16.3604,-6.24632],"type":"Point"}
+}

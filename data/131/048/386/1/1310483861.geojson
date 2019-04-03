@@ -1,0 +1,67 @@
+{
+  "id": 1310483861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10251,-6.76877,14.10251,-6.76877",
+    "geom:latitude":-6.76877,
+    "geom:longitude":14.10251,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Culugi",
+    "gn:country_code":"AO",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7700541,
+    "gn:latitude":-6.76877,
+    "gn:longitude":14.10251,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Culugi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7700541
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"625a6438f4958ad3a6c203726b13647e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1310483861,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1310483861,
+    "wof:lastmodified":1536948484,
+    "wof:name":"Culugi",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10251,
+    -6.76877,
+    14.10251,
+    -6.76877
+],
+  "geometry": {"coordinates":[14.10251,-6.76877],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259463083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.29895,-9.48038,16.29895,-9.48038",
+    "geom:latitude":-9.48038,
+    "geom:longitude":16.29895,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Manga",
+    "gn:country_code":"AO",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592117,
+    "gn:latitude":-9.48038,
+    "gn:longitude":16.29895,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Manga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592117
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2945b230647068ce6b6d4ec050db8500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1259463083,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1259463083,
+    "wof:lastmodified":1536887723,
+    "wof:name":"Manga",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.29895,
+    -9.48038,
+    16.29895,
+    -9.48038
+],
+  "geometry": {"coordinates":[16.29895,-9.48038],"type":"Point"}
+}

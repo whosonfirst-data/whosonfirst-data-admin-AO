@@ -1,0 +1,67 @@
+{
+  "id": 1260072697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23829,-11.48417,14.23829,-11.48417",
+    "geom:latitude":-11.48417,
+    "geom:longitude":14.23829,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chiaca",
+    "gn:country_code":"AO",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350020,
+    "gn:latitude":-11.48417,
+    "gn:longitude":14.23829,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Chiaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350020
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"500fa8080bde0f6c23fd05b955b8512f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1260072697,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1260072697,
+    "wof:lastmodified":1537002830,
+    "wof:name":"Chiaca",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23829,
+    -11.48417,
+    14.23829,
+    -11.48417
+],
+  "geometry": {"coordinates":[14.23829,-11.48417],"type":"Point"}
+}

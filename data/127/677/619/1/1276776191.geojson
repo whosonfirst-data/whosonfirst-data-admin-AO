@@ -1,0 +1,67 @@
+{
+  "id": 1276776191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80953,-11.51235,16.80953,-11.51235",
+    "geom:latitude":-11.51235,
+    "geom:longitude":16.80953,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchitomalo",
+    "gn:country_code":"AO",
+    "gn:dem":1651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903547,
+    "gn:latitude":-11.51235,
+    "gn:longitude":16.80953,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchitomalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903547
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dffef732310a3a63082b98d30b21052d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1276776191,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1276776191,
+    "wof:lastmodified":1536682329,
+    "wof:name":"Tchitomalo",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80953,
+    -11.51235,
+    16.80953,
+    -11.51235
+],
+  "geometry": {"coordinates":[16.80953,-11.51235],"type":"Point"}
+}

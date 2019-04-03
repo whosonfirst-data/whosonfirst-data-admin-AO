@@ -1,0 +1,71 @@
+{
+  "id": 1326695831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15653,-8.65157,14.15653,-8.65157",
+    "geom:latitude":-8.65157,
+    "geom:longitude":14.15653,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ucua",
+    "gn:country_code":"AO",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236587,
+    "gn:latitude":-8.65157,
+    "gn:longitude":14.15653,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00dacua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castendo",
+        "\u00dacua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236587
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2bb56041d6928ae83432c71bb9f7940c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799875,
+            "locality_id":1326695831,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1326695831,
+    "wof:lastmodified":1537584572,
+    "wof:name":"Ucua",
+    "wof:parent_id":1108799875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15653,
+    -8.65157,
+    14.15653,
+    -8.65157
+],
+  "geometry": {"coordinates":[14.15653,-8.65157],"type":"Point"}
+}

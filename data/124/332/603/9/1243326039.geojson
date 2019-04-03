@@ -1,0 +1,67 @@
+{
+  "id": 1243326039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25497,-9.67355,13.25497,-9.67355",
+    "geom:latitude":-9.67355,
+    "geom:longitude":13.25497,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Barragem",
+    "gn:country_code":"AO",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7781940,
+    "gn:latitude":-9.67355,
+    "gn:longitude":13.25497,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Barragem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7781940
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f5302a08fe4b6b3a9e6ab9982cab80fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1243326039,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1243326039,
+    "wof:lastmodified":1536978687,
+    "wof:name":"Barragem",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25497,
+    -9.67355,
+    13.25497,
+    -9.67355
+],
+  "geometry": {"coordinates":[13.25497,-9.67355],"type":"Point"}
+}

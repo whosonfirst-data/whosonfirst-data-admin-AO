@@ -1,0 +1,67 @@
+{
+  "id": 1226723189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2,-6.3,16.2,-6.3",
+    "geom:latitude":-6.3,
+    "geom:longitude":16.2,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimatambo",
+    "gn:country_code":"AO",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238231,
+    "gn:latitude":-6.3,
+    "gn:longitude":16.2,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quimatambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238231
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"95722ec104adf6adc65cabb0dcaa238a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1226723189,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226723189,
+    "wof:lastmodified":1536747919,
+    "wof:name":"Quimatambo",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2,
+    -6.3,
+    16.2,
+    -6.3
+],
+  "geometry": {"coordinates":[16.2,-6.3],"type":"Point"}
+}

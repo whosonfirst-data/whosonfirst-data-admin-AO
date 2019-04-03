@@ -1,0 +1,61 @@
+{
+  "id": 1209437267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06349,-10.91734,15.06349,-10.91734",
+    "geom:latitude":-10.91734,
+    "geom:longitude":15.06349,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Upamba Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867335,
+    "gn:latitude":-10.91734,
+    "gn:longitude":15.06349,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Upamba Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867335
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"072f30c1a6cc8b1c534858881ccd6bee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209437267
+        }
+    ],
+    "wof:id":1209437267,
+    "wof:lastmodified":1536287065,
+    "wof:name":"Upamba Segundo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06349,
+    -10.91734,
+    15.06349,
+    -10.91734
+],
+  "geometry": {"coordinates":[15.06349,-10.91734],"type":"Point"}
+}

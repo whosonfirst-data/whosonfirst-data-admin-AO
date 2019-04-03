@@ -1,0 +1,67 @@
+{
+  "id": 1243185303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1776,-11.364,16.1776,-11.364",
+    "geom:latitude":-11.364,
+    "geom:longitude":16.1776,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Catele",
+    "gn:country_code":"AO",
+    "gn:dem":1737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7789799,
+    "gn:latitude":-11.364,
+    "gn:longitude":16.1776,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Catele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789799
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"faf9adca5709a72008c957ba59c8ef57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1243185303,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1243185303,
+    "wof:lastmodified":1536684943,
+    "wof:name":"Catele",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1776,
+    -11.364,
+    16.1776,
+    -11.364
+],
+  "geometry": {"coordinates":[16.1776,-11.364],"type":"Point"}
+}

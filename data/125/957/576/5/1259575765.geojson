@@ -1,0 +1,67 @@
+{
+  "id": 1259575765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05559,-10.98335,15.05559,-10.98335",
+    "geom:latitude":-10.98335,
+    "geom:longitude":15.05559,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Canzanga Pequeno",
+    "gn:country_code":"AO",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867345,
+    "gn:latitude":-10.98335,
+    "gn:longitude":15.05559,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Canzanga Pequeno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867345
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7c44a370df3772f890abbc630ce08ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799659,
+            "locality_id":1259575765,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259575765,
+    "wof:lastmodified":1536726379,
+    "wof:name":"Canzanga Pequeno",
+    "wof:parent_id":1108799659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05559,
+    -10.98335,
+    15.05559,
+    -10.98335
+],
+  "geometry": {"coordinates":[15.05559,-10.98335],"type":"Point"}
+}

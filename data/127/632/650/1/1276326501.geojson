@@ -1,0 +1,67 @@
+{
+  "id": 1276326501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38064,-10.07606,15.38064,-10.07606",
+    "geom:latitude":-10.07606,
+    "geom:longitude":15.38064,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quinguenda",
+    "gn:country_code":"AO",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855955,
+    "gn:latitude":-10.07606,
+    "gn:longitude":15.38064,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quinguenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855955
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8c47da352ca61da5b65f05bf7dc54c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1276326501,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276326501,
+    "wof:lastmodified":1536788272,
+    "wof:name":"Quinguenda",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38064,
+    -10.07606,
+    15.38064,
+    -10.07606
+],
+  "geometry": {"coordinates":[15.38064,-10.07606],"type":"Point"}
+}

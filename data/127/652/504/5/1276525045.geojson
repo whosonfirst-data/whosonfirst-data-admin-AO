@@ -1,0 +1,67 @@
+{
+  "id": 1276525045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9837,-9.3776,15.9837,-9.3776",
+    "geom:latitude":-9.3776,
+    "geom:longitude":15.9837,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Monzo",
+    "gn:country_code":"AO",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769042,
+    "gn:latitude":-9.3776,
+    "gn:longitude":15.9837,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Monzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769042
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6ddad65e8b064e5b471c382ce7872c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1276525045,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276525045,
+    "wof:lastmodified":1537018392,
+    "wof:name":"Monzo",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9837,
+    -9.3776,
+    15.9837,
+    -9.3776
+],
+  "geometry": {"coordinates":[15.9837,-9.3776],"type":"Point"}
+}

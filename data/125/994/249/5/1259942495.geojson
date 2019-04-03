@@ -1,0 +1,73 @@
+{
+  "id": 1259942495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39435,-8.1547,14.39435,-8.1547",
+    "geom:latitude":-8.1547,
+    "geom:longitude":14.39435,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Quihinga Nzambi",
+    "gn:country_code":"AO",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238389,
+    "gn:latitude":-8.1547,
+    "gn:longitude":14.39435,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quihinga Nzambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quihinga",
+        "Quihinga-Zambe",
+        "Quiinga",
+        "Quihinga Nzambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238389
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"209f9488f4a960e44c1e9149253b4ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799629,
+            "locality_id":1259942495,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1259942495,
+    "wof:lastmodified":1537584604,
+    "wof:name":"Quihinga Nzambi",
+    "wof:parent_id":1108799629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39435,
+    -8.1547,
+    14.39435,
+    -8.1547
+],
+  "geometry": {"coordinates":[14.39435,-8.1547],"type":"Point"}
+}

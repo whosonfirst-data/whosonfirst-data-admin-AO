@@ -1,0 +1,67 @@
+{
+  "id": 1260053225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30157,-6.51555,15.30157,-6.51555",
+    "geom:latitude":-6.51555,
+    "geom:longitude":15.30157,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lussenga",
+    "gn:country_code":"AO",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779343,
+    "gn:latitude":-6.51555,
+    "gn:longitude":15.30157,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Lussenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779343
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0c87db11f08f31fa46b0db90f22b7e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1260053225,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1260053225,
+    "wof:lastmodified":1537030407,
+    "wof:name":"Lussenga",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30157,
+    -6.51555,
+    15.30157,
+    -6.51555
+],
+  "geometry": {"coordinates":[15.30157,-6.51555],"type":"Point"}
+}

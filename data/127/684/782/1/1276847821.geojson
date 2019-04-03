@@ -1,0 +1,67 @@
+{
+  "id": 1276847821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94545,-10.77729,17.94545,-10.77729",
+    "geom:latitude":-10.77729,
+    "geom:longitude":17.94545,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nzanda",
+    "gn:country_code":"AO",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900691,
+    "gn:latitude":-10.77729,
+    "gn:longitude":17.94545,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Nzanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900691
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"21f4a42616c5e999894f1037b250c77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799651,
+            "locality_id":1276847821,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276847821,
+    "wof:lastmodified":1537080947,
+    "wof:name":"Nzanda",
+    "wof:parent_id":1108799651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94545,
+    -10.77729,
+    17.94545,
+    -10.77729
+],
+  "geometry": {"coordinates":[17.94545,-10.77729],"type":"Point"}
+}

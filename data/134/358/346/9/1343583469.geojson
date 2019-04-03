@@ -1,0 +1,67 @@
+{
+  "id": 1343583469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07834,-10.94812,14.07834,-10.94812",
+    "geom:latitude":-10.94812,
+    "geom:longitude":14.07834,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chole-Chole",
+    "gn:country_code":"AO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866366,
+    "gn:latitude":-10.94812,
+    "gn:longitude":14.07834,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Chole-Chole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866366
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cefe7d12e4648f977e09f0503608d249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799943,
+            "locality_id":1343583469,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343583469,
+    "wof:lastmodified":1537063492,
+    "wof:name":"Chole-Chole",
+    "wof:parent_id":1108799943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07834,
+    -10.94812,
+    14.07834,
+    -10.94812
+],
+  "geometry": {"coordinates":[14.07834,-10.94812],"type":"Point"}
+}

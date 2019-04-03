@@ -1,0 +1,67 @@
+{
+  "id": 1310473445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57751,-8.14129,21.57751,-8.14129",
+    "geom:latitude":-8.14129,
+    "geom:longitude":21.57751,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mutevo",
+    "gn:country_code":"AO",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7763691,
+    "gn:latitude":-8.14129,
+    "gn:longitude":21.57751,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mutevo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7763691
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"33506b0f17231da42fe790b1bd938eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1310473445,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1310473445,
+    "wof:lastmodified":1536963054,
+    "wof:name":"Mutevo",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57751,
+    -8.14129,
+    21.57751,
+    -8.14129
+],
+  "geometry": {"coordinates":[21.57751,-8.14129],"type":"Point"}
+}

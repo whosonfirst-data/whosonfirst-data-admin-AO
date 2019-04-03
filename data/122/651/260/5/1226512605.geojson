@@ -1,0 +1,67 @@
+{
+  "id": 1226512605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66409,-7.26225,14.66409,-7.26225",
+    "geom:latitude":-7.26225,
+    "geom:longitude":14.66409,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cagingo",
+    "gn:country_code":"AO",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750277,
+    "gn:latitude":-7.26225,
+    "gn:longitude":14.66409,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cagingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750277
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2f5083f534de454425dad6c8c428ec13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799683,
+            "locality_id":1226512605,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226512605,
+    "wof:lastmodified":1537044107,
+    "wof:name":"Cagingo",
+    "wof:parent_id":1108799683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66409,
+    -7.26225,
+    14.66409,
+    -7.26225
+],
+  "geometry": {"coordinates":[14.66409,-7.26225],"type":"Point"}
+}

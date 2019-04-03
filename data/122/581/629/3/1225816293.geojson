@@ -1,0 +1,67 @@
+{
+  "id": 1225816293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81958,-11.35336,21.81958,-11.35336",
+    "geom:latitude":-11.35336,
+    "geom:longitude":21.81958,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cato",
+    "gn:country_code":"AO",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768084,
+    "gn:latitude":-11.35336,
+    "gn:longitude":21.81958,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cat\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768084
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6954db0a9759b07185954e869cc30dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799891,
+            "locality_id":1225816293,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1225816293,
+    "wof:lastmodified":1537053931,
+    "wof:name":"Cato",
+    "wof:parent_id":1108799891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81958,
+    -11.35336,
+    21.81958,
+    -11.35336
+],
+  "geometry": {"coordinates":[21.81958,-11.35336],"type":"Point"}
+}

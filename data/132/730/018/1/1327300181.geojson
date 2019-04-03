@@ -1,0 +1,70 @@
+{
+  "id": 1327300181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.24685,-9.73101,20.24685,-9.73101",
+    "geom:latitude":-9.73101,
+    "geom:longitude":20.24685,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tchinjango",
+    "gn:country_code":"AO",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7789936,
+    "gn:latitude":-9.73101,
+    "gn:longitude":20.24685,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tchinjango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samassengue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789936
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f469021b93087f1cc2957fc31aecc8f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1327300181,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1327300181,
+    "wof:lastmodified":1537584810,
+    "wof:name":"Tchinjango",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.24685,
+    -9.73101,
+    20.24685,
+    -9.73101
+],
+  "geometry": {"coordinates":[20.24685,-9.73101],"type":"Point"}
+}

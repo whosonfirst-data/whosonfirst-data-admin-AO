@@ -1,0 +1,74 @@
+{
+  "id": 1243270105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04754,-16.61655,19.04754,-16.61655",
+    "geom:latitude":-16.61655,
+    "geom:longitude":19.04754,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lito",
+    "gn:country_code":"AO",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3346421,
+    "gn:latitude":-16.61655,
+    "gn:longitude":19.04754,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Lito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:por_x_preferred":[
+        "Lito"
+    ],
+    "name:und_x_variant":[
+        "Litu",
+        "Rito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346421
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"389d7a86cc9fbe26af4c5c2fac63e197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799851,
+            "locality_id":1243270105,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1243270105,
+    "wof:lastmodified":1537584704,
+    "wof:name":"Lito",
+    "wof:parent_id":1108799851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04754,
+    -16.61655,
+    19.04754,
+    -16.61655
+],
+  "geometry": {"coordinates":[19.04754,-16.61655],"type":"Point"}
+}

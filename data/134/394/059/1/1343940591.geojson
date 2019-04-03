@@ -1,0 +1,67 @@
+{
+  "id": 1343940591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10451,-6.6152,15.10451,-6.6152",
+    "geom:latitude":-6.6152,
+    "geom:longitude":15.10451,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Diumba",
+    "gn:country_code":"AO",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241399,
+    "gn:latitude":-6.6152,
+    "gn:longitude":15.10451,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Diumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241399
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b52bdcc37d92b0bcb3713e89263808a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1343940591,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343940591,
+    "wof:lastmodified":1537046793,
+    "wof:name":"Diumba",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10451,
+    -6.6152,
+    15.10451,
+    -6.6152
+],
+  "geometry": {"coordinates":[15.10451,-6.6152],"type":"Point"}
+}

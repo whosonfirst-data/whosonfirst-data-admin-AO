@@ -1,0 +1,67 @@
+{
+  "id": 1343735367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91667,-7.46667,14.91667,-7.46667",
+    "geom:latitude":-7.46667,
+    "geom:longitude":14.91667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cambala",
+    "gn:country_code":"AO",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242818,
+    "gn:latitude":-7.46667,
+    "gn:longitude":14.91667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cambala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242818
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"80b3dc3b4c4b5e9835263171931c0601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799683,
+            "locality_id":1343735367,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343735367,
+    "wof:lastmodified":1536846040,
+    "wof:name":"Cambala",
+    "wof:parent_id":1108799683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91667,
+    -7.46667,
+    14.91667,
+    -7.46667
+],
+  "geometry": {"coordinates":[14.91667,-7.46667],"type":"Point"}
+}

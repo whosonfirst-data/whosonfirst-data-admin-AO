@@ -1,0 +1,67 @@
+{
+  "id": 1310398109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92457,-12.05211,14.92457,-12.05211",
+    "geom:latitude":-12.05211,
+    "geom:longitude":14.92457,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Caiele",
+    "gn:country_code":"AO",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7902731,
+    "gn:latitude":-12.05211,
+    "gn:longitude":14.92457,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Caiele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7902731
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bdc7ac349f4a359fd0af8722b16e3046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1310398109,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310398109,
+    "wof:lastmodified":1537068933,
+    "wof:name":"Caiele",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92457,
+    -12.05211,
+    14.92457,
+    -12.05211
+],
+  "geometry": {"coordinates":[14.92457,-12.05211],"type":"Point"}
+}

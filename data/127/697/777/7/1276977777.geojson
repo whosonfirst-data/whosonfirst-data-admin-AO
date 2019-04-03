@@ -1,0 +1,67 @@
+{
+  "id": 1276977777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22982,-10.91011,14.22982,-10.91011",
+    "geom:latitude":-10.91011,
+    "geom:longitude":14.22982,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hichingo",
+    "gn:country_code":"AO",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7866671,
+    "gn:latitude":-10.91011,
+    "gn:longitude":14.22982,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Hichingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866671
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c08fe83e2ddcbf0db95b8dd3b927fd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799827,
+            "locality_id":1276977777,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276977777,
+    "wof:lastmodified":1536910381,
+    "wof:name":"Hichingo",
+    "wof:parent_id":1108799827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22982,
+    -10.91011,
+    14.22982,
+    -10.91011
+],
+  "geometry": {"coordinates":[14.22982,-10.91011],"type":"Point"}
+}

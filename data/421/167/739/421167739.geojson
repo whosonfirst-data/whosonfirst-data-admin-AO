@@ -1,0 +1,139 @@
+{
+  "id": 421167739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56056,-12.8525,15.56056,-12.8525",
+    "geom:latitude":-12.8525,
+    "geom:longitude":15.56056,
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:deu_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:dut_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:eng_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06cc\u0627\u0644\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:fre_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:ger_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:ita_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:lit_x_preferred":[
+        "Kaala"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u06cc\u0627\u0644\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:por_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:ron_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:rum_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0430\u043b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Ca\u00e1la"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0430\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Robert Williams"
+    ],
+    "qs:gn_country":"AO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3351500,
+    "qs:gn_pop":21205,
+    "qs:name":"Ca\u00e1la",
+    "qs:name_adm0":"Angola",
+    "qs:name_adm1":"Huambo",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":147473,
+    "qs:woe_adm0":23424745,
+    "qs:woe_id":1467948,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":194,
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351500,
+        "gp:id":1467948,
+        "qs:id":147473,
+        "wd:id":"Q1052090",
+        "wk:page":"Ca\u00e1la"
+    },
+    "wof:country":"AO",
+    "wof:created":1459008741,
+    "wof:geomhash":"46954e15df176c05bdae59630365a306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":421167739,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":421167739,
+    "wof:lastmodified":1527716153,
+    "wof:name":"Ca\u00e1la",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:population":21205,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56056,
+    -12.8525,
+    15.56056,
+    -12.8525
+],
+  "geometry": {"coordinates":[15.56056,-12.8525],"type":"Point"}
+}

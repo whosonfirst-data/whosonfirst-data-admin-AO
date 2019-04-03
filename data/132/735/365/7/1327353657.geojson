@@ -1,0 +1,67 @@
+{
+  "id": 1327353657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41417,-12.5375,15.41417,-12.5375",
+    "geom:latitude":-12.5375,
+    "geom:longitude":15.41417,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cassolio",
+    "gn:country_code":"AO",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371944,
+    "gn:latitude":-12.5375,
+    "gn:longitude":15.41417,
+    "gn:modification_date":"1998-06-19",
+    "gn:name":"Cass\u00f3lio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371944
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"24767857c0dc7583f646727f2c78d2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1327353657,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1327353657,
+    "wof:lastmodified":1536794845,
+    "wof:name":"Cassolio",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41417,
+    -12.5375,
+    15.41417,
+    -12.5375
+],
+  "geometry": {"coordinates":[15.41417,-12.5375],"type":"Point"}
+}

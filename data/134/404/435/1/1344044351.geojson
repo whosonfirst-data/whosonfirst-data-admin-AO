@@ -1,0 +1,67 @@
+{
+  "id": 1344044351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.345,-9.66917,16.345,-9.66917",
+    "geom:latitude":-9.66917,
+    "geom:longitude":16.345,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sati",
+    "gn:country_code":"AO",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592314,
+    "gn:latitude":-9.66917,
+    "gn:longitude":16.345,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Sat\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592314
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"32c58f825bbb4c9069c39511cb1622c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1344044351,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1344044351,
+    "wof:lastmodified":1536898850,
+    "wof:name":"Sati",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.345,
+    -9.66917,
+    16.345,
+    -9.66917
+],
+  "geometry": {"coordinates":[16.345,-9.66917],"type":"Point"}
+}

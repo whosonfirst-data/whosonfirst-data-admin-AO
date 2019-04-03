@@ -1,0 +1,72 @@
+{
+  "id": 1260277903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75,-14.75,15.75,-14.75",
+    "geom:latitude":-14.75,
+    "geom:longitude":15.75,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Caxila",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350139,
+    "gn:latitude":-14.75,
+    "gn:longitude":15.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caxila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongo Caxila",
+        "Caxila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350139
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"314bb8b8e8d745cade9fc8e6012dcebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1260277903,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1260277903,
+    "wof:lastmodified":1537584771,
+    "wof:name":"Caxila",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75,
+    -14.75,
+    15.75,
+    -14.75
+],
+  "geometry": {"coordinates":[15.75,-14.75],"type":"Point"}
+}

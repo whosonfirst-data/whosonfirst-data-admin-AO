@@ -1,0 +1,67 @@
+{
+  "id": 1310192267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05628,-8.69714,16.05628,-8.69714",
+    "geom:latitude":-8.69714,
+    "geom:longitude":16.05628,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Samba Ngombe",
+    "gn:country_code":"AO",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7758438,
+    "gn:latitude":-8.69714,
+    "gn:longitude":16.05628,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Samba Ngombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7758438
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8d430a8c6dee258e46de21b772b2e40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1310192267,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1310192267,
+    "wof:lastmodified":1536870275,
+    "wof:name":"Samba Ngombe",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05627999999999,
+    -8.69714,
+    16.05627999999999,
+    -8.69714
+],
+  "geometry": {"coordinates":[16.05627999999999,-8.69714],"type":"Point"}
+}

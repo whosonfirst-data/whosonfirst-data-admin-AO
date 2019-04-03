@@ -1,0 +1,67 @@
+{
+  "id": 1343348553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.73336,-10.46142,17.73336,-10.46142",
+    "geom:latitude":-10.46142,
+    "geom:longitude":17.73336,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mucola",
+    "gn:country_code":"AO",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7868840,
+    "gn:latitude":-10.46142,
+    "gn:longitude":17.73336,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Mucola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7868840
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d0732a5d7d619de93a8803dd53e1dd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799719,
+            "locality_id":1343348553,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343348553,
+    "wof:lastmodified":1536908068,
+    "wof:name":"Mucola",
+    "wof:parent_id":1108799719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.73336,
+    -10.46142,
+    17.73336,
+    -10.46142
+],
+  "geometry": {"coordinates":[17.73336,-10.46142],"type":"Point"}
+}

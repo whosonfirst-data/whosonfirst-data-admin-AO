@@ -1,0 +1,67 @@
+{
+  "id": 1276955669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1421,-10.31767,17.1421,-10.31767",
+    "geom:latitude":-10.31767,
+    "geom:longitude":17.1421,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cabita",
+    "gn:country_code":"AO",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7868522,
+    "gn:latitude":-10.31767,
+    "gn:longitude":17.1421,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cabita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7868522
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"898b53773cef65b11b3926609eb40ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799771,
+            "locality_id":1276955669,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276955669,
+    "wof:lastmodified":1536940477,
+    "wof:name":"Cabita",
+    "wof:parent_id":1108799771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1421,
+    -10.31767,
+    17.1421,
+    -10.31767
+],
+  "geometry": {"coordinates":[17.1421,-10.31767],"type":"Point"}
+}

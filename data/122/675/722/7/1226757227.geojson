@@ -1,0 +1,67 @@
+{
+  "id": 1226757227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,-12.38333,14.75,-12.38333",
+    "geom:latitude":-12.38333,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Missassa",
+    "gn:country_code":"AO",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347309,
+    "gn:latitude":-12.38333,
+    "gn:longitude":14.75,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Missassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347309
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2c8ad2693fb3d0786f96998bfa05a620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799737,
+            "locality_id":1226757227,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1226757227,
+    "wof:lastmodified":1536699200,
+    "wof:name":"Missassa",
+    "wof:parent_id":1108799737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    -12.38333,
+    14.75,
+    -12.38333
+],
+  "geometry": {"coordinates":[14.75,-12.38333],"type":"Point"}
+}

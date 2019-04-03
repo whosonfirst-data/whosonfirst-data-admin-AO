@@ -1,0 +1,67 @@
+{
+  "id": 1326517189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.22961,-10.44032,17.22961,-10.44032",
+    "geom:latitude":-10.44032,
+    "geom:longitude":17.22961,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Fuca",
+    "gn:country_code":"AO",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7868513,
+    "gn:latitude":-10.44032,
+    "gn:longitude":17.22961,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Fuca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7868513
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"342efbd9f706e15c291b201dcb40358e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799771,
+            "locality_id":1326517189,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1326517189,
+    "wof:lastmodified":1537005028,
+    "wof:name":"Fuca",
+    "wof:parent_id":1108799771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.22961,
+    -10.44032,
+    17.22961,
+    -10.44032
+],
+  "geometry": {"coordinates":[17.22961,-10.44032],"type":"Point"}
+}

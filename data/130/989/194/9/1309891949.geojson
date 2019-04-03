@@ -1,0 +1,70 @@
+{
+  "id": 1309891949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93228,-14.8485,12.93228,-14.8485",
+    "geom:latitude":-14.8485,
+    "geom:longitude":12.93228,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Munhino",
+    "gn:country_code":"AO",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7906613,
+    "gn:latitude":-14.8485,
+    "gn:longitude":12.93228,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Munhino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Herculano Morgado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667717,
+        1108799601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906613
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e40e6c11b5d510d5db11c8a3958e9b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799601,
+            "locality_id":1309891949,
+            "region_id":85667717
+        }
+    ],
+    "wof:id":1309891949,
+    "wof:lastmodified":1537584812,
+    "wof:name":"Munhino",
+    "wof:parent_id":1108799601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93228,
+    -14.8485,
+    12.93228,
+    -14.8485
+],
+  "geometry": {"coordinates":[12.93228,-14.8485],"type":"Point"}
+}

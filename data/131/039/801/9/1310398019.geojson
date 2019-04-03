@@ -1,0 +1,67 @@
+{
+  "id": 1310398019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6632,-11.47507,14.6632,-11.47507",
+    "geom:latitude":-11.47507,
+    "geom:longitude":14.6632,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Samuno Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7860497,
+    "gn:latitude":-11.47507,
+    "gn:longitude":14.6632,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Samuno Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860497
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e0605d8059261b38093a247992b3db96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1310398019,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310398019,
+    "wof:lastmodified":1537069061,
+    "wof:name":"Samuno Segundo",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6632,
+    -11.47507,
+    14.6632,
+    -11.47507
+],
+  "geometry": {"coordinates":[14.6632,-11.47507],"type":"Point"}
+}

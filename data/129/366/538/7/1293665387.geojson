@@ -1,0 +1,67 @@
+{
+  "id": 1293665387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81939,-7.89222,19.81939,-7.89222",
+    "geom:latitude":-7.89222,
+    "geom:longitude":19.81939,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Saquengue",
+    "gn:country_code":"AO",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7693306,
+    "gn:latitude":-7.89222,
+    "gn:longitude":19.81939,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Saquengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7693306
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"37cafd2866d6f7069ef6c90f8fe85675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799669,
+            "locality_id":1293665387,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293665387,
+    "wof:lastmodified":1537026693,
+    "wof:name":"Saquengue",
+    "wof:parent_id":1108799669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81939,
+    -7.89222,
+    19.81939,
+    -7.89222
+],
+  "geometry": {"coordinates":[19.81939,-7.89222],"type":"Point"}
+}

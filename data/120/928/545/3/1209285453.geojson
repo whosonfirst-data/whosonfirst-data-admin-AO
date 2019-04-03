@@ -1,0 +1,61 @@
+{
+  "id": 1209285453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21403,-10.69918,22.21403,-10.69918",
+    "geom:latitude":-10.69918,
+    "geom:longitude":22.21403,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Savihemba",
+    "gn:country_code":"AO",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7863794,
+    "gn:latitude":-10.69918,
+    "gn:longitude":22.21403,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Savihemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863794
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1ae565c7954bce59562360cdc0b4b4af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209285453
+        }
+    ],
+    "wof:id":1209285453,
+    "wof:lastmodified":1536291876,
+    "wof:name":"Savihemba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21403,
+    -10.69918,
+    22.21403,
+    -10.69918
+],
+  "geometry": {"coordinates":[22.21403,-10.69918],"type":"Point"}
+}

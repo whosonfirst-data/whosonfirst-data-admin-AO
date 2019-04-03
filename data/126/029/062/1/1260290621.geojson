@@ -1,0 +1,72 @@
+{
+  "id": 1260290621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.58333,-15.3,19.58333,-15.3",
+    "geom:latitude":-15.3,
+    "geom:longitude":19.58333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Capambo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350639,
+    "gn:latitude":-15.3,
+    "gn:longitude":19.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Capambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capamba",
+        "Capambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350639
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0007eb5efc4770f7fa976b441f56ecda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799691,
+            "locality_id":1260290621,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1260290621,
+    "wof:lastmodified":1537584782,
+    "wof:name":"Capambo",
+    "wof:parent_id":1108799691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.58333,
+    -15.3,
+    19.58333,
+    -15.3
+],
+  "geometry": {"coordinates":[19.58333,-15.3],"type":"Point"}
+}

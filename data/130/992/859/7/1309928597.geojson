@@ -1,0 +1,67 @@
+{
+  "id": 1309928597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66891,-8.7153,15.66891,-8.7153",
+    "geom:latitude":-8.7153,
+    "geom:longitude":15.66891,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cacala",
+    "gn:country_code":"AO",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307087,
+    "gn:latitude":-8.7153,
+    "gn:longitude":15.66891,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Cacala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307087
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2404bf7ba99476d190119b59a17b10e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1309928597,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1309928597,
+    "wof:lastmodified":1536754151,
+    "wof:name":"Cacala",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66891,
+    -8.7153,
+    15.66891,
+    -8.7153
+],
+  "geometry": {"coordinates":[15.66891,-8.7153],"type":"Point"}
+}

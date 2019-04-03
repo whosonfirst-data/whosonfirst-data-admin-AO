@@ -1,0 +1,67 @@
+{
+  "id": 1209911565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37647,-10.67899,14.37647,-10.67899",
+    "geom:latitude":-10.67899,
+    "geom:longitude":14.37647,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Capacata",
+    "gn:country_code":"AO",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866522,
+    "gn:latitude":-10.67899,
+    "gn:longitude":14.37647,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Capacata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866522
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"309d7945e55b35022ebca27f28b59ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799949,
+            "locality_id":1209911565,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1209911565,
+    "wof:lastmodified":1536378211,
+    "wof:name":"Capacata",
+    "wof:parent_id":1108799949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37647,
+    -10.67899,
+    14.37647,
+    -10.67899
+],
+  "geometry": {"coordinates":[14.37647,-10.67899],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225829719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26667,-15.08333,13.26667,-15.08333",
+    "geom:latitude":-15.08333,
+    "geom:longitude":13.26667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Leba",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348026,
+    "gn:latitude":-15.08333,
+    "gn:longitude":13.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Leba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fazenda da Leba",
+        "Leba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348026
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"96f638110460b59cbbe694fc7ad2cdb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799749,
+            "locality_id":1225829719,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1225829719,
+    "wof:lastmodified":1537584729,
+    "wof:name":"Leba",
+    "wof:parent_id":1108799749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26667,
+    -15.08333,
+    13.26667,
+    -15.08333
+],
+  "geometry": {"coordinates":[13.26667,-15.08333],"type":"Point"}
+}

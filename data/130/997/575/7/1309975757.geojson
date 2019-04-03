@@ -1,0 +1,67 @@
+{
+  "id": 1309975757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03333,-5.96667,14.03333,-5.96667",
+    "geom:latitude":-5.96667,
+    "geom:longitude":14.03333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Matombe",
+    "gn:country_code":"AO",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239605,
+    "gn:latitude":-5.96667,
+    "gn:longitude":14.03333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Matombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239605
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0a33a31f994e1d57c5d84ded6cd1e0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1309975757,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1309975757,
+    "wof:lastmodified":1536686255,
+    "wof:name":"Matombe",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03333,
+    -5.96667,
+    14.03333,
+    -5.96667
+],
+  "geometry": {"coordinates":[14.03333,-5.96667],"type":"Point"}
+}

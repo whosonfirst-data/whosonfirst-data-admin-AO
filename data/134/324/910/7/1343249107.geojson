@@ -1,0 +1,67 @@
+{
+  "id": 1343249107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30869,-10.45694,17.30869,-10.45694",
+    "geom:latitude":-10.45694,
+    "geom:longitude":17.30869,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sinhanga",
+    "gn:country_code":"AO",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7868445,
+    "gn:latitude":-10.45694,
+    "gn:longitude":17.30869,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Sinhanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7868445
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ecb363d8721aa2cceb4b9f7917f37aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799771,
+            "locality_id":1343249107,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343249107,
+    "wof:lastmodified":1537049272,
+    "wof:name":"Sinhanga",
+    "wof:parent_id":1108799771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30869,
+    -10.45694,
+    17.30869,
+    -10.45694
+],
+  "geometry": {"coordinates":[17.30869,-10.45694],"type":"Point"}
+}

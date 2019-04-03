@@ -1,0 +1,67 @@
+{
+  "id": 1326526237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0684,-14.75043,15.0684,-14.75043",
+    "geom:latitude":-14.75043,
+    "geom:longitude":15.0684,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchico",
+    "gn:country_code":"AO",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7908103,
+    "gn:latitude":-14.75043,
+    "gn:longitude":15.0684,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908103
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c02cbc59739083d2fb2e3499ce76b444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799687,
+            "locality_id":1326526237,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1326526237,
+    "wof:lastmodified":1536991939,
+    "wof:name":"Tchico",
+    "wof:parent_id":1108799687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0684,
+    -14.75043,
+    15.0684,
+    -14.75043
+],
+  "geometry": {"coordinates":[15.0684,-14.75043],"type":"Point"}
+}

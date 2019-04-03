@@ -1,0 +1,73 @@
+{
+  "id": 1293586843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45,-11.71667,14.45,-11.71667",
+    "geom:latitude":-11.71667,
+    "geom:longitude":14.45,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Catanda",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350351,
+    "gn:latitude":-11.71667,
+    "gn:longitude":14.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Catanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calanda",
+        "Kalanda",
+        "Catanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350351
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fa3824c9897cb4a51055600de0fd4de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1293586843,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293586843,
+    "wof:lastmodified":1537584775,
+    "wof:name":"Catanda",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45,
+    -11.71667,
+    14.45,
+    -11.71667
+],
+  "geometry": {"coordinates":[14.45,-11.71667],"type":"Point"}
+}

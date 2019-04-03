@@ -1,0 +1,72 @@
+{
+  "id": 1293682477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96667,-12.35,15.96667,-12.35",
+    "geom:latitude":-12.35,
+    "geom:longitude":15.96667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chimano",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349821,
+    "gn:latitude":-12.35,
+    "gn:longitude":15.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chimano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchimano",
+        "Chimano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349821
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"57c9df09468c3adf0dd4a115c0c2f938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1293682477,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1293682477,
+    "wof:lastmodified":1537584763,
+    "wof:name":"Chimano",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96667,
+    -12.35,
+    15.96667,
+    -12.35
+],
+  "geometry": {"coordinates":[15.96667,-12.35],"type":"Point"}
+}

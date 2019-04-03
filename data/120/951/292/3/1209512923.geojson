@@ -1,0 +1,66 @@
+{
+  "id": 1209512923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70589,-10.41925,14.70589,-10.41925",
+    "geom:latitude":-10.41925,
+    "geom:longitude":14.70589,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ngungo",
+    "gn:country_code":"AO",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3348410,
+    "gn:latitude":-10.41925,
+    "gn:longitude":14.70589,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Congo",
+        "Gungo",
+        "Ngungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348410
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"81003ed12aa8091bbaa329f58a3a80f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209512923
+        }
+    ],
+    "wof:id":1209512923,
+    "wof:lastmodified":1537584735,
+    "wof:name":"Ngungo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70589,
+    -10.41925,
+    14.70589,
+    -10.41925
+],
+  "geometry": {"coordinates":[14.70589,-10.41925],"type":"Point"}
+}

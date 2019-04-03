@@ -1,0 +1,72 @@
+{
+  "id": 1344239867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07423,-6.55429,15.07423,-6.55429",
+    "geom:latitude":-6.55429,
+    "geom:longitude":15.07423,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ngando Quincau",
+    "gn:country_code":"AO",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236435,
+    "gn:latitude":-6.55429,
+    "gn:longitude":15.07423,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngando Quincau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gando",
+        "Vulo Quingueque",
+        "Ngando Quincau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236435
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"103b67ee94cdcd99c5558a40ddc081e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1344239867,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1344239867,
+    "wof:lastmodified":1537584570,
+    "wof:name":"Ngando Quincau",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07423,
+    -6.55429,
+    15.07423,
+    -6.55429
+],
+  "geometry": {"coordinates":[15.07423,-6.55429],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360177041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80091,-9.84654,14.80091,-9.84654",
+    "geom:latitude":-9.84654,
+    "geom:longitude":14.80091,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Magia",
+    "gn:country_code":"AO",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356481,
+    "gn:latitude":-9.84654,
+    "gn:longitude":14.80091,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Magia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356481
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ed158ee747753079b95cf5f2e0248054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1360177041,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1360177041,
+    "wof:lastmodified":1536812476,
+    "wof:name":"Magia",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80091,
+    -9.84654,
+    14.80091,
+    -9.84654
+],
+  "geometry": {"coordinates":[14.80091,-9.84654],"type":"Point"}
+}

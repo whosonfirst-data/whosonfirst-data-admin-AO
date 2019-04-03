@@ -1,0 +1,67 @@
+{
+  "id": 1225848265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.92332,-11.53999,16.92332,-11.53999",
+    "geom:latitude":-11.53999,
+    "geom:longitude":16.92332,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchapua",
+    "gn:country_code":"AO",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903579,
+    "gn:latitude":-11.53999,
+    "gn:longitude":16.92332,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tch\u00e1pua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903579
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"10423ab2d28d934dab703d9e1b1041d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1225848265,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1225848265,
+    "wof:lastmodified":1537009305,
+    "wof:name":"Tchapua",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.92332,
+    -11.53999,
+    16.92332,
+    -11.53999
+],
+  "geometry": {"coordinates":[16.92332,-11.53999],"type":"Point"}
+}

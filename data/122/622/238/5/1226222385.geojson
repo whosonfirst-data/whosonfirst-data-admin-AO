@@ -1,0 +1,67 @@
+{
+  "id": 1226222385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48006,-9.35375,16.48006,-9.35375",
+    "geom:latitude":-9.35375,
+    "geom:longitude":16.48006,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cassembele",
+    "gn:country_code":"AO",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592120,
+    "gn:latitude":-9.35375,
+    "gn:longitude":16.48006,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Cassembele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592120
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7cf3003246406363b3ee838edc407964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1226222385,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226222385,
+    "wof:lastmodified":1536967088,
+    "wof:name":"Cassembele",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48006,
+    -9.35375,
+    16.48006,
+    -9.35375
+],
+  "geometry": {"coordinates":[16.48006,-9.35375],"type":"Point"}
+}

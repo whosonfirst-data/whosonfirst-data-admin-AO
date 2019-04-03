@@ -1,0 +1,67 @@
+{
+  "id": 1343245069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74152,-8.16816,14.74152,-8.16816",
+    "geom:latitude":-8.16816,
+    "geom:longitude":14.74152,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quixima-Culucumba",
+    "gn:country_code":"AO",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7696834,
+    "gn:latitude":-8.16816,
+    "gn:longitude":14.74152,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Quixima-Culucumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696834
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c403ef0aef2c7f2ce76d35fec5136d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799843,
+            "locality_id":1343245069,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343245069,
+    "wof:lastmodified":1537054828,
+    "wof:name":"Quixima-Culucumba",
+    "wof:parent_id":1108799843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74152,
+    -8.16816,
+    14.74152,
+    -8.16816
+],
+  "geometry": {"coordinates":[14.74152,-8.16816],"type":"Point"}
+}

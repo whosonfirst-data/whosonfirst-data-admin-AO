@@ -1,0 +1,67 @@
+{
+  "id": 1193270633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62266,-10.59807,15.62266,-10.59807",
+    "geom:latitude":-10.59807,
+    "geom:longitude":15.62266,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tembuenda",
+    "gn:country_code":"AO",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7899569,
+    "gn:latitude":-10.59807,
+    "gn:longitude":15.62266,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tembuenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7899569
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6f8d4e3d9eeabf55697cd49a5e87b21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1193270633,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1193270633,
+    "wof:lastmodified":1536371074,
+    "wof:name":"Tembuenda",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62266,
+    -10.59807,
+    15.62266,
+    -10.59807
+],
+  "geometry": {"coordinates":[15.62266,-10.59807],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343424559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68994,-8.6089,17.68994,-8.6089",
+    "geom:latitude":-8.6089,
+    "geom:longitude":17.68994,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bote",
+    "gn:country_code":"AO",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243492,
+    "gn:latitude":-8.6089,
+    "gn:longitude":17.68994,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bote",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanzala",
+        "Cabandangala",
+        "Bote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243492
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7f5d27d20b309a562a7078e1395c0581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1343424559,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1343424559,
+    "wof:lastmodified":1537584677,
+    "wof:name":"Bote",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68994,
+    -8.6089,
+    17.68994,
+    -8.6089
+],
+  "geometry": {"coordinates":[17.68994,-8.6089],"type":"Point"}
+}

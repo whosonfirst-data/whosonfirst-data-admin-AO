@@ -1,0 +1,72 @@
+{
+  "id": 1259945423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53333,-10.08333,13.53333,-10.08333",
+    "geom:latitude":-10.08333,
+    "geom:longitude":13.53333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dala Chioco",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348961,
+    "gn:latitude":-10.08333,
+    "gn:longitude":13.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dala Chioco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dala Chiogo",
+        "Dala Chioco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348961
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"692e24f5582445c9a389a8e1ab33585b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1259945423,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1259945423,
+    "wof:lastmodified":1537584745,
+    "wof:name":"Dala Chioco",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53333,
+    -10.08333,
+    13.53333,
+    -10.08333
+],
+  "geometry": {"coordinates":[13.53333,-10.08333],"type":"Point"}
+}

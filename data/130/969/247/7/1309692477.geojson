@@ -1,0 +1,72 @@
+{
+  "id": 1309692477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46667,-9.23333,15.46667,-9.23333",
+    "geom:latitude":-9.23333,
+    "geom:longitude":15.46667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Conze",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241709,
+    "gn:latitude":-9.23333,
+    "gn:longitude":15.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Conze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quiangombe",
+        "Conze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241709
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"261cec5a0bd6a841c67157b256c93afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1309692477,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1309692477,
+    "wof:lastmodified":1537584652,
+    "wof:name":"Conze",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46667,
+    -9.23333,
+    15.46667,
+    -9.23333
+],
+  "geometry": {"coordinates":[15.46667,-9.23333],"type":"Point"}
+}

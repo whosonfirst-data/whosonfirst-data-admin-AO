@@ -1,0 +1,67 @@
+{
+  "id": 1226574775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65431,-8.98693,15.65431,-8.98693",
+    "geom:latitude":-8.98693,
+    "geom:longitude":15.65431,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quibezo",
+    "gn:country_code":"AO",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7759253,
+    "gn:latitude":-8.98693,
+    "gn:longitude":15.65431,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quibezo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759253
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4ffb4f26795721cc7e08247ad5d21642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1226574775,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1226574775,
+    "wof:lastmodified":1536957453,
+    "wof:name":"Quibezo",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65431,
+    -8.98693,
+    15.65431,
+    -8.98693
+],
+  "geometry": {"coordinates":[15.65431,-8.98693],"type":"Point"}
+}

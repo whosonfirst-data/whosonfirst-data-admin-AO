@@ -1,0 +1,67 @@
+{
+  "id": 1310665567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.29065,-9.0553,13.29065,-9.0553",
+    "geom:latitude":-9.0553,
+    "geom:longitude":13.29065,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bita",
+    "gn:country_code":"AO",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905349,
+    "gn:latitude":-9.0553,
+    "gn:longitude":13.29065,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Bita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667669,
+        1108799895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905349
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4cfa3cbaf8a0dd0583fcf31194471d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799895,
+            "locality_id":1310665567,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":1310665567,
+    "wof:lastmodified":1536686100,
+    "wof:name":"Bita",
+    "wof:parent_id":1108799895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.29065,
+    -9.0553,
+    13.29065,
+    -9.0553
+],
+  "geometry": {"coordinates":[13.29065,-9.0553],"type":"Point"}
+}

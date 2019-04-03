@@ -1,0 +1,67 @@
+{
+  "id": 1360202495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,-12.01667,14.15,-12.01667",
+    "geom:latitude":-12.01667,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pinha",
+    "gn:country_code":"AO",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346707,
+    "gn:latitude":-12.01667,
+    "gn:longitude":14.15,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Pinha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346707
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9fe36c120ed87af2c77439fcfa064605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1360202495,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1360202495,
+    "wof:lastmodified":1536776880,
+    "wof:name":"Pinha",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    -12.01667,
+    14.15,
+    -12.01667
+],
+  "geometry": {"coordinates":[14.15,-12.01667],"type":"Point"}
+}

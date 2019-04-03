@@ -1,0 +1,67 @@
+{
+  "id": 1242854677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35759,-10.42467,17.35759,-10.42467",
+    "geom:latitude":-10.42467,
+    "geom:longitude":17.35759,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mocundi",
+    "gn:country_code":"AO",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7868448,
+    "gn:latitude":-10.42467,
+    "gn:longitude":17.35759,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Mocundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7868448
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4876ca628022bea02b0827e540cdc473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799771,
+            "locality_id":1242854677,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1242854677,
+    "wof:lastmodified":1536664606,
+    "wof:name":"Mocundi",
+    "wof:parent_id":1108799771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35759,
+    -10.42467,
+    17.35759,
+    -10.42467
+],
+  "geometry": {"coordinates":[17.35759,-10.42467],"type":"Point"}
+}

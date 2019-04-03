@@ -1,0 +1,67 @@
+{
+  "id": 1309725149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17838,-11.54379,17.17838,-11.54379",
+    "geom:latitude":-11.54379,
+    "geom:longitude":17.17838,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchipomo",
+    "gn:country_code":"AO",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901573,
+    "gn:latitude":-11.54379,
+    "gn:longitude":17.17838,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchipomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901573
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"650cb4219b0770ec15846602e3132f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1309725149,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1309725149,
+    "wof:lastmodified":1537045394,
+    "wof:name":"Tchipomo",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17837999999999,
+    -11.54379,
+    17.17837999999999,
+    -11.54379
+],
+  "geometry": {"coordinates":[17.17837999999999,-11.54379],"type":"Point"}
+}

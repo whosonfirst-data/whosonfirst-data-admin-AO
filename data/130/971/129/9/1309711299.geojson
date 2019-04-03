@@ -1,0 +1,67 @@
+{
+  "id": 1309711299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69808,-8.43286,15.69808,-8.43286",
+    "geom:latitude":-8.43286,
+    "geom:longitude":15.69808,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lombo",
+    "gn:country_code":"AO",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7737385,
+    "gn:latitude":-8.43286,
+    "gn:longitude":15.69808,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Lombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7737385
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"70ba5250226fa236adc5a51e18527a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1309711299,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1309711299,
+    "wof:lastmodified":1537064520,
+    "wof:name":"Lombo",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69808,
+    -8.43286,
+    15.69808,
+    -8.43286
+],
+  "geometry": {"coordinates":[15.69808,-8.43286],"type":"Point"}
+}

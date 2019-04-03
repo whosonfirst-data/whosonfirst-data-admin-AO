@@ -1,0 +1,67 @@
+{
+  "id": 1343732489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8053,-6.63582,15.8053,-6.63582",
+    "geom:latitude":-6.63582,
+    "geom:longitude":15.8053,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quiluvalo",
+    "gn:country_code":"AO",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754802,
+    "gn:latitude":-6.63582,
+    "gn:longitude":15.8053,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quiluvalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754802
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ce817d55c74a8d8e1dd5490088c40aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799715,
+            "locality_id":1343732489,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343732489,
+    "wof:lastmodified":1536850196,
+    "wof:name":"Quiluvalo",
+    "wof:parent_id":1108799715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8053,
+    -6.63582,
+    15.8053,
+    -6.63582
+],
+  "geometry": {"coordinates":[15.8053,-6.63582],"type":"Point"}
+}

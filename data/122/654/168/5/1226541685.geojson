@@ -1,0 +1,72 @@
+{
+  "id": 1226541685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.55,-4.76667,12.55,-4.76667",
+    "geom:latitude":-4.76667,
+    "geom:longitude":12.55,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Buco Zau",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243458,
+    "gn:latitude":-4.76667,
+    "gn:longitude":12.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Buco Zau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bucco-Lau",
+        "Buco Zau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667683,
+        1108799803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243458
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4889110ea34cd5d47ded89e9df4baa05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799803,
+            "locality_id":1226541685,
+            "region_id":85667683
+        }
+    ],
+    "wof:id":1226541685,
+    "wof:lastmodified":1537584676,
+    "wof:name":"Buco Zau",
+    "wof:parent_id":1108799803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.55,
+    -4.76667,
+    12.55,
+    -4.76667
+],
+  "geometry": {"coordinates":[12.55,-4.76667],"type":"Point"}
+}

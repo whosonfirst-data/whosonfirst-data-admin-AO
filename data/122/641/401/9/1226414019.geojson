@@ -1,0 +1,67 @@
+{
+  "id": 1226414019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.398,-9.54369,18.398,-9.54369",
+    "geom:latitude":-9.54369,
+    "geom:longitude":18.398,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Quitumba Calunga",
+    "gn:country_code":"AO",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786806,
+    "gn:latitude":-9.54369,
+    "gn:longitude":18.398,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Quitumba Calunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786806
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f47dfd26286d064f685c31f73c1b402b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799965,
+            "locality_id":1226414019,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1226414019,
+    "wof:lastmodified":1536691470,
+    "wof:name":"Quitumba Calunga",
+    "wof:parent_id":1108799965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.398,
+    -9.54369,
+    18.398,
+    -9.54369
+],
+  "geometry": {"coordinates":[18.398,-9.54369],"type":"Point"}
+}

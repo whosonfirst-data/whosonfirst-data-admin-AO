@@ -1,0 +1,70 @@
+{
+  "id": 1343533753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.64812,-6.02943,12.64812,-6.02943",
+    "geom:latitude":-6.02943,
+    "geom:longitude":12.64812,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kissanga",
+    "gn:country_code":"AO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11608502,
+    "gn:latitude":-6.02943,
+    "gn:longitude":12.64812,
+    "gn:modification_date":"2017-07-07",
+    "gn:name":"Kissanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11608502
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9fed92d3816cdfca30ad6d0fd964ee6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799751,
+            "locality_id":1343533753,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1343533753,
+    "wof:lastmodified":1537584812,
+    "wof:name":"Kissanga",
+    "wof:parent_id":1108799751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.64812,
+    -6.02943,
+    12.64812,
+    -6.02943
+],
+  "geometry": {"coordinates":[12.64812,-6.02943],"type":"Point"}
+}

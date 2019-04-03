@@ -1,0 +1,67 @@
+{
+  "id": 1260386437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03675,-10.48482,16.03675,-10.48482",
+    "geom:latitude":-10.48482,
+    "geom:longitude":16.03675,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cassembo Correia",
+    "gn:country_code":"AO",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866837,
+    "gn:latitude":-10.48482,
+    "gn:longitude":16.03675,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cassembo Correia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866837
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b0a12034d287021717179324b2938129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1260386437,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1260386437,
+    "wof:lastmodified":1537068093,
+    "wof:name":"Cassembo Correia",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03675,
+    -10.48482,
+    16.03675,
+    -10.48482
+],
+  "geometry": {"coordinates":[16.03675,-10.48482],"type":"Point"}
+}

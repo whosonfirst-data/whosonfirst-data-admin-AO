@@ -1,0 +1,67 @@
+{
+  "id": 1360193573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.45,-11.95,17.45,-11.95",
+    "geom:latitude":-11.95,
+    "geom:longitude":17.45,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sohicengo",
+    "gn:country_code":"AO",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346056,
+    "gn:latitude":-11.95,
+    "gn:longitude":17.45,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Sohicengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346056
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8c643fa0e7878e9feecdba1ffbde483c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799709,
+            "locality_id":1360193573,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1360193573,
+    "wof:lastmodified":1536789482,
+    "wof:name":"Sohicengo",
+    "wof:parent_id":1108799709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.45,
+    -11.95,
+    17.45,
+    -11.95
+],
+  "geometry": {"coordinates":[17.45,-11.95],"type":"Point"}
+}

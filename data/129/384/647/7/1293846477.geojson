@@ -1,0 +1,67 @@
+{
+  "id": 1293846477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77358,-9.77733,13.77358,-9.77733",
+    "geom:latitude":-9.77733,
+    "geom:longitude":13.77358,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Casambela",
+    "gn:country_code":"AO",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7782890,
+    "gn:latitude":-9.77733,
+    "gn:longitude":13.77358,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Casambela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7782890
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"22b5bc60fe58e32a73838818786cda82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1293846477,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1293846477,
+    "wof:lastmodified":1536767223,
+    "wof:name":"Casambela",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77358,
+    -9.77733,
+    13.77358,
+    -9.77733
+],
+  "geometry": {"coordinates":[13.77358,-9.77733],"type":"Point"}
+}

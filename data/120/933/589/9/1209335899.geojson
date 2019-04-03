@@ -1,0 +1,66 @@
+{
+  "id": 1209335899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03333,-16.63333,16.03333,-16.63333",
+    "geom:latitude":-16.63333,
+    "geom:longitude":16.03333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nehone",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346978,
+    "gn:latitude":-16.63333,
+    "gn:longitude":16.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nehone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nehome",
+        "Nehone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346978
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"92882011c7a828eba78537f0d7bf69f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209335899
+        }
+    ],
+    "wof:id":1209335899,
+    "wof:lastmodified":1537584713,
+    "wof:name":"Nehone",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03333,
+    -16.63332999999999,
+    16.03333,
+    -16.63332999999999
+],
+  "geometry": {"coordinates":[16.03333,-16.63332999999999],"type":"Point"}
+}

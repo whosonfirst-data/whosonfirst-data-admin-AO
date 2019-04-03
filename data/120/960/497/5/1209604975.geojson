@@ -1,0 +1,61 @@
+{
+  "id": 1209604975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73333,-13.91667,14.73333,-13.91667",
+    "geom:latitude":-13.91667,
+    "geom:longitude":14.73333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Calundango",
+    "gn:country_code":"AO",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351055,
+    "gn:latitude":-13.91667,
+    "gn:longitude":14.73333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Calundango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351055
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"66f624095f0796fb991fcd2d081e5856",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209604975
+        }
+    ],
+    "wof:id":1209604975,
+    "wof:lastmodified":1536282042,
+    "wof:name":"Calundango",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73333,
+    -13.916670000000002,
+    14.73333,
+    -13.916670000000002
+],
+  "geometry": {"coordinates":[14.73333,-13.91667],"type":"Point"}
+}

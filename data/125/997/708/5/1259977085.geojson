@@ -1,0 +1,67 @@
+{
+  "id": 1259977085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2524,-11.49908,15.2524,-11.49908",
+    "geom:latitude":-11.49908,
+    "geom:longitude":15.2524,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quiondo Gungo",
+    "gn:country_code":"AO",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7860934,
+    "gn:latitude":-11.49908,
+    "gn:longitude":15.2524,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quiondo Gungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860934
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"be229975ba17ac7e30a2adc34a39b44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1259977085,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259977085,
+    "wof:lastmodified":1536643741,
+    "wof:name":"Quiondo Gungo",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2524,
+    -11.49908,
+    15.2524,
+    -11.49908
+],
+  "geometry": {"coordinates":[15.2524,-11.49908],"type":"Point"}
+}

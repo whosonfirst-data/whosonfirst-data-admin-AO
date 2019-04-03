@@ -1,0 +1,67 @@
+{
+  "id": 1243451841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37366,-9.9964,15.37366,-9.9964",
+    "geom:latitude":-9.9964,
+    "geom:longitude":15.37366,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quimbumbi",
+    "gn:country_code":"AO",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7784937,
+    "gn:latitude":-9.9964,
+    "gn:longitude":15.37366,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Quimbumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7784937
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fde77d70ccc913c358adad5fe7b8bda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1243451841,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1243451841,
+    "wof:lastmodified":1536797897,
+    "wof:name":"Quimbumbi",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37366,
+    -9.9964,
+    15.37366,
+    -9.9964
+],
+  "geometry": {"coordinates":[15.37366,-9.9964],"type":"Point"}
+}

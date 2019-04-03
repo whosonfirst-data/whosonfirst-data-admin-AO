@@ -1,0 +1,67 @@
+{
+  "id": 1343980103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05,-11.41667,15.05,-11.41667",
+    "geom:latitude":-11.41667,
+    "geom:longitude":15.05,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dumba",
+    "gn:country_code":"AO",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348851,
+    "gn:latitude":-11.41667,
+    "gn:longitude":15.05,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Dumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348851
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9860604f2acb0da13a0d78240b6dda5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1343980103,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343980103,
+    "wof:lastmodified":1536990877,
+    "wof:name":"Dumba",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05,
+    -11.41667,
+    15.05,
+    -11.41667
+],
+  "geometry": {"coordinates":[15.05,-11.41667],"type":"Point"}
+}

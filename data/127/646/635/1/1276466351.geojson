@@ -1,0 +1,67 @@
+{
+  "id": 1276466351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90687,-9.79716,14.90687,-9.79716",
+    "geom:latitude":-9.79716,
+    "geom:longitude":14.90687,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quenza",
+    "gn:country_code":"AO",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2238783,
+    "gn:latitude":-9.79716,
+    "gn:longitude":14.90687,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Quenza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238783
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dcc913b55725550ba59deb91b999ed4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1276466351,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276466351,
+    "wof:lastmodified":1537094450,
+    "wof:name":"Quenza",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90687,
+    -9.79716,
+    14.90687,
+    -9.79716
+],
+  "geometry": {"coordinates":[14.90687,-9.79716],"type":"Point"}
+}

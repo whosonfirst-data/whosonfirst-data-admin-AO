@@ -1,0 +1,67 @@
+{
+  "id": 1225966249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47121,-11.23255,15.47121,-11.23255",
+    "geom:latitude":-11.23255,
+    "geom:longitude":15.47121,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vila Flor",
+    "gn:country_code":"AO",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7860701,
+    "gn:latitude":-11.23255,
+    "gn:longitude":15.47121,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Vila Flor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860701
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"03a81021e4e8cf24003f3c97b3a19748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1225966249,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1225966249,
+    "wof:lastmodified":1536838742,
+    "wof:name":"Vila Flor",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47121,
+    -11.23255,
+    15.47121,
+    -11.23255
+],
+  "geometry": {"coordinates":[15.47121,-11.23255],"type":"Point"}
+}

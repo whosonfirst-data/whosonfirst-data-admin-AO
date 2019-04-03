@@ -1,0 +1,67 @@
+{
+  "id": 1310027763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74409,-10.92206,14.74409,-10.92206",
+    "geom:latitude":-10.92206,
+    "geom:longitude":14.74409,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Doze",
+    "gn:country_code":"AO",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865697,
+    "gn:latitude":-10.92206,
+    "gn:longitude":14.74409,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Doze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865697
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3505292794b538d928f2a7c57faaa6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799659,
+            "locality_id":1310027763,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310027763,
+    "wof:lastmodified":1536608483,
+    "wof:name":"Doze",
+    "wof:parent_id":1108799659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74409,
+    -10.92206,
+    14.74409,
+    -10.92206
+],
+  "geometry": {"coordinates":[14.74409,-10.92206],"type":"Point"}
+}

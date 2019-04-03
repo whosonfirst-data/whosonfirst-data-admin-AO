@@ -1,0 +1,67 @@
+{
+  "id": 1276330089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28,-13.03056,15.28,-13.03056",
+    "geom:latitude":-13.03056,
+    "geom:longitude":15.28,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Aienja",
+    "gn:country_code":"AO",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3371467,
+    "gn:latitude":-13.03056,
+    "gn:longitude":15.28,
+    "gn:modification_date":"1998-03-31",
+    "gn:name":"Aienja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371467
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4e53169a5b86611cc62bfa0e33eb8f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799831,
+            "locality_id":1276330089,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276330089,
+    "wof:lastmodified":1536783406,
+    "wof:name":"Aienja",
+    "wof:parent_id":1108799831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28,
+    -13.03056,
+    15.28,
+    -13.03056
+],
+  "geometry": {"coordinates":[15.28,-13.03056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260178907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58528,-13.07306,15.58528,-13.07306",
+    "geom:latitude":-13.07306,
+    "geom:longitude":15.58528,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sa de Bandeira",
+    "gn:country_code":"AO",
+    "gn:dem":1684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371559,
+    "gn:latitude":-13.07306,
+    "gn:longitude":15.58528,
+    "gn:modification_date":"1998-04-02",
+    "gn:name":"S\u00e1 de Bandeira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371559
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5569a9c327a70280982ad0f192e21bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":1260178907,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1260178907,
+    "wof:lastmodified":1536853240,
+    "wof:name":"Sa de Bandeira",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58528,
+    -13.07306,
+    15.58528,
+    -13.07306
+],
+  "geometry": {"coordinates":[15.58528,-13.07306],"type":"Point"}
+}

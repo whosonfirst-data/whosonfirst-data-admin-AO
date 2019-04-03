@@ -1,0 +1,72 @@
+{
+  "id": 1276426637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0,-12.71667,15.0,-12.71667",
+    "geom:latitude":-12.71667,
+    "geom:longitude":15.0,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chimandje",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349823,
+    "gn:latitude":-12.71667,
+    "gn:longitude":15.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chimandje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Chemuange",
+        "Chimandje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349823
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d9e64a53433111e511d8f569cfdd808b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799845,
+            "locality_id":1276426637,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276426637,
+    "wof:lastmodified":1537584763,
+    "wof:name":"Chimandje",
+    "wof:parent_id":1108799845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0,
+    -12.71667,
+    15.0,
+    -12.71667
+],
+  "geometry": {"coordinates":[15.0,-12.71667],"type":"Point"}
+}

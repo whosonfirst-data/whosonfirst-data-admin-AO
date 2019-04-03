@@ -1,0 +1,67 @@
+{
+  "id": 1293163413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64833,-8.59194,13.64833,-8.59194",
+    "geom:latitude":-8.59194,
+    "geom:longitude":13.64833,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Quixiquela",
+    "gn:country_code":"AO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591817,
+    "gn:latitude":-8.59194,
+    "gn:longitude":13.64833,
+    "gn:modification_date":"1998-05-29",
+    "gn:name":"Quixiquela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591817
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0c77c9d6954a4d564219cb0ff095ce9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799875,
+            "locality_id":1293163413,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1293163413,
+    "wof:lastmodified":1536757580,
+    "wof:name":"Quixiquela",
+    "wof:parent_id":1108799875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64833,
+    -8.59194,
+    13.64833,
+    -8.59194
+],
+  "geometry": {"coordinates":[13.64833,-8.59194],"type":"Point"}
+}

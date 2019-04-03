@@ -1,0 +1,72 @@
+{
+  "id": 1242568461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0,-11.85,16.0,-11.85",
+    "geom:latitude":-11.85,
+    "geom:longitude":16.0,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Calungo",
+    "gn:country_code":"AO",
+    "gn:dem":1670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3350187,
+    "gn:latitude":-11.85,
+    "gn:longitude":16.0,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Calungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Caunge",
+        "Cauunge",
+        "Calungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350187
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a0294d0cca3034fca6838e719c13af09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799697,
+            "locality_id":1242568461,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1242568461,
+    "wof:lastmodified":1537584772,
+    "wof:name":"Calungo",
+    "wof:parent_id":1108799697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0,
+    -11.85,
+    16.0,
+    -11.85
+],
+  "geometry": {"coordinates":[16.0,-11.85],"type":"Point"}
+}

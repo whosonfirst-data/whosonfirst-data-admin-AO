@@ -1,0 +1,67 @@
+{
+  "id": 1243469147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82389,-12.60306,13.82389,-12.60306",
+    "geom:latitude":-12.60306,
+    "geom:longitude":13.82389,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Issingue",
+    "gn:country_code":"AO",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372423,
+    "gn:latitude":-12.60306,
+    "gn:longitude":13.82389,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Issingue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372423
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ab1321e6ba153a9965f501af4c2e9992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799959,
+            "locality_id":1243469147,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1243469147,
+    "wof:lastmodified":1536773379,
+    "wof:name":"Issingue",
+    "wof:parent_id":1108799959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82389,
+    -12.60306,
+    13.82389,
+    -12.60306
+],
+  "geometry": {"coordinates":[13.82389,-12.60306],"type":"Point"}
+}

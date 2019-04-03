@@ -1,0 +1,67 @@
+{
+  "id": 1209712409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86667,-16.4,13.86667,-16.4",
+    "geom:latitude":-16.4,
+    "geom:longitude":13.86667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bango",
+    "gn:country_code":"AO",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351718,
+    "gn:latitude":-16.4,
+    "gn:longitude":13.86667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Bango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351718
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2bdfead05c06e60b99cffbe6c1da84a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799783,
+            "locality_id":1209712409,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1209712409,
+    "wof:lastmodified":1536390102,
+    "wof:name":"Bango",
+    "wof:parent_id":1108799783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86667,
+    -16.4,
+    13.86667,
+    -16.4
+],
+  "geometry": {"coordinates":[13.86667,-16.4],"type":"Point"}
+}

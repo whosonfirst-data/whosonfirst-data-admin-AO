@@ -1,0 +1,67 @@
+{
+  "id": 1293178187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67585,-9.08267,15.67585,-9.08267",
+    "geom:latitude":-9.08267,
+    "geom:longitude":15.67585,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Imbondeiro",
+    "gn:country_code":"AO",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769113,
+    "gn:latitude":-9.08267,
+    "gn:longitude":15.67585,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Imbondeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769113
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a009ff4c61ef37d1b11590291e549bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1293178187,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293178187,
+    "wof:lastmodified":1536736129,
+    "wof:name":"Imbondeiro",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67585,
+    -9.08267,
+    15.67585,
+    -9.08267
+],
+  "geometry": {"coordinates":[15.67585,-9.08267],"type":"Point"}
+}

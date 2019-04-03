@@ -1,0 +1,67 @@
+{
+  "id": 1293886877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42505,-11.7229,17.42505,-11.7229",
+    "geom:latitude":-11.7229,
+    "geom:longitude":17.42505,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Candjuanga",
+    "gn:country_code":"AO",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901732,
+    "gn:latitude":-11.7229,
+    "gn:longitude":17.42505,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Candjuanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901732
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"56590234cfe423ea1e432db129aa78fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1293886877,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1293886877,
+    "wof:lastmodified":1536708747,
+    "wof:name":"Candjuanga",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42505,
+    -11.7229,
+    17.42505,
+    -11.7229
+],
+  "geometry": {"coordinates":[17.42505,-11.7229],"type":"Point"}
+}

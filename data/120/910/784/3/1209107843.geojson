@@ -1,0 +1,68 @@
+{
+  "id": 1209107843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18333,-4.95,12.18333,-4.95",
+    "geom:latitude":-4.95,
+    "geom:longitude":12.18333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tchissanga",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236828,
+    "gn:latitude":-4.95,
+    "gn:longitude":12.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchissanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bongo Venzo",
+        "Bongo Nenzo",
+        "Bengo Venzo",
+        "Tchissanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236828
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d1dd3a34e694c515c37061a9dfd24be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209107843
+        }
+    ],
+    "wof:id":1209107843,
+    "wof:lastmodified":1537584574,
+    "wof:name":"Tchissanga",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18333,
+    -4.95,
+    12.18333,
+    -4.95
+],
+  "geometry": {"coordinates":[12.18333,-4.95],"type":"Point"}
+}

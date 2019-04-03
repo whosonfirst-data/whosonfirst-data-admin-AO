@@ -1,0 +1,67 @@
+{
+  "id": 1343254425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8954,-10.99057,13.8954,-10.99057",
+    "geom:latitude":-10.99057,
+    "geom:longitude":13.8954,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chulo",
+    "gn:country_code":"AO",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865075,
+    "gn:latitude":-10.99057,
+    "gn:longitude":13.8954,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Chulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865075
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8f58619289864c83af06f46c013a930c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799795,
+            "locality_id":1343254425,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343254425,
+    "wof:lastmodified":1537041880,
+    "wof:name":"Chulo",
+    "wof:parent_id":1108799795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8954,
+    -10.99057,
+    13.8954,
+    -10.99057
+],
+  "geometry": {"coordinates":[13.8954,-10.99057],"type":"Point"}
+}

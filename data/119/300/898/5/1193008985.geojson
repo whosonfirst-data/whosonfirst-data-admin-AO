@@ -1,0 +1,67 @@
+{
+  "id": 1193008985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23643,-12.02694,16.23643,-12.02694",
+    "geom:latitude":-12.02694,
+    "geom:longitude":16.23643,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Licundoca",
+    "gn:country_code":"AO",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7904510,
+    "gn:latitude":-12.02694,
+    "gn:longitude":16.23643,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Licundoca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904510
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"320e32fb28cc7ea626d3937345e04d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1193008985,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1193008985,
+    "wof:lastmodified":1536363941,
+    "wof:name":"Licundoca",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23643,
+    -12.02694,
+    16.23643,
+    -12.02694
+],
+  "geometry": {"coordinates":[16.23643,-12.02694],"type":"Point"}
+}

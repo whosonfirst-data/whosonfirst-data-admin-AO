@@ -1,0 +1,67 @@
+{
+  "id": 1226356253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.66212,-12.21863,13.66212,-12.21863",
+    "geom:latitude":-12.21863,
+    "geom:longitude":13.66212,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Praia da Hanha",
+    "gn:country_code":"AO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8634612,
+    "gn:latitude":-12.21863,
+    "gn:longitude":13.66212,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Praia da Hanha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8634612
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bbf2deb73837090f1123d977eedeaacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1226356253,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1226356253,
+    "wof:lastmodified":1536774923,
+    "wof:name":"Praia da Hanha",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.66212,
+    -12.21863,
+    13.66212,
+    -12.21863
+],
+  "geometry": {"coordinates":[13.66212,-12.21863],"type":"Point"}
+}

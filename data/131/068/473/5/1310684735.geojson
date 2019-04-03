@@ -1,0 +1,67 @@
+{
+  "id": 1310684735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22182,-10.705,22.22182,-10.705",
+    "geom:latitude":-10.705,
+    "geom:longitude":22.22182,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Compao",
+    "gn:country_code":"AO",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7863795,
+    "gn:latitude":-10.705,
+    "gn:longitude":22.22182,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Comp\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863795
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"66dfe2d49b458f807d7a4dbfb885e4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1310684735,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1310684735,
+    "wof:lastmodified":1536658455,
+    "wof:name":"Compao",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22182,
+    -10.705,
+    22.22182,
+    -10.705
+],
+  "geometry": {"coordinates":[22.22182,-10.705],"type":"Point"}
+}

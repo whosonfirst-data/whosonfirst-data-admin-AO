@@ -1,0 +1,67 @@
+{
+  "id": 1226739639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92159,-14.8204,14.92159,-14.8204",
+    "geom:latitude":-14.8204,
+    "geom:longitude":14.92159,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchicunhavela",
+    "gn:country_code":"AO",
+    "gn:dem":1247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7907769,
+    "gn:latitude":-14.8204,
+    "gn:longitude":14.92159,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchicunhavela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7907769
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6362dfa32ed5b29becf64ffabf7fa8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799687,
+            "locality_id":1226739639,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1226739639,
+    "wof:lastmodified":1536724681,
+    "wof:name":"Tchicunhavela",
+    "wof:parent_id":1108799687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92159,
+    -14.8204,
+    14.92159,
+    -14.8204
+],
+  "geometry": {"coordinates":[14.92159,-14.8204],"type":"Point"}
+}

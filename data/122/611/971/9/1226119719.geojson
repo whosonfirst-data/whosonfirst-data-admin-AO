@@ -1,0 +1,67 @@
+{
+  "id": 1226119719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98333,-9.23333,15.98333,-9.23333",
+    "geom:latitude":-9.23333,
+    "geom:longitude":15.98333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bungulo",
+    "gn:country_code":"AO",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243350,
+    "gn:latitude":-9.23333,
+    "gn:longitude":15.98333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Bungulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243350
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"379f72be5eef8d1cbd7159c7c7cbebcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1226119719,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226119719,
+    "wof:lastmodified":1536616106,
+    "wof:name":"Bungulo",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98333,
+    -9.23333,
+    15.98333,
+    -9.23333
+],
+  "geometry": {"coordinates":[15.98333,-9.23333],"type":"Point"}
+}

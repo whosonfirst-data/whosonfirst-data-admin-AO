@@ -1,0 +1,67 @@
+{
+  "id": 1293382587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42885,-10.82486,14.42885,-10.82486",
+    "geom:latitude":-10.82486,
+    "geom:longitude":14.42885,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Capango",
+    "gn:country_code":"AO",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888931,
+    "gn:latitude":-10.82486,
+    "gn:longitude":14.42885,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Capango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888931
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"79d1698779c384f0e000d28e952bd069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799827,
+            "locality_id":1293382587,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293382587,
+    "wof:lastmodified":1536939003,
+    "wof:name":"Capango",
+    "wof:parent_id":1108799827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42885,
+    -10.82486,
+    14.42885,
+    -10.82486
+],
+  "geometry": {"coordinates":[14.42885,-10.82486],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326922849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36667,-11.6,14.36667,-11.6",
+    "geom:latitude":-11.6,
+    "geom:longitude":14.36667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Singualele",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346071,
+    "gn:latitude":-11.6,
+    "gn:longitude":14.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Singualele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimualele",
+        "Singualele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346071
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d713ee9a1055189a9898d0d8e22b1556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1326922849,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1326922849,
+    "wof:lastmodified":1537584694,
+    "wof:name":"Singualele",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36667,
+    -11.6,
+    14.36667,
+    -11.6
+],
+  "geometry": {"coordinates":[14.36667,-11.6],"type":"Point"}
+}

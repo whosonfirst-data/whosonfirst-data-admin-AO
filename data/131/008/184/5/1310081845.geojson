@@ -1,0 +1,67 @@
+{
+  "id": 1310081845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58019,-9.45997,18.58019,-9.45997",
+    "geom:latitude":-9.45997,
+    "geom:longitude":18.58019,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muamussongo",
+    "gn:country_code":"AO",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787824,
+    "gn:latitude":-9.45997,
+    "gn:longitude":18.58019,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Muamussongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787824
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dd56976c261456f3a202bb2a84554a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799965,
+            "locality_id":1310081845,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1310081845,
+    "wof:lastmodified":1537029419,
+    "wof:name":"Muamussongo",
+    "wof:parent_id":1108799965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58019,
+    -9.45997,
+    18.58019,
+    -9.45997
+],
+  "geometry": {"coordinates":[18.58019,-9.45997],"type":"Point"}
+}

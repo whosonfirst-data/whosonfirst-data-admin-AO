@@ -1,0 +1,61 @@
+{
+  "id": 1209079297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95,-6.46667,15.95,-6.46667",
+    "geom:latitude":-6.46667,
+    "geom:longitude":15.95,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Caindo",
+    "gn:country_code":"AO",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243056,
+    "gn:latitude":-6.46667,
+    "gn:longitude":15.95,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Caindo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243056
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4c4305fee6c21f737f2e251d8d7ca748",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209079297
+        }
+    ],
+    "wof:id":1209079297,
+    "wof:lastmodified":1536298391,
+    "wof:name":"Caindo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95,
+    -6.46667,
+    15.95,
+    -6.46667
+],
+  "geometry": {"coordinates":[15.95,-6.46667],"type":"Point"}
+}

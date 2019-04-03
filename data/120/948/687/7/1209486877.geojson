@@ -1,0 +1,61 @@
+{
+  "id": 1209486877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91128,-9.44001,17.91128,-9.44001",
+    "geom:latitude":-9.44001,
+    "geom:longitude":17.91128,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Caquemba",
+    "gn:country_code":"AO",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785898,
+    "gn:latitude":-9.44001,
+    "gn:longitude":17.91128,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Caquemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785898
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"33d7741c293200f3762ba37146f5a848",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209486877
+        }
+    ],
+    "wof:id":1209486877,
+    "wof:lastmodified":1536285608,
+    "wof:name":"Caquemba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.911279999999994,
+    -9.44001,
+    17.911279999999994,
+    -9.44001
+],
+  "geometry": {"coordinates":[17.91127999999999,-9.44001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293276641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44912,-14.91634,14.44912,-14.91634",
+    "geom:latitude":-14.91634,
+    "geom:longitude":14.44912,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3346496.0",
+    "gn:asciiname":"Dondo",
+    "gn:country_code":"AO",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348882,
+    "gn:latitude":-14.91634,
+    "gn:longitude":14.44912,
+    "gn:modification_date":"2014-08-16",
+    "gn:name":"Dondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348882
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8dbdfb8b2267a9d7d788f2fe0dbce045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799929,
+            "locality_id":1293276641,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1293276641,
+    "wof:lastmodified":1537087834,
+    "wof:name":"Dondo",
+    "wof:parent_id":1108799929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44912,
+    -14.91634,
+    14.44912,
+    -14.91634
+],
+  "geometry": {"coordinates":[14.44912,-14.91634],"type":"Point"}
+}

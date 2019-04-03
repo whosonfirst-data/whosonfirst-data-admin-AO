@@ -1,0 +1,67 @@
+{
+  "id": 1293773459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82286,-14.7759,15.82286,-14.7759",
+    "geom:latitude":-14.7759,
+    "geom:longitude":15.82286,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mutenha",
+    "gn:country_code":"AO",
+    "gn:dem":1434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908393,
+    "gn:latitude":-14.7759,
+    "gn:longitude":15.82286,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Mutenha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908393
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4d502b78c1f3e942ac5d0f0c1e998001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1293773459,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1293773459,
+    "wof:lastmodified":1536870793,
+    "wof:name":"Mutenha",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82286,
+    -14.7759,
+    15.82286,
+    -14.7759
+],
+  "geometry": {"coordinates":[15.82286,-14.7759],"type":"Point"}
+}

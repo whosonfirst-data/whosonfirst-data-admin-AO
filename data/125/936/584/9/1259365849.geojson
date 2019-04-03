@@ -1,0 +1,67 @@
+{
+  "id": 1259365849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.991,-7.41443,14.991,-7.41443",
+    "geom:latitude":-7.41443,
+    "geom:longitude":14.991,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Fazenda Mbongui",
+    "gn:country_code":"AO",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750297,
+    "gn:latitude":-7.41443,
+    "gn:longitude":14.991,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Fazenda Mbongui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750297
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f0b082dd03c2b55c916ae35db1aff897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799683,
+            "locality_id":1259365849,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1259365849,
+    "wof:lastmodified":1537026472,
+    "wof:name":"Fazenda Mbongui",
+    "wof:parent_id":1108799683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.991,
+    -7.41443,
+    14.991,
+    -7.41443
+],
+  "geometry": {"coordinates":[14.991,-7.41443],"type":"Point"}
+}

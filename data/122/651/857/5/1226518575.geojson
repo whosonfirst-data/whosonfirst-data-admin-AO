@@ -1,0 +1,67 @@
+{
+  "id": 1226518575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49084,-9.47224,17.49084,-9.47224",
+    "geom:latitude":-9.47224,
+    "geom:longitude":17.49084,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cambamba Calucala",
+    "gn:country_code":"AO",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785243,
+    "gn:latitude":-9.47224,
+    "gn:longitude":17.49084,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cambamba Calucala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785243
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c5562f1ed518ab80b19c1daadd707bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1226518575,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1226518575,
+    "wof:lastmodified":1537035741,
+    "wof:name":"Cambamba Calucala",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49084,
+    -9.47224,
+    17.49084,
+    -9.47224
+],
+  "geometry": {"coordinates":[17.49084,-9.47224],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277164367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38212,-9.29807,16.38212,-9.29807",
+    "geom:latitude":-9.29807,
+    "geom:longitude":16.38212,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Camalonga",
+    "gn:country_code":"AO",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592020,
+    "gn:latitude":-9.29807,
+    "gn:longitude":16.38212,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Camalonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592020
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"febf263a61a4a135b3feab9fcb0a6818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1277164367,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1277164367,
+    "wof:lastmodified":1536649788,
+    "wof:name":"Camalonga",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38212,
+    -9.29807,
+    16.38212,
+    -9.29807
+],
+  "geometry": {"coordinates":[16.38212,-9.29807],"type":"Point"}
+}

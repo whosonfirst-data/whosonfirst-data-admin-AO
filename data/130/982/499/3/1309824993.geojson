@@ -1,0 +1,67 @@
+{
+  "id": 1309824993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60605,-14.82536,15.60605,-14.82536",
+    "geom:latitude":-14.82536,
+    "geom:longitude":15.60605,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchicole",
+    "gn:country_code":"AO",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908365,
+    "gn:latitude":-14.82536,
+    "gn:longitude":15.60605,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchicole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908365
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1d6744d10f02ef112dc236445b8668f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1309824993,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1309824993,
+    "wof:lastmodified":1536903639,
+    "wof:name":"Tchicole",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60605,
+    -14.82536,
+    15.60605,
+    -14.82536
+],
+  "geometry": {"coordinates":[15.60605,-14.82536],"type":"Point"}
+}

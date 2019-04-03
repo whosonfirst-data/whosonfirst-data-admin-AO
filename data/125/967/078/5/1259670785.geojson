@@ -1,0 +1,67 @@
+{
+  "id": 1259670785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36972,-9.6375,16.36972,-9.6375",
+    "geom:latitude":-9.6375,
+    "geom:longitude":16.36972,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quibaba",
+    "gn:country_code":"AO",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592294,
+    "gn:latitude":-9.6375,
+    "gn:longitude":16.36972,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Quibaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592294
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"84fead46b2adacc76834aad6f03a188f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1259670785,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1259670785,
+    "wof:lastmodified":1537082173,
+    "wof:name":"Quibaba",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36972,
+    -9.6375,
+    16.36972,
+    -9.6375
+],
+  "geometry": {"coordinates":[16.36972,-9.6375],"type":"Point"}
+}

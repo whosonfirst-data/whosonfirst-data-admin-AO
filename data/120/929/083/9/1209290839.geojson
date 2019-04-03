@@ -1,0 +1,68 @@
+{
+  "id": 1209290839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91667,-9.78333,19.91667,-9.78333",
+    "geom:latitude":-9.78333,
+    "geom:longitude":19.91667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chimbonde",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241867,
+    "gn:latitude":-9.78333,
+    "gn:longitude":19.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chimbonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicongue",
+        "Chicengue",
+        "Chimbonoe",
+        "Chimbonde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241867
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"56fd0cb80557c55e56eb8993925a7c1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209290839
+        }
+    ],
+    "wof:id":1209290839,
+    "wof:lastmodified":1537584654,
+    "wof:name":"Chimbonde",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91667,
+    -9.78333,
+    19.91667,
+    -9.78333
+],
+  "geometry": {"coordinates":[19.91667,-9.78333],"type":"Point"}
+}

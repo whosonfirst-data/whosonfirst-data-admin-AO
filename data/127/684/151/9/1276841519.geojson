@@ -1,0 +1,67 @@
+{
+  "id": 1276841519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68017,-8.92881,17.68017,-8.92881",
+    "geom:latitude":-8.92881,
+    "geom:longitude":17.68017,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Quinzunzo",
+    "gn:country_code":"AO",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768217,
+    "gn:latitude":-8.92881,
+    "gn:longitude":17.68017,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quinzunzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768217
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"48d9b0b9e261c576f4bdbbfca7debc38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1276841519,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1276841519,
+    "wof:lastmodified":1537089361,
+    "wof:name":"Quinzunzo",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68017,
+    -8.92881,
+    17.68017,
+    -8.92881
+],
+  "geometry": {"coordinates":[17.68017,-8.92881],"type":"Point"}
+}

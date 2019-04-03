@@ -1,0 +1,70 @@
+{
+  "id": 1276535523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74268,-9.48875,15.74268,-9.48875",
+    "geom:latitude":-9.48875,
+    "geom:longitude":15.74268,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Candaela",
+    "gn:country_code":"AO",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242630,
+    "gn:latitude":-9.48875,
+    "gn:longitude":15.74268,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Candaela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Candaera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242630
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c1f2c1a59c9b7ef929ab07fa7d0cea76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1276535523,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276535523,
+    "wof:lastmodified":1537584665,
+    "wof:name":"Candaela",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74268,
+    -9.48875,
+    15.74268,
+    -9.48875
+],
+  "geometry": {"coordinates":[15.74268,-9.48875],"type":"Point"}
+}

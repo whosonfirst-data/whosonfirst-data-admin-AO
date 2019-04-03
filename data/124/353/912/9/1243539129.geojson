@@ -1,0 +1,67 @@
+{
+  "id": 1243539129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93675,-14.58631,14.93675,-14.58631",
+    "geom:latitude":-14.58631,
+    "geom:longitude":14.93675,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ndjai",
+    "gn:country_code":"AO",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7907748,
+    "gn:latitude":-14.58631,
+    "gn:longitude":14.93675,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Ndjai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7907748
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0bc828aaa26a7c56fc9493eefe75deb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799605,
+            "locality_id":1243539129,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1243539129,
+    "wof:lastmodified":1536671929,
+    "wof:name":"Ndjai",
+    "wof:parent_id":1108799605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93675,
+    -14.58631,
+    14.93675,
+    -14.58631
+],
+  "geometry": {"coordinates":[14.93675,-14.58631],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243387491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.55,-17.41667,22.55,-17.41667",
+    "geom:latitude":-17.41667,
+    "geom:longitude":22.55,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garogana",
+    "gn:country_code":"AO",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876274,
+    "gn:latitude":-17.41667,
+    "gn:longitude":22.55,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Garogana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876274
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7d745c76e33b768eee550c7f05a297d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799779,
+            "locality_id":1243387491,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1243387491,
+    "wof:lastmodified":1536890237,
+    "wof:name":"Garogana",
+    "wof:parent_id":1108799779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.55,
+    -17.41667,
+    22.55,
+    -17.41667
+],
+  "geometry": {"coordinates":[22.55,-17.41667],"type":"Point"}
+}

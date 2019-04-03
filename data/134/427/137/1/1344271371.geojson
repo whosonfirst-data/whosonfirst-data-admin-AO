@@ -1,0 +1,67 @@
+{
+  "id": 1344271371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49528,-12.51972,13.49528,-12.51972",
+    "geom:latitude":-12.51972,
+    "geom:longitude":13.49528,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vimbalambi",
+    "gn:country_code":"AO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371878,
+    "gn:latitude":-12.51972,
+    "gn:longitude":13.49528,
+    "gn:modification_date":"1998-05-27",
+    "gn:name":"Vimbalambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371878
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"176b4e37f5c43e1270e2974d7f382e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799959,
+            "locality_id":1344271371,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1344271371,
+    "wof:lastmodified":1537065408,
+    "wof:name":"Vimbalambi",
+    "wof:parent_id":1108799959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49528,
+    -12.51972,
+    13.49528,
+    -12.51972
+],
+  "geometry": {"coordinates":[13.49528,-12.51972],"type":"Point"}
+}

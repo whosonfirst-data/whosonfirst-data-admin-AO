@@ -1,0 +1,67 @@
+{
+  "id": 1260168297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96257,-8.741,15.96257,-8.741",
+    "geom:latitude":-8.741,
+    "geom:longitude":15.96257,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gorila",
+    "gn:country_code":"AO",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7759124,
+    "gn:latitude":-8.741,
+    "gn:longitude":15.96257,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Gorila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759124
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"911ae315f33858e3d3d177c60378fe71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1260168297,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1260168297,
+    "wof:lastmodified":1536867640,
+    "wof:name":"Gorila",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96257,
+    -8.741,
+    15.96257,
+    -8.741
+],
+  "geometry": {"coordinates":[15.96257,-8.741],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276964651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48444,-12.59056,15.48444,-12.59056",
+    "geom:latitude":-12.59056,
+    "geom:longitude":15.48444,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchaua I",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371974,
+    "gn:latitude":-12.59056,
+    "gn:longitude":15.48444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tchaua I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchava",
+        "Tchaua I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371974
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"44f3a00f6a8ee7c97f035182b4689960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1276964651,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276964651,
+    "wof:lastmodified":1537584807,
+    "wof:name":"Tchaua I",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48444,
+    -12.59056,
+    15.48444,
+    -12.59056
+],
+  "geometry": {"coordinates":[15.48444,-12.59056],"type":"Point"}
+}

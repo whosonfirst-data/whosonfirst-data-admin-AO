@@ -1,0 +1,77 @@
+{
+  "id": 1309925791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46832,-12.84837,15.46832,-12.84837",
+    "geom:latitude":-12.84837,
+    "geom:longitude":15.46832,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Calenga",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348097,
+    "gn:latitude":-12.84837,
+    "gn:longitude":15.46832,
+    "gn:modification_date":"2012-05-14",
+    "gn:name":"Calenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0435\u043d\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kalenga",
+        "Vila Verdi",
+        "Vila Verde",
+        "Calenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348097
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"238d69dd51d6e8e3e940489bec3ca32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":1309925791,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1309925791,
+    "wof:lastmodified":1537584730,
+    "wof:name":"Calenga",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46832,
+    -12.84837,
+    15.46832,
+    -12.84837
+],
+  "geometry": {"coordinates":[15.46832,-12.84837],"type":"Point"}
+}

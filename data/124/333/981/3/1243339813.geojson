@@ -1,0 +1,72 @@
+{
+  "id": 1243339813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93333,-8.3,20.93333,-8.3",
+    "geom:latitude":-8.3,
+    "geom:longitude":20.93333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Caximuata",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145851,
+    "gn:latitude":-8.3,
+    "gn:longitude":20.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caximuata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sapimbe",
+        "Caximuata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145851
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6096555f7e105e651fe52e56e59edc45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1243339813,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1243339813,
+    "wof:lastmodified":1537584529,
+    "wof:name":"Caximuata",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93333,
+    -8.3,
+    20.93333,
+    -8.3
+],
+  "geometry": {"coordinates":[20.93333,-8.3],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226617601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29704,-10.33489,18.29704,-10.33489",
+    "geom:latitude":-10.33489,
+    "geom:longitude":18.29704,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Camba Ngole",
+    "gn:country_code":"AO",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7869527,
+    "gn:latitude":-10.33489,
+    "gn:longitude":18.29704,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Camb\u00e1 Ngole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7869527
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9c5118e8c1e7a61a5f3d1db0fa2d2b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1226617601,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1226617601,
+    "wof:lastmodified":1536899901,
+    "wof:name":"Camba Ngole",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29704,
+    -10.33489,
+    18.29704,
+    -10.33489
+],
+  "geometry": {"coordinates":[18.29704,-10.33489],"type":"Point"}
+}

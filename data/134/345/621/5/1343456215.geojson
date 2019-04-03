@@ -1,0 +1,67 @@
+{
+  "id": 1343456215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6588,-11.45555,14.6588,-11.45555",
+    "geom:latitude":-11.45555,
+    "geom:longitude":14.6588,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sapanga",
+    "gn:country_code":"AO",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7860494,
+    "gn:latitude":-11.45555,
+    "gn:longitude":14.6588,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Sapanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860494
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d64143a0f566c4ab4029133f8d0eb911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1343456215,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343456215,
+    "wof:lastmodified":1536752294,
+    "wof:name":"Sapanga",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6588,
+    -11.45555,
+    14.6588,
+    -11.45555
+],
+  "geometry": {"coordinates":[14.6588,-11.45555],"type":"Point"}
+}

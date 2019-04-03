@@ -1,0 +1,67 @@
+{
+  "id": 1360104833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20363,-12.09548,15.20363,-12.09548",
+    "geom:latitude":-12.09548,
+    "geom:longitude":15.20363,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchioca",
+    "gn:country_code":"AO",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906223,
+    "gn:latitude":-12.09548,
+    "gn:longitude":15.20363,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchioca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906223
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"01a5fcbe81308d47259eecf70d081ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1360104833,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1360104833,
+    "wof:lastmodified":1536917730,
+    "wof:name":"Tchioca",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20363,
+    -12.09548,
+    15.20363,
+    -12.09548
+],
+  "geometry": {"coordinates":[15.20363,-12.09548],"type":"Point"}
+}

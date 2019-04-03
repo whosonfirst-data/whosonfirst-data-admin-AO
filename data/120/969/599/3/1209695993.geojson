@@ -1,0 +1,61 @@
+{
+  "id": 1209695993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,-9.35,15.41667,-9.35",
+    "geom:latitude":-9.35,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Elege",
+    "gn:country_code":"AO",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241311,
+    "gn:latitude":-9.35,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Elege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241311
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fd77ab75392ffd346cbaa18147acdff8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209695993
+        }
+    ],
+    "wof:id":1209695993,
+    "wof:lastmodified":1536279073,
+    "wof:name":"Elege",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.416670000000002,
+    -9.35,
+    15.416670000000002,
+    -9.35
+],
+  "geometry": {"coordinates":[15.41667,-9.35],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226129531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45739,-9.48889,16.45739,-9.48889",
+    "geom:latitude":-9.48889,
+    "geom:longitude":16.45739,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cainzuri",
+    "gn:country_code":"AO",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592111,
+    "gn:latitude":-9.48889,
+    "gn:longitude":16.45739,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Cainzuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592111
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f5f1f563470c401257579183fab09c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1226129531,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226129531,
+    "wof:lastmodified":1536601074,
+    "wof:name":"Cainzuri",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45739,
+    -9.48889,
+    16.45739,
+    -9.48889
+],
+  "geometry": {"coordinates":[16.45739,-9.48889],"type":"Point"}
+}

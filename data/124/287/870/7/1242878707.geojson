@@ -1,0 +1,72 @@
+{
+  "id": 1242878707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12717,-9.25085,15.12717,-9.25085",
+    "geom:latitude":-9.25085,
+    "geom:longitude":15.12717,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mucuso ia Menha",
+    "gn:country_code":"AO",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239292,
+    "gn:latitude":-9.25085,
+    "gn:longitude":15.12717,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Mucuso i\u00e1 Menha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pamba",
+        "Mucuso",
+        "Mucuso i\u00e1 Menha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239292
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"39cf428f0d1ff5d8e5d07bdcc41638a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799905,
+            "locality_id":1242878707,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1242878707,
+    "wof:lastmodified":1537584619,
+    "wof:name":"Mucuso ia Menha",
+    "wof:parent_id":1108799905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12717,
+    -9.25085,
+    15.12717,
+    -9.25085
+],
+  "geometry": {"coordinates":[15.12717,-9.25085],"type":"Point"}
+}

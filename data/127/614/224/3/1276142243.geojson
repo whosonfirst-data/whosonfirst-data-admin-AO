@@ -1,0 +1,67 @@
+{
+  "id": 1276142243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72861,-12.98778,15.72861,-12.98778",
+    "geom:latitude":-12.98778,
+    "geom:longitude":15.72861,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchilova",
+    "gn:country_code":"AO",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372155,
+    "gn:latitude":-12.98778,
+    "gn:longitude":15.72861,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Tchilova",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372155
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"be47408a44a2d2ec6135fe1b4200d4f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":1276142243,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276142243,
+    "wof:lastmodified":1537033337,
+    "wof:name":"Tchilova",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72861,
+    -12.98778,
+    15.72861,
+    -12.98778
+],
+  "geometry": {"coordinates":[15.72861,-12.98778],"type":"Point"}
+}

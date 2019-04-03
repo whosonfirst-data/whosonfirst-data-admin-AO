@@ -1,0 +1,67 @@
+{
+  "id": 1226539183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74164,-8.8667,14.74164,-8.8667",
+    "geom:latitude":-8.8667,
+    "geom:longitude":14.74164,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Muhombo",
+    "gn:country_code":"AO",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7764126,
+    "gn:latitude":-8.8667,
+    "gn:longitude":14.74164,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muhombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764126
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a83a7daa00d539386a11da58baebc7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799881,
+            "locality_id":1226539183,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1226539183,
+    "wof:lastmodified":1537006800,
+    "wof:name":"Muhombo",
+    "wof:parent_id":1108799881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74164,
+    -8.8667,
+    14.74164,
+    -8.8667
+],
+  "geometry": {"coordinates":[14.74164,-8.8667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209600805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34425,-12.00519,15.34425,-12.00519",
+    "geom:latitude":-12.00519,
+    "geom:longitude":15.34425,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Vilombo",
+    "gn:country_code":"AO",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3345534,
+    "gn:latitude":-12.00519,
+    "gn:longitude":15.34425,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vilombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hombo",
+        "Vila-Ombo",
+        "Vilombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345534
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0bdb00c6a88de07bb567c43d4fe52320",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209600805
+        }
+    ],
+    "wof:id":1209600805,
+    "wof:lastmodified":1537584687,
+    "wof:name":"Vilombo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34425,
+    -12.00519,
+    15.34425,
+    -12.00519
+],
+  "geometry": {"coordinates":[15.34425,-12.00519],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209512247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49639,-13.14694,15.49639,-13.14694",
+    "geom:latitude":-13.14694,
+    "geom:longitude":15.49639,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lombalaca",
+    "gn:country_code":"AO",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371474,
+    "gn:latitude":-13.14694,
+    "gn:longitude":15.49639,
+    "gn:modification_date":"1998-03-31",
+    "gn:name":"Lombalaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371474
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"10e4161ed32b9f40e571febf82cfcbb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209512247
+        }
+    ],
+    "wof:id":1209512247,
+    "wof:lastmodified":1536284845,
+    "wof:name":"Lombalaca",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49639,
+    -13.14694,
+    15.49639,
+    -13.14694
+],
+  "geometry": {"coordinates":[15.49639,-13.14694],"type":"Point"}
+}

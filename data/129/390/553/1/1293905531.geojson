@@ -1,0 +1,67 @@
+{
+  "id": 1293905531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70554,-10.90973,15.70554,-10.90973",
+    "geom:latitude":-10.90973,
+    "geom:longitude":15.70554,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Muquinda",
+    "gn:country_code":"AO",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7899653,
+    "gn:latitude":-10.90973,
+    "gn:longitude":15.70554,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Muquinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7899653
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1465d0894fb408cd2f513cc5879ec904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1293905531,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293905531,
+    "wof:lastmodified":1536681590,
+    "wof:name":"Muquinda",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70554,
+    -10.90973,
+    15.70554,
+    -10.90973
+],
+  "geometry": {"coordinates":[15.70554,-10.90973],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276966405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31731,-11.03544,18.31731,-11.03544",
+    "geom:latitude":-11.03544,
+    "geom:longitude":18.31731,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cuzua",
+    "gn:country_code":"AO",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7772472,
+    "gn:latitude":-11.03544,
+    "gn:longitude":18.31731,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cuzua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7772472
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7637f034d7ca428613e993f25f20ba70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799651,
+            "locality_id":1276966405,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276966405,
+    "wof:lastmodified":1536926056,
+    "wof:name":"Cuzua",
+    "wof:parent_id":1108799651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31731,
+    -11.03544,
+    18.31731,
+    -11.03544
+],
+  "geometry": {"coordinates":[18.31731,-11.03544],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327205039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49579,-14.22543,21.49579,-14.22543",
+    "geom:latitude":-14.22543,
+    "geom:longitude":21.49579,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tchipupa",
+    "gn:country_code":"AO",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905838,
+    "gn:latitude":-14.22543,
+    "gn:longitude":21.49579,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchipupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905838
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a7504ce1fa7103d3a719cc3f625a069e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1327205039,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1327205039,
+    "wof:lastmodified":1537008529,
+    "wof:name":"Tchipupa",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49579,
+    -14.22543,
+    21.49579,
+    -14.22543
+],
+  "geometry": {"coordinates":[21.49579,-14.22543],"type":"Point"}
+}

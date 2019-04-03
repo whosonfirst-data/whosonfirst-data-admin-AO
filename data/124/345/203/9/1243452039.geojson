@@ -1,0 +1,67 @@
+{
+  "id": 1243452039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45658,-11.35219,15.45658,-11.35219",
+    "geom:latitude":-11.35219,
+    "geom:longitude":15.45658,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quimboco Mboco",
+    "gn:country_code":"AO",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7860695,
+    "gn:latitude":-11.35219,
+    "gn:longitude":15.45658,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quimboco Mboco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860695
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e08c552232998fc75bf011b94d25b804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1243452039,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1243452039,
+    "wof:lastmodified":1536797625,
+    "wof:name":"Quimboco Mboco",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45658,
+    -11.35219,
+    15.45658,
+    -11.35219
+],
+  "geometry": {"coordinates":[15.45658,-11.35219],"type":"Point"}
+}

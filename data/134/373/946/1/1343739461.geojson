@@ -1,0 +1,67 @@
+{
+  "id": 1343739461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34744,-8.14499,16.34744,-8.14499",
+    "geom:latitude":-8.14499,
+    "geom:longitude":16.34744,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cangundo",
+    "gn:country_code":"AO",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7742173,
+    "gn:latitude":-8.14499,
+    "gn:longitude":16.34744,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cangundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7742173
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6311db8ba8f5de0be256939df2e04481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799627,
+            "locality_id":1343739461,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343739461,
+    "wof:lastmodified":1536840173,
+    "wof:name":"Cangundo",
+    "wof:parent_id":1108799627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34744,
+    -8.14499,
+    16.34744,
+    -8.14499
+],
+  "geometry": {"coordinates":[16.34744,-8.14499],"type":"Point"}
+}

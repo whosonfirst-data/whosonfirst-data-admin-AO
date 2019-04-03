@@ -1,0 +1,67 @@
+{
+  "id": 1226328085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67361,-13.235,15.67361,-13.235",
+    "geom:latitude":-13.235,
+    "geom:longitude":15.67361,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lombendo",
+    "gn:country_code":"AO",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371616,
+    "gn:latitude":-13.235,
+    "gn:longitude":15.67361,
+    "gn:modification_date":"1998-04-02",
+    "gn:name":"Lombendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371616
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ab45edac248c49c17250f3586763b309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":1226328085,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1226328085,
+    "wof:lastmodified":1536814274,
+    "wof:name":"Lombendo",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67361,
+    -13.235,
+    15.67361,
+    -13.235
+],
+  "geometry": {"coordinates":[15.67361,-13.235],"type":"Point"}
+}

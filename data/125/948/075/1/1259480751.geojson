@@ -1,0 +1,67 @@
+{
+  "id": 1259480751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,-9.8,14.75,-9.8",
+    "geom:latitude":-9.8,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Caldeira",
+    "gn:country_code":"AO",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242990,
+    "gn:latitude":-9.8,
+    "gn:longitude":14.75,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Caldeira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242990
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1a2da68804d2a6e16e7a8c510978f977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1259480751,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259480751,
+    "wof:lastmodified":1536861313,
+    "wof:name":"Caldeira",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    -9.8,
+    14.75,
+    -9.8
+],
+  "geometry": {"coordinates":[14.75,-9.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310076483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92149,-10.81246,21.92149,-10.81246",
+    "geom:latitude":-10.81246,
+    "geom:longitude":21.92149,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cahuma Luis",
+    "gn:country_code":"AO",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7864116,
+    "gn:latitude":-10.81246,
+    "gn:longitude":21.92149,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cahuma Luis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7864116
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b2c24da3f9fc1183b633a6ae888a824e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1310076483,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1310076483,
+    "wof:lastmodified":1537036878,
+    "wof:name":"Cahuma Luis",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92149,
+    -10.81246,
+    21.92149,
+    -10.81246
+],
+  "geometry": {"coordinates":[21.92149,-10.81246],"type":"Point"}
+}

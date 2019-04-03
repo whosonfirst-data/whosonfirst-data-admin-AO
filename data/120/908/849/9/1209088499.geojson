@@ -1,0 +1,61 @@
+{
+  "id": 1209088499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87191,-5.99884,13.87191,-5.99884",
+    "geom:latitude":-5.99884,
+    "geom:longitude":13.87191,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mpozo",
+    "gn:country_code":"AO",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662851,
+    "gn:latitude":-5.99884,
+    "gn:longitude":13.87191,
+    "gn:modification_date":"2011-02-09",
+    "gn:name":"Mpozo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662851
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"59e9eb519e2c17d2823753033b3ad449",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209088499
+        }
+    ],
+    "wof:id":1209088499,
+    "wof:lastmodified":1536298110,
+    "wof:name":"Mpozo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87191,
+    -5.99884,
+    13.87191,
+    -5.99884
+],
+  "geometry": {"coordinates":[13.87191,-5.99884],"type":"Point"}
+}

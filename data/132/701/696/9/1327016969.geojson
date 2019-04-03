@@ -1,0 +1,70 @@
+{
+  "id": 1327016969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12415,-9.20078,16.12415,-9.20078",
+    "geom:latitude":-9.20078,
+    "geom:longitude":16.12415,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Catuquila",
+    "gn:country_code":"AO",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771573,
+    "gn:latitude":-9.20078,
+    "gn:longitude":16.12415,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Catuquila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canguichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771573
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"94e2d756f7c5a48ec9939f160789ecd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1327016969,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1327016969,
+    "wof:lastmodified":1537584810,
+    "wof:name":"Catuquila",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12415,
+    -9.20078,
+    16.12415,
+    -9.20078
+],
+  "geometry": {"coordinates":[16.12415,-9.20078],"type":"Point"}
+}

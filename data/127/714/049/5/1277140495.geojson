@@ -1,0 +1,67 @@
+{
+  "id": 1277140495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62053,-8.18336,21.62053,-8.18336",
+    "geom:latitude":-8.18336,
+    "geom:longitude":21.62053,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tchala",
+    "gn:country_code":"AO",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7763693,
+    "gn:latitude":-8.18336,
+    "gn:longitude":21.62053,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Tchala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7763693
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f253d07cdc657023bfb7f754f3ea4845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1277140495,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1277140495,
+    "wof:lastmodified":1536684473,
+    "wof:name":"Tchala",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62053,
+    -8.18336,
+    21.62053,
+    -8.18336
+],
+  "geometry": {"coordinates":[21.62053,-8.18336],"type":"Point"}
+}

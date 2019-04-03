@@ -1,0 +1,61 @@
+{
+  "id": 1209300177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05,-11.81667,16.05,-11.81667",
+    "geom:latitude":-11.81667,
+    "geom:longitude":16.05,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Quelinha",
+    "gn:country_code":"AO",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346619,
+    "gn:latitude":-11.81667,
+    "gn:longitude":16.05,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quelinha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346619
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cd7fcfe70ed14869cf9af93ef48da708",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209300177
+        }
+    ],
+    "wof:id":1209300177,
+    "wof:lastmodified":1536291386,
+    "wof:name":"Quelinha",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05,
+    -11.81667,
+    16.05,
+    -11.81667
+],
+  "geometry": {"coordinates":[16.05,-11.81667],"type":"Point"}
+}

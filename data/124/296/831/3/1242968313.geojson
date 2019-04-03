@@ -1,0 +1,72 @@
+{
+  "id": 1242968313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89321,-11.75359,14.89321,-11.75359",
+    "geom:latitude":-11.75359,
+    "geom:longitude":14.89321,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Imbala Ndumbi",
+    "gn:country_code":"AO",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3348760,
+    "gn:latitude":-11.75359,
+    "gn:longitude":14.89321,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Imbala Ndumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Dumbi",
+        "Embala do Dumbi",
+        "Imbala Ndumbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348760
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7f65f32a9d6f04d65795bd1b4bb78204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1242968313,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1242968313,
+    "wof:lastmodified":1537584742,
+    "wof:name":"Imbala Ndumbi",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89321,
+    -11.75359,
+    14.89321,
+    -11.75359
+],
+  "geometry": {"coordinates":[14.89321,-11.75359],"type":"Point"}
+}

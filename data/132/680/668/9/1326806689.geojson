@@ -1,0 +1,73 @@
+{
+  "id": 1326806689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49618,-9.47752,17.49618,-9.47752",
+    "geom:latitude":-9.47752,
+    "geom:longitude":17.49618,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lucala Luangingi",
+    "gn:country_code":"AO",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240129,
+    "gn:latitude":-9.47752,
+    "gn:longitude":17.49618,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lucala Luangingi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lucala Luanginge",
+        "Lucala Luaginga",
+        "Luonguangua",
+        "Lucala Luangingi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240129
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a830b89ca8f61def06a3107308eaf605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1326806689,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1326806689,
+    "wof:lastmodified":1537584628,
+    "wof:name":"Lucala Luangingi",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49618,
+    -9.47752,
+    17.49618,
+    -9.47752
+],
+  "geometry": {"coordinates":[17.49618,-9.47752],"type":"Point"}
+}

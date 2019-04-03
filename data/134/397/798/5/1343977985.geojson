@@ -1,0 +1,70 @@
+{
+  "id": 1343977985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47042,-12.18879,15.47042,-12.18879",
+    "geom:latitude":-12.18879,
+    "geom:longitude":15.47042,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchicombo",
+    "gn:country_code":"AO",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349947,
+    "gn:latitude":-12.18879,
+    "gn:longitude":15.47042,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchicombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349947
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bbee0e10c317c66a7c557d78ca53e8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1343977985,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1343977985,
+    "wof:lastmodified":1537584766,
+    "wof:name":"Tchicombo",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47042,
+    -12.18879,
+    15.47042,
+    -12.18879
+],
+  "geometry": {"coordinates":[15.47042,-12.18879],"type":"Point"}
+}

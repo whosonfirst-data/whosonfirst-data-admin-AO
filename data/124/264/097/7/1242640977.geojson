@@ -1,0 +1,67 @@
+{
+  "id": 1242640977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33453,-8.18586,19.33453,-8.18586",
+    "geom:latitude":-8.18586,
+    "geom:longitude":19.33453,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Samazemba",
+    "gn:country_code":"AO",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7898750,
+    "gn:latitude":-8.18586,
+    "gn:longitude":19.33453,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Samazemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898750
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2b13d6a5ec2f98414c8e9ddefa8f4ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799661,
+            "locality_id":1242640977,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1242640977,
+    "wof:lastmodified":1536972268,
+    "wof:name":"Samazemba",
+    "wof:parent_id":1108799661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33453,
+    -8.18586,
+    19.33453,
+    -8.18586
+],
+  "geometry": {"coordinates":[19.33453,-8.18586],"type":"Point"}
+}

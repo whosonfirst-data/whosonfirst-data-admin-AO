@@ -1,0 +1,67 @@
+{
+  "id": 1242773809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0973,-14.6734,15.0973,-14.6734",
+    "geom:latitude":-14.6734,
+    "geom:longitude":15.0973,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchivava",
+    "gn:country_code":"AO",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908131,
+    "gn:latitude":-14.6734,
+    "gn:longitude":15.0973,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchivava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908131
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cb2e453ec3b89336b2a8d3f0e46ac2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799687,
+            "locality_id":1242773809,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1242773809,
+    "wof:lastmodified":1536781596,
+    "wof:name":"Tchivava",
+    "wof:parent_id":1108799687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0973,
+    -14.6734,
+    15.0973,
+    -14.6734
+],
+  "geometry": {"coordinates":[15.0973,-14.6734],"type":"Point"}
+}

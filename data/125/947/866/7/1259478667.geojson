@@ -1,0 +1,67 @@
+{
+  "id": 1259478667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,-12.16667,15.15,-12.16667",
+    "geom:latitude":-12.16667,
+    "geom:longitude":15.15,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mucanda",
+    "gn:country_code":"AO",
+    "gn:dem":1629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347205,
+    "gn:latitude":-12.16667,
+    "gn:longitude":15.15,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Mucanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347205
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d11b45c5b3d3caa1da0d2e9b41b3077c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1259478667,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1259478667,
+    "wof:lastmodified":1536864419,
+    "wof:name":"Mucanda",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    -12.16667,
+    15.15,
+    -12.16667
+],
+  "geometry": {"coordinates":[15.15,-12.16667],"type":"Point"}
+}

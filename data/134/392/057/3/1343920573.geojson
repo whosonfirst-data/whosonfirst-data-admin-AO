@@ -1,0 +1,68 @@
+{
+  "id": 1343920573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68622,-8.52432,13.68622,-8.52432",
+    "geom:latitude":-8.52432,
+    "geom:longitude":13.68622,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mabubas",
+    "gn:country_code":"AO",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240004,
+    "gn:latitude":-8.52432,
+    "gn:longitude":13.68622,
+    "gn:modification_date":"2011-10-28",
+    "gn:name":"Mabubas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240004,
+        "wk:page":"Mabubas"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7e1be96b0a5fb27b9b020560ee2c07f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799875,
+            "locality_id":1343920573,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1343920573,
+    "wof:lastmodified":1537486224,
+    "wof:name":"Mabubas",
+    "wof:parent_id":1108799875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68622,
+    -8.52432,
+    13.68622,
+    -8.52432
+],
+  "geometry": {"coordinates":[13.68622,-8.52432],"type":"Point"}
+}

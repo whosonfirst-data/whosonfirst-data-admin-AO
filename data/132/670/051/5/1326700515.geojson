@@ -1,0 +1,67 @@
+{
+  "id": 1326700515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15039,-6.01892,15.15039,-6.01892",
+    "geom:latitude":-6.01892,
+    "geom:longitude":15.15039,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quivala",
+    "gn:country_code":"AO",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691277,
+    "gn:latitude":-6.01892,
+    "gn:longitude":15.15039,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Quivala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691277
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a14d84c35dba6a041e68e662bdd2ba89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1326700515,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1326700515,
+    "wof:lastmodified":1536741358,
+    "wof:name":"Quivala",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15039,
+    -6.01892,
+    15.15039,
+    -6.01892
+],
+  "geometry": {"coordinates":[15.15039,-6.01892],"type":"Point"}
+}

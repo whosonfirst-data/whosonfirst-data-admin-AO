@@ -1,0 +1,67 @@
+{
+  "id": 1343855675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18334,-10.81749,15.18334,-10.81749",
+    "geom:latitude":-10.81749,
+    "geom:longitude":15.18334,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Calemba Tinga",
+    "gn:country_code":"AO",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7867503,
+    "gn:latitude":-10.81749,
+    "gn:longitude":15.18334,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Calemba Tinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867503
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3ce5654abf88be2a7e23031e7ddd3d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1343855675,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343855675,
+    "wof:lastmodified":1536673508,
+    "wof:name":"Calemba Tinga",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18334,
+    -10.81749,
+    15.18334,
+    -10.81749
+],
+  "geometry": {"coordinates":[15.18334,-10.81749],"type":"Point"}
+}

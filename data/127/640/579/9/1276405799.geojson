@@ -1,0 +1,67 @@
+{
+  "id": 1276405799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.34036,-9.48866,20.34036,-9.48866",
+    "geom:latitude":-9.48866,
+    "geom:longitude":20.34036,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muandongi Barragem",
+    "gn:country_code":"AO",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769966,
+    "gn:latitude":-9.48866,
+    "gn:longitude":20.34036,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muandongi Barragem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769966
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ba8705956b1c4da7dd6d537f0656b2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1276405799,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1276405799,
+    "wof:lastmodified":1536681581,
+    "wof:name":"Muandongi Barragem",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.34036,
+    -9.48866,
+    20.34036,
+    -9.48866
+],
+  "geometry": {"coordinates":[20.34036,-9.48866],"type":"Point"}
+}

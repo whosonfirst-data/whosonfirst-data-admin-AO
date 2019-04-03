@@ -1,0 +1,71 @@
+{
+  "id": 1310219203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63839,-12.26934,13.63839,-12.26934",
+    "geom:latitude":-12.26934,
+    "geom:longitude":13.63839,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Fonte do Jomba",
+    "gn:country_code":"AO",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348631,
+    "gn:latitude":-12.26934,
+    "gn:longitude":13.63839,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Fonte do Jomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jamba",
+        "Fonte do Jomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348631
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3696b74e1782b3a28f5763beb4e58bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1310219203,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1310219203,
+    "wof:lastmodified":1537584739,
+    "wof:name":"Fonte do Jomba",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63839,
+    -12.26934,
+    13.63839,
+    -12.26934
+],
+  "geometry": {"coordinates":[13.63839,-12.26934],"type":"Point"}
+}

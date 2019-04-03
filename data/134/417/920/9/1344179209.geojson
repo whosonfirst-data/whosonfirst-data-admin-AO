@@ -1,0 +1,67 @@
+{
+  "id": 1344179209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54814,-11.75764,14.54814,-11.75764",
+    "geom:latitude":-11.75764,
+    "geom:longitude":14.54814,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Catena",
+    "gn:country_code":"AO",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8537398,
+    "gn:latitude":-11.75764,
+    "gn:longitude":14.54814,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Catena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537398
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"41be3c538af53a74b01384bce44ffbf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1344179209,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1344179209,
+    "wof:lastmodified":1536704563,
+    "wof:name":"Catena",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54814,
+    -11.75764,
+    14.54814,
+    -11.75764
+],
+  "geometry": {"coordinates":[14.54814,-11.75764],"type":"Point"}
+}

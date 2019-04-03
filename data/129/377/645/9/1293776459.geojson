@@ -1,0 +1,67 @@
+{
+  "id": 1293776459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7565,-10.02227,14.7565,-10.02227",
+    "geom:latitude":-10.02227,
+    "geom:longitude":14.7565,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lobito",
+    "gn:country_code":"AO",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7859192,
+    "gn:latitude":-10.02227,
+    "gn:longitude":14.7565,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Lobito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859192
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c983d8bbcce21d8db5ddfc3940c6279c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1293776459,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293776459,
+    "wof:lastmodified":1536866282,
+    "wof:name":"Lobito",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7565,
+    -10.02227,
+    14.7565,
+    -10.02227
+],
+  "geometry": {"coordinates":[14.7565,-10.02227],"type":"Point"}
+}

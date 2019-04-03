@@ -1,0 +1,67 @@
+{
+  "id": 1226024967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95833,-9.15203,15.95833,-9.15203",
+    "geom:latitude":-9.15203,
+    "geom:longitude":15.95833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quinuahoji",
+    "gn:country_code":"AO",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769022,
+    "gn:latitude":-9.15203,
+    "gn:longitude":15.95833,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quinuahoji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769022
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"945339358eb69d39abbc64a89f11e808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1226024967,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226024967,
+    "wof:lastmodified":1536755226,
+    "wof:name":"Quinuahoji",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95833,
+    -9.15203,
+    15.95833,
+    -9.15203
+],
+  "geometry": {"coordinates":[15.95833,-9.15203],"type":"Point"}
+}

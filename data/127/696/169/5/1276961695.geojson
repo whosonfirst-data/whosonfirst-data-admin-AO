@@ -1,0 +1,67 @@
+{
+  "id": 1276961695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52471,-7.55239,15.52471,-7.55239",
+    "geom:latitude":-7.55239,
+    "geom:longitude":15.52471,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zulo",
+    "gn:country_code":"AO",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236206,
+    "gn:latitude":-7.55239,
+    "gn:longitude":15.52471,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Zulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236206
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"68990c6098dae3ff60e45cc661858eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799889,
+            "locality_id":1276961695,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1276961695,
+    "wof:lastmodified":1536932448,
+    "wof:name":"Zulo",
+    "wof:parent_id":1108799889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52471,
+    -7.55239,
+    15.52471,
+    -7.55239
+],
+  "geometry": {"coordinates":[15.52471,-7.55239],"type":"Point"}
+}

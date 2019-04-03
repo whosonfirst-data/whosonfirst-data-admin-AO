@@ -1,0 +1,61 @@
+{
+  "id": 1209191539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90555,-9.43906,15.90555,-9.43906",
+    "geom:latitude":-9.43906,
+    "geom:longitude":15.90555,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cassongo",
+    "gn:country_code":"AO",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307291,
+    "gn:latitude":-9.43906,
+    "gn:longitude":15.90555,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Cassongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307291
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fe23cdef5ca530c232a7d2a878e51c27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209191539
+        }
+    ],
+    "wof:id":1209191539,
+    "wof:lastmodified":1536294916,
+    "wof:name":"Cassongo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90555,
+    -9.43906,
+    15.90555,
+    -9.43906
+],
+  "geometry": {"coordinates":[15.90555,-9.43906],"type":"Point"}
+}

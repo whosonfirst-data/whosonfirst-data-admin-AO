@@ -1,0 +1,67 @@
+{
+  "id": 1343665109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80516,-11.7936,16.80516,-11.7936",
+    "geom:latitude":-11.7936,
+    "geom:longitude":16.80516,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Canenga",
+    "gn:country_code":"AO",
+    "gn:dem":1720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903555,
+    "gn:latitude":-11.7936,
+    "gn:longitude":16.80516,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Canenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903555
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fb6f17a43bd3351970c3d30c800d2873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799907,
+            "locality_id":1343665109,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1343665109,
+    "wof:lastmodified":1536948646,
+    "wof:name":"Canenga",
+    "wof:parent_id":1108799907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80516,
+    -11.7936,
+    16.80516,
+    -11.7936
+],
+  "geometry": {"coordinates":[16.80516,-11.7936],"type":"Point"}
+}

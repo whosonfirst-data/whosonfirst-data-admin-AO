@@ -1,0 +1,67 @@
+{
+  "id": 1225849903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17661,-9.27192,15.17661,-9.27192",
+    "geom:latitude":-9.27192,
+    "geom:longitude":15.17661,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pamba Real",
+    "gn:country_code":"AO",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7769512,
+    "gn:latitude":-9.27192,
+    "gn:longitude":15.17661,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Pamba Real",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769512
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4e12b939153745de2540fea22fb14057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799905,
+            "locality_id":1225849903,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1225849903,
+    "wof:lastmodified":1537006910,
+    "wof:name":"Pamba Real",
+    "wof:parent_id":1108799905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17661,
+    -9.27192,
+    15.17661,
+    -9.27192
+],
+  "geometry": {"coordinates":[15.17661,-9.27192],"type":"Point"}
+}

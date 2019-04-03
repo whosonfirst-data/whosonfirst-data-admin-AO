@@ -1,0 +1,73 @@
+{
+  "id": 1326913093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98952,-7.68757,15.98952,-7.68757",
+    "geom:latitude":-7.68757,
+    "geom:longitude":15.98952,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Marinda",
+    "gn:country_code":"AO",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237515,
+    "gn:latitude":-7.68757,
+    "gn:longitude":15.98952,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Marinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macinda",
+        "Quiteca Bunga Marinda",
+        "Marinda",
+        "Quiteca Bunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237515
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aa25d6da50a568955d2b8f3db3458c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799689,
+            "locality_id":1326913093,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1326913093,
+    "wof:lastmodified":1537584585,
+    "wof:name":"Marinda",
+    "wof:parent_id":1108799689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98952,
+    -7.68757,
+    15.98952,
+    -7.68757
+],
+  "geometry": {"coordinates":[15.98952,-7.68757],"type":"Point"}
+}

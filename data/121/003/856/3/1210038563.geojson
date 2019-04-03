@@ -1,0 +1,67 @@
+{
+  "id": 1210038563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83721,-10.40597,13.83721,-10.40597",
+    "geom:latitude":-10.40597,
+    "geom:longitude":13.83721,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cangila",
+    "gn:country_code":"AO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855542,
+    "gn:latitude":-10.40597,
+    "gn:longitude":13.83721,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cangila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855542
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9a5d0f96999f7b4f2f35adde40916fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799943,
+            "locality_id":1210038563,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1210038563,
+    "wof:lastmodified":1536385370,
+    "wof:name":"Cangila",
+    "wof:parent_id":1108799943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83721,
+    -10.40597,
+    13.83721,
+    -10.40597
+],
+  "geometry": {"coordinates":[13.83721,-10.40597],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243055087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.42278,-9.73611,16.42278,-9.73611",
+    "geom:latitude":-9.73611,
+    "geom:longitude":16.42278,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jesus Pedro",
+    "gn:country_code":"AO",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592326,
+    "gn:latitude":-9.73611,
+    "gn:longitude":16.42278,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Jesus Pedro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592326
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b559fec1b15503dbf8b61f8e3c202d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799805,
+            "locality_id":1243055087,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1243055087,
+    "wof:lastmodified":1536871675,
+    "wof:name":"Jesus Pedro",
+    "wof:parent_id":1108799805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42278,
+    -9.73611,
+    16.42278,
+    -9.73611
+],
+  "geometry": {"coordinates":[16.42278,-9.73611],"type":"Point"}
+}

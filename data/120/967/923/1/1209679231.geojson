@@ -1,0 +1,61 @@
+{
+  "id": 1209679231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.82259,-8.59616,17.82259,-8.59616",
+    "geom:latitude":-8.59616,
+    "geom:longitude":17.82259,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Canvungi ia Camba",
+    "gn:country_code":"AO",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768277,
+    "gn:latitude":-8.59616,
+    "gn:longitude":17.82259,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Canvungi i\u00e1 Camba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768277
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fc2b9a6cc983521971fac080e444cd65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209679231
+        }
+    ],
+    "wof:id":1209679231,
+    "wof:lastmodified":1536279637,
+    "wof:name":"Canvungi ia Camba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.822589999999995,
+    -8.596160000000001,
+    17.822589999999995,
+    -8.596160000000001
+],
+  "geometry": {"coordinates":[17.82258999999999,-8.59616],"type":"Point"}
+}

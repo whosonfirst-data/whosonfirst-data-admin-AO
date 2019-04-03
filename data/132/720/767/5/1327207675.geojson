@@ -1,0 +1,67 @@
+{
+  "id": 1327207675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9,-10.98333,21.9,-10.98333",
+    "geom:latitude":-10.98333,
+    "geom:longitude":21.9,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chizanda",
+    "gn:country_code":"AO",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876355,
+    "gn:latitude":-10.98333,
+    "gn:longitude":21.9,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chizanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876355
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"618bc7ce0da0c9dfccd8298dac0a75c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1327207675,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1327207675,
+    "wof:lastmodified":1537004659,
+    "wof:name":"Chizanda",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9,
+    -10.98333,
+    21.9,
+    -10.98333
+],
+  "geometry": {"coordinates":[21.9,-10.98333],"type":"Point"}
+}

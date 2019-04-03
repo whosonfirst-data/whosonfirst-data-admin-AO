@@ -1,0 +1,71 @@
+{
+  "id": 1360250461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.00222,-9.09655,14.00222,-9.09655",
+    "geom:latitude":-9.09655,
+    "geom:longitude":14.00222,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tonhachiri",
+    "gn:country_code":"AO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236697,
+    "gn:latitude":-9.09655,
+    "gn:longitude":14.00222,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Tonhachiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tonha Chiria",
+        "Tonhachiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236697
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c2ad76bd3baa2650d5538c4200dd3ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799819,
+            "locality_id":1360250461,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1360250461,
+    "wof:lastmodified":1537584573,
+    "wof:name":"Tonhachiri",
+    "wof:parent_id":1108799819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.00222,
+    -9.09655,
+    14.00222,
+    -9.09655
+],
+  "geometry": {"coordinates":[14.00222,-9.09655],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242949297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01054,-7.68648,21.01054,-7.68648",
+    "geom:latitude":-7.68648,
+    "geom:longitude":21.01054,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tchilama",
+    "gn:country_code":"AO",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7696320,
+    "gn:latitude":-7.68648,
+    "gn:longitude":21.01054,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tchilama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696320
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"283949cca84f342ba86577a5ad469d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "locality_id":1242949297,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1242949297,
+    "wof:lastmodified":1537024301,
+    "wof:name":"Tchilama",
+    "wof:parent_id":1108799855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01054,
+    -7.68648,
+    21.01054,
+    -7.68648
+],
+  "geometry": {"coordinates":[21.01054,-7.68648],"type":"Point"}
+}

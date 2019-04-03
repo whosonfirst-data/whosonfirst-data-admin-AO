@@ -1,0 +1,67 @@
+{
+  "id": 1209924145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83833,-12.31167,13.83833,-12.31167",
+    "geom:latitude":-12.31167,
+    "geom:longitude":13.83833,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Imbungo",
+    "gn:country_code":"AO",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372362,
+    "gn:latitude":-12.31167,
+    "gn:longitude":13.83833,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Imbungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372362
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ae08ba6d4858bd9406119ef98ca5dd66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1209924145,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1209924145,
+    "wof:lastmodified":1536395662,
+    "wof:name":"Imbungo",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83833,
+    -12.31167,
+    13.83833,
+    -12.31167
+],
+  "geometry": {"coordinates":[13.83833,-12.31167],"type":"Point"}
+}

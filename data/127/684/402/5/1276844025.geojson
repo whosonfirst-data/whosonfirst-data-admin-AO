@@ -1,0 +1,70 @@
+{
+  "id": 1276844025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75535,-12.59529,23.75535,-12.59529",
+    "geom:latitude":-12.59529,
+    "geom:longitude":23.75535,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gomes",
+    "gn:country_code":"AO",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8634490,
+    "gn:latitude":-12.59529,
+    "gn:longitude":23.75535,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Gomes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Mandume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8634490
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b3ae947ed7a9b2d485f6921e466be306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1276844025,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1276844025,
+    "wof:lastmodified":1537584812,
+    "wof:name":"Gomes",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75535,
+    -12.59529,
+    23.75535,
+    -12.59529
+],
+  "geometry": {"coordinates":[23.75535,-12.59529],"type":"Point"}
+}

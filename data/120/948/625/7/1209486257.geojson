@@ -1,0 +1,61 @@
+{
+  "id": 1209486257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12185,-10.65813,22.12185,-10.65813",
+    "geom:latitude":-10.65813,
+    "geom:longitude":22.12185,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mucoca Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7863889,
+    "gn:latitude":-10.65813,
+    "gn:longitude":22.12185,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Mucoca Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863889
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"17614ccc57535b29b041234770c02428",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209486257
+        }
+    ],
+    "wof:id":1209486257,
+    "wof:lastmodified":1536285627,
+    "wof:name":"Mucoca Segundo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12185,
+    -10.65813,
+    22.12185,
+    -10.65813
+],
+  "geometry": {"coordinates":[22.12185,-10.65813],"type":"Point"}
+}

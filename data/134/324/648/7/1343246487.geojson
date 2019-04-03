@@ -1,0 +1,67 @@
+{
+  "id": 1343246487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,-14.05,15.56667,-14.05",
+    "geom:latitude":-14.05,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bambi",
+    "gn:country_code":"AO",
+    "gn:dem":1412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3351739,
+    "gn:latitude":-14.05,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Bambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351739
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"61ac3883357ed91315cbb5d32fb6d9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799671,
+            "locality_id":1343246487,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1343246487,
+    "wof:lastmodified":1537052889,
+    "wof:name":"Bambi",
+    "wof:parent_id":1108799671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    -14.05,
+    15.56667,
+    -14.05
+],
+  "geometry": {"coordinates":[15.56667,-14.05],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243431533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71939,-9.40283,15.71939,-9.40283",
+    "geom:latitude":-9.40283,
+    "geom:longitude":15.71939,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Catenda do Meio",
+    "gn:country_code":"AO",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536162,
+    "gn:latitude":-9.40283,
+    "gn:longitude":15.71939,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Catenda do Meio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536162
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f0a208ae18cd02e36e7273939f361902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1243431533,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1243431533,
+    "wof:lastmodified":1536826105,
+    "wof:name":"Catenda do Meio",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71939,
+    -9.40283,
+    15.71939,
+    -9.40283
+],
+  "geometry": {"coordinates":[15.71939,-9.40283],"type":"Point"}
+}

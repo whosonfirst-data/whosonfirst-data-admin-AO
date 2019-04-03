@@ -1,0 +1,67 @@
+{
+  "id": 1309730195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91778,-12.88194,13.91778,-12.88194",
+    "geom:latitude":-12.88194,
+    "geom:longitude":13.91778,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lupato",
+    "gn:country_code":"AO",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372461,
+    "gn:latitude":-12.88194,
+    "gn:longitude":13.91778,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Lupato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372461
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"92bd01747234242955eed52a177ad03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799815,
+            "locality_id":1309730195,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1309730195,
+    "wof:lastmodified":1537038430,
+    "wof:name":"Lupato",
+    "wof:parent_id":1108799815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91778,
+    -12.88194,
+    13.91778,
+    -12.88194
+],
+  "geometry": {"coordinates":[13.91778,-12.88194],"type":"Point"}
+}

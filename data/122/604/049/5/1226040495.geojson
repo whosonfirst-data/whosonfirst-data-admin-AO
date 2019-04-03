@@ -1,0 +1,67 @@
+{
+  "id": 1226040495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28084,-11.10005,14.28084,-11.10005",
+    "geom:latitude":-11.10005,
+    "geom:longitude":14.28084,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Uango",
+    "gn:country_code":"AO",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7864460,
+    "gn:latitude":-11.10005,
+    "gn:longitude":14.28084,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Uango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7864460
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d92b036d1d31a83540db45d9b2f259bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1226040495,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226040495,
+    "wof:lastmodified":1536733005,
+    "wof:name":"Uango",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28084,
+    -11.10005,
+    14.28084,
+    -11.10005
+],
+  "geometry": {"coordinates":[14.28084,-11.10005],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243041043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05862,-6.18499,15.05862,-6.18499",
+    "geom:latitude":-6.18499,
+    "geom:longitude":15.05862,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mbanza Zombo",
+    "gn:country_code":"AO",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243689,
+    "gn:latitude":-6.18499,
+    "gn:longitude":15.05862,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbanza Zombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banza Zombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243689
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5dfd8b85424e27c8f724439bba52eaef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1243041043,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1243041043,
+    "wof:lastmodified":1537584680,
+    "wof:name":"Mbanza Zombo",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05862,
+    -6.18499,
+    15.05862,
+    -6.18499
+],
+  "geometry": {"coordinates":[15.05862,-6.18499],"type":"Point"}
+}

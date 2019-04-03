@@ -1,0 +1,75 @@
+{
+  "id": 1276140829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78333,-14.33333,15.78333,-14.33333",
+    "geom:latitude":-14.33333,
+    "geom:longitude":15.78333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cassongue",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350388,
+    "gn:latitude":-14.33333,
+    "gn:longitude":15.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cassongue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0441\u043e\u043d\u0433\u0443"
+    ],
+    "name:und_x_variant":[
+        "Cassongue Ungolo",
+        "Cassongue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350388
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ae95d0c015f73708c93adda6d2ae9f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1276140829,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1276140829,
+    "wof:lastmodified":1537584775,
+    "wof:name":"Cassongue",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78333,
+    -14.33333,
+    15.78333,
+    -14.33333
+],
+  "geometry": {"coordinates":[15.78333,-14.33333],"type":"Point"}
+}

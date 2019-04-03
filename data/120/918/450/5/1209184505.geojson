@@ -1,0 +1,66 @@
+{
+  "id": 1209184505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,-6.38333,15.3,-6.38333",
+    "geom:latitude":-6.38333,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quiito",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238388,
+    "gn:latitude":-6.38333,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quiito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quito",
+        "Quiito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238388
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ce23c0e7e9f2ef2ddc86dc1628b6c494",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209184505
+        }
+    ],
+    "wof:id":1209184505,
+    "wof:lastmodified":1537584604,
+    "wof:name":"Quiito",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    -6.38333,
+    15.3,
+    -6.38333
+],
+  "geometry": {"coordinates":[15.3,-6.38333],"type":"Point"}
+}

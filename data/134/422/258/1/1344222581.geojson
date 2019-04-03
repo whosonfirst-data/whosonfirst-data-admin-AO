@@ -1,0 +1,71 @@
+{
+  "id": 1344222581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29489,-8.23435,14.29489,-8.23435",
+    "geom:latitude":-8.23435,
+    "geom:longitude":14.29489,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Quimanoxi",
+    "gn:country_code":"AO",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238241,
+    "gn:latitude":-8.23435,
+    "gn:longitude":14.29489,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Quimanoxi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quimanoxe",
+        "Quimanoxi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238241
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e4ef0b6f71e0ac180a1c17c28fb488cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799629,
+            "locality_id":1344222581,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1344222581,
+    "wof:lastmodified":1537584601,
+    "wof:name":"Quimanoxi",
+    "wof:parent_id":1108799629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29489,
+    -8.23435,
+    14.29489,
+    -8.23435
+],
+  "geometry": {"coordinates":[14.29489,-8.23435],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293665375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67744,-9.19526,17.67744,-9.19526",
+    "geom:latitude":-9.19526,
+    "geom:longitude":17.67744,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Catete",
+    "gn:country_code":"AO",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7785876,
+    "gn:latitude":-9.19526,
+    "gn:longitude":17.67744,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Catete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785876
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"620eb3ae48539291cd4449f0b8434b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1293665375,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293665375,
+    "wof:lastmodified":1537026710,
+    "wof:name":"Catete",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67744,
+    -9.19526,
+    17.67744,
+    -9.19526
+],
+  "geometry": {"coordinates":[17.67744,-9.19526],"type":"Point"}
+}

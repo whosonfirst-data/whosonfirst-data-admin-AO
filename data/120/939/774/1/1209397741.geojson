@@ -1,0 +1,64 @@
+{
+  "id": 1209397741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56576,-6.15617,15.56576,-6.15617",
+    "geom:latitude":-6.15617,
+    "geom:longitude":15.56576,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mbanza-Voge",
+    "gn:country_code":"AO",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243692,
+    "gn:latitude":-6.15617,
+    "gn:longitude":15.56576,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbanza-Voge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banza Voge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243692
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"21e93628825feae5f4c56a24b94a1f50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209397741
+        }
+    ],
+    "wof:id":1209397741,
+    "wof:lastmodified":1537584680,
+    "wof:name":"Mbanza-Voge",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56576,
+    -6.15617,
+    15.56576,
+    -6.15617
+],
+  "geometry": {"coordinates":[15.56576,-6.15617],"type":"Point"}
+}

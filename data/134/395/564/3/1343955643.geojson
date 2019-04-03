@@ -1,0 +1,70 @@
+{
+  "id": 1343955643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20918,-12.0542,15.20918,-12.0542",
+    "geom:latitude":-12.0542,
+    "geom:longitude":15.20918,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Albuquerque",
+    "gn:country_code":"AO",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346112,
+    "gn:latitude":-12.0542,
+    "gn:longitude":15.20918,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Albuquerque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Semunguva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346112
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3aa62ef3f50c7085412a2b7e3fa416fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1343955643,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1343955643,
+    "wof:lastmodified":1537584695,
+    "wof:name":"Albuquerque",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20918,
+    -12.0542,
+    15.20918,
+    -12.0542
+],
+  "geometry": {"coordinates":[15.20918,-12.0542],"type":"Point"}
+}

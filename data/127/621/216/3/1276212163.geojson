@@ -1,0 +1,67 @@
+{
+  "id": 1276212163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06667,-12.3,15.06667,-12.3",
+    "geom:latitude":-12.3,
+    "geom:longitude":15.06667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Comboio",
+    "gn:country_code":"AO",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349337,
+    "gn:latitude":-12.3,
+    "gn:longitude":15.06667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Comboio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349337
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6d852ea2e338fbb61a95a95c241c9cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1276212163,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276212163,
+    "wof:lastmodified":1536942103,
+    "wof:name":"Comboio",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06667,
+    -12.3,
+    15.06667,
+    -12.3
+],
+  "geometry": {"coordinates":[15.06667,-12.3],"type":"Point"}
+}

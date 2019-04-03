@@ -1,0 +1,67 @@
+{
+  "id": 1327034851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8918,-9.25816,14.8918,-9.25816",
+    "geom:latitude":-9.25816,
+    "geom:longitude":14.8918,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quianda",
+    "gn:country_code":"AO",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7770879,
+    "gn:latitude":-9.25816,
+    "gn:longitude":14.8918,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quianda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7770879
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"55d2ca69bd625b211e44f3f5c7409eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799713,
+            "locality_id":1327034851,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1327034851,
+    "wof:lastmodified":1536756966,
+    "wof:name":"Quianda",
+    "wof:parent_id":1108799713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8918,
+    -9.25816,
+    14.8918,
+    -9.25816
+],
+  "geometry": {"coordinates":[14.8918,-9.25816],"type":"Point"}
+}

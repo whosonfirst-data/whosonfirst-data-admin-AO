@@ -1,0 +1,67 @@
+{
+  "id": 1343646105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57983,-14.99454,15.57983,-14.99454",
+    "geom:latitude":-14.99454,
+    "geom:longitude":15.57983,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mucuio",
+    "gn:country_code":"AO",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308614,
+    "gn:latitude":-14.99454,
+    "gn:longitude":15.57983,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mucuio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308614
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"62ec10ac82d81a43e2602c73323f66af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1343646105,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1343646105,
+    "wof:lastmodified":1536975269,
+    "wof:name":"Mucuio",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57983,
+    -14.99454,
+    15.57983,
+    -14.99454
+],
+  "geometry": {"coordinates":[15.57983,-14.99454],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242844761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81726,-7.31722,15.81726,-7.31722",
+    "geom:latitude":-7.31722,
+    "geom:longitude":15.81726,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quibege Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7746047,
+    "gn:latitude":-7.31722,
+    "gn:longitude":15.81726,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quibege Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746047
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a35376d3eabac439ec54e3883ddab6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799617,
+            "locality_id":1242844761,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1242844761,
+    "wof:lastmodified":1536678945,
+    "wof:name":"Quibege Segundo",
+    "wof:parent_id":1108799617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81726,
+    -7.31722,
+    15.81726,
+    -7.31722
+],
+  "geometry": {"coordinates":[15.81726,-7.31722],"type":"Point"}
+}

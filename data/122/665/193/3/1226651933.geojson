@@ -1,0 +1,74 @@
+{
+  "id": 1226651933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66667,-15.68333,18.66667,-15.68333",
+    "geom:latitude":-15.68333,
+    "geom:longitude":18.66667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baixo Longa",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351780,
+    "gn:latitude":-15.68333,
+    "gn:longitude":18.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Baixo Longa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longa",
+        "Baishu Longa",
+        "Baizo Longa",
+        "Baixo Longa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351780
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"01ccafba1a2cbc097384a83487453a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799691,
+            "locality_id":1226651933,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1226651933,
+    "wof:lastmodified":1537584803,
+    "wof:name":"Baixo Longa",
+    "wof:parent_id":1108799691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66667,
+    -15.68333,
+    18.66667,
+    -15.68333
+],
+  "geometry": {"coordinates":[18.66667,-15.68333],"type":"Point"}
+}

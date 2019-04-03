@@ -1,0 +1,67 @@
+{
+  "id": 1276417703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13222,-9.54417,16.13222,-9.54417",
+    "geom:latitude":-9.54417,
+    "geom:longitude":16.13222,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quiriassa",
+    "gn:country_code":"AO",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592149,
+    "gn:latitude":-9.54417,
+    "gn:longitude":16.13222,
+    "gn:modification_date":"1998-06-11",
+    "gn:name":"Quiriassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592149
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0a8316d2df4d6081cd87436c674ecc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1276417703,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276417703,
+    "wof:lastmodified":1536665671,
+    "wof:name":"Quiriassa",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13222,
+    -9.54417,
+    16.13222,
+    -9.54417
+],
+  "geometry": {"coordinates":[16.13222,-9.54417],"type":"Point"}
+}

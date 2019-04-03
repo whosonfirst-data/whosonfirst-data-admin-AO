@@ -1,0 +1,67 @@
+{
+  "id": 1276896993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56805,-8.506,15.56805,-8.506",
+    "geom:latitude":-8.506,
+    "geom:longitude":15.56805,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Segundo Aldeamento",
+    "gn:country_code":"AO",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7759183,
+    "gn:latitude":-8.506,
+    "gn:longitude":15.56805,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Segundo Aldeamento",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759183
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"30506d2cbe0413550697312b60678bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1276896993,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1276896993,
+    "wof:lastmodified":1537017533,
+    "wof:name":"Segundo Aldeamento",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56805,
+    -8.506,
+    15.56805,
+    -8.506
+],
+  "geometry": {"coordinates":[15.56805,-8.506],"type":"Point"}
+}

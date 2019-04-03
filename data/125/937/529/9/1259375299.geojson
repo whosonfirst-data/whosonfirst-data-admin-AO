@@ -1,0 +1,67 @@
+{
+  "id": 1259375299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00726,-10.5147,16.00726,-10.5147",
+    "geom:latitude":-10.5147,
+    "geom:longitude":16.00726,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Terra Nova",
+    "gn:country_code":"AO",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900055,
+    "gn:latitude":-10.5147,
+    "gn:longitude":16.00726,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Terra Nova",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900055
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"25c2b1257c3eb0a968750c48b691d6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1259375299,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259375299,
+    "wof:lastmodified":1537013360,
+    "wof:name":"Terra Nova",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00726,
+    -10.5147,
+    16.00726,
+    -10.5147
+],
+  "geometry": {"coordinates":[16.00726,-10.5147],"type":"Point"}
+}

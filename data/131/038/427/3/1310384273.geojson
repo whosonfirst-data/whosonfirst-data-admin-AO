@@ -1,0 +1,67 @@
+{
+  "id": 1310384273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9279,-11.02717,21.9279,-11.02717",
+    "geom:latitude":-11.02717,
+    "geom:longitude":21.9279,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Elvira",
+    "gn:country_code":"AO",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7768062,
+    "gn:latitude":-11.02717,
+    "gn:longitude":21.9279,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Elvira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768062
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"822a10e1a30da1db96e1d0d5d4a20a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1310384273,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1310384273,
+    "wof:lastmodified":1537088689,
+    "wof:name":"Elvira",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9279,
+    -11.02717,
+    21.9279,
+    -11.02717
+],
+  "geometry": {"coordinates":[21.9279,-11.02717],"type":"Point"}
+}

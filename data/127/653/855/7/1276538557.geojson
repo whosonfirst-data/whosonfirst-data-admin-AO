@@ -1,0 +1,72 @@
+{
+  "id": 1276538557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18333,-15.28333,16.18333,-15.28333",
+    "geom:latitude":-15.28333,
+    "geom:longitude":16.18333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Maina",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347521,
+    "gn:latitude":-15.28333,
+    "gn:longitude":16.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Maina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manina",
+        "Maina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347521
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"730998b45f871c0782e9d80ff987353f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1276538557,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1276538557,
+    "wof:lastmodified":1537584723,
+    "wof:name":"Maina",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18333,
+    -15.28333,
+    16.18333,
+    -15.28333
+],
+  "geometry": {"coordinates":[16.18333,-15.28333],"type":"Point"}
+}

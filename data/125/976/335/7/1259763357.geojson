@@ -1,0 +1,67 @@
+{
+  "id": 1259763357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71846,-8.17618,16.71846,-8.17618",
+    "geom:latitude":-8.17618,
+    "geom:longitude":16.71846,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mucula a Ngola",
+    "gn:country_code":"AO",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7744092,
+    "gn:latitude":-8.17618,
+    "gn:longitude":16.71846,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mucula \u00e0 Ngola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7744092
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"033228920d4b86b40bc1e84952bcc0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799621,
+            "locality_id":1259763357,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1259763357,
+    "wof:lastmodified":1536952306,
+    "wof:name":"Mucula a Ngola",
+    "wof:parent_id":1108799621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71846,
+    -8.17618,
+    16.71846,
+    -8.17618
+],
+  "geometry": {"coordinates":[16.71846,-8.17618],"type":"Point"}
+}

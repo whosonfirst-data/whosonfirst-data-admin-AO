@@ -1,0 +1,73 @@
+{
+  "id": 1226156111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7,-12.8,17.7,-12.8",
+    "geom:latitude":-12.8,
+    "geom:longitude":17.7,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Quizuca",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346442,
+    "gn:latitude":-12.8,
+    "gn:longitude":17.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quizuca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chisamboe",
+        "Chissamboa",
+        "Quizuca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346442
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e9927957dbc40012d60011361ec13edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799709,
+            "locality_id":1226156111,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1226156111,
+    "wof:lastmodified":1537584705,
+    "wof:name":"Quizuca",
+    "wof:parent_id":1108799709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7,
+    -12.8,
+    17.7,
+    -12.8
+],
+  "geometry": {"coordinates":[17.7,-12.8],"type":"Point"}
+}

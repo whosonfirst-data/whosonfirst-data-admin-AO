@@ -1,0 +1,72 @@
+{
+  "id": 1243154859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76667,-6.41667,15.76667,-6.41667",
+    "geom:latitude":-6.41667,
+    "geom:longitude":15.76667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimavuila",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238225,
+    "gn:latitude":-6.41667,
+    "gn:longitude":15.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quimavuila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camanvela",
+        "Quimavuila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238225
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c6f4b5d16b4c60f3ee7259b382de8e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799715,
+            "locality_id":1243154859,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1243154859,
+    "wof:lastmodified":1537584600,
+    "wof:name":"Quimavuila",
+    "wof:parent_id":1108799715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76667,
+    -6.41667,
+    15.76667,
+    -6.41667
+],
+  "geometry": {"coordinates":[15.76667,-6.41667],"type":"Point"}
+}

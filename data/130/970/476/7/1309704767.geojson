@@ -1,0 +1,67 @@
+{
+  "id": 1309704767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77554,-12.07174,14.77554,-12.07174",
+    "geom:latitude":-12.07174,
+    "geom:longitude":14.77554,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sacuica",
+    "gn:country_code":"AO",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7902750,
+    "gn:latitude":-12.07174,
+    "gn:longitude":14.77554,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Sacuica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7902750
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4be2359fc9ce185f8caf009be5a285e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1309704767,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1309704767,
+    "wof:lastmodified":1537073757,
+    "wof:name":"Sacuica",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77554,
+    -12.07174,
+    14.77554,
+    -12.07174
+],
+  "geometry": {"coordinates":[14.77554,-12.07174],"type":"Point"}
+}

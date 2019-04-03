@@ -1,0 +1,72 @@
+{
+  "id": 1242599903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07049,-11.42632,15.07049,-11.42632",
+    "geom:latitude":-11.42632,
+    "geom:longitude":15.07049,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cumbundi Cungo",
+    "gn:country_code":"AO",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346533,
+    "gn:latitude":-11.42632,
+    "gn:longitude":15.07049,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cumb\u00fandi Cungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quimbundi",
+        "Quimbunde",
+        "Cumb\u00fandi Cungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346533
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0c0f579d86f9ebd4dcc1c8c9f2d76f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1242599903,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1242599903,
+    "wof:lastmodified":1537584707,
+    "wof:name":"Cumbundi Cungo",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07049,
+    -11.42632,
+    15.07049,
+    -11.42632
+],
+  "geometry": {"coordinates":[15.07049,-11.42632],"type":"Point"}
+}

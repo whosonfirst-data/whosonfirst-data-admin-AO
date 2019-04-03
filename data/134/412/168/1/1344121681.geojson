@@ -1,0 +1,67 @@
+{
+  "id": 1344121681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24968,-9.16845,13.24968,-9.16845",
+    "geom:latitude":-9.16845,
+    "geom:longitude":13.24968,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Cacolo",
+    "gn:country_code":"AO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905290,
+    "gn:latitude":-9.16845,
+    "gn:longitude":13.24968,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cacolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667669,
+        1108799941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905290
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fbf444d03f52d7c9ad510dcd4d5e2540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799941,
+            "locality_id":1344121681,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":1344121681,
+    "wof:lastmodified":1536787845,
+    "wof:name":"Cacolo",
+    "wof:parent_id":1108799941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24968,
+    -9.16845,
+    13.24968,
+    -9.16845
+],
+  "geometry": {"coordinates":[13.24968,-9.16845],"type":"Point"}
+}

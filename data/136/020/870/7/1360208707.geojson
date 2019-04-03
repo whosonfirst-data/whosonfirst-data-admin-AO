@@ -1,0 +1,72 @@
+{
+  "id": 1360208707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8,-16.46667,17.8,-16.46667",
+    "geom:latitude":-16.46667,
+    "geom:longitude":17.8,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Candelela",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350824,
+    "gn:latitude":-16.46667,
+    "gn:longitude":17.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Candelela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canger\u00e9re",
+        "Candelela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350824
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2cf4098800c096add71bebaa206a065c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799961,
+            "locality_id":1360208707,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1360208707,
+    "wof:lastmodified":1537584785,
+    "wof:name":"Candelela",
+    "wof:parent_id":1108799961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8,
+    -16.46667,
+    17.8,
+    -16.46667
+],
+  "geometry": {"coordinates":[17.8,-16.46667],"type":"Point"}
+}

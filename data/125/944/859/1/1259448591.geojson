@@ -1,0 +1,67 @@
+{
+  "id": 1259448591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.645,-8.56111,13.645,-8.56111",
+    "geom:latitude":-8.56111,
+    "geom:longitude":13.645,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bucula",
+    "gn:country_code":"AO",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591792,
+    "gn:latitude":-8.56111,
+    "gn:longitude":13.645,
+    "gn:modification_date":"1998-05-29",
+    "gn:name":"Bucula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591792
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7400948644f3cd671c8df3ffaf1a70dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799875,
+            "locality_id":1259448591,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1259448591,
+    "wof:lastmodified":1536909352,
+    "wof:name":"Bucula",
+    "wof:parent_id":1108799875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.645,
+    -8.56111,
+    13.645,
+    -8.56111
+],
+  "geometry": {"coordinates":[13.645,-8.56111],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276127291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71916,-11.47366,16.71916,-11.47366",
+    "geom:latitude":-11.47366,
+    "geom:longitude":16.71916,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"AO",
+    "gn:dem":1664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858863,
+    "gn:latitude":-11.47366,
+    "gn:longitude":16.71916,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858863
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4be2e6e503772fdef436a0fbb24bd1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1276127291,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1276127291,
+    "wof:lastmodified":1537052387,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71916,
+    -11.47366,
+    16.71916,
+    -11.47366
+],
+  "geometry": {"coordinates":[16.71916,-11.47366],"type":"Point"}
+}

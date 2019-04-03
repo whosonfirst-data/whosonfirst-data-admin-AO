@@ -1,0 +1,67 @@
+{
+  "id": 1260001819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21733,-11.28289,15.21733,-11.28289",
+    "geom:latitude":-11.28289,
+    "geom:longitude":15.21733,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Capengue",
+    "gn:country_code":"AO",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7860781,
+    "gn:latitude":-11.28289,
+    "gn:longitude":15.21733,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Capengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860781
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e3731eb79d09a5d781ea88b92155c9ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1260001819,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1260001819,
+    "wof:lastmodified":1536605823,
+    "wof:name":"Capengue",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21733,
+    -11.28289,
+    15.21733,
+    -11.28289
+],
+  "geometry": {"coordinates":[15.21733,-11.28289],"type":"Point"}
+}

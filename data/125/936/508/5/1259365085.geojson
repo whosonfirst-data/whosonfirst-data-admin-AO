@@ -1,0 +1,73 @@
+{
+  "id": 1259365085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.63333,-6.41667,12.63333,-6.41667",
+    "geom:latitude":-6.41667,
+    "geom:longitude":12.63333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Binga",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243568,
+    "gn:latitude":-6.41667,
+    "gn:longitude":12.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Binga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vunda",
+        "Bunda",
+        "Binga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243568
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f3815a16641ad3277e32531655ced545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799751,
+            "locality_id":1259365085,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1259365085,
+    "wof:lastmodified":1537584678,
+    "wof:name":"Binga",
+    "wof:parent_id":1108799751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.63333,
+    -6.41667,
+    12.63333,
+    -6.41667
+],
+  "geometry": {"coordinates":[12.63333,-6.41667],"type":"Point"}
+}

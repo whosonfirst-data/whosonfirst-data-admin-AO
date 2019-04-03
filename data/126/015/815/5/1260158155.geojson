@@ -1,0 +1,67 @@
+{
+  "id": 1260158155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96667,-9.6,15.96667,-9.6",
+    "geom:latitude":-9.6,
+    "geom:longitude":15.96667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Caluhi",
+    "gn:country_code":"AO",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242916,
+    "gn:latitude":-9.6,
+    "gn:longitude":15.96667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cal\u00fahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242916
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"002cf2ecf1283535e96a7c5b275933d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1260158155,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1260158155,
+    "wof:lastmodified":1536882110,
+    "wof:name":"Caluhi",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96667,
+    -9.6,
+    15.96667,
+    -9.6
+],
+  "geometry": {"coordinates":[15.96667,-9.6],"type":"Point"}
+}

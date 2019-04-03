@@ -1,0 +1,67 @@
+{
+  "id": 1276402945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67959,-8.13888,19.67959,-8.13888",
+    "geom:latitude":-8.13888,
+    "geom:longitude":19.67959,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tchingondola",
+    "gn:country_code":"AO",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900916,
+    "gn:latitude":-8.13888,
+    "gn:longitude":19.67959,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchingondola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900916
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"78f49b820d6d6c0e5bc67d8bbc050b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799669,
+            "locality_id":1276402945,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1276402945,
+    "wof:lastmodified":1536685446,
+    "wof:name":"Tchingondola",
+    "wof:parent_id":1108799669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67959,
+    -8.13888,
+    19.67959,
+    -8.13888
+],
+  "geometry": {"coordinates":[19.67959,-8.13888],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276984455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41306,-12.5975,13.41306,-12.5975",
+    "geom:latitude":-12.5975,
+    "geom:longitude":13.41306,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Docota",
+    "gn:country_code":"AO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371903,
+    "gn:latitude":-12.5975,
+    "gn:longitude":13.41306,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Docota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371903
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"163ebc5417d1446a4bf3aa0fce8bd5da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799959,
+            "locality_id":1276984455,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1276984455,
+    "wof:lastmodified":1536901068,
+    "wof:name":"Docota",
+    "wof:parent_id":1108799959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41306,
+    -12.5975,
+    13.41306,
+    -12.5975
+],
+  "geometry": {"coordinates":[13.41306,-12.5975],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209892387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98564,-8.58617,18.98564,-8.58617",
+    "geom:latitude":-8.58617,
+    "geom:longitude":18.98564,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mucole",
+    "gn:country_code":"AO",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7767686,
+    "gn:latitude":-8.58617,
+    "gn:longitude":18.98564,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mucole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7767686
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e6615023cbdfaf067f13780e1c8c33cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799661,
+            "locality_id":1209892387,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1209892387,
+    "wof:lastmodified":1536390149,
+    "wof:name":"Mucole",
+    "wof:parent_id":1108799661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98564,
+    -8.58617,
+    18.98564,
+    -8.58617
+],
+  "geometry": {"coordinates":[18.98564,-8.58617],"type":"Point"}
+}

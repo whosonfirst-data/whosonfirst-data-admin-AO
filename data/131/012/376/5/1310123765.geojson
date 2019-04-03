@@ -1,0 +1,72 @@
+{
+  "id": 1310123765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74112,-12.46592,13.74112,-12.46592",
+    "geom:latitude":-12.46592,
+    "geom:longitude":13.74112,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Biopio",
+    "gn:country_code":"AO",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351615,
+    "gn:latitude":-12.46592,
+    "gn:longitude":13.74112,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Bi\u00f3pio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biapio",
+        "Aldeia do Bi\u00f3pio",
+        "Bi\u00f3pio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351615
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d9c30332bc5fd2d01c1b2a1ee77d4c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1310123765,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1310123765,
+    "wof:lastmodified":1537584800,
+    "wof:name":"Biopio",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74112,
+    -12.46592,
+    13.74112,
+    -12.46592
+],
+  "geometry": {"coordinates":[13.74112,-12.46592],"type":"Point"}
+}

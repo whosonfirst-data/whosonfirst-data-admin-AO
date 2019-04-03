@@ -1,0 +1,67 @@
+{
+  "id": 1293767059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18333,-12.8,20.18333,-12.8",
+    "geom:latitude":-12.8,
+    "geom:longitude":20.18333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Capata",
+    "gn:country_code":"AO",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876579,
+    "gn:latitude":-12.8,
+    "gn:longitude":20.18333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Capata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876579
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a8d615db1b9ff92cfefe62b58fbe3b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799729,
+            "locality_id":1293767059,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1293767059,
+    "wof:lastmodified":1536880386,
+    "wof:name":"Capata",
+    "wof:parent_id":1108799729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18333,
+    -12.8,
+    20.18333,
+    -12.8
+],
+  "geometry": {"coordinates":[20.18333,-12.8],"type":"Point"}
+}

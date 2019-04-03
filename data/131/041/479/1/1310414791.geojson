@@ -1,0 +1,67 @@
+{
+  "id": 1310414791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40556,-12.30512,16.40556,-12.30512",
+    "geom:latitude":-12.30512,
+    "geom:longitude":16.40556,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Calicoque",
+    "gn:country_code":"AO",
+    "gn:dem":1778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7904569,
+    "gn:latitude":-12.30512,
+    "gn:longitude":16.40556,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Calicoque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904569
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fd7c69d2b4e9161ad6672696a7e04e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799735,
+            "locality_id":1310414791,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1310414791,
+    "wof:lastmodified":1537045896,
+    "wof:name":"Calicoque",
+    "wof:parent_id":1108799735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40556,
+    -12.30512,
+    16.40556,
+    -12.30512
+],
+  "geometry": {"coordinates":[16.40556,-12.30512],"type":"Point"}
+}

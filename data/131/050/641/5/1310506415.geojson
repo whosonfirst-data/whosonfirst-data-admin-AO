@@ -1,0 +1,71 @@
+{
+  "id": 1310506415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34604,-9.21667,15.34604,-9.21667",
+    "geom:latitude":-9.21667,
+    "geom:longitude":15.34604,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quilessa",
+    "gn:country_code":"AO",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2238348,
+    "gn:latitude":-9.21667,
+    "gn:longitude":15.34604,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quilessa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Quicuinha",
+        "Quilessa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238348
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d9da7bc4cb88a850232a839cc16bc360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799905,
+            "locality_id":1310506415,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1310506415,
+    "wof:lastmodified":1537584603,
+    "wof:name":"Quilessa",
+    "wof:parent_id":1108799905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34604,
+    -9.21667,
+    15.34604,
+    -9.21667
+],
+  "geometry": {"coordinates":[15.34604,-9.21667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293696407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55,-12.26667,14.55,-12.26667",
+    "geom:latitude":-12.26667,
+    "geom:longitude":14.55,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lumingo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347664,
+    "gn:latitude":-12.26667,
+    "gn:longitude":14.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lumingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Domingo",
+        "Lumingo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347664
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6748002267f61ea3c72bdb47e39ad5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799737,
+            "locality_id":1293696407,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1293696407,
+    "wof:lastmodified":1537584725,
+    "wof:name":"Lumingo",
+    "wof:parent_id":1108799737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55,
+    -12.26667,
+    14.55,
+    -12.26667
+],
+  "geometry": {"coordinates":[14.55,-12.26667],"type":"Point"}
+}

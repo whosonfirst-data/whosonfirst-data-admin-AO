@@ -1,0 +1,72 @@
+{
+  "id": 1259365739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83847,-8.14923,15.83847,-8.14923",
+    "geom:latitude":-8.14923,
+    "geom:longitude":15.83847,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cassefo",
+    "gn:country_code":"AO",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241914,
+    "gn:latitude":-8.14923,
+    "gn:longitude":15.83847,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cassefo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anga",
+        "Cassefo",
+        "Changa Cassefo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241914
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d2fc7d2354f96746977b40d6905ac7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799689,
+            "locality_id":1259365739,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1259365739,
+    "wof:lastmodified":1537584656,
+    "wof:name":"Cassefo",
+    "wof:parent_id":1108799689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83847,
+    -8.14923,
+    15.83847,
+    -8.14923
+],
+  "geometry": {"coordinates":[15.83847,-8.14923],"type":"Point"}
+}

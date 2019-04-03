@@ -1,0 +1,73 @@
+{
+  "id": 1226233007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38933,-12.08502,16.38933,-12.08502",
+    "geom:latitude":-12.08502,
+    "geom:longitude":16.38933,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cassengue",
+    "gn:country_code":"AO",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350448,
+    "gn:latitude":-12.08502,
+    "gn:longitude":16.38933,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Cassengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cassange",
+        "Cassonge",
+        "Cassengue",
+        "Cassenge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350448
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8c05522ba47113fe4d80852fb1302689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1226233007,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1226233007,
+    "wof:lastmodified":1537584777,
+    "wof:name":"Cassengue",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38933,
+    -12.08502,
+    16.38933,
+    -12.08502
+],
+  "geometry": {"coordinates":[16.38933,-12.08502],"type":"Point"}
+}

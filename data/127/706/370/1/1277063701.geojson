@@ -1,0 +1,67 @@
+{
+  "id": 1277063701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39649,-9.38815,16.39649,-9.38815",
+    "geom:latitude":-9.38815,
+    "geom:longitude":16.39649,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Camassoco",
+    "gn:country_code":"AO",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592058,
+    "gn:latitude":-9.38815,
+    "gn:longitude":16.39649,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Camassoco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592058
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d2115b5a2da8ed47b6971d91f8e6fc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1277063701,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1277063701,
+    "wof:lastmodified":1536794864,
+    "wof:name":"Camassoco",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39649,
+    -9.38815,
+    16.39649,
+    -9.38815
+],
+  "geometry": {"coordinates":[16.39649,-9.38815],"type":"Point"}
+}

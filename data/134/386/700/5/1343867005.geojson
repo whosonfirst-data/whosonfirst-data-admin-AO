@@ -1,0 +1,67 @@
+{
+  "id": 1343867005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25706,-11.66016,17.25706,-11.66016",
+    "geom:latitude":-11.66016,
+    "geom:longitude":17.25706,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mangueira",
+    "gn:country_code":"AO",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901665,
+    "gn:latitude":-11.66016,
+    "gn:longitude":17.25706,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Mangueira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901665
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"038f259625d3f4ed9365ad9803730f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1343867005,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1343867005,
+    "wof:lastmodified":1536657199,
+    "wof:name":"Mangueira",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25706,
+    -11.66016,
+    17.25706,
+    -11.66016
+],
+  "geometry": {"coordinates":[17.25706,-11.66016],"type":"Point"}
+}

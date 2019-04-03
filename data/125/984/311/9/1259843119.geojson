@@ -1,0 +1,67 @@
+{
+  "id": 1259843119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35248,-7.95626,21.35248,-7.95626",
+    "geom:latitude":-7.95626,
+    "geom:longitude":21.35248,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ionde",
+    "gn:country_code":"AO",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7696381,
+    "gn:latitude":-7.95626,
+    "gn:longitude":21.35248,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ionde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696381
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a2bea7262007f9452f29a9829f780ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1259843119,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1259843119,
+    "wof:lastmodified":1536836361,
+    "wof:name":"Ionde",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35248,
+    -7.95626,
+    21.35248,
+    -7.95626
+],
+  "geometry": {"coordinates":[21.35248,-7.95626],"type":"Point"}
+}

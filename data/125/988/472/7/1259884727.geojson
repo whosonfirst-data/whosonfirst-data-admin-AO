@@ -1,0 +1,71 @@
+{
+  "id": 1259884727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03838,-8.58883,15.03838,-8.58883",
+    "geom:latitude":-8.58883,
+    "geom:longitude":15.03838,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quinzuanga",
+    "gn:country_code":"AO",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237828,
+    "gn:latitude":-8.58883,
+    "gn:longitude":15.03838,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quinzuanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cat\u00f4co",
+        "Quinzuanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237828
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e96fb5e13d2208158bfc03a496f3cad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799619,
+            "locality_id":1259884727,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1259884727,
+    "wof:lastmodified":1537584591,
+    "wof:name":"Quinzuanga",
+    "wof:parent_id":1108799619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03838,
+    -8.58883,
+    15.03838,
+    -8.58883
+],
+  "geometry": {"coordinates":[15.03838,-8.58883],"type":"Point"}
+}

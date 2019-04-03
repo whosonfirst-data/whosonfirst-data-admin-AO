@@ -1,0 +1,67 @@
+{
+  "id": 1293857013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83351,-6.96629,14.83351,-6.96629",
+    "geom:latitude":-6.96629,
+    "geom:longitude":14.83351,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimpungui",
+    "gn:country_code":"AO",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7741990,
+    "gn:latitude":-6.96629,
+    "gn:longitude":14.83351,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quimpungui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7741990
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b838805c14e09959a15cb9e68eee4957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799753,
+            "locality_id":1293857013,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1293857013,
+    "wof:lastmodified":1536751476,
+    "wof:name":"Quimpungui",
+    "wof:parent_id":1108799753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83351,
+    -6.96629,
+    14.83351,
+    -6.96629
+],
+  "geometry": {"coordinates":[14.83351,-6.96629],"type":"Point"}
+}

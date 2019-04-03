@@ -1,0 +1,70 @@
+{
+  "id": 1243135753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08445,-8.75309,18.08445,-8.75309",
+    "geom:latitude":-8.75309,
+    "geom:longitude":18.08445,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Fernandes",
+    "gn:country_code":"AO",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7765235,
+    "gn:latitude":-8.75309,
+    "gn:longitude":18.08445,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Fernandes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quizanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7765235
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e04c268fac430dffd984768092e1e398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1243135753,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1243135753,
+    "wof:lastmodified":1537584808,
+    "wof:name":"Fernandes",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08445,
+    -8.75309,
+    18.08445,
+    -8.75309
+],
+  "geometry": {"coordinates":[18.08445,-8.75309],"type":"Point"}
+}

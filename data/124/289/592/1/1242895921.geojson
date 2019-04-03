@@ -1,0 +1,67 @@
+{
+  "id": 1242895921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12378,-10.65099,14.12378,-10.65099",
+    "geom:latitude":-10.65099,
+    "geom:longitude":14.12378,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cariota",
+    "gn:country_code":"AO",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7866764,
+    "gn:latitude":-10.65099,
+    "gn:longitude":14.12378,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cariota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866764
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4f5bc5e9cf760c25fb7d01c8cf0dddec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799943,
+            "locality_id":1242895921,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1242895921,
+    "wof:lastmodified":1536602030,
+    "wof:name":"Cariota",
+    "wof:parent_id":1108799943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12378,
+    -10.65099,
+    14.12378,
+    -10.65099
+],
+  "geometry": {"coordinates":[14.12378,-10.65099],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226157135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87485,-11.77493,13.87485,-11.77493",
+    "geom:latitude":-11.77493,
+    "geom:longitude":13.87485,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Luetu",
+    "gn:country_code":"AO",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371623,
+    "gn:latitude":-11.77493,
+    "gn:longitude":13.87485,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Lu\u00e9tu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371623
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"021304b43bbede2005d9950a85917593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1226157135,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1226157135,
+    "wof:lastmodified":1537058650,
+    "wof:name":"Luetu",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87485,
+    -11.77493,
+    13.87485,
+    -11.77493
+],
+  "geometry": {"coordinates":[13.87485,-11.77493],"type":"Point"}
+}

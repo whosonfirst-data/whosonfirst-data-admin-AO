@@ -1,0 +1,61 @@
+{
+  "id": 1209076423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10213,-8.02483,15.10213,-8.02483",
+    "geom:latitude":-8.02483,
+    "geom:longitude":15.10213,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quinta das Arcas",
+    "gn:country_code":"AO",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698270,
+    "gn:latitude":-8.02483,
+    "gn:longitude":15.10213,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Quinta das Arcas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698270
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ee8002e39e911c77e60441eda6fff3aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209076423
+        }
+    ],
+    "wof:id":1209076423,
+    "wof:lastmodified":1536298479,
+    "wof:name":"Quinta das Arcas",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10213,
+    -8.02483,
+    15.10213,
+    -8.02483
+],
+  "geometry": {"coordinates":[15.10213,-8.02483],"type":"Point"}
+}

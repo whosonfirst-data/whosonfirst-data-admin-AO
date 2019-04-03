@@ -1,0 +1,67 @@
+{
+  "id": 1225906745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.545,-8.57528,13.545,-8.57528",
+    "geom:latitude":-8.57528,
+    "geom:longitude":13.545,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Quipetelo",
+    "gn:country_code":"AO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591811,
+    "gn:latitude":-8.57528,
+    "gn:longitude":13.545,
+    "gn:modification_date":"1998-05-29",
+    "gn:name":"Quipetelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591811
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f2450bb7f43d95295911860268cc0872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799875,
+            "locality_id":1225906745,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1225906745,
+    "wof:lastmodified":1536926634,
+    "wof:name":"Quipetelo",
+    "wof:parent_id":1108799875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.545,
+    -8.57528,
+    13.545,
+    -8.57528
+],
+  "geometry": {"coordinates":[13.545,-8.57528],"type":"Point"}
+}

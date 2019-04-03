@@ -1,0 +1,67 @@
+{
+  "id": 1225915697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4729,-8.31076,20.4729,-8.31076",
+    "geom:latitude":-8.31076,
+    "geom:longitude":20.4729,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Prospeccao",
+    "gn:country_code":"AO",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7766262,
+    "gn:latitude":-8.31076,
+    "gn:longitude":20.4729,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Prospec\u00e7\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7766262
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"19d01f473d9bb0fd3b19c26b4b8292ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1225915697,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1225915697,
+    "wof:lastmodified":1536913344,
+    "wof:name":"Prospeccao",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4729,
+    -8.31076,
+    20.4729,
+    -8.31076
+],
+  "geometry": {"coordinates":[20.4729,-8.31076],"type":"Point"}
+}

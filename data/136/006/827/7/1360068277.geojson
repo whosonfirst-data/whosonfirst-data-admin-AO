@@ -1,0 +1,67 @@
+{
+  "id": 1360068277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0692,-5.94818,16.0692,-5.94818",
+    "geom:latitude":-5.94818,
+    "geom:longitude":16.0692,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quinheta",
+    "gn:country_code":"AO",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7663393,
+    "gn:latitude":-5.94818,
+    "gn:longitude":16.0692,
+    "gn:modification_date":"2011-02-09",
+    "gn:name":"Quinheta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663393
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7548f75da93919b9e9a2a676e2b91ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1360068277,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1360068277,
+    "wof:lastmodified":1536969645,
+    "wof:name":"Quinheta",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0692,
+    -5.94818,
+    16.0692,
+    -5.94818
+],
+  "geometry": {"coordinates":[16.0692,-5.94818],"type":"Point"}
+}

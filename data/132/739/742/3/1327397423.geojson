@@ -1,0 +1,67 @@
+{
+  "id": 1327397423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93333,-8.55,17.93333,-8.55",
+    "geom:latitude":-8.55,
+    "geom:longitude":17.93333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Macango",
+    "gn:country_code":"AO",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239972,
+    "gn:latitude":-8.55,
+    "gn:longitude":17.93333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Macango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239972
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b01341379d0d0b3c347f7179e12cd3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1327397423,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1327397423,
+    "wof:lastmodified":1536731651,
+    "wof:name":"Macango",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93332999999999,
+    -8.55,
+    17.93332999999999,
+    -8.55
+],
+  "geometry": {"coordinates":[17.93332999999999,-8.55],"type":"Point"}
+}

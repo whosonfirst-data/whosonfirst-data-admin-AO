@@ -1,0 +1,67 @@
+{
+  "id": 1209911829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89018,-9.93337,14.89018,-9.93337",
+    "geom:latitude":-9.93337,
+    "geom:longitude":14.89018,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Catequele",
+    "gn:country_code":"AO",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783985,
+    "gn:latitude":-9.93337,
+    "gn:longitude":14.89018,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Catequele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783985
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"87897616ecd17db27d9ee94ac5f96a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1209911829,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1209911829,
+    "wof:lastmodified":1536377941,
+    "wof:name":"Catequele",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89018,
+    -9.93337,
+    14.89018,
+    -9.93337
+],
+  "geometry": {"coordinates":[14.89018,-9.93337],"type":"Point"}
+}

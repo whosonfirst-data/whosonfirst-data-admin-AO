@@ -1,0 +1,67 @@
+{
+  "id": 1226416337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28333,-13.88333,21.28333,-13.88333",
+    "geom:latitude":-13.88333,
+    "geom:longitude":21.28333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chiputa",
+    "gn:country_code":"AO",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876384,
+    "gn:latitude":-13.88333,
+    "gn:longitude":21.28333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chiputa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876384
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4290802536c8d5458a754ffef9ddfc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1226416337,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1226416337,
+    "wof:lastmodified":1536688017,
+    "wof:name":"Chiputa",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28333,
+    -13.88333,
+    21.28333,
+    -13.88333
+],
+  "geometry": {"coordinates":[21.28333,-13.88333],"type":"Point"}
+}

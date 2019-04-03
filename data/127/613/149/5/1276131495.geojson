@@ -1,0 +1,67 @@
+{
+  "id": 1276131495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62931,-11.82693,16.62931,-11.82693",
+    "geom:latitude":-11.82693,
+    "geom:longitude":16.62931,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Coliengue",
+    "gn:country_code":"AO",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903538,
+    "gn:latitude":-11.82693,
+    "gn:longitude":16.62931,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Coliengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903538
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"03654e37a1a3377feb55ee2c5212eed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1276131495,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1276131495,
+    "wof:lastmodified":1537047044,
+    "wof:name":"Coliengue",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62931,
+    -11.82693,
+    16.62931,
+    -11.82693
+],
+  "geometry": {"coordinates":[16.62931,-11.82693],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259375295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34342,-11.10534,14.34342,-11.10534",
+    "geom:latitude":-11.10534,
+    "geom:longitude":14.34342,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Canene",
+    "gn:country_code":"AO",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7864471,
+    "gn:latitude":-11.10534,
+    "gn:longitude":14.34342,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Canene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7864471
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c59f71ee81390d50358a0fc0aa177d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1259375295,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259375295,
+    "wof:lastmodified":1537013367,
+    "wof:name":"Canene",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34342,
+    -11.10534,
+    14.34342,
+    -11.10534
+],
+  "geometry": {"coordinates":[14.34342,-11.10534],"type":"Point"}
+}

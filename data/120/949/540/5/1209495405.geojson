@@ -1,0 +1,61 @@
+{
+  "id": 1209495405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,-9.23333,15.63333,-9.23333",
+    "geom:latitude":-9.23333,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Missoxe",
+    "gn:country_code":"AO",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239443,
+    "gn:latitude":-9.23333,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Missoxe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239443
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"171a1fb4736f113fda20fb27c9729cec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209495405
+        }
+    ],
+    "wof:id":1209495405,
+    "wof:lastmodified":1536285352,
+    "wof:name":"Missoxe",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    -9.23333,
+    15.63333,
+    -9.23333
+],
+  "geometry": {"coordinates":[15.63333,-9.23333],"type":"Point"}
+}

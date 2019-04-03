@@ -1,0 +1,67 @@
+{
+  "id": 1210034443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.985,-12.89083,12.985,-12.89083",
+    "geom:latitude":-12.89083,
+    "geom:longitude":12.985,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Viande",
+    "gn:country_code":"AO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372285,
+    "gn:latitude":-12.89083,
+    "gn:longitude":12.985,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Viande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372285
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b8bcb1ea376a84258bd21109f92137b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799781,
+            "locality_id":1210034443,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1210034443,
+    "wof:lastmodified":1536387127,
+    "wof:name":"Viande",
+    "wof:parent_id":1108799781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.985,
+    -12.89083,
+    12.985,
+    -12.89083
+],
+  "geometry": {"coordinates":[12.985,-12.89083],"type":"Point"}
+}

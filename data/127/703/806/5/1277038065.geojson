@@ -1,0 +1,72 @@
+{
+  "id": 1277038065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85,-9.73333,21.85,-9.73333",
+    "geom:latitude":-9.73333,
+    "geom:longitude":21.85,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Samucanda",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145558,
+    "gn:latitude":-9.73333,
+    "gn:longitude":21.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Samucanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machafunda",
+        "Samucanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145558
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7619039aded50928eef0659ec1801ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799787,
+            "locality_id":1277038065,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1277038065,
+    "wof:lastmodified":1537584522,
+    "wof:name":"Samucanda",
+    "wof:parent_id":1108799787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85,
+    -9.73333,
+    21.85,
+    -9.73333
+],
+  "geometry": {"coordinates":[21.85,-9.73333],"type":"Point"}
+}

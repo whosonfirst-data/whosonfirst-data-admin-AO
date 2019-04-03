@@ -1,0 +1,61 @@
+{
+  "id": 1209287639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87511,-6.93837,15.87511,-6.93837",
+    "geom:latitude":-6.93837,
+    "geom:longitude":15.87511,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quingundo Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779359,
+    "gn:latitude":-6.93837,
+    "gn:longitude":15.87511,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Quingundo Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779359
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6075046ae020f38252e5980a739dae5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209287639
+        }
+    ],
+    "wof:id":1209287639,
+    "wof:lastmodified":1536291804,
+    "wof:name":"Quingundo Primeiro",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87511,
+    -6.93837,
+    15.87511,
+    -6.93837
+],
+  "geometry": {"coordinates":[15.87511,-6.93837],"type":"Point"}
+}

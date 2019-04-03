@@ -1,0 +1,67 @@
+{
+  "id": 1225832143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75464,-10.59743,17.75464,-10.59743",
+    "geom:latitude":-10.59743,
+    "geom:longitude":17.75464,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sinendele",
+    "gn:country_code":"AO",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900792,
+    "gn:latitude":-10.59743,
+    "gn:longitude":17.75464,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Sinendele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900792
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"158321ba645bceb93e8c3d0ae979ac59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799719,
+            "locality_id":1225832143,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1225832143,
+    "wof:lastmodified":1537031900,
+    "wof:name":"Sinendele",
+    "wof:parent_id":1108799719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75464,
+    -10.59743,
+    17.75464,
+    -10.59743
+],
+  "geometry": {"coordinates":[17.75464,-10.59743],"type":"Point"}
+}

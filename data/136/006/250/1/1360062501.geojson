@@ -1,0 +1,67 @@
+{
+  "id": 1360062501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10279,-9.11861,16.10279,-9.11861",
+    "geom:latitude":-9.11861,
+    "geom:longitude":16.10279,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cachinga",
+    "gn:country_code":"AO",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771579,
+    "gn:latitude":-9.11861,
+    "gn:longitude":16.10279,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cachinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771579
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a96df858d886c071bbcbcc2e70b2ce6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1360062501,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1360062501,
+    "wof:lastmodified":1536977758,
+    "wof:name":"Cachinga",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10279,
+    -9.11861,
+    16.10279,
+    -9.11861
+],
+  "geometry": {"coordinates":[16.10279,-9.11861],"type":"Point"}
+}

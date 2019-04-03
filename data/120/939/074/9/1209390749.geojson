@@ -1,0 +1,64 @@
+{
+  "id": 1209390749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55586,-9.44391,20.55586,-9.44391",
+    "geom:latitude":-9.44391,
+    "geom:longitude":20.55586,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Camapanda",
+    "gn:country_code":"AO",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7770475,
+    "gn:latitude":-9.44391,
+    "gn:longitude":20.55586,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Camapanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinte e Cinco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7770475
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0183ba9474fea9fa128fa9bda41a5fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209390749
+        }
+    ],
+    "wof:id":1209390749,
+    "wof:lastmodified":1537584810,
+    "wof:name":"Camapanda",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55586,
+    -9.44391,
+    20.55586,
+    -9.44391
+],
+  "geometry": {"coordinates":[20.55586,-9.44391],"type":"Point"}
+}

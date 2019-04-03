@@ -1,0 +1,61 @@
+{
+  "id": 1209327445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55899,-11.36381,16.55899,-11.36381",
+    "geom:latitude":-11.36381,
+    "geom:longitude":16.55899,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Damasco Tchimonga",
+    "gn:country_code":"AO",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858829,
+    "gn:latitude":-11.36381,
+    "gn:longitude":16.55899,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Damasco Tchimonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858829
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7f26c65d703337f27978ee6513245858",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209327445
+        }
+    ],
+    "wof:id":1209327445,
+    "wof:lastmodified":1536290485,
+    "wof:name":"Damasco Tchimonga",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.558989999999998,
+    -11.36381,
+    16.558989999999998,
+    -11.36381
+],
+  "geometry": {"coordinates":[16.55899,-11.36381],"type":"Point"}
+}

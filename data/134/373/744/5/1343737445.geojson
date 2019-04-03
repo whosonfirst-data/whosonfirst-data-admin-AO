@@ -1,0 +1,67 @@
+{
+  "id": 1343737445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41293,-8.39979,13.41293,-8.39979",
+    "geom:latitude":-8.39979,
+    "geom:longitude":13.41293,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Malengue",
+    "gn:country_code":"AO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7696589,
+    "gn:latitude":-8.39979,
+    "gn:longitude":13.41293,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Malengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696589
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"006cbfd6cb306ea66cd0086daad3eb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799875,
+            "locality_id":1343737445,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1343737445,
+    "wof:lastmodified":1536843092,
+    "wof:name":"Malengue",
+    "wof:parent_id":1108799875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41293,
+    -8.39979,
+    13.41293,
+    -8.39979
+],
+  "geometry": {"coordinates":[13.41293,-8.39979],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292916391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89002,-11.94877,16.89002,-11.94877",
+    "geom:latitude":-11.94877,
+    "geom:longitude":16.89002,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Elavoca",
+    "gn:country_code":"AO",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903563,
+    "gn:latitude":-11.94877,
+    "gn:longitude":16.89002,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Elavoca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903563
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1c2794fb8a03228c0139f14f995f3e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799907,
+            "locality_id":1292916391,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1292916391,
+    "wof:lastmodified":1536613825,
+    "wof:name":"Elavoca",
+    "wof:parent_id":1108799907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89002,
+    -11.94877,
+    16.89002,
+    -11.94877
+],
+  "geometry": {"coordinates":[16.89002,-11.94877],"type":"Point"}
+}

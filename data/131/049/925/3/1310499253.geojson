@@ -1,0 +1,67 @@
+{
+  "id": 1310499253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07708,-9.83024,15.07708,-9.83024",
+    "geom:latitude":-9.83024,
+    "geom:longitude":15.07708,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dunga",
+    "gn:country_code":"AO",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2241324,
+    "gn:latitude":-9.83024,
+    "gn:longitude":15.07708,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Dunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241324
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"032eb792b1594800fc743d294020312f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1310499253,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310499253,
+    "wof:lastmodified":1536926661,
+    "wof:name":"Dunga",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07708,
+    -9.83024,
+    15.07708,
+    -9.83024
+],
+  "geometry": {"coordinates":[15.07708,-9.83024],"type":"Point"}
+}

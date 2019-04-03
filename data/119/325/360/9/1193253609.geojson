@@ -1,0 +1,70 @@
+{
+  "id": 1193253609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4198,-7.98559,14.4198,-7.98559",
+    "geom:latitude":-7.98559,
+    "geom:longitude":14.4198,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Quixico de Barro",
+    "gn:country_code":"AO",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237422,
+    "gn:latitude":-7.98559,
+    "gn:longitude":14.4198,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quixico de Barro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quixico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237422
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a76a009355f7add62476435e1ccb9c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799629,
+            "locality_id":1193253609,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1193253609,
+    "wof:lastmodified":1537584583,
+    "wof:name":"Quixico de Barro",
+    "wof:parent_id":1108799629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4198,
+    -7.98559,
+    14.4198,
+    -7.98559
+],
+  "geometry": {"coordinates":[14.4198,-7.98559],"type":"Point"}
+}

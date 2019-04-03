@@ -1,0 +1,67 @@
+{
+  "id": 1260365737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75491,-10.0575,18.75491,-10.0575",
+    "geom:latitude":-10.0575,
+    "geom:longitude":18.75491,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muatchimaca",
+    "gn:country_code":"AO",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891432,
+    "gn:latitude":-10.0575,
+    "gn:longitude":18.75491,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Muatchimaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891432
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e093df338b987774fe48d9baadc44fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799965,
+            "locality_id":1260365737,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1260365737,
+    "wof:lastmodified":1537095465,
+    "wof:name":"Muatchimaca",
+    "wof:parent_id":1108799965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75491,
+    -10.0575,
+    18.75491,
+    -10.0575
+],
+  "geometry": {"coordinates":[18.75491,-10.0575],"type":"Point"}
+}

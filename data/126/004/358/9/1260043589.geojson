@@ -1,0 +1,67 @@
+{
+  "id": 1260043589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7361,-9.22095,17.7361,-9.22095",
+    "geom:latitude":-9.22095,
+    "geom:longitude":17.7361,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Camaca Maquitumba",
+    "gn:country_code":"AO",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785879,
+    "gn:latitude":-9.22095,
+    "gn:longitude":17.7361,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cama\u00e7a Maquitumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785879
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5f9140a10b84ae34153ae5c58a2c98b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1260043589,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1260043589,
+    "wof:lastmodified":1537043833,
+    "wof:name":"Camaca Maquitumba",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7361,
+    -9.22095,
+    17.7361,
+    -9.22095
+],
+  "geometry": {"coordinates":[17.7361,-9.22095],"type":"Point"}
+}

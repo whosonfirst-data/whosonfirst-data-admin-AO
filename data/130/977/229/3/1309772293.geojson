@@ -1,0 +1,72 @@
+{
+  "id": 1309772293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11667,-10.35,20.11667,-10.35",
+    "geom:latitude":-10.35,
+    "geom:longitude":20.11667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Samuimba",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875726,
+    "gn:latitude":-10.35,
+    "gn:longitude":20.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Samuimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chalumba",
+        "Samuimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875726
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"63e003d08acf37b8524b1fae273ff05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1309772293,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1309772293,
+    "wof:lastmodified":1537584536,
+    "wof:name":"Samuimba",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11667000000001,
+    -10.35,
+    20.11667000000001,
+    -10.35
+],
+  "geometry": {"coordinates":[20.11667000000001,-10.35],"type":"Point"}
+}

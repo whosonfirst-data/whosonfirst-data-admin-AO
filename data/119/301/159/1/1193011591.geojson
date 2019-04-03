@@ -1,0 +1,72 @@
+{
+  "id": 1193011591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,-12.28333,15.91667,-12.28333",
+    "geom:latitude":-12.28333,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Longungue",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347843,
+    "gn:latitude":-12.28333,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Longungue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Condjungue",
+        "Longungue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347843
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7e9de18ae9168ca894e1c81b4c15feed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1193011591,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1193011591,
+    "wof:lastmodified":1537584727,
+    "wof:name":"Longungue",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    -12.28333,
+    15.91667,
+    -12.28333
+],
+  "geometry": {"coordinates":[15.91667,-12.28333],"type":"Point"}
+}

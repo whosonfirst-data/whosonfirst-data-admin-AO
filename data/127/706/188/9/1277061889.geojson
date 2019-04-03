@@ -1,0 +1,67 @@
+{
+  "id": 1277061889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93333,-12.73333,15.93333,-12.73333",
+    "geom:latitude":-12.73333,
+    "geom:longitude":15.93333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"M. Veiga",
+    "gn:country_code":"AO",
+    "gn:dem":1740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347036,
+    "gn:latitude":-12.73333,
+    "gn:longitude":15.93333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"M. Veiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347036
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"400df274db05a855ac8c7c543e140ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799867,
+            "locality_id":1277061889,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1277061889,
+    "wof:lastmodified":1536797195,
+    "wof:name":"M. Veiga",
+    "wof:parent_id":1108799867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93333,
+    -12.73333,
+    15.93333,
+    -12.73333
+],
+  "geometry": {"coordinates":[15.93333,-12.73333],"type":"Point"}
+}

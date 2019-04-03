@@ -1,0 +1,67 @@
+{
+  "id": 1310071087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21172,-8.57031,14.21172,-8.57031",
+    "geom:latitude":-8.57031,
+    "geom:longitude":14.21172,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mbanza do Nzombo Macando",
+    "gn:country_code":"AO",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7759407,
+    "gn:latitude":-8.57031,
+    "gn:longitude":14.21172,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mbanza do Nzombo Macando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759407
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"50423f327b84fb74e57aa7d43bf3abcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799875,
+            "locality_id":1310071087,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1310071087,
+    "wof:lastmodified":1537044431,
+    "wof:name":"Mbanza do Nzombo Macando",
+    "wof:parent_id":1108799875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21172,
+    -8.57031,
+    14.21172,
+    -8.57031
+],
+  "geometry": {"coordinates":[14.21172,-8.57031],"type":"Point"}
+}

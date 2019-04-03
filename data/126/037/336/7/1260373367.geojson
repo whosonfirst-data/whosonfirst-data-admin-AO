@@ -1,0 +1,67 @@
+{
+  "id": 1260373367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01704,-8.00665,16.01704,-8.00665",
+    "geom:latitude":-8.00665,
+    "geom:longitude":16.01704,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quiculo",
+    "gn:country_code":"AO",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7741589,
+    "gn:latitude":-8.00665,
+    "gn:longitude":16.01704,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quiculo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7741589
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"27191d6596a6f5ca3cdf539484aabe3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799689,
+            "locality_id":1260373367,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1260373367,
+    "wof:lastmodified":1537085304,
+    "wof:name":"Quiculo",
+    "wof:parent_id":1108799689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01704,
+    -8.00665,
+    16.01704,
+    -8.00665
+],
+  "geometry": {"coordinates":[16.01704,-8.00665],"type":"Point"}
+}

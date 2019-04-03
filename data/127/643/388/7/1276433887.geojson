@@ -1,0 +1,72 @@
+{
+  "id": 1276433887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23333,-11.65,14.23333,-11.65",
+    "geom:latitude":-11.65,
+    "geom:longitude":14.23333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cacumba Luis",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351354,
+    "gn:latitude":-11.65,
+    "gn:longitude":14.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cacumba Luis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cacumba Luiz",
+        "Cacumba Luis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351354
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"da1cc18ec00a23b3b3ea2657076e920c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799795,
+            "locality_id":1276433887,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276433887,
+    "wof:lastmodified":1537584795,
+    "wof:name":"Cacumba Luis",
+    "wof:parent_id":1108799795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23333,
+    -11.65,
+    14.23333,
+    -11.65
+],
+  "geometry": {"coordinates":[14.23333,-11.65],"type":"Point"}
+}

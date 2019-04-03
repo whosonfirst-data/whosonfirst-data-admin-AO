@@ -1,0 +1,67 @@
+{
+  "id": 1209779297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.90357,-9.1922,17.90357,-9.1922",
+    "geom:latitude":-9.1922,
+    "geom:longitude":17.90357,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cambala quia Quinguri",
+    "gn:country_code":"AO",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7785885,
+    "gn:latitude":-9.1922,
+    "gn:longitude":17.90357,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cambala qui\u00e1 Quinguri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785885
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"eba73fb196d30b95fa9eca13998ad1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1209779297,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1209779297,
+    "wof:lastmodified":1536375454,
+    "wof:name":"Cambala quia Quinguri",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90357000000001,
+    -9.1922,
+    17.90357000000001,
+    -9.1922
+],
+  "geometry": {"coordinates":[17.90357000000001,-9.1922],"type":"Point"}
+}

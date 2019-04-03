@@ -1,0 +1,72 @@
+{
+  "id": 1243087537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18065,-12.35412,15.18065,-12.35412",
+    "geom:latitude":-12.35412,
+    "geom:longitude":15.18065,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Soquela",
+    "gn:country_code":"AO",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3346028,
+    "gn:latitude":-12.35412,
+    "gn:longitude":15.18065,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Soquela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Soquero",
+        "Soqueiro",
+        "Soquela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346028
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6b142cf4f7b2855216ef2b719c1ddb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1243087537,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1243087537,
+    "wof:lastmodified":1537584694,
+    "wof:name":"Soquela",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18065,
+    -12.35412,
+    15.18065,
+    -12.35412
+],
+  "geometry": {"coordinates":[15.18065,-12.35412],"type":"Point"}
+}

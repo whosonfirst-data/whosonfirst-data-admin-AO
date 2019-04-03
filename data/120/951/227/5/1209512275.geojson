@@ -1,0 +1,66 @@
+{
+  "id": 1209512275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7,-12.45,15.7,-12.45",
+    "geom:latitude":-12.45,
+    "geom:longitude":15.7,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cangir",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350760,
+    "gn:latitude":-12.45,
+    "gn:longitude":15.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cangir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gumbe",
+        "Cangir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350760
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"49c1c589437e9d7728b5bc3d0810d16e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209512275
+        }
+    ],
+    "wof:id":1209512275,
+    "wof:lastmodified":1537584784,
+    "wof:name":"Cangir",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7,
+    -12.45,
+    15.7,
+    -12.45
+],
+  "geometry": {"coordinates":[15.7,-12.45],"type":"Point"}
+}

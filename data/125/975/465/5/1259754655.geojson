@@ -1,0 +1,72 @@
+{
+  "id": 1259754655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18282,-7.34636,20.18282,-7.34636",
+    "geom:latitude":-7.34636,
+    "geom:longitude":20.18282,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tchitopo",
+    "gn:country_code":"AO",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145774,
+    "gn:latitude":-7.34636,
+    "gn:longitude":20.18282,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchitopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xitopo",
+        "Chitopo",
+        "Tchitopo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145774
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ead98cd63bee14ed6a78b45e6fd2b688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "locality_id":1259754655,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1259754655,
+    "wof:lastmodified":1537584527,
+    "wof:name":"Tchitopo",
+    "wof:parent_id":1108799855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18282,
+    -7.34636,
+    20.18282,
+    -7.34636
+],
+  "geometry": {"coordinates":[20.18282,-7.34636],"type":"Point"}
+}

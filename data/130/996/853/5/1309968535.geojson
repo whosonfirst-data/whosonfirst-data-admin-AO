@@ -1,0 +1,71 @@
+{
+  "id": 1309968535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0534,-9.85418,14.0534,-9.85418",
+    "geom:latitude":-9.85418,
+    "geom:longitude":14.0534,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cuambua",
+    "gn:country_code":"AO",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241673,
+    "gn:latitude":-9.85418,
+    "gn:longitude":14.0534,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Cuambua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuambua Velho",
+        "Cuambua Velha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241673
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"16551bcf3e22efb54bd4196d6caf809a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1309968535,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1309968535,
+    "wof:lastmodified":1537584651,
+    "wof:name":"Cuambua",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0534,
+    -9.85418,
+    14.0534,
+    -9.85418
+],
+  "geometry": {"coordinates":[14.0534,-9.85418],"type":"Point"}
+}

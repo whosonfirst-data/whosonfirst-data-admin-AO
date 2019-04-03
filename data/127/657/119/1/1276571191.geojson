@@ -1,0 +1,72 @@
+{
+  "id": 1276571191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81667,-12.88333,15.81667,-12.88333",
+    "geom:latitude":-12.88333,
+    "geom:longitude":15.81667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Benfica",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351667,
+    "gn:latitude":-12.88333,
+    "gn:longitude":15.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Benfica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bemfica",
+        "Benfica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351667
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"785435df12deb8f532b072856b0fccca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799931,
+            "locality_id":1276571191,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276571191,
+    "wof:lastmodified":1537584801,
+    "wof:name":"Benfica",
+    "wof:parent_id":1108799931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81667,
+    -12.88333,
+    15.81667,
+    -12.88333
+],
+  "geometry": {"coordinates":[15.81667,-12.88333],"type":"Point"}
+}

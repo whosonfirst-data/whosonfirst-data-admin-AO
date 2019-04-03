@@ -1,0 +1,76 @@
+{
+  "id": 1327220977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05339,-8.90769,17.05339,-8.90769",
+    "geom:latitude":-8.90769,
+    "geom:longitude":17.05339,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cunda dia Baze",
+    "gn:country_code":"AO",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240686,
+    "gn:latitude":-8.90769,
+    "gn:longitude":17.05339,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cunda di\u00e1 Baze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cunda Rio-Baza",
+        "Montalegre",
+        "Kunda-ri\u00e1-Baza",
+        "Kunda-dia-Baze",
+        "Cunda di\u00e1 Baze",
+        "Cunda Ria-Baza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240686,
+        "wk:page":"Kunda-dia-Base"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"29a3b93d9be236ac56ca8451618ad4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799725,
+            "locality_id":1327220977,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1327220977,
+    "wof:lastmodified":1537584633,
+    "wof:name":"Cunda dia Baze",
+    "wof:parent_id":1108799725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05339,
+    -8.90769,
+    17.05339,
+    -8.90769
+],
+  "geometry": {"coordinates":[17.05339,-8.90769],"type":"Point"}
+}

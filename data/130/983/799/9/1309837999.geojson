@@ -1,0 +1,71 @@
+{
+  "id": 1309837999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3757,-8.68944,15.3757,-8.68944",
+    "geom:latitude":-8.68944,
+    "geom:longitude":15.3757,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Uiangombe",
+    "gn:country_code":"AO",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236570,
+    "gn:latitude":-8.68944,
+    "gn:longitude":15.3757,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uiangombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quiangombe",
+        "Uiangombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236570
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ee91aa4eb55a9e889f8cd25716a5b85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1309837999,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1309837999,
+    "wof:lastmodified":1537584571,
+    "wof:name":"Uiangombe",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3757,
+    -8.68944,
+    15.3757,
+    -8.68944
+],
+  "geometry": {"coordinates":[15.3757,-8.68944],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209017281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08429,-11.42511,17.08429,-11.42511",
+    "geom:latitude":-11.42511,
+    "geom:longitude":17.08429,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lombe",
+    "gn:country_code":"AO",
+    "gn:dem":1535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7788003,
+    "gn:latitude":-11.42511,
+    "gn:longitude":17.08429,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Lombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7788003
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7117fa71229c90b8162f5498f921da4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209017281
+        }
+    ],
+    "wof:id":1209017281,
+    "wof:lastmodified":1536300256,
+    "wof:name":"Lombe",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08429,
+    -11.42511,
+    17.08429,
+    -11.42511
+],
+  "geometry": {"coordinates":[17.08429,-11.42511],"type":"Point"}
+}

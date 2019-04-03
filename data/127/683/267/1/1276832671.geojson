@@ -1,0 +1,67 @@
+{
+  "id": 1276832671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36656,-9.88877,20.36656,-9.88877",
+    "geom:latitude":-9.88877,
+    "geom:longitude":20.36656,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Nanguanza",
+    "gn:country_code":"AO",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7789970,
+    "gn:latitude":-9.88877,
+    "gn:longitude":20.36656,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Nanguanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789970
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"64fe823ec539a37f31d0eac1328d6cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1276832671,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1276832671,
+    "wof:lastmodified":1536603848,
+    "wof:name":"Nanguanza",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36656,
+    -9.88877,
+    20.36656,
+    -9.88877
+],
+  "geometry": {"coordinates":[20.36656,-9.88877],"type":"Point"}
+}

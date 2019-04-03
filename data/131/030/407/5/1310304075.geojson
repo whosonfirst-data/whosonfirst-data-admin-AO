@@ -1,0 +1,67 @@
+{
+  "id": 1310304075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59955,-9.00718,14.59955,-9.00718",
+    "geom:latitude":-9.00718,
+    "geom:longitude":14.59955,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Caminha",
+    "gn:country_code":"AO",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7770720,
+    "gn:latitude":-9.00718,
+    "gn:longitude":14.59955,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Caminha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7770720
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d504ceed693770d543f6a4d8ae814c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799607,
+            "locality_id":1310304075,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1310304075,
+    "wof:lastmodified":1536710292,
+    "wof:name":"Caminha",
+    "wof:parent_id":1108799607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59955,
+    -9.00718,
+    14.59955,
+    -9.00718
+],
+  "geometry": {"coordinates":[14.59955,-9.00718],"type":"Point"}
+}

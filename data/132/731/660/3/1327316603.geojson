@@ -1,0 +1,72 @@
+{
+  "id": 1327316603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09295,-7.90004,15.09295,-7.90004",
+    "geom:latitude":-7.90004,
+    "geom:longitude":15.09295,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tras-os-Montes",
+    "gn:country_code":"AO",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2236680,
+    "gn:latitude":-7.90004,
+    "gn:longitude":15.09295,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tr\u00e1s-os-Montes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Fazenda Ligares",
+        "Fazenda Tras-os-Montes",
+        "Tr\u00e1s-os-Montes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236680
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aa67416df22148b3a9f34e2dc8c63d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799843,
+            "locality_id":1327316603,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1327316603,
+    "wof:lastmodified":1537584573,
+    "wof:name":"Tras-os-Montes",
+    "wof:parent_id":1108799843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09295,
+    -7.90004,
+    15.09295,
+    -7.90004
+],
+  "geometry": {"coordinates":[15.09295,-7.90004],"type":"Point"}
+}

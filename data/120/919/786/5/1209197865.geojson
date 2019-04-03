@@ -1,0 +1,65 @@
+{
+  "id": 1209197865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41184,-14.35605,20.41184,-14.35605",
+    "geom:latitude":-14.35605,
+    "geom:longitude":20.41184,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Muie",
+    "gn:country_code":"AO",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875941,
+    "gn:latitude":-14.35605,
+    "gn:longitude":20.41184,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mui\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u00e9",
+        "Mui\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875941
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a5e79b0ae57d574de99a23a27780016e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209197865
+        }
+    ],
+    "wof:id":1209197865,
+    "wof:lastmodified":1537584545,
+    "wof:name":"Muie",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41184,
+    -14.35605,
+    20.41184,
+    -14.35605
+],
+  "geometry": {"coordinates":[20.41184,-14.35605],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293314537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88253,-10.08278,14.88253,-10.08278",
+    "geom:latitude":-10.08278,
+    "geom:longitude":14.88253,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Banza de Mucongo",
+    "gn:country_code":"AO",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351700,
+    "gn:latitude":-10.08278,
+    "gn:longitude":14.88253,
+    "gn:modification_date":"2014-08-16",
+    "gn:name":"Banza de Mucongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mucongo",
+        "Banza Mucongo",
+        "Banza de Mucongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351700
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"34e63889b9118dfba3942f96459c986c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1293314537,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293314537,
+    "wof:lastmodified":1537584802,
+    "wof:name":"Banza de Mucongo",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88253,
+    -10.08278,
+    14.88253,
+    -10.08278
+],
+  "geometry": {"coordinates":[14.88253,-10.08278],"type":"Point"}
+}

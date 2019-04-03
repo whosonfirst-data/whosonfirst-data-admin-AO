@@ -1,0 +1,67 @@
+{
+  "id": 1309808363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47114,-8.49307,15.47114,-8.49307",
+    "geom:latitude":-8.49307,
+    "geom:longitude":15.47114,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Canza",
+    "gn:country_code":"AO",
+    "gn:dem":1405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698617,
+    "gn:latitude":-8.49307,
+    "gn:longitude":15.47114,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Canza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698617
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aa629746344e3282b126a4c836d76e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1309808363,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1309808363,
+    "wof:lastmodified":1536928024,
+    "wof:name":"Canza",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47114,
+    -8.49307,
+    15.47114,
+    -8.49307
+],
+  "geometry": {"coordinates":[15.47114,-8.49307],"type":"Point"}
+}

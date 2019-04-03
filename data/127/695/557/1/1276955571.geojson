@@ -1,0 +1,67 @@
+{
+  "id": 1276955571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43417,-9.62667,16.43417,-9.62667",
+    "geom:latitude":-9.62667,
+    "geom:longitude":16.43417,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quiongolola",
+    "gn:country_code":"AO",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592307,
+    "gn:latitude":-9.62667,
+    "gn:longitude":16.43417,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Quiongolola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592307
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"129ba30ef681373e2cafb50dd30d95d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1276955571,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276955571,
+    "wof:lastmodified":1536940597,
+    "wof:name":"Quiongolola",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.43417,
+    -9.62667,
+    16.43417,
+    -9.62667
+],
+  "geometry": {"coordinates":[16.43417,-9.62667],"type":"Point"}
+}

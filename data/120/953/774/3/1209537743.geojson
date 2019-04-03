@@ -1,0 +1,61 @@
+{
+  "id": 1209537743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50506,-11.51094,14.50506,-11.51094",
+    "geom:latitude":-11.51094,
+    "geom:longitude":14.50506,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cane",
+    "gn:country_code":"AO",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7901233,
+    "gn:latitude":-11.51094,
+    "gn:longitude":14.50506,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Can\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901233
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2183d74b2a7f952a6ed8e631f37d80cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209537743
+        }
+    ],
+    "wof:id":1209537743,
+    "wof:lastmodified":1536284085,
+    "wof:name":"Cane",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50506,
+    -11.51094,
+    14.50506,
+    -11.51094
+],
+  "geometry": {"coordinates":[14.50506,-11.51094],"type":"Point"}
+}

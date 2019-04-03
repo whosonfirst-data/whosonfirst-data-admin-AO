@@ -1,0 +1,67 @@
+{
+  "id": 1310222683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96226,-11.99183,13.96226,-11.99183",
+    "geom:latitude":-11.99183,
+    "geom:longitude":13.96226,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ceramica",
+    "gn:country_code":"AO",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371650,
+    "gn:latitude":-11.99183,
+    "gn:longitude":13.96226,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Cer\u00e2mica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371650
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c5792b4d6c6de5683b26d6d42b3c7f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1310222683,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1310222683,
+    "wof:lastmodified":1536826511,
+    "wof:name":"Ceramica",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96226,
+    -11.99183,
+    13.96226,
+    -11.99183
+],
+  "geometry": {"coordinates":[13.96226,-11.99183],"type":"Point"}
+}

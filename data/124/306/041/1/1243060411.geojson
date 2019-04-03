@@ -1,0 +1,67 @@
+{
+  "id": 1243060411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53333,-11.2,14.53333,-11.2",
+    "geom:latitude":-11.2,
+    "geom:longitude":14.53333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chiva",
+    "gn:country_code":"AO",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349446,
+    "gn:latitude":-11.2,
+    "gn:longitude":14.53333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chiva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349446
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"70dedb132c348a27bddaaefd1c8f5107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1243060411,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1243060411,
+    "wof:lastmodified":1536863706,
+    "wof:name":"Chiva",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53333,
+    -11.2,
+    14.53333,
+    -11.2
+],
+  "geometry": {"coordinates":[14.53333,-11.2],"type":"Point"}
+}

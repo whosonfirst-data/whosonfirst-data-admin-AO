@@ -1,0 +1,67 @@
+{
+  "id": 1310496177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0458,-14.84314,15.0458,-14.84314",
+    "geom:latitude":-14.84314,
+    "geom:longitude":15.0458,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Alcacer",
+    "gn:country_code":"AO",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908136,
+    "gn:latitude":-14.84314,
+    "gn:longitude":15.0458,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Alcacer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908136
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9978f62f8c5f1a9114fadfd387f64f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799687,
+            "locality_id":1310496177,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1310496177,
+    "wof:lastmodified":1536931115,
+    "wof:name":"Alcacer",
+    "wof:parent_id":1108799687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0458,
+    -14.84314,
+    15.0458,
+    -14.84314
+],
+  "geometry": {"coordinates":[15.0458,-14.84314],"type":"Point"}
+}

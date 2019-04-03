@@ -1,0 +1,67 @@
+{
+  "id": 1276476493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33783,-9.53275,14.33783,-9.53275",
+    "geom:latitude":-9.53275,
+    "geom:longitude":14.33783,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Primeiro de Maio",
+    "gn:country_code":"AO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7782774,
+    "gn:latitude":-9.53275,
+    "gn:longitude":14.33783,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Primeiro de Maio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7782774
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6561208478b830ae692c69d8a21361e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799789,
+            "locality_id":1276476493,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1276476493,
+    "wof:lastmodified":1537081088,
+    "wof:name":"Primeiro de Maio",
+    "wof:parent_id":1108799789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33783,
+    -9.53275,
+    14.33783,
+    -9.53275
+],
+  "geometry": {"coordinates":[14.33783,-9.53275],"type":"Point"}
+}

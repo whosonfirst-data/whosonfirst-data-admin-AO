@@ -1,0 +1,61 @@
+{
+  "id": 1209525589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52472,-12.55194,13.52472,-12.55194",
+    "geom:latitude":-12.55194,
+    "geom:longitude":13.52472,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chimuco",
+    "gn:country_code":"AO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372393,
+    "gn:latitude":-12.55194,
+    "gn:longitude":13.52472,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Chimuco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372393
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3d7fc2a9587ffeb5394d222fbdc3a8f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209525589
+        }
+    ],
+    "wof:id":1209525589,
+    "wof:lastmodified":1536284441,
+    "wof:name":"Chimuco",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52472,
+    -12.55194,
+    13.52472,
+    -12.55194
+],
+  "geometry": {"coordinates":[13.52472,-12.55194],"type":"Point"}
+}

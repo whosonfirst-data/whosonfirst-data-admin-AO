@@ -1,0 +1,66 @@
+{
+  "id": 1209597503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38333,-6.16667,14.38333,-6.16667",
+    "geom:latitude":-6.16667,
+    "geom:longitude":14.38333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bumbuge",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243377,
+    "gn:latitude":-6.16667,
+    "gn:longitude":14.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bumbuge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bumbugi",
+        "Bumbuge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243377
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c687e492b82b36e7d49bbdb75389d79b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209597503
+        }
+    ],
+    "wof:id":1209597503,
+    "wof:lastmodified":1537584675,
+    "wof:name":"Bumbuge",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38333,
+    -6.16667,
+    14.38333,
+    -6.16667
+],
+  "geometry": {"coordinates":[14.38333,-6.16667],"type":"Point"}
+}

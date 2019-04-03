@@ -1,0 +1,67 @@
+{
+  "id": 1259753433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22539,-6.5654,15.22539,-6.5654",
+    "geom:latitude":-6.5654,
+    "geom:longitude":15.22539,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quindaqui",
+    "gn:country_code":"AO",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754284,
+    "gn:latitude":-6.5654,
+    "gn:longitude":15.22539,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quind\u00e1qui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754284
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4364ab6d08a68382548baf4cc071460d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1259753433,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1259753433,
+    "wof:lastmodified":1536966274,
+    "wof:name":"Quindaqui",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22539,
+    -6.5654,
+    15.22539,
+    -6.5654
+],
+  "geometry": {"coordinates":[15.22539,-6.5654],"type":"Point"}
+}

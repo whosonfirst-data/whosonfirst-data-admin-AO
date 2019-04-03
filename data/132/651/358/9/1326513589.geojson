@@ -1,0 +1,73 @@
+{
+  "id": 1326513589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85,-11.48333,22.85,-11.48333",
+    "geom:latitude":-11.48333,
+    "geom:longitude":22.85,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nhamuxiri",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875872,
+    "gn:latitude":-11.48333,
+    "gn:longitude":22.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nhamuxiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namuchire",
+        "Namachire",
+        "Nhamuxiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875872
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"18288d8d0d020e5e5f190af5d8637759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1326513589,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1326513589,
+    "wof:lastmodified":1537584543,
+    "wof:name":"Nhamuxiri",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85,
+    -11.48333,
+    22.85,
+    -11.48333
+],
+  "geometry": {"coordinates":[22.85,-11.48333],"type":"Point"}
+}

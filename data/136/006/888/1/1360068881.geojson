@@ -1,0 +1,74 @@
+{
+  "id": 1360068881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.76667,-12.08333,22.76667,-12.08333",
+    "geom:latitude":-12.08333,
+    "geom:longitude":22.76667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Samundoco",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875723,
+    "gn:latitude":-12.08333,
+    "gn:longitude":22.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Samundoco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lusangu",
+        "Lussango",
+        "Lassongo",
+        "Samundoco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875723
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f3a8af360d8f09ef64fc91670160fd48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1360068881,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1360068881,
+    "wof:lastmodified":1537584536,
+    "wof:name":"Samundoco",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.76667,
+    -12.08333,
+    22.76667,
+    -12.08333
+],
+  "geometry": {"coordinates":[22.76667,-12.08333],"type":"Point"}
+}

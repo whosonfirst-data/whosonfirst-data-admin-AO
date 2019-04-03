@@ -1,0 +1,67 @@
+{
+  "id": 1343331349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68333,-6.48333,14.68333,-6.48333",
+    "geom:latitude":-6.48333,
+    "geom:longitude":14.68333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zemba",
+    "gn:country_code":"AO",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236293,
+    "gn:latitude":-6.48333,
+    "gn:longitude":14.68333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Zemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236293
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"db2b4f3f43ac892f57b905c6def76c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799899,
+            "locality_id":1343331349,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1343331349,
+    "wof:lastmodified":1536933488,
+    "wof:name":"Zemba",
+    "wof:parent_id":1108799899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68333,
+    -6.48333,
+    14.68333,
+    -6.48333
+],
+  "geometry": {"coordinates":[14.68333,-6.48333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276368737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71573,-9.61961,14.71573,-9.61961",
+    "geom:latitude":-9.61961,
+    "geom:longitude":14.71573,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quituto",
+    "gn:country_code":"AO",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7783879,
+    "gn:latitude":-9.61961,
+    "gn:longitude":14.71573,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Quituto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783879
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"745cf045f049e8dff8099b1206487fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799789,
+            "locality_id":1276368737,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1276368737,
+    "wof:lastmodified":1536731468,
+    "wof:name":"Quituto",
+    "wof:parent_id":1108799789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71573,
+    -9.61961,
+    14.71573,
+    -9.61961
+],
+  "geometry": {"coordinates":[14.71573,-9.61961],"type":"Point"}
+}

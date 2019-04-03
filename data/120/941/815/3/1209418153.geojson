@@ -1,0 +1,61 @@
+{
+  "id": 1209418153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85269,-11.40901,16.85269,-11.40901",
+    "geom:latitude":-11.40901,
+    "geom:longitude":16.85269,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Navio",
+    "gn:country_code":"AO",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858916,
+    "gn:latitude":-11.40901,
+    "gn:longitude":16.85269,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Navio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858916
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e7b6610741940f2ebf6e5e6d18ed4e55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209418153
+        }
+    ],
+    "wof:id":1209418153,
+    "wof:lastmodified":1536287618,
+    "wof:name":"Navio",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85269,
+    -11.40901,
+    16.85269,
+    -11.40901
+],
+  "geometry": {"coordinates":[16.85269,-11.40901],"type":"Point"}
+}

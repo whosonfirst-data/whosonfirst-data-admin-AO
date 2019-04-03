@@ -1,0 +1,67 @@
+{
+  "id": 1276949309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71667,-8.4,17.71667,-8.4",
+    "geom:latitude":-8.4,
+    "geom:longitude":17.71667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mussuco",
+    "gn:country_code":"AO",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239140,
+    "gn:latitude":-8.4,
+    "gn:longitude":17.71667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Mussuco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239140
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a3f39f171b6791a29e9ef0f7c01a5d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1276949309,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1276949309,
+    "wof:lastmodified":1536948656,
+    "wof:name":"Mussuco",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71667,
+    -8.4,
+    17.71667,
+    -8.4
+],
+  "geometry": {"coordinates":[17.71667,-8.4],"type":"Point"}
+}

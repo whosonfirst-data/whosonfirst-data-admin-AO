@@ -1,0 +1,65 @@
+{
+  "id": 1209395117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36562,-7.6764,16.36562,-7.6764",
+    "geom:latitude":-7.6764,
+    "geom:longitude":16.36562,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quicatumua",
+    "gn:country_code":"AO",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242104,
+    "gn:latitude":-7.6764,
+    "gn:longitude":16.36562,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quicat\u00famua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quicat\u00famua",
+        "Catuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242104
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5697e69188fa9727d5afa807881c097e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209395117
+        }
+    ],
+    "wof:id":1209395117,
+    "wof:lastmodified":1537584659,
+    "wof:name":"Quicatumua",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36562,
+    -7.6764,
+    16.36562,
+    -7.6764
+],
+  "geometry": {"coordinates":[16.36562,-7.6764],"type":"Point"}
+}

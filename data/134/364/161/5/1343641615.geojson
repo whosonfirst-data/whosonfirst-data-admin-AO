@@ -1,0 +1,67 @@
+{
+  "id": 1343641615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.291,-9.32435,17.291,-9.32435",
+    "geom:latitude":-9.32435,
+    "geom:longitude":17.291,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bibi",
+    "gn:country_code":"AO",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785160,
+    "gn:latitude":-9.32435,
+    "gn:longitude":17.291,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Bibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785160
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"effdd69c0b3b01e1146e4444b4727753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799887,
+            "locality_id":1343641615,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343641615,
+    "wof:lastmodified":1536981590,
+    "wof:name":"Bibi",
+    "wof:parent_id":1108799887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.291,
+    -9.32435,
+    17.291,
+    -9.32435
+],
+  "geometry": {"coordinates":[17.291,-9.32435],"type":"Point"}
+}

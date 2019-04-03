@@ -1,0 +1,67 @@
+{
+  "id": 1293905657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90566,-11.52196,14.90566,-11.52196",
+    "geom:latitude":-11.52196,
+    "geom:longitude":14.90566,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lucunho",
+    "gn:country_code":"AO",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7901282,
+    "gn:latitude":-11.52196,
+    "gn:longitude":14.90566,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Lucunho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901282
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e21b92a74d54bf58fe150a6573c7433b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1293905657,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293905657,
+    "wof:lastmodified":1536681408,
+    "wof:name":"Lucunho",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90566,
+    -11.52196,
+    14.90566,
+    -11.52196
+],
+  "geometry": {"coordinates":[14.90566,-11.52196],"type":"Point"}
+}

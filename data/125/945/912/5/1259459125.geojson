@@ -1,0 +1,70 @@
+{
+  "id": 1259459125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9258,-8.53493,20.9258,-8.53493",
+    "geom:latitude":-8.53493,
+    "geom:longitude":20.9258,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sanga",
+    "gn:country_code":"AO",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7764549,
+    "gn:latitude":-8.53493,
+    "gn:longitude":20.9258,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canhica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764549
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9cb655686f396211f4e52f1799132dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1259459125,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1259459125,
+    "wof:lastmodified":1537584808,
+    "wof:name":"Sanga",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9258,
+    -8.53493,
+    20.9258,
+    -8.53493
+],
+  "geometry": {"coordinates":[20.9258,-8.53493],"type":"Point"}
+}

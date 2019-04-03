@@ -1,0 +1,67 @@
+{
+  "id": 1242887205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9721,-11.58997,16.9721,-11.58997",
+    "geom:latitude":-11.58997,
+    "geom:longitude":16.9721,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ndimbaimo",
+    "gn:country_code":"AO",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903583,
+    "gn:latitude":-11.58997,
+    "gn:longitude":16.9721,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Ndimbaimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903583
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5a11aed6a73851eb8b3220a7f706a690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1242887205,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1242887205,
+    "wof:lastmodified":1536615287,
+    "wof:name":"Ndimbaimo",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9721,
+    -11.58997,
+    16.9721,
+    -11.58997
+],
+  "geometry": {"coordinates":[16.9721,-11.58997],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310098009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91667,-9.88333,14.91667,-9.88333",
+    "geom:latitude":-9.88333,
+    "geom:longitude":14.91667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guelele",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240887,
+    "gn:latitude":-9.88333,
+    "gn:longitude":14.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Guelele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guelele-Velho",
+        "Guelele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240887
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f4221b8c3643c9b2902d6b8b37e887db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1310098009,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310098009,
+    "wof:lastmodified":1537584637,
+    "wof:name":"Guelele",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91667,
+    -9.88333,
+    14.91667,
+    -9.88333
+],
+  "geometry": {"coordinates":[14.91667,-9.88333],"type":"Point"}
+}

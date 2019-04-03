@@ -1,0 +1,67 @@
+{
+  "id": 1309802819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62803,-8.69496,15.62803,-8.69496",
+    "geom:latitude":-8.69496,
+    "geom:longitude":15.62803,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tunda",
+    "gn:country_code":"AO",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236630,
+    "gn:latitude":-8.69496,
+    "gn:longitude":15.62803,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Tunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236630
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"50b32d4b689b09fa07ff858bf7d2cef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1309802819,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1309802819,
+    "wof:lastmodified":1536936120,
+    "wof:name":"Tunda",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62803,
+    -8.69496,
+    15.62803,
+    -8.69496
+],
+  "geometry": {"coordinates":[15.62803,-8.69496],"type":"Point"}
+}

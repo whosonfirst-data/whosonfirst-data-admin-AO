@@ -1,0 +1,72 @@
+{
+  "id": 1226657571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.76667,-4.5,12.76667,-4.5",
+    "geom:latitude":-4.5,
+    "geom:longitude":12.76667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Buco Longo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243460,
+    "gn:latitude":-4.5,
+    "gn:longitude":12.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Buco Longo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buco N\u2019vago",
+        "Buco Longo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092013995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243460
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e37f619b21cd119cb9e80fd8bfb4d267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013995,
+            "locality_id":1226657571,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1226657571,
+    "wof:lastmodified":1537584677,
+    "wof:name":"Buco Longo",
+    "wof:parent_id":1092013995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.76667,
+    -4.5,
+    12.76667,
+    -4.5
+],
+  "geometry": {"coordinates":[12.76667,-4.5],"type":"Point"}
+}

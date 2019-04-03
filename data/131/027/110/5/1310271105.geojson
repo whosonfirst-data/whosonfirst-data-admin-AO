@@ -1,0 +1,67 @@
+{
+  "id": 1310271105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5332,-9.85286,20.5332,-9.85286",
+    "geom:latitude":-9.85286,
+    "geom:longitude":20.5332,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Cupuepua",
+    "gn:country_code":"AO",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7790009,
+    "gn:latitude":-9.85286,
+    "gn:longitude":20.5332,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cupu\u00e9pua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7790009
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3b130a0e8b71ddcace77c8734b503198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1310271105,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1310271105,
+    "wof:lastmodified":1536757747,
+    "wof:name":"Cupuepua",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5332,
+    -9.85286,
+    20.5332,
+    -9.85286
+],
+  "geometry": {"coordinates":[20.5332,-9.85286],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344267165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68556,-12.73306,13.68556,-12.73306",
+    "geom:latitude":-12.73306,
+    "geom:longitude":13.68556,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Londeia",
+    "gn:country_code":"AO",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372432,
+    "gn:latitude":-12.73306,
+    "gn:longitude":13.68556,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Londeia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372432
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7f5d96d0a14fa253dd804a94c6d2c869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799959,
+            "locality_id":1344267165,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1344267165,
+    "wof:lastmodified":1537071305,
+    "wof:name":"Londeia",
+    "wof:parent_id":1108799959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68556,
+    -12.73306,
+    13.68556,
+    -12.73306
+],
+  "geometry": {"coordinates":[13.68556,-12.73306],"type":"Point"}
+}

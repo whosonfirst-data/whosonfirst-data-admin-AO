@@ -1,0 +1,67 @@
+{
+  "id": 1292967035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.52054,-9.61138,19.52054,-9.61138",
+    "geom:latitude":-9.61138,
+    "geom:longitude":19.52054,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tchlungo",
+    "gn:country_code":"AO",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787173,
+    "gn:latitude":-9.61138,
+    "gn:longitude":19.52054,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Tchlungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787173
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e3fa6c7542fb1a2dc67cfc77e6ef196c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799759,
+            "locality_id":1292967035,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1292967035,
+    "wof:lastmodified":1537038750,
+    "wof:name":"Tchlungo",
+    "wof:parent_id":1108799759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.52054,
+    -9.61138,
+    19.52054,
+    -9.61138
+],
+  "geometry": {"coordinates":[19.52054,-9.61138],"type":"Point"}
+}

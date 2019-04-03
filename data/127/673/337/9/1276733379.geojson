@@ -1,0 +1,67 @@
+{
+  "id": 1276733379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18954,-11.45497,20.18954,-11.45497",
+    "geom:latitude":-11.45497,
+    "geom:longitude":20.18954,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Catueji",
+    "gn:country_code":"AO",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7766175,
+    "gn:latitude":-11.45497,
+    "gn:longitude":20.18954,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Catu\u00e9ji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7766175
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9f64c5961d2ba25e66ede89407049aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799675,
+            "locality_id":1276733379,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1276733379,
+    "wof:lastmodified":1536739765,
+    "wof:name":"Catueji",
+    "wof:parent_id":1108799675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18954,
+    -11.45497,
+    20.18954,
+    -11.45497
+],
+  "geometry": {"coordinates":[20.18954,-11.45497],"type":"Point"}
+}

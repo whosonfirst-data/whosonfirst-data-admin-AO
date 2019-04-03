@@ -1,0 +1,67 @@
+{
+  "id": 1293509521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06523,-12.08318,15.06523,-12.08318",
+    "geom:latitude":-12.08318,
+    "geom:longitude":15.06523,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchilipa",
+    "gn:country_code":"AO",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7906092,
+    "gn:latitude":-12.08318,
+    "gn:longitude":15.06523,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchilipa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906092
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"62d687ae45582d3d43a782871f7bc9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1293509521,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293509521,
+    "wof:lastmodified":1536755385,
+    "wof:name":"Tchilipa",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06523,
+    -12.08318,
+    15.06523,
+    -12.08318
+],
+  "geometry": {"coordinates":[15.06523,-12.08318],"type":"Point"}
+}

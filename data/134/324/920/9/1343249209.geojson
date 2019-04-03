@@ -1,0 +1,67 @@
+{
+  "id": 1343249209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07089,-9.33567,16.07089,-9.33567",
+    "geom:latitude":-9.33567,
+    "geom:longitude":16.07089,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Soquessa",
+    "gn:country_code":"AO",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771691,
+    "gn:latitude":-9.33567,
+    "gn:longitude":16.07089,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Soquessa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771691
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c48bfb2aa80ec68b28470ba06e2d865b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1343249209,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343249209,
+    "wof:lastmodified":1537049121,
+    "wof:name":"Soquessa",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07089,
+    -9.33567,
+    16.07089,
+    -9.33567
+],
+  "geometry": {"coordinates":[16.07089,-9.33567],"type":"Point"}
+}

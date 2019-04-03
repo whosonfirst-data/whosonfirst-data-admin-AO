@@ -1,0 +1,90 @@
+{
+  "id": 890436711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33333,-12.16667,17.33333,-12.16667",
+    "geom:latitude":-12.16667,
+    "geom:longitude":17.33333,
+    "gn:country":"AO",
+    "gn:fcode":"PPL",
+    "gn:pop":7677,
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Chissamba"
+    ],
+    "name:eng_x_preferred":[
+        "Chissamba"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u06cc\u0633\u0645\u0628\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Chissamba"
+    ],
+    "name:por_x_preferred":[
+        "Chissamba"
+    ],
+    "name:rum_x_preferred":[
+        "Chissamba"
+    ],
+    "name:swe_x_preferred":[
+        "Chissamba"
+    ],
+    "qs:name":"Chissamba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349580,
+        "gp:id":1259655,
+        "qs:id":1044141,
+        "wd:id":"Q2944808",
+        "wk:page":"Chissamba"
+    },
+    "wof:country":"AO",
+    "wof:created":1469052122,
+    "wof:geomhash":"cca4963c870378d85db533f7189ac876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799633,
+            "locality_id":890436711,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":890436711,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Chissamba",
+    "wof:parent_id":1108799633,
+    "wof:placetype":"locality",
+    "wof:population":7677,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33333,
+    -12.16667,
+    17.33333,
+    -12.16667
+],
+  "geometry": {"coordinates":[17.33333,-12.16667],"type":"Point"}
+}

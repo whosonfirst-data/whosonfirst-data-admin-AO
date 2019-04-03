@@ -1,0 +1,71 @@
+{
+  "id": 1242965821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34042,-11.20661,14.34042,-11.20661",
+    "geom:latitude":-11.20661,
+    "geom:longitude":14.34042,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cumbira Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349117,
+    "gn:latitude":-11.20661,
+    "gn:longitude":14.34042,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cumbira Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cumbira",
+        "Cumbira Segundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349117
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"83b0e40f2b4891a44a2557b97ef0282f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1242965821,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1242965821,
+    "wof:lastmodified":1537584748,
+    "wof:name":"Cumbira Segundo",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34042,
+    -11.20661,
+    14.34042,
+    -11.20661
+],
+  "geometry": {"coordinates":[14.34042,-11.20661],"type":"Point"}
+}

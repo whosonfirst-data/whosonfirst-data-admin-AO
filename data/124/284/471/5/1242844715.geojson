@@ -1,0 +1,73 @@
+{
+  "id": 1242844715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7308,-7.20303,15.7308,-7.20303",
+    "geom:latitude":-7.20303,
+    "geom:longitude":15.7308,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimolo Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238091,
+    "gn:latitude":-7.20303,
+    "gn:longitude":15.7308,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quimolo Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quipalo",
+        "Quipala",
+        "Quimolo",
+        "Quimolo Primeiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238091
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2cf634a0ba4994521d0a34e3fa24ec9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799617,
+            "locality_id":1242844715,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1242844715,
+    "wof:lastmodified":1537584597,
+    "wof:name":"Quimolo Primeiro",
+    "wof:parent_id":1108799617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7308,
+    -7.20303,
+    15.7308,
+    -7.20303
+],
+  "geometry": {"coordinates":[15.7308,-7.20303],"type":"Point"}
+}

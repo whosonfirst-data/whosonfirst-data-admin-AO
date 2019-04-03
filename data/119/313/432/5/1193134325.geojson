@@ -1,0 +1,67 @@
+{
+  "id": 1193134325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37829,-12.26835,15.37829,-12.26835",
+    "geom:latitude":-12.26835,
+    "geom:longitude":15.37829,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Congolo",
+    "gn:country_code":"AO",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7906300,
+    "gn:latitude":-12.26835,
+    "gn:longitude":15.37829,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Congolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906300
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1c8c0045dec0f539fb2ac6394a07fea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1193134325,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1193134325,
+    "wof:lastmodified":1536372409,
+    "wof:name":"Congolo",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37829,
+    -12.26835,
+    15.37829,
+    -12.26835
+],
+  "geometry": {"coordinates":[15.37829,-12.26835],"type":"Point"}
+}

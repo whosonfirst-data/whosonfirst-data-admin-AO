@@ -1,0 +1,67 @@
+{
+  "id": 1276417585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16667,-10.35,17.16667,-10.35",
+    "geom:latitude":-10.35,
+    "geom:longitude":17.16667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zeco",
+    "gn:country_code":"AO",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3345469,
+    "gn:latitude":-10.35,
+    "gn:longitude":17.16667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Zeco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345469
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7564c26981ea07cf8cc8f918adccd833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799771,
+            "locality_id":1276417585,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276417585,
+    "wof:lastmodified":1536665823,
+    "wof:name":"Zeco",
+    "wof:parent_id":1108799771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16667,
+    -10.35,
+    17.16667,
+    -10.35
+],
+  "geometry": {"coordinates":[17.16667,-10.35],"type":"Point"}
+}

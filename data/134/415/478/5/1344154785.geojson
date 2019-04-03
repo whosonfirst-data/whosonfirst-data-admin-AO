@@ -1,0 +1,67 @@
+{
+  "id": 1344154785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34631,-10.96624,14.34631,-10.96624",
+    "geom:latitude":-10.96624,
+    "geom:longitude":14.34631,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Longue de Baixo",
+    "gn:country_code":"AO",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866334,
+    "gn:latitude":-10.96624,
+    "gn:longitude":14.34631,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Longu\u00e9 de Baixo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866334
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"810fdc15614638e0423f77f7e5c2dc59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799827,
+            "locality_id":1344154785,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1344154785,
+    "wof:lastmodified":1536739386,
+    "wof:name":"Longue de Baixo",
+    "wof:parent_id":1108799827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34631,
+    -10.96624,
+    14.34631,
+    -10.96624
+],
+  "geometry": {"coordinates":[14.34631,-10.96624],"type":"Point"}
+}

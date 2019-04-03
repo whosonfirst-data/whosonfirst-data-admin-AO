@@ -1,0 +1,73 @@
+{
+  "id": 1327436363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21872,-8.80526,15.21872,-8.80526",
+    "geom:latitude":-8.80526,
+    "geom:longitude":15.21872,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mbanza de Caculo Cabaca",
+    "gn:country_code":"AO",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243150,
+    "gn:latitude":-8.80526,
+    "gn:longitude":15.21872,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbanza de Caculo Caba\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caba\u00e7a",
+        "Caculo",
+        "Caculo Cabaca",
+        "Mbanza de Caculo Caba\u00e7a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243150
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d35a49ef4aba16913eaf1aa5205427cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799733,
+            "locality_id":1327436363,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1327436363,
+    "wof:lastmodified":1537584673,
+    "wof:name":"Mbanza de Caculo Cabaca",
+    "wof:parent_id":1108799733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21872,
+    -8.80526,
+    15.21872,
+    -8.80526
+],
+  "geometry": {"coordinates":[15.21872,-8.80526],"type":"Point"}
+}

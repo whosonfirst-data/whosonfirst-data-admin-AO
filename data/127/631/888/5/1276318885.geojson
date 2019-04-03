@@ -1,0 +1,67 @@
+{
+  "id": 1276318885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.415,-12.76944,15.415,-12.76944",
+    "geom:latitude":-12.76944,
+    "geom:longitude":15.415,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Samussesse",
+    "gn:country_code":"AO",
+    "gn:dem":1992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372030,
+    "gn:latitude":-12.76944,
+    "gn:longitude":15.415,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Samussesse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372030
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7b4c5b41f7599a797c2043e16c3dcaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799831,
+            "locality_id":1276318885,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276318885,
+    "wof:lastmodified":1536798236,
+    "wof:name":"Samussesse",
+    "wof:parent_id":1108799831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.415,
+    -12.76944,
+    15.415,
+    -12.76944
+],
+  "geometry": {"coordinates":[15.415,-12.76944],"type":"Point"}
+}

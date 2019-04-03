@@ -1,0 +1,67 @@
+{
+  "id": 1326629289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05,-8.46667,15.05,-8.46667",
+    "geom:latitude":-8.46667,
+    "geom:longitude":15.05,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quilondo",
+    "gn:country_code":"AO",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238326,
+    "gn:latitude":-8.46667,
+    "gn:longitude":15.05,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quilondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238326
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"583712df698ae55cb7d29ff734ac0809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799619,
+            "locality_id":1326629289,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1326629289,
+    "wof:lastmodified":1536843026,
+    "wof:name":"Quilondo",
+    "wof:parent_id":1108799619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05,
+    -8.46667,
+    15.05,
+    -8.46667
+],
+  "geometry": {"coordinates":[15.05,-8.46667],"type":"Point"}
+}

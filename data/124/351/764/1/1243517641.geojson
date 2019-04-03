@@ -1,0 +1,67 @@
+{
+  "id": 1243517641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7653,-10.06871,19.7653,-10.06871",
+    "geom:latitude":-10.06871,
+    "geom:longitude":19.7653,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Capatango",
+    "gn:country_code":"AO",
+    "gn:dem":1225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7893717,
+    "gn:latitude":-10.06871,
+    "gn:longitude":19.7653,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Capatango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893717
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"557b6aa794d5b2730212b44c489738eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1243517641,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1243517641,
+    "wof:lastmodified":1536703258,
+    "wof:name":"Capatango",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7653,
+    -10.06871,
+    19.7653,
+    -10.06871
+],
+  "geometry": {"coordinates":[19.7653,-10.06871],"type":"Point"}
+}

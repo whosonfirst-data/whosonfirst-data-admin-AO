@@ -1,0 +1,67 @@
+{
+  "id": 1225816931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20764,-7.38928,21.20764,-7.38928",
+    "geom:latitude":-7.38928,
+    "geom:longitude":21.20764,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tseinda",
+    "gn:country_code":"AO",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891231,
+    "gn:latitude":-7.38928,
+    "gn:longitude":21.20764,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tseinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891231
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"781922bbee9964d9191e3cf28363c191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "locality_id":1225816931,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1225816931,
+    "wof:lastmodified":1537053070,
+    "wof:name":"Tseinda",
+    "wof:parent_id":1108799855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20764,
+    -7.38928,
+    21.20764,
+    -7.38928
+],
+  "geometry": {"coordinates":[21.20764,-7.38928],"type":"Point"}
+}

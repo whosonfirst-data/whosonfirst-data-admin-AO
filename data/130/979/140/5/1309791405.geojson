@@ -1,0 +1,67 @@
+{
+  "id": 1309791405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28922,-12.21383,16.28922,-12.21383",
+    "geom:latitude":-12.21383,
+    "geom:longitude":16.28922,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Folunguto",
+    "gn:country_code":"AO",
+    "gn:dem":1725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7904538,
+    "gn:latitude":-12.21383,
+    "gn:longitude":16.28922,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Folunguto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904538
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"21168e7a5973290a6bd5131023a3d41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1309791405,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1309791405,
+    "wof:lastmodified":1536952009,
+    "wof:name":"Folunguto",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28922,
+    -12.21383,
+    16.28922,
+    -12.21383
+],
+  "geometry": {"coordinates":[16.28922,-12.21383],"type":"Point"}
+}

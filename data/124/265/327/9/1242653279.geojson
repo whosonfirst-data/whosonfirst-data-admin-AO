@@ -1,0 +1,73 @@
+{
+  "id": 1242653279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71667,-10.23333,19.71667,-10.23333",
+    "geom:latitude":-10.23333,
+    "geom:longitude":19.71667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mussueno",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347063,
+    "gn:latitude":-10.23333,
+    "gn:longitude":19.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mussueno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muchenga",
+        "Muahunga",
+        "Mussueno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347063
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bb4ebaa9f94af9a7d8bfe1788297fd3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1242653279,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1242653279,
+    "wof:lastmodified":1537584715,
+    "wof:name":"Mussueno",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71667,
+    -10.23333,
+    19.71667,
+    -10.23333
+],
+  "geometry": {"coordinates":[19.71667,-10.23333],"type":"Point"}
+}

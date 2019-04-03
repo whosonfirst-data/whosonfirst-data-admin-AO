@@ -1,0 +1,72 @@
+{
+  "id": 1193120583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61667,-11.51667,23.61667,-11.51667",
+    "geom:latitude":-11.51667,
+    "geom:longitude":23.61667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Saluinheca",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875760,
+    "gn:latitude":-11.51667,
+    "gn:longitude":23.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Saluinheca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salunheca",
+        "Saluinheca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875760
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6189c1f5f78a0fd30cbe78e8a83de97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1193120583,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1193120583,
+    "wof:lastmodified":1537584538,
+    "wof:name":"Saluinheca",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61667000000001,
+    -11.51667,
+    23.61667000000001,
+    -11.51667
+],
+  "geometry": {"coordinates":[23.61667000000001,-11.51667],"type":"Point"}
+}

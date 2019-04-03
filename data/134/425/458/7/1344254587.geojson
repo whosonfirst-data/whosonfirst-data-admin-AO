@@ -1,0 +1,67 @@
+{
+  "id": 1344254587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90082,-10.01923,14.90082,-10.01923",
+    "geom:latitude":-10.01923,
+    "geom:longitude":14.90082,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mbanza de Zunguco",
+    "gn:country_code":"AO",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7859213,
+    "gn:latitude":-10.01923,
+    "gn:longitude":14.90082,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Mbanza de Zunguco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859213
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"37e1c022538a663553a8dd093a1428da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1344254587,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1344254587,
+    "wof:lastmodified":1537089522,
+    "wof:name":"Mbanza de Zunguco",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90082,
+    -10.01923,
+    14.90082,
+    -10.01923
+],
+  "geometry": {"coordinates":[14.90082,-10.01923],"type":"Point"}
+}

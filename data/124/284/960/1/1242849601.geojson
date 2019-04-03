@@ -1,0 +1,67 @@
+{
+  "id": 1242849601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7,-9.01667,13.7,-9.01667",
+    "geom:latitude":-9.01667,
+    "geom:longitude":13.7,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Quinga",
+    "gn:country_code":"AO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237970,
+    "gn:latitude":-9.01667,
+    "gn:longitude":13.7,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237970
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"93e526d82363c25bc6ffcc549bc11e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799819,
+            "locality_id":1242849601,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1242849601,
+    "wof:lastmodified":1536671893,
+    "wof:name":"Quinga",
+    "wof:parent_id":1108799819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7,
+    -9.01667,
+    13.7,
+    -9.01667
+],
+  "geometry": {"coordinates":[13.7,-9.01667],"type":"Point"}
+}

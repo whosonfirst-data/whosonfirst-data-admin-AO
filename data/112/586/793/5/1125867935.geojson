@@ -1,0 +1,118 @@
+{
+  "id": 1125867935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25333,-12.90667,15.25333,-12.90667",
+    "geom:latitude":-12.90667,
+    "geom:longitude":15.25333,
+    "gn:gn_country":"AO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":24346,
+    "gn:population":24346,
+    "iso:country":"AO",
+    "lbl:latitude":-12.90667,
+    "lbl:longitude":15.25333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Longonjo"
+    ],
+    "name:dut_x_preferred":[
+        "Longonjo"
+    ],
+    "name:eng_x_preferred":[
+        "Longonjo"
+    ],
+    "name:fre_x_preferred":[
+        "Longonjo"
+    ],
+    "name:ger_x_preferred":[
+        "Longonjo"
+    ],
+    "name:ita_x_preferred":[
+        "Longonjo"
+    ],
+    "name:may_x_preferred":[
+        "Longonjo"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0646\u06af\u0646\u0698\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Longonjo"
+    ],
+    "name:por_x_preferred":[
+        "Longonjo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0433\u043e\u043d\u0436\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Longonjo"
+    ],
+    "name:unk_x_variant":[
+        "Congonjo"
+    ],
+    "qs_pg:aaroncc":"AO",
+    "qs_pg:gn_country":"AO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3347853,
+    "qs_pg:gn_pop":24346,
+    "qs_pg:name":"Longonjo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":95385,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347853,
+        "qs_pg:id":95385,
+        "wd:id":"Q2342492"
+    },
+    "wof:country":"AO",
+    "wof:created":1497294140,
+    "wof:geomhash":"3f6b57005591e1d9fae78eca463742b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799831,
+            "locality_id":1125867935,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1125867935,
+    "wof:lastmodified":1513888804,
+    "wof:name":"Longonjo",
+    "wof:parent_id":1108799831,
+    "wof:placetype":"locality",
+    "wof:population":24346,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25333,
+    -12.90667,
+    15.25333,
+    -12.90667
+],
+  "geometry": {"coordinates":[15.25333,-12.90667],"type":"Point"}
+}

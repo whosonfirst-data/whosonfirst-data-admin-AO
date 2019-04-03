@@ -1,0 +1,72 @@
+{
+  "id": 1310208005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64351,-11.31748,16.64351,-11.31748",
+    "geom:latitude":-11.31748,
+    "geom:longitude":16.64351,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchiombo",
+    "gn:country_code":"AO",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349686,
+    "gn:latitude":-11.31748,
+    "gn:longitude":16.64351,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchiombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiumbo",
+        "Chiombo",
+        "Tchiombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349686
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"67ac9a2b76ed2af0aade48b241e31df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1310208005,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1310208005,
+    "wof:lastmodified":1537584759,
+    "wof:name":"Tchiombo",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64351,
+    -11.31748,
+    16.64351,
+    -11.31748
+],
+  "geometry": {"coordinates":[16.64351,-11.31748],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360261515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2,-14.55,13.2,-14.55",
+    "geom:latitude":-14.55,
+    "geom:longitude":13.2,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Arihua",
+    "gn:country_code":"AO",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351843,
+    "gn:latitude":-14.55,
+    "gn:longitude":13.2,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Arihua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667717,
+        1108799601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351843
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"758a4bc114f3d2e5f97a0d0f6e3b123e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799601,
+            "locality_id":1360261515,
+            "region_id":85667717
+        }
+    ],
+    "wof:id":1360261515,
+    "wof:lastmodified":1536691335,
+    "wof:name":"Arihua",
+    "wof:parent_id":1108799601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2,
+    -14.55,
+    13.2,
+    -14.55
+],
+  "geometry": {"coordinates":[13.2,-14.55],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226434933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2163,-11.02237,14.2163,-11.02237",
+    "geom:latitude":-11.02237,
+    "geom:longitude":14.2163,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sanga",
+    "gn:country_code":"AO",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7864421,
+    "gn:latitude":-11.02237,
+    "gn:longitude":14.2163,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Sanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7864421
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d0d14897fb1dad2a767e6dfefc3ffd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1226434933,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226434933,
+    "wof:lastmodified":1536661133,
+    "wof:name":"Sanga",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2163,
+    -11.02237,
+    14.2163,
+    -11.02237
+],
+  "geometry": {"coordinates":[14.2163,-11.02237],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293466897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79594,-8.46488,16.79594,-8.46488",
+    "geom:latitude":-8.46488,
+    "geom:longitude":16.79594,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nganga Mona",
+    "gn:country_code":"AO",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7744123,
+    "gn:latitude":-8.46488,
+    "gn:longitude":16.79594,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Nganga Mona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7744123
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"82459461873468bdbb4e3cd41ecf1443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1293466897,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293466897,
+    "wof:lastmodified":1536816091,
+    "wof:name":"Nganga Mona",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79594,
+    -8.46488,
+    16.79594,
+    -8.46488
+],
+  "geometry": {"coordinates":[16.79594,-8.46488],"type":"Point"}
+}

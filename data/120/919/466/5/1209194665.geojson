@@ -1,0 +1,61 @@
+{
+  "id": 1209194665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38708,-8.2824,16.38708,-8.2824",
+    "geom:latitude":-8.2824,
+    "geom:longitude":16.38708,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ndala Calungui",
+    "gn:country_code":"AO",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7742275,
+    "gn:latitude":-8.2824,
+    "gn:longitude":16.38708,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Ndala Calungui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7742275
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cf007ac6f24bf4172fbec868b7258fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209194665
+        }
+    ],
+    "wof:id":1209194665,
+    "wof:lastmodified":1536294813,
+    "wof:name":"Ndala Calungui",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.387079999999994,
+    -8.2824,
+    16.387079999999994,
+    -8.2824
+],
+  "geometry": {"coordinates":[16.38707999999999,-8.2824],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243434433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3125,-9.54139,16.3125,-9.54139",
+    "geom:latitude":-9.54139,
+    "geom:longitude":16.3125,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Luciano",
+    "gn:country_code":"AO",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592239,
+    "gn:latitude":-9.54139,
+    "gn:longitude":16.3125,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Luciano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592239
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3a6aca904964a108fd92afba1075e48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1243434433,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1243434433,
+    "wof:lastmodified":1536821969,
+    "wof:name":"Luciano",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3125,
+    -9.54139,
+    16.3125,
+    -9.54139
+],
+  "geometry": {"coordinates":[16.3125,-9.54139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243164589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88924,-11.16925,14.88924,-11.16925",
+    "geom:latitude":-11.16925,
+    "geom:longitude":14.88924,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Humbi",
+    "gn:country_code":"AO",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348294,
+    "gn:latitude":-11.16925,
+    "gn:longitude":14.88924,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Humbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348294
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b153bdf3dcee6ef406f395da63b9d4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1243164589,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1243164589,
+    "wof:lastmodified":1536715288,
+    "wof:name":"Humbi",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88924,
+    -11.16925,
+    14.88924,
+    -11.16925
+],
+  "geometry": {"coordinates":[14.88924,-11.16925],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293767215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81667,-14.33333,21.81667,-14.33333",
+    "geom:latitude":-14.33333,
+    "geom:longitude":21.81667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tendale",
+    "gn:country_code":"AO",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875652,
+    "gn:latitude":-14.33333,
+    "gn:longitude":21.81667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Tendale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875652
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b7cfc39cb37fdafe01a24f1d128b7a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1293767215,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1293767215,
+    "wof:lastmodified":1536880154,
+    "wof:name":"Tendale",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81667,
+    -14.33333,
+    21.81667,
+    -14.33333
+],
+  "geometry": {"coordinates":[21.81667,-14.33333],"type":"Point"}
+}

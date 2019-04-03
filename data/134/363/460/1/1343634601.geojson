@@ -1,0 +1,67 @@
+{
+  "id": 1343634601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89242,-8.22746,15.89242,-8.22746",
+    "geom:latitude":-8.22746,
+    "geom:longitude":15.89242,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chinguita",
+    "gn:country_code":"AO",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7737154,
+    "gn:latitude":-8.22746,
+    "gn:longitude":15.89242,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Chinguita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7737154
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e776da0aed7c9221eed2c719df691475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1343634601,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343634601,
+    "wof:lastmodified":1536991637,
+    "wof:name":"Chinguita",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89242,
+    -8.22746,
+    15.89242,
+    -8.22746
+],
+  "geometry": {"coordinates":[15.89242,-8.22746],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209088567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63689,-7.15648,13.63689,-7.15648",
+    "geom:latitude":-7.15648,
+    "geom:longitude":13.63689,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quindegi",
+    "gn:country_code":"AO",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240691,
+    "gn:latitude":-7.15648,
+    "gn:longitude":13.63689,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quindegi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quindege",
+        "Beca Monteira",
+        "Quinoeje",
+        "Bessa Monteiro",
+        "Quindeje",
+        "Be\u00e7a Monteiro",
+        "Besa Monteiro",
+        "Kindeje",
+        "Quindegi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240691
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"996a2ee570efcfb6592c1c37352358df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209088567
+        }
+    ],
+    "wof:id":1209088567,
+    "wof:lastmodified":1537584633,
+    "wof:name":"Quindegi",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63689,
+    -7.15648,
+    13.63689,
+    -7.15648
+],
+  "geometry": {"coordinates":[13.63689,-7.15648],"type":"Point"}
+}

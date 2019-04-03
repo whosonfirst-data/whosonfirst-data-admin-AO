@@ -1,0 +1,67 @@
+{
+  "id": 1242965825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87317,-10.45725,14.87317,-10.45725",
+    "geom:latitude":-10.45725,
+    "geom:longitude":14.87317,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quitoto Quiahaho",
+    "gn:country_code":"AO",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7859671,
+    "gn:latitude":-10.45725,
+    "gn:longitude":14.87317,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quitoto Quiahaho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859671
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a73fbad14d25a1dbe8ba8b24504234e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1242965825,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1242965825,
+    "wof:lastmodified":1537000769,
+    "wof:name":"Quitoto Quiahaho",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87317,
+    -10.45725,
+    14.87317,
+    -10.45725
+],
+  "geometry": {"coordinates":[14.87317,-10.45725],"type":"Point"}
+}

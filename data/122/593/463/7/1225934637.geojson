@@ -1,0 +1,72 @@
+{
+  "id": 1225934637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,-12.28333,15.55,-12.28333",
+    "geom:latitude":-12.28333,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cassupola",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350375,
+    "gn:latitude":-12.28333,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cassupola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cassapolo",
+        "Cassupola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350375
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"54bd1b19e798e5bfbda5b6d8f3e5c358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1225934637,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1225934637,
+    "wof:lastmodified":1537584775,
+    "wof:name":"Cassupola",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    -12.28333,
+    15.55,
+    -12.28333
+],
+  "geometry": {"coordinates":[15.55,-12.28333],"type":"Point"}
+}

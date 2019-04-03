@@ -1,0 +1,72 @@
+{
+  "id": 1293293085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83333,-15.81667,20.83333,-15.81667",
+    "geom:latitude":-15.81667,
+    "geom:longitude":20.83333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cania",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876586,
+    "gn:latitude":-15.81667,
+    "gn:longitude":20.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cama",
+        "Cania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876586
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bda842778c773780c98efe7315aed93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799779,
+            "locality_id":1293293085,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1293293085,
+    "wof:lastmodified":1537584562,
+    "wof:name":"Cania",
+    "wof:parent_id":1108799779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83333,
+    -15.81667,
+    20.83333,
+    -15.81667
+],
+  "geometry": {"coordinates":[20.83333,-15.81667],"type":"Point"}
+}

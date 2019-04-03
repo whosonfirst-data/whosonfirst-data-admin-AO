@@ -1,0 +1,72 @@
+{
+  "id": 1259473895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,-11.83333,15.56667,-11.83333",
+    "geom:latitude":-11.83333,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chiomba",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349687,
+    "gn:latitude":-11.83333,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chiomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chioma",
+        "Chiomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349687
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6cb60f4c829249e02406c8893f6e4d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1259473895,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1259473895,
+    "wof:lastmodified":1537584759,
+    "wof:name":"Chiomba",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    -11.83333,
+    15.56667,
+    -11.83333
+],
+  "geometry": {"coordinates":[15.56667,-11.83333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209197797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89396,-11.31984,21.89396,-11.31984",
+    "geom:latitude":-11.31984,
+    "geom:longitude":21.89396,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sacambinda",
+    "gn:country_code":"AO",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768081,
+    "gn:latitude":-11.31984,
+    "gn:longitude":21.89396,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Sacambinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768081
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3fbe56bd5f185180b0ea087e148616f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209197797
+        }
+    ],
+    "wof:id":1209197797,
+    "wof:lastmodified":1536294712,
+    "wof:name":"Sacambinda",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89396,
+    -11.31984,
+    21.89396,
+    -11.31984
+],
+  "geometry": {"coordinates":[21.89396,-11.31984],"type":"Point"}
+}

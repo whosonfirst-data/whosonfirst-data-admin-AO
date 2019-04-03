@@ -1,0 +1,67 @@
+{
+  "id": 1343666571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38829,-8.87062,15.38829,-8.87062",
+    "geom:latitude":-8.87062,
+    "geom:longitude":15.38829,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dianhunga",
+    "gn:country_code":"AO",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7762766,
+    "gn:latitude":-8.87062,
+    "gn:longitude":15.38829,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Dianhunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7762766
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1c44e4518de048454dc105bb91d041c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1343666571,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1343666571,
+    "wof:lastmodified":1536946596,
+    "wof:name":"Dianhunga",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38829,
+    -8.87062,
+    15.38829,
+    -8.87062
+],
+  "geometry": {"coordinates":[15.38829,-8.87062],"type":"Point"}
+}

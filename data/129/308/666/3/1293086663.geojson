@@ -1,0 +1,67 @@
+{
+  "id": 1293086663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85,-12.51667,15.85,-12.51667",
+    "geom:latitude":-12.51667,
+    "geom:longitude":15.85,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Palestina",
+    "gn:country_code":"AO",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346769,
+    "gn:latitude":-12.51667,
+    "gn:longitude":15.85,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Palestina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346769
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9d472b48bf52e91965af89c9db5bafbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799867,
+            "locality_id":1293086663,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1293086663,
+    "wof:lastmodified":1536866705,
+    "wof:name":"Palestina",
+    "wof:parent_id":1108799867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85,
+    -12.51667,
+    15.85,
+    -12.51667
+],
+  "geometry": {"coordinates":[15.85,-12.51667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209737921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14289,-12.37908,15.14289,-12.37908",
+    "geom:latitude":-12.37908,
+    "geom:longitude":15.14289,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mbindi",
+    "gn:country_code":"AO",
+    "gn:dem":1685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3351625,
+    "gn:latitude":-12.37908,
+    "gn:longitude":15.14289,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Binde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351625
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3c59edc146f5556296aea3a5563b9b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1209737921,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1209737921,
+    "wof:lastmodified":1537584800,
+    "wof:name":"Mbindi",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14289,
+    -12.37908,
+    15.14289,
+    -12.37908
+],
+  "geometry": {"coordinates":[15.14289,-12.37908],"type":"Point"}
+}

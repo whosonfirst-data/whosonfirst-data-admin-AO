@@ -1,0 +1,67 @@
+{
+  "id": 1309825765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02281,-12.27754,15.02281,-12.27754",
+    "geom:latitude":-12.27754,
+    "geom:longitude":15.02281,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Calomanda",
+    "gn:country_code":"AO",
+    "gn:dem":2037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905995,
+    "gn:latitude":-12.27754,
+    "gn:longitude":15.02281,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Calomanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905995
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"73db21d36b5df3fd8b5f7157c0b26e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799737,
+            "locality_id":1309825765,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1309825765,
+    "wof:lastmodified":1536902493,
+    "wof:name":"Calomanda",
+    "wof:parent_id":1108799737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02281,
+    -12.27754,
+    15.02281,
+    -12.27754
+],
+  "geometry": {"coordinates":[15.02281,-12.27754],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209080017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63333,-11.05,23.63333,-11.05",
+    "geom:latitude":-11.05,
+    "geom:longitude":23.63333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Capeche",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876577,
+    "gn:latitude":-11.05,
+    "gn:longitude":23.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Capeche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shipushi",
+        "Chefuche",
+        "Capeche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876577
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3b431550283d72f616e57d3f2d7f3d16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209080017
+        }
+    ],
+    "wof:id":1209080017,
+    "wof:lastmodified":1537584561,
+    "wof:name":"Capeche",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63333,
+    -11.05,
+    23.63333,
+    -11.05
+],
+  "geometry": {"coordinates":[23.63333,-11.05],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260377209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.70333,-14.8688,12.70333,-14.8688",
+    "geom:latitude":-14.8688,
+    "geom:longitude":12.70333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chibiba",
+    "gn:country_code":"AO",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7906638,
+    "gn:latitude":-14.8688,
+    "gn:longitude":12.70333,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Chibiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667717,
+        1108799601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906638
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dc467a5308b32f81cca2da4380a387a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799601,
+            "locality_id":1260377209,
+            "region_id":85667717
+        }
+    ],
+    "wof:id":1260377209,
+    "wof:lastmodified":1537080271,
+    "wof:name":"Chibiba",
+    "wof:parent_id":1108799601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.70333,
+    -14.8688,
+    12.70333,
+    -14.8688
+],
+  "geometry": {"coordinates":[12.70333,-14.8688],"type":"Point"}
+}

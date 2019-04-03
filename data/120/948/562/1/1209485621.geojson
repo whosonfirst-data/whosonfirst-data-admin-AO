@@ -1,0 +1,61 @@
+{
+  "id": 1209485621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16973,-6.40277,16.16973,-6.40277",
+    "geom:latitude":-6.40277,
+    "geom:longitude":16.16973,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lusoanda",
+    "gn:country_code":"AO",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544914,
+    "gn:latitude":-6.40277,
+    "gn:longitude":16.16973,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Lusoanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544914
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a8ae51aa221f95745205a147ad86bc5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209485621
+        }
+    ],
+    "wof:id":1209485621,
+    "wof:lastmodified":1536285646,
+    "wof:name":"Lusoanda",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.169729999999998,
+    -6.4027699999999985,
+    16.169729999999998,
+    -6.4027699999999985
+],
+  "geometry": {"coordinates":[16.16973,-6.40277],"type":"Point"}
+}

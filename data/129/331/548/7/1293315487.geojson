@@ -1,0 +1,67 @@
+{
+  "id": 1293315487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,-8.15,15.55,-8.15",
+    "geom:latitude":-8.15,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vota",
+    "gn:country_code":"AO",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236462,
+    "gn:latitude":-8.15,
+    "gn:longitude":15.55,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Vota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236462
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"114882f9d4b599d026928b5153205a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1293315487,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1293315487,
+    "wof:lastmodified":1537033589,
+    "wof:name":"Vota",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    -8.15,
+    15.55,
+    -8.15
+],
+  "geometry": {"coordinates":[15.55,-8.15],"type":"Point"}
+}

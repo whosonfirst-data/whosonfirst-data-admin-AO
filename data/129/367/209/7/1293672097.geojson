@@ -1,0 +1,72 @@
+{
+  "id": 1293672097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46399,-6.26968,15.46399,-6.26968",
+    "geom:latitude":-6.26968,
+    "geom:longitude":15.46399,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimadico",
+    "gn:country_code":"AO",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238265,
+    "gn:latitude":-6.26968,
+    "gn:longitude":15.46399,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quimadi\u00e7o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quimaoco",
+        "Quitima",
+        "Quimadi\u00e7o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238265
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"54f31e3cf3c2a28c43cafb589c4e6719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1293672097,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1293672097,
+    "wof:lastmodified":1537584601,
+    "wof:name":"Quimadico",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46399,
+    -6.26968,
+    15.46399,
+    -6.26968
+],
+  "geometry": {"coordinates":[15.46399,-6.26968],"type":"Point"}
+}

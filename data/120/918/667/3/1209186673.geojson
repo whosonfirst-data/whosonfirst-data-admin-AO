@@ -1,0 +1,66 @@
+{
+  "id": 1209186673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01667,-6.8,13.01667,-6.8",
+    "geom:latitude":-6.8,
+    "geom:longitude":13.01667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Diambo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241434,
+    "gn:latitude":-6.8,
+    "gn:longitude":13.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diamba",
+        "Diambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241434
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"948d1b15de92eb03de6ee38f687c53fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209186673
+        }
+    ],
+    "wof:id":1209186673,
+    "wof:lastmodified":1537584646,
+    "wof:name":"Diambo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01667,
+    -6.8,
+    13.01667,
+    -6.8
+],
+  "geometry": {"coordinates":[13.01667,-6.8],"type":"Point"}
+}

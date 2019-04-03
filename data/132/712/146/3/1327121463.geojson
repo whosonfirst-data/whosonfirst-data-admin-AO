@@ -1,0 +1,67 @@
+{
+  "id": 1327121463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50389,-8.93231,16.50389,-8.93231",
+    "geom:latitude":-8.93231,
+    "geom:longitude":16.50389,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mazengo",
+    "gn:country_code":"AO",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7757713,
+    "gn:latitude":-8.93231,
+    "gn:longitude":16.50389,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mazengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7757713
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e446e0b4c08d0de380a5b6df0b99eadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799701,
+            "locality_id":1327121463,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1327121463,
+    "wof:lastmodified":1536630294,
+    "wof:name":"Mazengo",
+    "wof:parent_id":1108799701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50389,
+    -8.93231,
+    16.50389,
+    -8.93231
+],
+  "geometry": {"coordinates":[16.50389,-8.93231],"type":"Point"}
+}

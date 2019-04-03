@@ -1,0 +1,67 @@
+{
+  "id": 1343950757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45072,-10.77384,14.45072,-10.77384",
+    "geom:latitude":-10.77384,
+    "geom:longitude":14.45072,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Catanha",
+    "gn:country_code":"AO",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7866280,
+    "gn:latitude":-10.77384,
+    "gn:longitude":14.45072,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Catanha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866280
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ef1bc6df5abb8949647a2b1a9346decb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799827,
+            "locality_id":1343950757,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343950757,
+    "wof:lastmodified":1537032645,
+    "wof:name":"Catanha",
+    "wof:parent_id":1108799827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45072,
+    -10.77384,
+    14.45072,
+    -10.77384
+],
+  "geometry": {"coordinates":[14.45072,-10.77384],"type":"Point"}
+}

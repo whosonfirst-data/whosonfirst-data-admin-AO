@@ -1,0 +1,70 @@
+{
+  "id": 1343975763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5275,-12.45472,13.5275,-12.45472",
+    "geom:latitude":-12.45472,
+    "geom:longitude":13.5275,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Luongo",
+    "gn:country_code":"AO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372355,
+    "gn:latitude":-12.45472,
+    "gn:longitude":13.5275,
+    "gn:modification_date":"2013-11-12",
+    "gn:name":"Luongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luhongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372355
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"689e0059d6317ad2628b7d173471d7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1343975763,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1343975763,
+    "wof:lastmodified":1537584807,
+    "wof:name":"Luongo",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5275,
+    -12.45472,
+    13.5275,
+    -12.45472
+],
+  "geometry": {"coordinates":[13.5275,-12.45472],"type":"Point"}
+}

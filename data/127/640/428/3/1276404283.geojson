@@ -1,0 +1,67 @@
+{
+  "id": 1276404283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.02298,-9.11936,13.02298,-9.11936",
+    "geom:latitude":-9.11936,
+    "geom:longitude":13.02298,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Palmeirinhas",
+    "gn:country_code":"AO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308545,
+    "gn:latitude":-9.11936,
+    "gn:longitude":13.02298,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Palmeirinhas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667669,
+        1108799941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308545
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"06f0c57c66d3cf577e4fd00536afcebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799941,
+            "locality_id":1276404283,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":1276404283,
+    "wof:lastmodified":1536683603,
+    "wof:name":"Palmeirinhas",
+    "wof:parent_id":1108799941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.02298,
+    -9.11936,
+    13.02298,
+    -9.11936
+],
+  "geometry": {"coordinates":[13.02298,-9.11936],"type":"Point"}
+}

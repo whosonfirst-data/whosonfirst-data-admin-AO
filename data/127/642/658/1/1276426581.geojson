@@ -1,0 +1,67 @@
+{
+  "id": 1276426581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78333,-12.63333,15.78333,-12.63333",
+    "geom:latitude":-12.63333,
+    "geom:longitude":15.78333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Constantino",
+    "gn:country_code":"AO",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349297,
+    "gn:latitude":-12.63333,
+    "gn:longitude":15.78333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Constantino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349297
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ce4b2322a8eaf3a1d568bd4e8eb40823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799931,
+            "locality_id":1276426581,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276426581,
+    "wof:lastmodified":1536653689,
+    "wof:name":"Constantino",
+    "wof:parent_id":1108799931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78333,
+    -12.63333,
+    15.78333,
+    -12.63333
+],
+  "geometry": {"coordinates":[15.78333,-12.63333],"type":"Point"}
+}

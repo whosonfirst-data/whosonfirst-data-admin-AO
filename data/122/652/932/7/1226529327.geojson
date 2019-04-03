@@ -1,0 +1,67 @@
+{
+  "id": 1226529327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.24833,-9.35167,17.24833,-9.35167",
+    "geom:latitude":-9.35167,
+    "geom:longitude":17.24833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Joao Joaquim",
+    "gn:country_code":"AO",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7785194,
+    "gn:latitude":-9.35167,
+    "gn:longitude":17.24833,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Jo\u00e3o Joaquim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785194
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8d8a11e76d9680c490e4bcb552d65332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799887,
+            "locality_id":1226529327,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226529327,
+    "wof:lastmodified":1537020826,
+    "wof:name":"Joao Joaquim",
+    "wof:parent_id":1108799887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.24833,
+    -9.35167,
+    17.24833,
+    -9.35167
+],
+  "geometry": {"coordinates":[17.24833,-9.35167],"type":"Point"}
+}

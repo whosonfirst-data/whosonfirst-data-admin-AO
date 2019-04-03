@@ -1,0 +1,72 @@
+{
+  "id": 1259871463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8,-17.15,13.8,-17.15",
+    "geom:latitude":-17.15,
+    "geom:longitude":13.8,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Carumbona",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350485,
+    "gn:latitude":-17.15,
+    "gn:longitude":13.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Carumbona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carambona",
+        "Carumbona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350485
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7e8bb407ffe84ba96e38011344511cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799849,
+            "locality_id":1259871463,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1259871463,
+    "wof:lastmodified":1537584778,
+    "wof:name":"Carumbona",
+    "wof:parent_id":1108799849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8,
+    -17.15,
+    13.8,
+    -17.15
+],
+  "geometry": {"coordinates":[13.8,-17.15],"type":"Point"}
+}

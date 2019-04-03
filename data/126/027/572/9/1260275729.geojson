@@ -1,0 +1,67 @@
+{
+  "id": 1260275729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75566,-10.21468,15.75566,-10.21468",
+    "geom:latitude":-10.21468,
+    "geom:longitude":15.75566,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cada",
+    "gn:country_code":"AO",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866033,
+    "gn:latitude":-10.21468,
+    "gn:longitude":15.75566,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cad\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866033
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4a2fb409eddc6fb6ad3aa802f7f69b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1260275729,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1260275729,
+    "wof:lastmodified":1536722706,
+    "wof:name":"Cada",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75566,
+    -10.21468,
+    15.75566,
+    -10.21468
+],
+  "geometry": {"coordinates":[15.75566,-10.21468],"type":"Point"}
+}

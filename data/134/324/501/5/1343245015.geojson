@@ -1,0 +1,67 @@
+{
+  "id": 1343245015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60282,-6.82404,14.60282,-6.82404",
+    "geom:latitude":-6.82404,
+    "geom:longitude":14.60282,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lucunga",
+    "gn:country_code":"AO",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240329,
+    "gn:latitude":-6.82404,
+    "gn:longitude":14.60282,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Lucunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240329
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1cc5d954566ab020c1c057c690a1b077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799951,
+            "locality_id":1343245015,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343245015,
+    "wof:lastmodified":1537054904,
+    "wof:name":"Lucunga",
+    "wof:parent_id":1108799951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60282,
+    -6.82404,
+    14.60282,
+    -6.82404
+],
+  "geometry": {"coordinates":[14.60282,-6.82404],"type":"Point"}
+}

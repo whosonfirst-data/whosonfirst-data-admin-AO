@@ -1,0 +1,67 @@
+{
+  "id": 1277036707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.15457,-9.33984,13.15457,-9.33984",
+    "geom:latitude":-9.33984,
+    "geom:longitude":13.15457,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Pescaria Gastao",
+    "gn:country_code":"AO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905283,
+    "gn:latitude":-9.33984,
+    "gn:longitude":13.15457,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Pescaria Gast\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667669,
+        1108799941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905283
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9805da021086c8e0d7efa14b088494a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799941,
+            "locality_id":1277036707,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":1277036707,
+    "wof:lastmodified":1536830016,
+    "wof:name":"Pescaria Gastao",
+    "wof:parent_id":1108799941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.15457,
+    -9.33984,
+    13.15457,
+    -9.33984
+],
+  "geometry": {"coordinates":[13.15457,-9.33984],"type":"Point"}
+}

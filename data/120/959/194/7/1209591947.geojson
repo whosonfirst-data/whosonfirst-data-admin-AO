@@ -1,0 +1,69 @@
+{
+  "id": 1209591947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0,-8.6,18.0,-8.6",
+    "geom:latitude":-8.6,
+    "geom:longitude":18.0,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Monachinogue",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239418,
+    "gn:latitude":-8.6,
+    "gn:longitude":18.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Monachinogue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikunini",
+        "Quicuhine",
+        "Monachinongue",
+        "Quicunine",
+        "Monachinogue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239418
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"84cd2ec6e0b6b09d3eb6d0664a9630aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209591947
+        }
+    ],
+    "wof:id":1209591947,
+    "wof:lastmodified":1537584622,
+    "wof:name":"Monachinogue",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0,
+    -8.6,
+    18.0,
+    -8.6
+],
+  "geometry": {"coordinates":[18.0,-8.6],"type":"Point"}
+}

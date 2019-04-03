@@ -1,0 +1,72 @@
+{
+  "id": 1226116137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81667,-14.28333,19.81667,-14.28333",
+    "geom:latitude":-14.28333,
+    "geom:longitude":19.81667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Majoro",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347517,
+    "gn:latitude":-14.28333,
+    "gn:longitude":19.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Majoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Majore",
+        "Majoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347517
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2fe0ff0c6d8c1a004398c1dc571c1614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799641,
+            "locality_id":1226116137,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1226116137,
+    "wof:lastmodified":1537584723,
+    "wof:name":"Majoro",
+    "wof:parent_id":1108799641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81667,
+    -14.28333,
+    19.81667,
+    -14.28333
+],
+  "geometry": {"coordinates":[19.81667,-14.28333],"type":"Point"}
+}

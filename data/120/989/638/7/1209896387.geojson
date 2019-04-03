@@ -1,0 +1,72 @@
+{
+  "id": 1209896387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,-9.5,15.55,-9.5",
+    "geom:latitude":-9.5,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Fazenda Lutete",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241213,
+    "gn:latitude":-9.5,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fazenda Lutete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lut\u00e9te",
+        "Fazenda Lutete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241213
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a5a18dcf8dc32dd87b87177a631f050a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1209896387,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1209896387,
+    "wof:lastmodified":1537584642,
+    "wof:name":"Fazenda Lutete",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    -9.5,
+    15.55,
+    -9.5
+],
+  "geometry": {"coordinates":[15.55,-9.5],"type":"Point"}
+}

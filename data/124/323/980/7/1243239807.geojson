@@ -1,0 +1,67 @@
+{
+  "id": 1243239807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98494,-9.20522,17.98494,-9.20522",
+    "geom:latitude":-9.20522,
+    "geom:longitude":17.98494,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Domingos Vaz",
+    "gn:country_code":"AO",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785891,
+    "gn:latitude":-9.20522,
+    "gn:longitude":17.98494,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Domingos Vaz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785891
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"24a5e7e7200e1cae9a48a52f6acfdb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1243239807,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1243239807,
+    "wof:lastmodified":1536603443,
+    "wof:name":"Domingos Vaz",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98493999999999,
+    -9.20522,
+    17.98493999999999,
+    -9.20522
+],
+  "geometry": {"coordinates":[17.98493999999999,-9.20522],"type":"Point"}
+}

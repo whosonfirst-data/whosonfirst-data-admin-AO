@@ -1,0 +1,70 @@
+{
+  "id": 1276523711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19006,-9.4831,20.19006,-9.4831",
+    "geom:latitude":-9.4831,
+    "geom:longitude":20.19006,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Camagia",
+    "gn:country_code":"AO",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769973,
+    "gn:latitude":-9.4831,
+    "gn:longitude":20.19006,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Camagia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muatchicumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769973
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9790f902eeb9bd9ce00a63903b38ff18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1276523711,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1276523711,
+    "wof:lastmodified":1537584809,
+    "wof:name":"Camagia",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19006,
+    -9.4831,
+    20.19006,
+    -9.4831
+],
+  "geometry": {"coordinates":[20.19006,-9.4831],"type":"Point"}
+}

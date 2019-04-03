@@ -1,0 +1,67 @@
+{
+  "id": 1360148437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.99325,-7.41152,20.99325,-7.41152",
+    "geom:latitude":-7.41152,
+    "geom:longitude":20.99325,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muapulo",
+    "gn:country_code":"AO",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891076,
+    "gn:latitude":-7.41152,
+    "gn:longitude":20.99325,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Muapulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891076
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f84d75afd30b4a87ccccc6c98aafa6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "locality_id":1360148437,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1360148437,
+    "wof:lastmodified":1536853300,
+    "wof:name":"Muapulo",
+    "wof:parent_id":1108799855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99325,
+    -7.41152,
+    20.99325,
+    -7.41152
+],
+  "geometry": {"coordinates":[20.99325,-7.41152],"type":"Point"}
+}

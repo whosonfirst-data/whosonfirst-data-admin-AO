@@ -1,0 +1,67 @@
+{
+  "id": 1260156047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.37106,-9.18413,13.37106,-9.18413",
+    "geom:latitude":-9.18413,
+    "geom:longitude":13.37106,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Pousada Acampamento Caua",
+    "gn:country_code":"AO",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7905324,
+    "gn:latitude":-9.18413,
+    "gn:longitude":13.37106,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Pousada Acampamento C\u00e1ua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7905324
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c6afaa95c49c716f48932645bbe9cada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1260156047,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1260156047,
+    "wof:lastmodified":1536885102,
+    "wof:name":"Pousada Acampamento Caua",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.37106,
+    -9.18413,
+    13.37106,
+    -9.18413
+],
+  "geometry": {"coordinates":[13.37106,-9.18413],"type":"Point"}
+}

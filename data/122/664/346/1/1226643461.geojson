@@ -1,0 +1,67 @@
+{
+  "id": 1226643461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06222,-10.73696,15.06222,-10.73696",
+    "geom:latitude":-10.73696,
+    "geom:longitude":15.06222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Buango",
+    "gn:country_code":"AO",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7867305,
+    "gn:latitude":-10.73696,
+    "gn:longitude":15.06222,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Buango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867305
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5e6dfd155246a1b468af760670700413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1226643461,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226643461,
+    "wof:lastmodified":1536861324,
+    "wof:name":"Buango",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06222,
+    -10.73696,
+    15.06222,
+    -10.73696
+],
+  "geometry": {"coordinates":[15.06222,-10.73696],"type":"Point"}
+}

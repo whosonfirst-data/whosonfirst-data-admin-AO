@@ -1,0 +1,72 @@
+{
+  "id": 1343831641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85,-12.05,23.85,-12.05",
+    "geom:latitude":-12.05,
+    "geom:longitude":23.85,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sabonete",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875816,
+    "gn:latitude":-12.05,
+    "gn:longitude":23.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sabonete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Satjemba",
+        "Sabonete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875816
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0c30802bbc6f57cc3787f84d365ede25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1343831641,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1343831641,
+    "wof:lastmodified":1537584541,
+    "wof:name":"Sabonete",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85,
+    -12.05,
+    23.85,
+    -12.05
+],
+  "geometry": {"coordinates":[23.85,-12.05],"type":"Point"}
+}

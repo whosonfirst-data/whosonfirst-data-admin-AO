@@ -1,0 +1,67 @@
+{
+  "id": 1276681337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57068,-9.08086,14.57068,-9.08086",
+    "geom:latitude":-9.08086,
+    "geom:longitude":14.57068,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tentativa",
+    "gn:country_code":"AO",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7770855,
+    "gn:latitude":-9.08086,
+    "gn:longitude":14.57068,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Tentativa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7770855
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7c69fd403ece0de05d29272d0fedf2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799607,
+            "locality_id":1276681337,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1276681337,
+    "wof:lastmodified":1536809066,
+    "wof:name":"Tentativa",
+    "wof:parent_id":1108799607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57068,
+    -9.08086,
+    14.57068,
+    -9.08086
+],
+  "geometry": {"coordinates":[14.57068,-9.08086],"type":"Point"}
+}

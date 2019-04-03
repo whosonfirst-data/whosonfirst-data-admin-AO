@@ -1,0 +1,67 @@
+{
+  "id": 1226464663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60765,-11.51049,14.60765,-11.51049",
+    "geom:latitude":-11.51049,
+    "geom:longitude":14.60765,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Toche",
+    "gn:country_code":"AO",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3345802,
+    "gn:latitude":-11.51049,
+    "gn:longitude":14.60765,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Toche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345802
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0d33051866b30b4c195853c8d1534ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1226464663,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226464663,
+    "wof:lastmodified":1536615954,
+    "wof:name":"Toche",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60765,
+    -11.51049,
+    14.60765,
+    -11.51049
+],
+  "geometry": {"coordinates":[14.60765,-11.51049],"type":"Point"}
+}

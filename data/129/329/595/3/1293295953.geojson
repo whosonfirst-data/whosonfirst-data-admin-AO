@@ -1,0 +1,67 @@
+{
+  "id": 1293295953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35686,-11.85221,17.35686,-11.85221",
+    "geom:latitude":-11.85221,
+    "geom:longitude":17.35686,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mingungo",
+    "gn:country_code":"AO",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901809,
+    "gn:latitude":-11.85221,
+    "gn:longitude":17.35686,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Mingungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901809
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"60e187b369222b380d69aa3278d68347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799633,
+            "locality_id":1293295953,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1293295953,
+    "wof:lastmodified":1537060447,
+    "wof:name":"Mingungo",
+    "wof:parent_id":1108799633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35686,
+    -11.85221,
+    17.35686,
+    -11.85221
+],
+  "geometry": {"coordinates":[17.35686,-11.85221],"type":"Point"}
+}

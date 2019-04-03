@@ -1,0 +1,67 @@
+{
+  "id": 1226040247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21259,-11.46067,14.21259,-11.46067",
+    "geom:latitude":-11.46067,
+    "geom:longitude":14.21259,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Boa Vida",
+    "gn:country_code":"AO",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7864587,
+    "gn:latitude":-11.46067,
+    "gn:longitude":14.21259,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Boa Vida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7864587
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5ea2a57f3384c275ccef5705b486fb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1226040247,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226040247,
+    "wof:lastmodified":1536733358,
+    "wof:name":"Boa Vida",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21259,
+    -11.46067,
+    14.21259,
+    -11.46067
+],
+  "geometry": {"coordinates":[14.21259,-11.46067],"type":"Point"}
+}

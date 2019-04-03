@@ -1,0 +1,71 @@
+{
+  "id": 1310571573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12796,-8.07777,15.12796,-8.07777",
+    "geom:latitude":-8.07777,
+    "geom:longitude":15.12796,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimucanda",
+    "gn:country_code":"AO",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238058,
+    "gn:latitude":-8.07777,
+    "gn:longitude":15.12796,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quimucanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quiamocanda",
+        "Quimucanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238058
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f7648192f8e474753212da4b7a5850f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799843,
+            "locality_id":1310571573,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1310571573,
+    "wof:lastmodified":1537584596,
+    "wof:name":"Quimucanda",
+    "wof:parent_id":1108799843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12796,
+    -8.07777,
+    15.12796,
+    -8.07777
+],
+  "geometry": {"coordinates":[15.12796,-8.07777],"type":"Point"}
+}

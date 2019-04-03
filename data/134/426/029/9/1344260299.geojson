@@ -1,0 +1,67 @@
+{
+  "id": 1344260299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41586,-12.43385,16.41586,-12.43385",
+    "geom:latitude":-12.43385,
+    "geom:longitude":16.41586,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngandavila",
+    "gn:country_code":"AO",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7904576,
+    "gn:latitude":-12.43385,
+    "gn:longitude":16.41586,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Ngandavila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904576
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6dd6449b7a2bbd8d34b953381a0dfff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799735,
+            "locality_id":1344260299,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1344260299,
+    "wof:lastmodified":1537081210,
+    "wof:name":"Ngandavila",
+    "wof:parent_id":1108799735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41586,
+    -12.43385,
+    16.41586,
+    -12.43385
+],
+  "geometry": {"coordinates":[16.41586,-12.43385],"type":"Point"}
+}

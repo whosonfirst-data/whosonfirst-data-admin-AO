@@ -1,0 +1,67 @@
+{
+  "id": 1277096285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22269,-12.43823,15.22269,-12.43823",
+    "geom:latitude":-12.43823,
+    "geom:longitude":15.22269,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ambande",
+    "gn:country_code":"AO",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":8308576,
+    "gn:latitude":-12.43823,
+    "gn:longitude":15.22269,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ambande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308576
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"31ae7781ec5b6e8e44d669ff8ad4a650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1277096285,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1277096285,
+    "wof:lastmodified":1536747965,
+    "wof:name":"Ambande",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22269,
+    -12.43823,
+    15.22269,
+    -12.43823
+],
+  "geometry": {"coordinates":[15.22269,-12.43823],"type":"Point"}
+}

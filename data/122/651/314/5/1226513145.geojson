@@ -1,0 +1,72 @@
+{
+  "id": 1226513145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3,-15.16667,21.3,-15.16667",
+    "geom:latitude":-15.16667,
+    "geom:longitude":21.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chitango",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876373,
+    "gn:latitude":-15.16667,
+    "gn:longitude":21.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chitango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chit\u00e2ngua",
+        "Chitango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876373
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2bcb6c84e914ced413f79a94e5404783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1226513145,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1226513145,
+    "wof:lastmodified":1537584554,
+    "wof:name":"Chitango",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3,
+    -15.16667,
+    21.3,
+    -15.16667
+],
+  "geometry": {"coordinates":[21.3,-15.16667],"type":"Point"}
+}

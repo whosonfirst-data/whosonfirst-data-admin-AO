@@ -1,0 +1,67 @@
+{
+  "id": 1226207947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11593,-8.58292,14.11593,-8.58292",
+    "geom:latitude":-8.58292,
+    "geom:longitude":14.11593,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mussenga",
+    "gn:country_code":"AO",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8535898,
+    "gn:latitude":-8.58292,
+    "gn:longitude":14.11593,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Mussenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535898
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d109e29b9867dd5efaffdd5695a42d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799875,
+            "locality_id":1226207947,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1226207947,
+    "wof:lastmodified":1536987413,
+    "wof:name":"Mussenga",
+    "wof:parent_id":1108799875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11593,
+    -8.58292,
+    14.11593,
+    -8.58292
+],
+  "geometry": {"coordinates":[14.11593,-8.58292],"type":"Point"}
+}

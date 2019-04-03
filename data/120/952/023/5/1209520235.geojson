@@ -1,0 +1,61 @@
+{
+  "id": 1209520235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30848,-9.69642,14.30848,-9.69642",
+    "geom:latitude":-9.69642,
+    "geom:longitude":14.30848,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cambondo",
+    "gn:country_code":"AO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242770,
+    "gn:latitude":-9.69642,
+    "gn:longitude":14.30848,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Cambondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242770
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"33d494cf6da2ee640ff12f0c08d73f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209520235
+        }
+    ],
+    "wof:id":1209520235,
+    "wof:lastmodified":1536284603,
+    "wof:name":"Cambondo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30848,
+    -9.69642,
+    14.30848,
+    -9.69642
+],
+  "geometry": {"coordinates":[14.30848,-9.69642],"type":"Point"}
+}

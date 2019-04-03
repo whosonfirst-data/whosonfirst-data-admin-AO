@@ -1,0 +1,67 @@
+{
+  "id": 1209948283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91548,-9.82913,14.91548,-9.82913",
+    "geom:latitude":-9.82913,
+    "geom:longitude":14.91548,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gungo ia Quenza",
+    "gn:country_code":"AO",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7846115,
+    "gn:latitude":-9.82913,
+    "gn:longitude":14.91548,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Gungo i\u00e1 Quenza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7846115
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2aaa810d4ca0cb05905909df2d00b48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1209948283,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1209948283,
+    "wof:lastmodified":1536385366,
+    "wof:name":"Gungo ia Quenza",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91548,
+    -9.82913,
+    14.91548,
+    -9.82913
+],
+  "geometry": {"coordinates":[14.91548,-9.82913],"type":"Point"}
+}

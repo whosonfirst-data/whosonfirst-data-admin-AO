@@ -1,0 +1,67 @@
+{
+  "id": 1344054751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39366,-10.94673,14.39366,-10.94673",
+    "geom:latitude":-10.94673,
+    "geom:longitude":14.39366,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quipela",
+    "gn:country_code":"AO",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866722,
+    "gn:latitude":-10.94673,
+    "gn:longitude":14.39366,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quipela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866722
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c4d4ab3c3d89808a3736dfb1494519a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799827,
+            "locality_id":1344054751,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1344054751,
+    "wof:lastmodified":1536883247,
+    "wof:name":"Quipela",
+    "wof:parent_id":1108799827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39366,
+    -10.94673,
+    14.39366,
+    -10.94673
+],
+  "geometry": {"coordinates":[14.39366,-10.94673],"type":"Point"}
+}

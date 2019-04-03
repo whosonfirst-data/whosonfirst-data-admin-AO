@@ -1,0 +1,67 @@
+{
+  "id": 1260163859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96515,-6.98982,15.96515,-6.98982",
+    "geom:latitude":-6.98982,
+    "geom:longitude":15.96515,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quingundo Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779362,
+    "gn:latitude":-6.98982,
+    "gn:longitude":15.96515,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Quingundo Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779362
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e6544aa78918bf8736c2b84808bd572e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799715,
+            "locality_id":1260163859,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1260163859,
+    "wof:lastmodified":1536873967,
+    "wof:name":"Quingundo Segundo",
+    "wof:parent_id":1108799715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96515,
+    -6.98982,
+    15.96515,
+    -6.98982
+],
+  "geometry": {"coordinates":[15.96515,-6.98982],"type":"Point"}
+}

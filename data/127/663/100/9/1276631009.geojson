@@ -1,0 +1,72 @@
+{
+  "id": 1276631009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89983,-9.80879,21.89983,-9.80879",
+    "geom:latitude":-9.80879,
+    "geom:longitude":21.89983,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tchivundo Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145767,
+    "gn:latitude":-9.80879,
+    "gn:longitude":21.89983,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchivundo Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xivundo",
+        "Chivundo",
+        "Tchivundo Primeiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145767
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"96b9b145389418f10c7f4e5bea0b6d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799787,
+            "locality_id":1276631009,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1276631009,
+    "wof:lastmodified":1537584527,
+    "wof:name":"Tchivundo Primeiro",
+    "wof:parent_id":1108799787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89983,
+    -9.80879,
+    21.89983,
+    -9.80879
+],
+  "geometry": {"coordinates":[21.89983,-9.80879],"type":"Point"}
+}

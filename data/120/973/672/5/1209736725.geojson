@@ -1,0 +1,67 @@
+{
+  "id": 1209736725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65,-17.08333,14.65,-17.08333",
+    "geom:latitude":-17.08333,
+    "geom:longitude":14.65,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mulamba",
+    "gn:country_code":"AO",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347139,
+    "gn:latitude":-17.08333,
+    "gn:longitude":14.65,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Mulamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347139
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9329952af6d5cf359ef1d46f874b11bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799893,
+            "locality_id":1209736725,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1209736725,
+    "wof:lastmodified":1536372933,
+    "wof:name":"Mulamba",
+    "wof:parent_id":1108799893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65,
+    -17.08333,
+    14.65,
+    -17.08333
+],
+  "geometry": {"coordinates":[14.65,-17.08333],"type":"Point"}
+}

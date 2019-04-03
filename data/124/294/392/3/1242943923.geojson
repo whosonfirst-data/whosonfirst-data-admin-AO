@@ -1,0 +1,67 @@
+{
+  "id": 1242943923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.52094,-11.00231,23.52094,-11.00231",
+    "geom:latitude":-11.00231,
+    "geom:longitude":23.52094,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cambinda",
+    "gn:country_code":"AO",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7902476,
+    "gn:latitude":-11.00231,
+    "gn:longitude":23.52094,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cambinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7902476
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3a16bb91913594184332b4b1c690c842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1242943923,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1242943923,
+    "wof:lastmodified":1537031777,
+    "wof:name":"Cambinda",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.52094,
+    -11.00231,
+    23.52094,
+    -11.00231
+],
+  "geometry": {"coordinates":[23.52094,-11.00231],"type":"Point"}
+}

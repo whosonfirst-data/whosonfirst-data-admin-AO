@@ -1,0 +1,67 @@
+{
+  "id": 1293367379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44183,-9.79211,17.44183,-9.79211",
+    "geom:latitude":-9.79211,
+    "geom:longitude":17.44183,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bundo",
+    "gn:country_code":"AO",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785610,
+    "gn:latitude":-9.79211,
+    "gn:longitude":17.44183,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Bundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785610
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dca91ca15e0c357d7b7920dc1aa36b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799887,
+            "locality_id":1293367379,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293367379,
+    "wof:lastmodified":1536960198,
+    "wof:name":"Bundo",
+    "wof:parent_id":1108799887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44183,
+    -9.79211,
+    17.44183,
+    -9.79211
+],
+  "geometry": {"coordinates":[17.44183,-9.79211],"type":"Point"}
+}

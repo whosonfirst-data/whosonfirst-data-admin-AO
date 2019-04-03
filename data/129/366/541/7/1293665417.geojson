@@ -1,0 +1,67 @@
+{
+  "id": 1293665417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45717,-7.68391,21.45717,-7.68391",
+    "geom:latitude":-7.68391,
+    "geom:longitude":21.45717,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Puto",
+    "gn:country_code":"AO",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7696339,
+    "gn:latitude":-7.68391,
+    "gn:longitude":21.45717,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Puto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696339
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d23d96e881f683d0da8aa7cf64395c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1293665417,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293665417,
+    "wof:lastmodified":1537026651,
+    "wof:name":"Puto",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45717,
+    -7.68391,
+    21.45717,
+    -7.68391
+],
+  "geometry": {"coordinates":[21.45717,-7.68391],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343941265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12052,-10.93053,22.12052,-10.93053",
+    "geom:latitude":-10.93053,
+    "geom:longitude":22.12052,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Satchilefo",
+    "gn:country_code":"AO",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7863852,
+    "gn:latitude":-10.93053,
+    "gn:longitude":22.12052,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Satchilefo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863852
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5eaf67d4d359e5017e23c20c40cf55c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799637,
+            "locality_id":1343941265,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1343941265,
+    "wof:lastmodified":1537045856,
+    "wof:name":"Satchilefo",
+    "wof:parent_id":1108799637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12052000000001,
+    -10.93053,
+    22.12052000000001,
+    -10.93053
+],
+  "geometry": {"coordinates":[22.12052000000001,-10.93053],"type":"Point"}
+}

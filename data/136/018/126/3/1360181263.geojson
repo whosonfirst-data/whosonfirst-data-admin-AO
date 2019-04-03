@@ -1,0 +1,73 @@
+{
+  "id": 1360181263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,-15.85,14.11667,-15.85",
+    "geom:latitude":-15.85,
+    "geom:longitude":14.11667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchiapepe",
+    "gn:country_code":"AO",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3345926,
+    "gn:latitude":-15.85,
+    "gn:longitude":14.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchiapepe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiapepe",
+        "T\u2019Chip\u00e9pe",
+        "Tchiapepe",
+        "Tchihep\u00e9pe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345926
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5207668ab5497e27b1647f1c5d092a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799913,
+            "locality_id":1360181263,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1360181263,
+    "wof:lastmodified":1537584693,
+    "wof:name":"Tchiapepe",
+    "wof:parent_id":1108799913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    -15.85,
+    14.11667,
+    -15.85
+],
+  "geometry": {"coordinates":[14.11667,-15.85],"type":"Point"}
+}

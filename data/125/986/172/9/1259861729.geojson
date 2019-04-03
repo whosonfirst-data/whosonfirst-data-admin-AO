@@ -1,0 +1,72 @@
+{
+  "id": 1259861729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33333,-6.23333,14.33333,-6.23333",
+    "geom:latitude":-6.23333,
+    "geom:longitude":14.33333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ceque",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241938,
+    "gn:latitude":-6.23333,
+    "gn:longitude":14.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ceque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seque",
+        "Ceque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241938
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3e257e3a66cd9563fc75f6932f70892c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1259861729,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1259861729,
+    "wof:lastmodified":1537584656,
+    "wof:name":"Ceque",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33333,
+    -6.23333,
+    14.33333,
+    -6.23333
+],
+  "geometry": {"coordinates":[14.33333,-6.23333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209212637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90831,-10.23231,14.90831,-10.23231",
+    "geom:latitude":-10.23231,
+    "geom:longitude":14.90831,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Catenio",
+    "gn:country_code":"AO",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7859414,
+    "gn:latitude":-10.23231,
+    "gn:longitude":14.90831,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Catenio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859414
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fbf368624948fb7ea0beab580a7ae0ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209212637
+        }
+    ],
+    "wof:id":1209212637,
+    "wof:lastmodified":1536294239,
+    "wof:name":"Catenio",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90831,
+    -10.23231,
+    14.90831,
+    -10.23231
+],
+  "geometry": {"coordinates":[14.90831,-10.23231],"type":"Point"}
+}

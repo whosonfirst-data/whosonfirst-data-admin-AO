@@ -1,0 +1,75 @@
+{
+  "id": 421174861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27111,-12.59556,13.27111,-12.59556",
+    "geom:latitude":-12.59556,
+    "geom:longitude":13.27111,
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3350648,
+    "qs:gn_pop":0,
+    "qs:name":"Caota",
+    "qs:name_adm0":"Angola",
+    "qs:name_adm1":"Benguela",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":901829,
+    "qs:woe_adm0":23424745,
+    "qs:woe_id":1259358,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350648,
+        "gp:id":1259358,
+        "qs:id":901829
+    },
+    "wof:country":"AO",
+    "wof:created":1459009046,
+    "wof:geomhash":"9ce1d5f13a669d17dd74ed782d09c202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799781,
+            "locality_id":421174861,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":421174861,
+    "wof:lastmodified":1494646475,
+    "wof:name":"Caota",
+    "wof:parent_id":1108799781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27111,
+    -12.59556,
+    13.27111,
+    -12.59556
+],
+  "geometry": {"coordinates":[13.27111,-12.59556],"type":"Point"}
+}

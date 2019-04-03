@@ -1,0 +1,67 @@
+{
+  "id": 1293745493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40453,-8.75721,13.40453,-8.75721",
+    "geom:latitude":-8.75721,
+    "geom:longitude":13.40453,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bairro da Vidrul",
+    "gn:country_code":"AO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591943,
+    "gn:latitude":-8.75721,
+    "gn:longitude":13.40453,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bairro da Vidrul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667669,
+        1108799945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591943
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"01b47110eb28f13909aafcc16f3ca4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799945,
+            "locality_id":1293745493,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":1293745493,
+    "wof:lastmodified":1536912795,
+    "wof:name":"Bairro da Vidrul",
+    "wof:parent_id":1108799945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40453,
+    -8.75721,
+    13.40453,
+    -8.75721
+],
+  "geometry": {"coordinates":[13.40453,-8.75721],"type":"Point"}
+}

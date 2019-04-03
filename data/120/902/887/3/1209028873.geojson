@@ -1,0 +1,66 @@
+{
+  "id": 1209028873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,-12.03333,15.03333,-12.03333",
+    "geom:latitude":-12.03333,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Etangua",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348717,
+    "gn:latitude":-12.03333,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Etangua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vetangua",
+        "Etangua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348717
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"78c61fb635555fa986c85934691b6084",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209028873
+        }
+    ],
+    "wof:id":1209028873,
+    "wof:lastmodified":1537584741,
+    "wof:name":"Etangua",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    -12.03333,
+    15.03333,
+    -12.03333
+],
+  "geometry": {"coordinates":[15.03333,-12.03333],"type":"Point"}
+}

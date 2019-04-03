@@ -1,0 +1,67 @@
+{
+  "id": 1310027749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82996,-11.48031,14.82996,-11.48031",
+    "geom:latitude":-11.48031,
+    "geom:longitude":14.82996,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Catuta",
+    "gn:country_code":"AO",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3350234,
+    "gn:latitude":-11.48031,
+    "gn:longitude":14.82996,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Catuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350234
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"34f7c7239e962a7d9cdcd52ff1b0edc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1310027749,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310027749,
+    "wof:lastmodified":1536608504,
+    "wof:name":"Catuta",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82996,
+    -11.48031,
+    14.82996,
+    -11.48031
+],
+  "geometry": {"coordinates":[14.82996,-11.48031],"type":"Point"}
+}

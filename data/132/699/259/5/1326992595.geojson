@@ -1,0 +1,72 @@
+{
+  "id": 1326992595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0,-9.21667,14.0,-9.21667",
+    "geom:latitude":-9.21667,
+    "geom:longitude":14.0,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cabanga",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243301,
+    "gn:latitude":-9.21667,
+    "gn:longitude":14.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cabanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabanga Caposse",
+        "Cabanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243301
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3cbb371c5d78fd19d7d6755d542169f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799819,
+            "locality_id":1326992595,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1326992595,
+    "wof:lastmodified":1537584675,
+    "wof:name":"Cabanga",
+    "wof:parent_id":1108799819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0,
+    -9.21667,
+    14.0,
+    -9.21667
+],
+  "geometry": {"coordinates":[14.0,-9.21667],"type":"Point"}
+}

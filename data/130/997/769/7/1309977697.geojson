@@ -1,0 +1,67 @@
+{
+  "id": 1309977697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09117,-9.09807,18.09117,-9.09807",
+    "geom:latitude":-9.09807,
+    "geom:longitude":18.09117,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Luhami Quifembe",
+    "gn:country_code":"AO",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786987,
+    "gn:latitude":-9.09807,
+    "gn:longitude":18.09117,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Luhami Quifembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786987
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8436bb39942c06b82020f7f36e4c605b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1309977697,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1309977697,
+    "wof:lastmodified":1536683395,
+    "wof:name":"Luhami Quifembe",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09117,
+    -9.09807,
+    18.09117,
+    -9.09807
+],
+  "geometry": {"coordinates":[18.09117,-9.09807],"type":"Point"}
+}

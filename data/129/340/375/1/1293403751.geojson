@@ -1,0 +1,67 @@
+{
+  "id": 1293403751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50974,-12.49533,13.50974,-12.49533",
+    "geom:latitude":-12.49533,
+    "geom:longitude":13.50974,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sao Joao Baptista",
+    "gn:country_code":"AO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8634773,
+    "gn:latitude":-12.49533,
+    "gn:longitude":13.50974,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"S\u00e3o Jo\u00e3o Baptista",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8634773
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"64903e5036e76952115590807a1801b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1293403751,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1293403751,
+    "wof:lastmodified":1536907933,
+    "wof:name":"Sao Joao Baptista",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50974,
+    -12.49533,
+    13.50974,
+    -12.49533
+],
+  "geometry": {"coordinates":[13.50974,-12.49533],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259480829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91733,-10.54947,14.91733,-10.54947",
+    "geom:latitude":-10.54947,
+    "geom:longitude":14.91733,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quimbilimbe",
+    "gn:country_code":"AO",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865565,
+    "gn:latitude":-10.54947,
+    "gn:longitude":14.91733,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quimbilimbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865565
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1d1ddfb4fc58c7ae72f2873c71b59808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1259480829,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259480829,
+    "wof:lastmodified":1536861191,
+    "wof:name":"Quimbilimbe",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91733,
+    -10.54947,
+    14.91733,
+    -10.54947
+],
+  "geometry": {"coordinates":[14.91733,-10.54947],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226037675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35,-11.1,14.35,-11.1",
+    "geom:latitude":-11.1,
+    "geom:longitude":14.35,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ingue",
+    "gn:country_code":"AO",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348230,
+    "gn:latitude":-11.1,
+    "gn:longitude":14.35,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Ingue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348230
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2f3f392b151d24e419c35a13561bc66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1226037675,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226037675,
+    "wof:lastmodified":1536736837,
+    "wof:name":"Ingue",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35,
+    -11.1,
+    14.35,
+    -11.1
+],
+  "geometry": {"coordinates":[14.35,-11.1],"type":"Point"}
+}

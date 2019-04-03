@@ -1,0 +1,72 @@
+{
+  "id": 1260143861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79365,-9.80998,18.79365,-9.80998",
+    "geom:latitude":-9.80998,
+    "geom:longitude":18.79365,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muatchimica",
+    "gn:country_code":"AO",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239385,
+    "gn:latitude":-9.80998,
+    "gn:longitude":18.79365,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Muatchimica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u00e1 Ximica",
+        "Muachimica",
+        "Muatchimica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239385
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c01b1517181684d1c2f7253cc3c58da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799965,
+            "locality_id":1260143861,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1260143861,
+    "wof:lastmodified":1537584621,
+    "wof:name":"Muatchimica",
+    "wof:parent_id":1108799965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79365,
+    -9.80998,
+    18.79365,
+    -9.80998
+],
+  "geometry": {"coordinates":[18.79365,-9.80998],"type":"Point"}
+}

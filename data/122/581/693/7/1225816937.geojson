@@ -1,0 +1,67 @@
+{
+  "id": 1225816937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70772,-8.4365,21.70772,-8.4365",
+    "geom:latitude":-8.4365,
+    "geom:longitude":21.70772,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Samalamba",
+    "gn:country_code":"AO",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7763704,
+    "gn:latitude":-8.4365,
+    "gn:longitude":21.70772,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Samalamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7763704
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cabe29a298d611ce8961a4dc33bc9de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1225816937,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1225816937,
+    "wof:lastmodified":1537053061,
+    "wof:name":"Samalamba",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70772,
+    -8.4365,
+    21.70772,
+    -8.4365
+],
+  "geometry": {"coordinates":[21.70772,-8.4365],"type":"Point"}
+}

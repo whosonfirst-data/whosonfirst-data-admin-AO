@@ -1,0 +1,67 @@
+{
+  "id": 1310197625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82923,-10.99661,14.82923,-10.99661",
+    "geom:latitude":-10.99661,
+    "geom:longitude":14.82923,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Buembua",
+    "gn:country_code":"AO",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865725,
+    "gn:latitude":-10.99661,
+    "gn:longitude":14.82923,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Bu\u00eambua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865725
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"468d2d8e783ebb79da2bd93093e75f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799659,
+            "locality_id":1310197625,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310197625,
+    "wof:lastmodified":1536862271,
+    "wof:name":"Buembua",
+    "wof:parent_id":1108799659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82923,
+    -10.99661,
+    14.82923,
+    -10.99661
+],
+  "geometry": {"coordinates":[14.82923,-10.99661],"type":"Point"}
+}

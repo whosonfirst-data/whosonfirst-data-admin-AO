@@ -1,0 +1,72 @@
+{
+  "id": 1226112617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69771,-6.43167,15.69771,-6.43167",
+    "geom:latitude":-6.43167,
+    "geom:longitude":15.69771,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quinsuca Paxi",
+    "gn:country_code":"AO",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237571,
+    "gn:latitude":-6.43167,
+    "gn:longitude":15.69771,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quinsuca Paxi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quissuca",
+        "Quissucapaz",
+        "Quinsuca Paxi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237571
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"36c1766b5f57dd8f216949f3f78e5622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1226112617,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226112617,
+    "wof:lastmodified":1537584586,
+    "wof:name":"Quinsuca Paxi",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69771,
+    -6.43167,
+    15.69771,
+    -6.43167
+],
+  "geometry": {"coordinates":[15.69771,-6.43167],"type":"Point"}
+}

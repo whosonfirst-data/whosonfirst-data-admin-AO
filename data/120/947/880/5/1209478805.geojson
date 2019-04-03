@@ -1,0 +1,61 @@
+{
+  "id": 1209478805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55638,-8.07514,21.55638,-8.07514",
+    "geom:latitude":-8.07514,
+    "geom:longitude":21.55638,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Samuzia",
+    "gn:country_code":"AO",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7763685,
+    "gn:latitude":-8.07514,
+    "gn:longitude":21.55638,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Samuzia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7763685
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"09fb927a2d1486e79cf19b86a0a3980d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209478805
+        }
+    ],
+    "wof:id":1209478805,
+    "wof:lastmodified":1536285850,
+    "wof:name":"Samuzia",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55638,
+    -8.07514,
+    21.55638,
+    -8.07514
+],
+  "geometry": {"coordinates":[21.55638,-8.07514],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209988893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61667,-6.13333,12.61667,-6.13333",
+    "geom:latitude":-6.13333,
+    "geom:longitude":12.61667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sumba",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236940,
+    "gn:latitude":-6.13333,
+    "gn:longitude":12.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porto Rico",
+        "Sumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236940
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0016d2bdd8ca500d13285043ea3cc37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799751,
+            "locality_id":1209988893,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1209988893,
+    "wof:lastmodified":1537584576,
+    "wof:name":"Sumba",
+    "wof:parent_id":1108799751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61667,
+    -6.13333,
+    12.61667,
+    -6.13333
+],
+  "geometry": {"coordinates":[12.61667,-6.13333],"type":"Point"}
+}

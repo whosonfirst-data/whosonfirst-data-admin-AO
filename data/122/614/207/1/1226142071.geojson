@@ -1,0 +1,67 @@
+{
+  "id": 1226142071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33886,-9.65159,14.33886,-9.65159",
+    "geom:latitude":-9.65159,
+    "geom:longitude":14.33886,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Combondo",
+    "gn:country_code":"AO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7782762,
+    "gn:latitude":-9.65159,
+    "gn:longitude":14.33886,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Combondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7782762
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d26032f66a3f955b57dd5e0dcf305310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799789,
+            "locality_id":1226142071,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1226142071,
+    "wof:lastmodified":1537079885,
+    "wof:name":"Combondo",
+    "wof:parent_id":1108799789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33886,
+    -9.65159,
+    14.33886,
+    -9.65159
+],
+  "geometry": {"coordinates":[14.33886,-9.65159],"type":"Point"}
+}

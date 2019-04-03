@@ -1,0 +1,67 @@
+{
+  "id": 1293554153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55194,-8.84194,13.55194,-8.84194",
+    "geom:latitude":-8.84194,
+    "geom:longitude":13.55194,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Funda",
+    "gn:country_code":"AO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241095,
+    "gn:latitude":-8.84194,
+    "gn:longitude":13.55194,
+    "gn:modification_date":"1998-06-02",
+    "gn:name":"Funda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667669,
+        1108799945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241095
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d6fa640dd42a7d43dc80a60cda1a6d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799945,
+            "locality_id":1293554153,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":1293554153,
+    "wof:lastmodified":1536691311,
+    "wof:name":"Funda",
+    "wof:parent_id":1108799945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55194,
+    -8.84194,
+    13.55194,
+    -8.84194
+],
+  "geometry": {"coordinates":[13.55194,-8.84194],"type":"Point"}
+}

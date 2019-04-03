@@ -1,0 +1,71 @@
+{
+  "id": 1343641571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70184,-9.10013,15.70184,-9.10013",
+    "geom:latitude":-9.10013,
+    "geom:longitude":15.70184,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Limbamba",
+    "gn:country_code":"AO",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2240580,
+    "gn:latitude":-9.10013,
+    "gn:longitude":15.70184,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Limbamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Luimbamba",
+        "Limbamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240580
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9f6db742b2e5d08e6a43f064ec142beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1343641571,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343641571,
+    "wof:lastmodified":1537584631,
+    "wof:name":"Limbamba",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70184,
+    -9.10013,
+    15.70184,
+    -9.10013
+],
+  "geometry": {"coordinates":[15.70184,-9.10013],"type":"Point"}
+}

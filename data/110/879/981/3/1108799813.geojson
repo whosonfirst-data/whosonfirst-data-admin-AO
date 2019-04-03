@@ -1,0 +1,100 @@
+{
+  "id": 1108799813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000486,
+    "geom:area_square_m":5932809.382521,
+    "geom:bbox":"13.2514239174,-8.8397972407,13.2765094988,-8.80704825615",
+    "geom:latitude":-8.824359,
+    "geom:longitude":13.265887,
+    "iso:country":"AO",
+    "lbl:latitude":-8.824679,
+    "lbl:longitude":13.264872,
+    "meso:adm1_alt":"Loanda",
+    "meso:adm1_loc":"Luanda",
+    "meso:gadm_adm2":"Rangel",
+    "meso:gadm_alt":"",
+    "meso:gaul_adm2":"Luanda",
+    "meso:hasc_id":"AO.LU.RA",
+    "meso:name_alt":"Rangel",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Rangel"
+    ],
+    "name:dut_x_preferred":[
+        "Rangel"
+    ],
+    "name:eng_x_preferred":[
+        "Rangel"
+    ],
+    "name:fre_x_preferred":[
+        "Rangel"
+    ],
+    "name:ger_x_preferred":[
+        "Rangel"
+    ],
+    "name:ita_x_preferred":[
+        "Rangel"
+    ],
+    "name:por_x_preferred":[
+        "Rangel"
+    ],
+    "name:spa_x_preferred":[
+        "Rangel"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"AO",
+    "statoids:hasc":"AO.LU",
+    "statoids:name":"Rangel",
+    "statoids:population":"",
+    "statoids:statoid":"AO.LU.RA",
+    "statoids:timezone":"1",
+    "statoids:type":"city council",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"AO.LU.RA",
+        "wd:id":"Q1003727"
+    },
+    "wof:country":"AO",
+    "wof:created":1483985350,
+    "wof:geomhash":"9768aa02b25e1760bbde293480572d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799813,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":1108799813,
+    "wof:lastmodified":1536615828,
+    "wof:name":"Rangel",
+    "wof:parent_id":85667669,
+    "wof:placetype":"county",
+    "wof:placetype_local":"city council",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:shortcode":"RA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25142391743914,
+    -8.8397972406984,
+    13.27650949884486,
+    -8.80704825615375
+],
+  "geometry": {"coordinates":[[[13.27019031806768,-8.80704825615375],[13.27349157688027,-8.81682493045007],[13.27429727529317,-8.82079010733498],[13.27492329472044,-8.8232559253728],[13.27545018076287,-8.82480223023198],[13.27601256226999,-8.82690887329875],[13.27650949884486,-8.83025890315795],[13.27618766739684,-8.83400203927178],[13.27550985065784,-8.83689963998509],[13.27505797283184,-8.83883137379397],[13.27483203391884,-8.8397972406984],[13.26650976493069,-8.83668497955222],[13.26339111007574,-8.83583191321147],[13.26131200683911,-8.83526320231764],[13.26027245522079,-8.83497884687072],[13.25474211910726,-8.8277943715391],[13.25252998466185,-8.82492058140646],[13.25142391743914,-8.82348368634013],[13.25599948769966,-8.81853137805165],[13.25985443702492,-8.81411029970335],[13.26280754732585,-8.81159498100766],[13.26557567015773,-8.80979666418791],[13.26788299411271,-8.80842246017083],[13.26942121008269,-8.80750632415944],[13.27019031806768,-8.80704825615375]]],"type":"Polygon"}
+}

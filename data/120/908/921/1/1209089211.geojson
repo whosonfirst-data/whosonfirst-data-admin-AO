@@ -1,0 +1,61 @@
+{
+  "id": 1209089211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26667,-7.33333,14.26667,-7.33333",
+    "geom:latitude":-7.33333,
+    "geom:longitude":14.26667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lufunde",
+    "gn:country_code":"AO",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240253,
+    "gn:latitude":-7.33333,
+    "gn:longitude":14.26667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Lufunde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240253
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f89ed5b8241c2168b78457788f0f5337",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209089211
+        }
+    ],
+    "wof:id":1209089211,
+    "wof:lastmodified":1536298088,
+    "wof:name":"Lufunde",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26667,
+    -7.33333,
+    14.26667,
+    -7.33333
+],
+  "geometry": {"coordinates":[14.26667,-7.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243250691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06722,-9.56639,16.06722,-9.56639",
+    "geom:latitude":-9.56639,
+    "geom:longitude":16.06722,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bulo",
+    "gn:country_code":"AO",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592132,
+    "gn:latitude":-9.56639,
+    "gn:longitude":16.06722,
+    "gn:modification_date":"1998-06-11",
+    "gn:name":"Bulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592132
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f8a37991d905870e209d7892d2748278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1243250691,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1243250691,
+    "wof:lastmodified":1537084566,
+    "wof:name":"Bulo",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06722,
+    -9.56639,
+    16.06722,
+    -9.56639
+],
+  "geometry": {"coordinates":[16.06722,-9.56639],"type":"Point"}
+}

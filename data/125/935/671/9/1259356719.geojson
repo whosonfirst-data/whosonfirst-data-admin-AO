@@ -1,0 +1,67 @@
+{
+  "id": 1259356719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06129,-11.29534,22.06129,-11.29534",
+    "geom:latitude":-11.29534,
+    "geom:longitude":22.06129,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Puca",
+    "gn:country_code":"AO",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7900958,
+    "gn:latitude":-11.29534,
+    "gn:longitude":22.06129,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Puca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900958
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"137a551deb886920cf56015e9aff4a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799891,
+            "locality_id":1259356719,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1259356719,
+    "wof:lastmodified":1537039186,
+    "wof:name":"Puca",
+    "wof:parent_id":1108799891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06129,
+    -11.29534,
+    22.06129,
+    -11.29534
+],
+  "geometry": {"coordinates":[22.06129,-11.29534],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327013431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63333,-15.1,21.63333,-15.1",
+    "geom:latitude":-15.1,
+    "geom:longitude":21.63333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Machala",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876070,
+    "gn:latitude":-15.1,
+    "gn:longitude":21.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Machala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maxalo",
+        "Machalo",
+        "Machala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876070
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"76a436091a40c0c168a8e2288a90e8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1327013431,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1327013431,
+    "wof:lastmodified":1537584549,
+    "wof:name":"Machala",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63333,
+    -15.1,
+    21.63333,
+    -15.1
+],
+  "geometry": {"coordinates":[21.63333,-15.1],"type":"Point"}
+}

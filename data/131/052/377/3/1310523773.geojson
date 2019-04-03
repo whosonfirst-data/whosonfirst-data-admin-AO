@@ -1,0 +1,71 @@
+{
+  "id": 1310523773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,-11.51667,15.55,-11.51667",
+    "geom:latitude":-11.51667,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Namba",
+    "gn:country_code":"AO",
+    "gn:dem":1329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3347025,
+    "gn:latitude":-11.51667,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Namba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Nemba",
+        "Namba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347025
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"67e8b346f87afce824b3be6d56df3f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1310523773,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1310523773,
+    "wof:lastmodified":1537584714,
+    "wof:name":"Namba",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    -11.51667,
+    15.55,
+    -11.51667
+],
+  "geometry": {"coordinates":[15.55,-11.51667],"type":"Point"}
+}

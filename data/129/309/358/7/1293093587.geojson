@@ -1,0 +1,68 @@
+{
+  "id": 1293093587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87459,-10.00393,14.87459,-10.00393",
+    "geom:latitude":-10.00393,
+    "geom:longitude":14.87459,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3347989.0",
+    "gn:asciiname":"Libolo",
+    "gn:country_code":"AO",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9383295,
+    "gn:latitude":-10.00393,
+    "gn:longitude":14.87459,
+    "gn:modification_date":"2014-08-16",
+    "gn:name":"Libolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9383295
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"348dd47fceb6bf8469f7d6b1352c52ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1293093587,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293093587,
+    "wof:lastmodified":1536856714,
+    "wof:name":"Libolo",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87459,
+    -10.00393,
+    14.87459,
+    -10.00393
+],
+  "geometry": {"coordinates":[14.87459,-10.00393],"type":"Point"}
+}

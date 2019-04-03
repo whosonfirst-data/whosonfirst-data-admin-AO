@@ -1,0 +1,70 @@
+{
+  "id": 1327452725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40358,-14.9591,13.40358,-14.9591",
+    "geom:latitude":-14.9591,
+    "geom:longitude":13.40358,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Saiombo",
+    "gn:country_code":"AO",
+    "gn:dem":2052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7907205,
+    "gn:latitude":-14.9591,
+    "gn:longitude":13.40358,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Saiombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchaiombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7907205
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c812ee2a89f317136c51416d1264b1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799749,
+            "locality_id":1327452725,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1327452725,
+    "wof:lastmodified":1537584812,
+    "wof:name":"Saiombo",
+    "wof:parent_id":1108799749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40358,
+    -14.9591,
+    13.40358,
+    -14.9591
+],
+  "geometry": {"coordinates":[13.40358,-14.9591],"type":"Point"}
+}

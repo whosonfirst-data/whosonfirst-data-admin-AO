@@ -1,0 +1,67 @@
+{
+  "id": 1226666119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.505,-12.825,15.505,-12.825",
+    "geom:latitude":-12.825,
+    "geom:longitude":15.505,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Canala",
+    "gn:country_code":"AO",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372107,
+    "gn:latitude":-12.825,
+    "gn:longitude":15.505,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Canala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372107
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d5b12a03ca7eeb2de9a089c3b6a35984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":1226666119,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1226666119,
+    "wof:lastmodified":1536829211,
+    "wof:name":"Canala",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.505,
+    -12.825,
+    15.505,
+    -12.825
+],
+  "geometry": {"coordinates":[15.505,-12.825],"type":"Point"}
+}

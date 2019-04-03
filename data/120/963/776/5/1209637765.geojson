@@ -1,0 +1,61 @@
+{
+  "id": 1209637765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32083,-12.98472,15.32083,-12.98472",
+    "geom:latitude":-12.98472,
+    "geom:longitude":15.32083,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Calonussi",
+    "gn:country_code":"AO",
+    "gn:dem":1543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372203,
+    "gn:latitude":-12.98472,
+    "gn:longitude":15.32083,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Calonussi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372203
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"46ab5dd9778bd109157768514336a520",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209637765
+        }
+    ],
+    "wof:id":1209637765,
+    "wof:lastmodified":1536280986,
+    "wof:name":"Calonussi",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32083,
+    -12.98472,
+    15.32083,
+    -12.98472
+],
+  "geometry": {"coordinates":[15.32083,-12.98472],"type":"Point"}
+}

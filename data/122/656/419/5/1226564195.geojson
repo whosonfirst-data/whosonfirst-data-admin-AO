@@ -1,0 +1,67 @@
+{
+  "id": 1226564195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98807,-10.85048,14.98807,-10.85048",
+    "geom:latitude":-10.85048,
+    "geom:longitude":14.98807,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Uandala",
+    "gn:country_code":"AO",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7865748,
+    "gn:latitude":-10.85048,
+    "gn:longitude":14.98807,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Uandala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865748
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ff9376f71acc4059f51652e5ca1fdc78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1226564195,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226564195,
+    "wof:lastmodified":1536971220,
+    "wof:name":"Uandala",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98807,
+    -10.85048,
+    14.98807,
+    -10.85048
+],
+  "geometry": {"coordinates":[14.98807,-10.85048],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242797771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05925,-12.38768,15.05925,-12.38768",
+    "geom:latitude":-12.38768,
+    "geom:longitude":15.05925,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sequesseque",
+    "gn:country_code":"AO",
+    "gn:dem":1689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7906130,
+    "gn:latitude":-12.38768,
+    "gn:longitude":15.05925,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Sequesseque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906130
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"623fc8f2a2966d0a6a8be4f89c728550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1242797771,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1242797771,
+    "wof:lastmodified":1536746310,
+    "wof:name":"Sequesseque",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05925,
+    -12.38768,
+    15.05925,
+    -12.38768
+],
+  "geometry": {"coordinates":[15.05925,-12.38768],"type":"Point"}
+}

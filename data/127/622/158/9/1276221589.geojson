@@ -1,0 +1,67 @@
+{
+  "id": 1276221589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58333,-15.15,15.58333,-15.15",
+    "geom:latitude":-15.15,
+    "geom:longitude":15.58333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Munenge",
+    "gn:country_code":"AO",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347114,
+    "gn:latitude":-15.15,
+    "gn:longitude":15.58333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Munenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347114
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"592ab49dc9379bfa90dc602ef09e64c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1276221589,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1276221589,
+    "wof:lastmodified":1536929379,
+    "wof:name":"Munenge",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58333,
+    -15.15,
+    15.58333,
+    -15.15
+],
+  "geometry": {"coordinates":[15.58333,-15.15],"type":"Point"}
+}

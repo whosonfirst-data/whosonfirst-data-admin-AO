@@ -1,0 +1,67 @@
+{
+  "id": 1309789173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12603,-11.42865,21.12603,-11.42865",
+    "geom:latitude":-11.42865,
+    "geom:longitude":21.12603,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tchimbulo",
+    "gn:country_code":"AO",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768007,
+    "gn:latitude":-11.42865,
+    "gn:longitude":21.12603,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Tchimbulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768007
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9a31e2320b5d6ae9436e4dab30bb661b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799791,
+            "locality_id":1309789173,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1309789173,
+    "wof:lastmodified":1536955114,
+    "wof:name":"Tchimbulo",
+    "wof:parent_id":1108799791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12603,
+    -11.42865,
+    21.12603,
+    -11.42865
+],
+  "geometry": {"coordinates":[21.12603,-11.42865],"type":"Point"}
+}

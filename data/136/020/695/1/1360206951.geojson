@@ -1,0 +1,67 @@
+{
+  "id": 1360206951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26667,-11.05,14.26667,-11.05",
+    "geom:latitude":-11.05,
+    "geom:longitude":14.26667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gunza",
+    "gn:country_code":"AO",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348395,
+    "gn:latitude":-11.05,
+    "gn:longitude":14.26667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Gunza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348395
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"79bce069f2ff53496e2621ad1d9b19ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1360206951,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1360206951,
+    "wof:lastmodified":1536770429,
+    "wof:name":"Gunza",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26667,
+    -11.05,
+    14.26667,
+    -11.05
+],
+  "geometry": {"coordinates":[14.26667,-11.05],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243239887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.79098,-7.25388,19.79098,-7.25388",
+    "geom:latitude":-7.25388,
+    "geom:longitude":19.79098,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muatofuma",
+    "gn:country_code":"AO",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7745351,
+    "gn:latitude":-7.25388,
+    "gn:longitude":19.79098,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muatofuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745351
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"87014d3e493e3b1031b6833ba0eef1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "locality_id":1243239887,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1243239887,
+    "wof:lastmodified":1536603328,
+    "wof:name":"Muatofuma",
+    "wof:parent_id":1108799855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.79098,
+    -7.25388,
+    19.79098,
+    -7.25388
+],
+  "geometry": {"coordinates":[19.79098,-7.25388],"type":"Point"}
+}

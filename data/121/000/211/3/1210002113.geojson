@@ -1,0 +1,67 @@
+{
+  "id": 1210002113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32549,-12.41127,16.32549,-12.41127",
+    "geom:latitude":-12.41127,
+    "geom:longitude":16.32549,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Salumbo",
+    "gn:country_code":"AO",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7904518,
+    "gn:latitude":-12.41127,
+    "gn:longitude":16.32549,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Salumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904518
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"20038961b6f9bd89b13da4139ccd342a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799853,
+            "locality_id":1210002113,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1210002113,
+    "wof:lastmodified":1536377609,
+    "wof:name":"Salumbo",
+    "wof:parent_id":1108799853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32549,
+    -12.41127,
+    16.32549,
+    -12.41127
+],
+  "geometry": {"coordinates":[16.32549,-12.41127],"type":"Point"}
+}

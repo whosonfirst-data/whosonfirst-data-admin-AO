@@ -1,0 +1,72 @@
+{
+  "id": 1259805957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0,-11.9,16.0,-11.9",
+    "geom:latitude":-11.9,
+    "geom:longitude":16.0,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Luahando",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347810,
+    "gn:latitude":-11.9,
+    "gn:longitude":16.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Luahando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luahanda",
+        "Luahando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347810
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bcc7f00a845407b0572144da0a4c58e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799697,
+            "locality_id":1259805957,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1259805957,
+    "wof:lastmodified":1537584726,
+    "wof:name":"Luahando",
+    "wof:parent_id":1108799697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0,
+    -11.9,
+    16.0,
+    -11.9
+],
+  "geometry": {"coordinates":[16.0,-11.9],"type":"Point"}
+}

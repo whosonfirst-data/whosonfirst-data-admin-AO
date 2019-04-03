@@ -1,0 +1,67 @@
+{
+  "id": 1226663943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,-12.88333,14.15,-12.88333",
+    "geom:latitude":-12.88333,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Victorino",
+    "gn:country_code":"AO",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3345543,
+    "gn:latitude":-12.88333,
+    "gn:longitude":14.15,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Victorino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345543
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"73fd20923b547cd669bf606f08d98dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799727,
+            "locality_id":1226663943,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1226663943,
+    "wof:lastmodified":1536832265,
+    "wof:name":"Victorino",
+    "wof:parent_id":1108799727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    -12.88333,
+    14.15,
+    -12.88333
+],
+  "geometry": {"coordinates":[14.15,-12.88333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293864049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16958,-9.93356,17.16958,-9.93356",
+    "geom:latitude":-9.93356,
+    "geom:longitude":17.16958,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quipingue",
+    "gn:country_code":"AO",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785591,
+    "gn:latitude":-9.93356,
+    "gn:longitude":17.16958,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Quipingue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785591
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0e32001d1cd3540ea434414c5187c531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799771,
+            "locality_id":1293864049,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293864049,
+    "wof:lastmodified":1536741198,
+    "wof:name":"Quipingue",
+    "wof:parent_id":1108799771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16958,
+    -9.93356,
+    17.16958,
+    -9.93356
+],
+  "geometry": {"coordinates":[17.16958,-9.93356],"type":"Point"}
+}

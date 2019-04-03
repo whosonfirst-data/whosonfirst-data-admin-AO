@@ -1,0 +1,64 @@
+{
+  "id": 1209501361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1,-15.8,12.1,-15.8",
+    "geom:latitude":-15.8,
+    "geom:longitude":12.1,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Camilunga",
+    "gn:country_code":"AO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346169,
+    "gn:latitude":-15.8,
+    "gn:longitude":12.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Camilunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Bento do Sul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346169
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d40af7430c018129fbddaa3369d6a5e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209501361
+        }
+    ],
+    "wof:id":1209501361,
+    "wof:lastmodified":1537584696,
+    "wof:name":"Camilunga",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1,
+    -15.8,
+    12.1,
+    -15.8
+],
+  "geometry": {"coordinates":[12.1,-15.8],"type":"Point"}
+}

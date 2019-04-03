@@ -1,0 +1,71 @@
+{
+  "id": 1344130043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72184,-8.01127,15.72184,-8.01127",
+    "geom:latitude":-8.01127,
+    "geom:longitude":15.72184,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Penza",
+    "gn:country_code":"AO",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238903,
+    "gn:latitude":-8.01127,
+    "gn:longitude":15.72184,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Penza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panzo",
+        "Penza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238903
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0d16a377d76d4cfc469856bf1a52edf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1344130043,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1344130043,
+    "wof:lastmodified":1537584612,
+    "wof:name":"Penza",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72184,
+    -8.01127,
+    15.72184,
+    -8.01127
+],
+  "geometry": {"coordinates":[15.72184,-8.01127],"type":"Point"}
+}

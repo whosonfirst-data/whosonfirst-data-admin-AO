@@ -1,0 +1,67 @@
+{
+  "id": 1343324401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45712,-8.69747,14.45712,-8.69747",
+    "geom:latitude":-8.69747,
+    "geom:longitude":14.45712,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bemvinda",
+    "gn:country_code":"AO",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7759543,
+    "gn:latitude":-8.69747,
+    "gn:longitude":14.45712,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bemvinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759543
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5b0c8cff06ddd6fbe3b42f6dcca4dc69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799927,
+            "locality_id":1343324401,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1343324401,
+    "wof:lastmodified":1536943304,
+    "wof:name":"Bemvinda",
+    "wof:parent_id":1108799927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45712,
+    -8.69747,
+    14.45712,
+    -8.69747
+],
+  "geometry": {"coordinates":[14.45712,-8.69747],"type":"Point"}
+}

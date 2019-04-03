@@ -1,0 +1,67 @@
+{
+  "id": 1259746795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22137,-8.9186,18.22137,-8.9186",
+    "geom:latitude":-8.9186,
+    "geom:longitude":18.22137,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muatchete",
+    "gn:country_code":"AO",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7765261,
+    "gn:latitude":-8.9186,
+    "gn:longitude":18.22137,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muatchete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7765261
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"646f62fd1920349a766bc7ba668a7c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1259746795,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1259746795,
+    "wof:lastmodified":1536975564,
+    "wof:name":"Muatchete",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22137,
+    -8.9186,
+    18.22137,
+    -8.9186
+],
+  "geometry": {"coordinates":[18.22137,-8.9186],"type":"Point"}
+}

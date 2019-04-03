@@ -1,0 +1,67 @@
+{
+  "id": 1309901833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04548,-14.56586,15.04548,-14.56586",
+    "geom:latitude":-14.56586,
+    "geom:longitude":15.04548,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nondumbo",
+    "gn:country_code":"AO",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908128,
+    "gn:latitude":-14.56586,
+    "gn:longitude":15.04548,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Nondumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908128
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bf44d1f7bace292655a413f637edc763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799605,
+            "locality_id":1309901833,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1309901833,
+    "wof:lastmodified":1536792964,
+    "wof:name":"Nondumbo",
+    "wof:parent_id":1108799605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04548,
+    -14.56586,
+    15.04548,
+    -14.56586
+],
+  "geometry": {"coordinates":[15.04548,-14.56586],"type":"Point"}
+}

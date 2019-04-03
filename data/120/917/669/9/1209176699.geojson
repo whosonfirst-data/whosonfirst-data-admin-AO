@@ -1,0 +1,66 @@
+{
+  "id": 1209176699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05,-7.66667,14.05,-7.66667",
+    "geom:latitude":-7.66667,
+    "geom:longitude":14.05,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Quinjiga",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237896,
+    "gn:latitude":-7.66667,
+    "gn:longitude":14.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quinjiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quijinga",
+        "Quinjiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237896
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"087a095f18762852f6977feb9e5d1d0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209176699
+        }
+    ],
+    "wof:id":1209176699,
+    "wof:lastmodified":1537584592,
+    "wof:name":"Quinjiga",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05,
+    -7.66667,
+    14.05,
+    -7.66667
+],
+  "geometry": {"coordinates":[14.05,-7.66667],"type":"Point"}
+}

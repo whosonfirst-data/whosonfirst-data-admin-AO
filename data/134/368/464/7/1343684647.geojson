@@ -1,0 +1,72 @@
+{
+  "id": 1343684647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68333,-8.93333,14.68333,-8.93333",
+    "geom:latitude":-8.93333,
+    "geom:longitude":14.68333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Granja Acores",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240899,
+    "gn:latitude":-8.93333,
+    "gn:longitude":14.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Granja A\u00e7ores",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fazenda Roque Teixeira",
+        "Granja A\u00e7ores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240899
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"385492728fe150c4f4e913c2c79f8c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799881,
+            "locality_id":1343684647,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1343684647,
+    "wof:lastmodified":1537584637,
+    "wof:name":"Granja Acores",
+    "wof:parent_id":1108799881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68333,
+    -8.93333,
+    14.68333,
+    -8.93333
+],
+  "geometry": {"coordinates":[14.68333,-8.93333],"type":"Point"}
+}

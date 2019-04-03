@@ -1,0 +1,67 @@
+{
+  "id": 1276248893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,-12.96667,15.91667,-12.96667",
+    "geom:latitude":-12.96667,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Longo",
+    "gn:country_code":"AO",
+    "gn:dem":1696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347861,
+    "gn:latitude":-12.96667,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Longo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347861
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2179b0c3634f6d708500c8d2b3dac0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799931,
+            "locality_id":1276248893,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276248893,
+    "wof:lastmodified":1536891537,
+    "wof:name":"Longo",
+    "wof:parent_id":1108799931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    -12.96667,
+    15.91667,
+    -12.96667
+],
+  "geometry": {"coordinates":[15.91667,-12.96667],"type":"Point"}
+}

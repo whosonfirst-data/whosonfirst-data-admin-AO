@@ -1,0 +1,72 @@
+{
+  "id": 1243067033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36456,-8.31613,15.36456,-8.31613",
+    "geom:latitude":-8.31613,
+    "geom:longitude":15.36456,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ngulome ia Queta",
+    "gn:country_code":"AO",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240857,
+    "gn:latitude":-8.31613,
+    "gn:longitude":15.36456,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngulome i\u00e1 Queta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gulome-Aqueta",
+        "Gulome",
+        "Ngulome i\u00e1 Queta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240857
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0c5052939f194938658ee93d694aaa39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1243067033,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1243067033,
+    "wof:lastmodified":1537584636,
+    "wof:name":"Ngulome ia Queta",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36456,
+    -8.31613,
+    15.36456,
+    -8.31613
+],
+  "geometry": {"coordinates":[15.36456,-8.31613],"type":"Point"}
+}

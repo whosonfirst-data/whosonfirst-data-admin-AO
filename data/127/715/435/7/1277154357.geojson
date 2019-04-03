@@ -1,0 +1,67 @@
+{
+  "id": 1277154357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78333,-9.2,16.78333,-9.2",
+    "geom:latitude":-9.2,
+    "geom:longitude":16.78333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Catea",
+    "gn:country_code":"AO",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242168,
+    "gn:latitude":-9.2,
+    "gn:longitude":16.78333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Catea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242168
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"16186e0fb3c826d67811d70b8377c46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799887,
+            "locality_id":1277154357,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1277154357,
+    "wof:lastmodified":1536664512,
+    "wof:name":"Catea",
+    "wof:parent_id":1108799887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78333,
+    -9.2,
+    16.78333,
+    -9.2
+],
+  "geometry": {"coordinates":[16.78333,-9.2],"type":"Point"}
+}

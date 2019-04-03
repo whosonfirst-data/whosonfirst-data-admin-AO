@@ -1,0 +1,67 @@
+{
+  "id": 1243356195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36388,-10.78837,14.36388,-10.78837",
+    "geom:latitude":-10.78837,
+    "geom:longitude":14.36388,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hengue",
+    "gn:country_code":"AO",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866600,
+    "gn:latitude":-10.78837,
+    "gn:longitude":14.36388,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Hengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866600
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e1895f0ea9ba174ea1674616a723556e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799827,
+            "locality_id":1243356195,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1243356195,
+    "wof:lastmodified":1536936458,
+    "wof:name":"Hengue",
+    "wof:parent_id":1108799827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36388,
+    -10.78837,
+    14.36388,
+    -10.78837
+],
+  "geometry": {"coordinates":[14.36388,-10.78837],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226821501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97939,-5.96035,13.97939,-5.96035",
+    "geom:latitude":-5.96035,
+    "geom:longitude":13.97939,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ncanga",
+    "gn:country_code":"AO",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242596,
+    "gn:latitude":-5.96035,
+    "gn:longitude":13.97939,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ncanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242596
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"926f66fda4f7344cd5a36e3c592fc290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1226821501,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1226821501,
+    "wof:lastmodified":1537584665,
+    "wof:name":"Ncanga",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97939,
+    -5.96035,
+    13.97939,
+    -5.96035
+],
+  "geometry": {"coordinates":[13.97939,-5.96035],"type":"Point"}
+}

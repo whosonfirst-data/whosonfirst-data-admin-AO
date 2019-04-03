@@ -1,0 +1,61 @@
+{
+  "id": 1209298843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1164,-14.77106,16.1164,-14.77106",
+    "geom:latitude":-14.77106,
+    "geom:longitude":16.1164,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Valodia",
+    "gn:country_code":"AO",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906704,
+    "gn:latitude":-14.77106,
+    "gn:longitude":16.1164,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Val\u00f3dia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906704
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5c68dd864b10eced41ae7fd29dd5808f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209298843
+        }
+    ],
+    "wof:id":1209298843,
+    "wof:lastmodified":1536291429,
+    "wof:name":"Valodia",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1164,
+    -14.77106,
+    16.1164,
+    -14.77106
+],
+  "geometry": {"coordinates":[16.1164,-14.77106],"type":"Point"}
+}

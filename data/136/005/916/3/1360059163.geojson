@@ -1,0 +1,72 @@
+{
+  "id": 1360059163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1,-13.88333,21.1,-13.88333",
+    "geom:latitude":-13.88333,
+    "geom:longitude":21.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lirema",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876219,
+    "gn:latitude":-13.88333,
+    "gn:longitude":21.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lirema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rilema",
+        "Lirema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876219
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8d6bbf40700a20ba80c26689790961ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1360059163,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1360059163,
+    "wof:lastmodified":1537584550,
+    "wof:name":"Lirema",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1,
+    -13.88333,
+    21.1,
+    -13.88333
+],
+  "geometry": {"coordinates":[21.1,-13.88333],"type":"Point"}
+}

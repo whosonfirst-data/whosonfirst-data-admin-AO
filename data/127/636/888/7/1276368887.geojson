@@ -1,0 +1,67 @@
+{
+  "id": 1276368887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23602,-8.4358,15.23602,-8.4358",
+    "geom:latitude":-8.4358,
+    "geom:longitude":15.23602,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cabila",
+    "gn:country_code":"AO",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698391,
+    "gn:latitude":-8.4358,
+    "gn:longitude":15.23602,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Cabila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698391
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"460b44ad390cc4356d495e08c73092eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799619,
+            "locality_id":1276368887,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1276368887,
+    "wof:lastmodified":1536731288,
+    "wof:name":"Cabila",
+    "wof:parent_id":1108799619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23602,
+    -8.4358,
+    15.23602,
+    -8.4358
+],
+  "geometry": {"coordinates":[15.23602,-8.4358],"type":"Point"}
+}

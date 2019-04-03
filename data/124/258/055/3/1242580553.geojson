@@ -1,0 +1,70 @@
+{
+  "id": 1242580553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93772,-11.11817,15.93772,-11.11817",
+    "geom:latitude":-11.11817,
+    "geom:longitude":15.93772,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lombindji",
+    "gn:country_code":"AO",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3347911,
+    "gn:latitude":-11.11817,
+    "gn:longitude":15.93772,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lombindji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Lombinge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347911
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6e9c8b23642098a4c2cb66fa7a9522bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1242580553,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1242580553,
+    "wof:lastmodified":1537584728,
+    "wof:name":"Lombindji",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93772,
+    -11.11817,
+    15.93772,
+    -11.11817
+],
+  "geometry": {"coordinates":[15.93772,-11.11817],"type":"Point"}
+}

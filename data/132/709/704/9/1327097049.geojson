@@ -1,0 +1,67 @@
+{
+  "id": 1327097049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28714,-8.1823,14.28714,-8.1823",
+    "geom:latitude":-8.1823,
+    "geom:longitude":14.28714,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Coe",
+    "gn:country_code":"AO",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697474,
+    "gn:latitude":-8.1823,
+    "gn:longitude":14.28714,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Co\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697474
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"034f459e2903e8bf696e24cd51a0fccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799629,
+            "locality_id":1327097049,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1327097049,
+    "wof:lastmodified":1536667347,
+    "wof:name":"Coe",
+    "wof:parent_id":1108799629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28714,
+    -8.1823,
+    14.28714,
+    -8.1823
+],
+  "geometry": {"coordinates":[14.28714,-8.1823],"type":"Point"}
+}

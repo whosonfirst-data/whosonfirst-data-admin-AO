@@ -1,0 +1,67 @@
+{
+  "id": 1276955687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28589,-9.49888,16.28589,-9.49888",
+    "geom:latitude":-9.49888,
+    "geom:longitude":16.28589,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pais",
+    "gn:country_code":"AO",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771606,
+    "gn:latitude":-9.49888,
+    "gn:longitude":16.28589,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Pais",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771606
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0e27a144e8c2d6d451361da8a4508be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1276955687,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276955687,
+    "wof:lastmodified":1536940455,
+    "wof:name":"Pais",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28589,
+    -9.49888,
+    16.28589,
+    -9.49888
+],
+  "geometry": {"coordinates":[16.28589,-9.49888],"type":"Point"}
+}

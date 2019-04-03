@@ -1,0 +1,74 @@
+{
+  "id": 1326501103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18333,-12.83333,22.18333,-12.83333",
+    "geom:latitude":-12.83333,
+    "geom:longitude":22.18333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nhachi",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875886,
+    "gn:latitude":-12.83333,
+    "gn:longitude":22.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nhachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakiriavinia",
+        "Nhachi Primeiro",
+        "Cachiriavinha",
+        "Nhachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875886
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c04ca1db0c747035829e7cb9c07874fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1326501103,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1326501103,
+    "wof:lastmodified":1537584543,
+    "wof:name":"Nhachi",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18333,
+    -12.83333,
+    22.18333,
+    -12.83333
+],
+  "geometry": {"coordinates":[22.18333,-12.83333],"type":"Point"}
+}

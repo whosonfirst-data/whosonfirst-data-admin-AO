@@ -1,0 +1,67 @@
+{
+  "id": 1225915063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45,-11.16667,22.45,-11.16667",
+    "geom:latitude":-11.16667,
+    "geom:longitude":22.45,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Joao Chagas",
+    "gn:country_code":"AO",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876241,
+    "gn:latitude":-11.16667,
+    "gn:longitude":22.45,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Jo\u00e3o Chagas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876241
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2b49ed829d36d4fa73b05f87771ce69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799891,
+            "locality_id":1225915063,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1225915063,
+    "wof:lastmodified":1536914278,
+    "wof:name":"Joao Chagas",
+    "wof:parent_id":1108799891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45,
+    -11.16667,
+    22.45,
+    -11.16667
+],
+  "geometry": {"coordinates":[22.45,-11.16667],"type":"Point"}
+}

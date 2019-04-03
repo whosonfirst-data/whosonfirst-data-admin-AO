@@ -1,0 +1,67 @@
+{
+  "id": 1293466989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9,-8.91667,15.9,-8.91667",
+    "geom:latitude":-8.91667,
+    "geom:longitude":15.9,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Malundo",
+    "gn:country_code":"AO",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239828,
+    "gn:latitude":-8.91667,
+    "gn:longitude":15.9,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Malundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239828
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4c451ba3a6853054982f3997e99ad811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1293466989,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293466989,
+    "wof:lastmodified":1536815963,
+    "wof:name":"Malundo",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9,
+    -8.91667,
+    15.9,
+    -8.91667
+],
+  "geometry": {"coordinates":[15.9,-8.91667],"type":"Point"}
+}

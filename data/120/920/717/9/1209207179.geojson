@@ -1,0 +1,85 @@
+{
+  "id": 1209207179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76844,-10.73251,13.76844,-10.73251",
+    "geom:latitude":-10.73251,
+    "geom:longitude":13.76844,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3346659.0",
+    "gn:asciiname":"Porto Amboim",
+    "gn:country_code":"AO",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346661,
+    "gn:latitude":-10.73251,
+    "gn:longitude":13.76844,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Porto Amboim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Old Benguela"
+    ],
+    "name:eng_x_preferred":[
+        "Porto Amboim"
+    ],
+    "name:eng_x_variant":[
+        "Port Amboim",
+        "Old Benguela"
+    ],
+    "name:por_x_preferred":[
+        "Benguella Velha"
+    ],
+    "name:por_x_variant":[
+        "Porto Hmboim",
+        "Benguela Velha",
+        "Benguela-a-Velha",
+        "Porto Amboim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0443 \u0410\u043c\u0431\u043e\u0438\u043c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346661,
+        "wk:page":"Porto_Amboim"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f4018ea20235361e9fd1d74185e13d85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209207179
+        }
+    ],
+    "wof:id":1209207179,
+    "wof:lastmodified":1537584709,
+    "wof:name":"Porto Amboim",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76844,
+    -10.73251,
+    13.76844,
+    -10.73251
+],
+  "geometry": {"coordinates":[13.76844,-10.73251],"type":"Point"}
+}

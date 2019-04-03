@@ -1,0 +1,67 @@
+{
+  "id": 1276556799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49395,-11.9994,17.49395,-11.9994",
+    "geom:latitude":-11.9994,
+    "geom:longitude":17.49395,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Camuenho",
+    "gn:country_code":"AO",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901918,
+    "gn:latitude":-11.9994,
+    "gn:longitude":17.49395,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Camuenho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901918
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9d216dd7c8a7f951867c16232d492689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799709,
+            "locality_id":1276556799,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1276556799,
+    "wof:lastmodified":1536976006,
+    "wof:name":"Camuenho",
+    "wof:parent_id":1108799709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49395,
+    -11.9994,
+    17.49395,
+    -11.9994
+],
+  "geometry": {"coordinates":[17.49395,-11.9994],"type":"Point"}
+}

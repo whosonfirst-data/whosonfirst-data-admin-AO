@@ -1,0 +1,72 @@
+{
+  "id": 1226638441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67929,-9.97363,15.67929,-9.97363",
+    "geom:latitude":-9.97363,
+    "geom:longitude":15.67929,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zunga",
+    "gn:country_code":"AO",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236179,
+    "gn:latitude":-9.97363,
+    "gn:longitude":15.67929,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quibemba",
+        "Quibenda",
+        "Zunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236179
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"07f8748b9e78c96366e4c2b5dbd430f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1226638441,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226638441,
+    "wof:lastmodified":1537584567,
+    "wof:name":"Zunga",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67929,
+    -9.97363,
+    15.67929,
+    -9.97363
+],
+  "geometry": {"coordinates":[15.67929,-9.97363],"type":"Point"}
+}

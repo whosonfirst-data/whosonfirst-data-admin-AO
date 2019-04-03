@@ -1,0 +1,72 @@
+{
+  "id": 1326713115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61667,-7.91667,15.61667,-7.91667",
+    "geom:latitude":-7.91667,
+    "geom:longitude":15.61667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Samba",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237246,
+    "gn:latitude":-7.91667,
+    "gn:longitude":15.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Samba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cariamba",
+        "Samba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237246
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1604443c6179cd66f3abd0691de4f606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799765,
+            "locality_id":1326713115,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1326713115,
+    "wof:lastmodified":1537584579,
+    "wof:name":"Samba",
+    "wof:parent_id":1108799765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61667,
+    -7.91667,
+    15.61667,
+    -7.91667
+],
+  "geometry": {"coordinates":[15.61667,-7.91667],"type":"Point"}
+}

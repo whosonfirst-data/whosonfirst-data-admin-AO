@@ -1,0 +1,67 @@
+{
+  "id": 1276236897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17364,-11.45621,17.17364,-11.45621",
+    "geom:latitude":-11.45621,
+    "geom:longitude":17.17364,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchalanda",
+    "gn:country_code":"AO",
+    "gn:dem":1467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787974,
+    "gn:latitude":-11.45621,
+    "gn:longitude":17.17364,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Tchalanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787974
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d9861f641156c147b5a0881dd842c362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1276236897,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1276236897,
+    "wof:lastmodified":1536908085,
+    "wof:name":"Tchalanda",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17364,
+    -11.45621,
+    17.17364,
+    -11.45621
+],
+  "geometry": {"coordinates":[17.17364,-11.45621],"type":"Point"}
+}

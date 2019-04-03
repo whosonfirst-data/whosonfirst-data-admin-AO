@@ -1,0 +1,76 @@
+{
+  "id": 1226819407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10337,-6.18753,16.10337,-6.18753",
+    "geom:latitude":-6.18753,
+    "geom:longitude":16.10337,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Xingui",
+    "gn:country_code":"AO",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240715,
+    "gn:latitude":-6.18753,
+    "gn:longitude":16.10337,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Xingui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Xingui"
+    ],
+    "name:und_x_variant":[
+        "Xingue",
+        "Chingue",
+        "Chigue",
+        "Itesingue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240715
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"99287974e842c8220e545f2e63a6fb4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1226819407,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226819407,
+    "wof:lastmodified":1537584634,
+    "wof:name":"Xingui",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10337,
+    -6.18753,
+    16.10337,
+    -6.18753
+],
+  "geometry": {"coordinates":[16.10337,-6.18753],"type":"Point"}
+}

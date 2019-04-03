@@ -1,0 +1,67 @@
+{
+  "id": 1343945003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36667,-9.69028,16.36667,-9.69028",
+    "geom:latitude":-9.69028,
+    "geom:longitude":16.36667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cagiza",
+    "gn:country_code":"AO",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592316,
+    "gn:latitude":-9.69028,
+    "gn:longitude":16.36667,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Cagiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592316
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"27fc90de39bb9520aa8d8ac755892b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799805,
+            "locality_id":1343945003,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343945003,
+    "wof:lastmodified":1537040657,
+    "wof:name":"Cagiza",
+    "wof:parent_id":1108799805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36667000000001,
+    -9.69028,
+    16.36667000000001,
+    -9.69028
+],
+  "geometry": {"coordinates":[16.36667000000001,-9.69028],"type":"Point"}
+}

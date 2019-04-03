@@ -1,0 +1,67 @@
+{
+  "id": 1209733619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55667,-12.39194,13.55667,-12.39194",
+    "geom:latitude":-12.39194,
+    "geom:longitude":13.55667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nutaca",
+    "gn:country_code":"AO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372348,
+    "gn:latitude":-12.39194,
+    "gn:longitude":13.55667,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Nutaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372348
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3c731db653c8f8825776afd44dd1ddaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1209733619,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1209733619,
+    "wof:lastmodified":1536376051,
+    "wof:name":"Nutaca",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55667,
+    -12.39194,
+    13.55667,
+    -12.39194
+],
+  "geometry": {"coordinates":[13.55667,-12.39194],"type":"Point"}
+}

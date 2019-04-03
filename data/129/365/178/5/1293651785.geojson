@@ -1,0 +1,75 @@
+{
+  "id": 1293651785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.17043,-7.95746,13.17043,-7.95746",
+    "geom:latitude":-7.95746,
+    "geom:longitude":13.17043,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Capulo",
+    "gn:country_code":"AO",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242414,
+    "gn:latitude":-7.95746,
+    "gn:longitude":13.17043,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Capulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0443\u043b\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kaputo",
+        "Little Mazula",
+        "Capulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242414
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cef9374b278687c20b2c67d7cb385a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799933,
+            "locality_id":1293651785,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1293651785,
+    "wof:lastmodified":1537584663,
+    "wof:name":"Capulo",
+    "wof:parent_id":1108799933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.17043,
+    -7.95746,
+    13.17043,
+    -7.95746
+],
+  "geometry": {"coordinates":[13.17043,-7.95746],"type":"Point"}
+}

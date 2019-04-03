@@ -1,0 +1,67 @@
+{
+  "id": 1260351581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63333,-9.66667,13.63333,-9.66667",
+    "geom:latitude":-9.66667,
+    "geom:longitude":13.63333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Puri",
+    "gn:country_code":"AO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238827,
+    "gn:latitude":-9.66667,
+    "gn:longitude":13.63333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Puri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238827
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"07adbc59f57c037f1511ad6e6137f72e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1260351581,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1260351581,
+    "wof:lastmodified":1536618728,
+    "wof:name":"Puri",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63333,
+    -9.66667,
+    13.63333,
+    -9.66667
+],
+  "geometry": {"coordinates":[13.63333,-9.66667],"type":"Point"}
+}

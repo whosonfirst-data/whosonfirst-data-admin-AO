@@ -1,0 +1,67 @@
+{
+  "id": 1226771815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81079,-10.25158,15.81079,-10.25158",
+    "geom:latitude":-10.25158,
+    "geom:longitude":15.81079,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quimbalanga",
+    "gn:country_code":"AO",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7866072,
+    "gn:latitude":-10.25158,
+    "gn:longitude":15.81079,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quimbalanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866072
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"04feb4ed31bef495afcd207bd68bca15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1226771815,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226771815,
+    "wof:lastmodified":1536678031,
+    "wof:name":"Quimbalanga",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81079,
+    -10.25158,
+    15.81079,
+    -10.25158
+],
+  "geometry": {"coordinates":[15.81079,-10.25158],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327307161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.97766,-7.53973,16.97766,-7.53973",
+    "geom:latitude":-7.53973,
+    "geom:longitude":16.97766,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quicahamba",
+    "gn:country_code":"AO",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7868533,
+    "gn:latitude":-7.53973,
+    "gn:longitude":16.97766,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quicahamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7868533
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7217148a9026a740f0621c18f790cc7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799599,
+            "locality_id":1327307161,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1327307161,
+    "wof:lastmodified":1536860394,
+    "wof:name":"Quicahamba",
+    "wof:parent_id":1108799599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.97766,
+    -7.53973,
+    16.97766,
+    -7.53973
+],
+  "geometry": {"coordinates":[16.97766,-7.53973],"type":"Point"}
+}

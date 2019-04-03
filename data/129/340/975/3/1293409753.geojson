@@ -1,0 +1,67 @@
+{
+  "id": 1293409753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2,-12.23333,15.2,-12.23333",
+    "geom:latitude":-12.23333,
+    "geom:longitude":15.2,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cuio",
+    "gn:country_code":"AO",
+    "gn:dem":1561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349158,
+    "gn:latitude":-12.23333,
+    "gn:longitude":15.2,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cuio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349158
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c22c9b17f96aac1a095d5d5a7ade888a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1293409753,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1293409753,
+    "wof:lastmodified":1536899138,
+    "wof:name":"Cuio",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2,
+    -12.23333,
+    15.2,
+    -12.23333
+],
+  "geometry": {"coordinates":[15.2,-12.23333],"type":"Point"}
+}

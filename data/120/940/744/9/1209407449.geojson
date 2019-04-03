@@ -1,0 +1,65 @@
+{
+  "id": 1209407449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22287,-11.35779,14.22287,-11.35779",
+    "geom:latitude":-11.35779,
+    "geom:longitude":14.22287,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Catingo",
+    "gn:country_code":"AO",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350298,
+    "gn:latitude":-11.35779,
+    "gn:longitude":14.22287,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Catingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Embala Catingo",
+        "Catingo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350298
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6dcc10da9edf8d914be468a79e4dcb9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209407449
+        }
+    ],
+    "wof:id":1209407449,
+    "wof:lastmodified":1537584773,
+    "wof:name":"Catingo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22287,
+    -11.35779,
+    14.22287,
+    -11.35779
+],
+  "geometry": {"coordinates":[14.22287,-11.35779],"type":"Point"}
+}

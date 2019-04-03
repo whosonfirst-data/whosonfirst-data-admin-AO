@@ -1,0 +1,61 @@
+{
+  "id": 1209301537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33474,-10.38695,17.33474,-10.38695",
+    "geom:latitude":-10.38695,
+    "geom:longitude":17.33474,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Palanga Mixinga",
+    "gn:country_code":"AO",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7868462,
+    "gn:latitude":-10.38695,
+    "gn:longitude":17.33474,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Palanga Mixinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7868462
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dfdb7111ea72c2e65000637983e0a308",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209301537
+        }
+    ],
+    "wof:id":1209301537,
+    "wof:lastmodified":1536291341,
+    "wof:name":"Palanga Mixinga",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33474,
+    -10.38695,
+    17.33474,
+    -10.38695
+],
+  "geometry": {"coordinates":[17.33474,-10.38695],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327133471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76192,-9.1336,14.76192,-9.1336",
+    "geom:latitude":-9.1336,
+    "geom:longitude":14.76192,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mbondo",
+    "gn:country_code":"AO",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7770748,
+    "gn:latitude":-9.1336,
+    "gn:longitude":14.76192,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mbondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7770748
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b559ff42523cb84113470075c2735ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799607,
+            "locality_id":1327133471,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1327133471,
+    "wof:lastmodified":1536612074,
+    "wof:name":"Mbondo",
+    "wof:parent_id":1108799607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76192,
+    -9.1336,
+    14.76192,
+    -9.1336
+],
+  "geometry": {"coordinates":[14.76192,-9.1336],"type":"Point"}
+}

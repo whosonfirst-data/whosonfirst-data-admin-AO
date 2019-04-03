@@ -1,0 +1,72 @@
+{
+  "id": 1327456019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37343,-9.90148,15.37343,-9.90148",
+    "geom:latitude":-9.90148,
+    "geom:longitude":15.37343,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ngola Zanga",
+    "gn:country_code":"AO",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2240985,
+    "gn:latitude":-9.90148,
+    "gn:longitude":15.37343,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngola Zanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Goulanzanga",
+        "Gola-Zanga",
+        "Ngola Zanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240985
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"49c94c614c1d4b5e44884d25996482e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1327456019,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1327456019,
+    "wof:lastmodified":1537584639,
+    "wof:name":"Ngola Zanga",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37343,
+    -9.90148,
+    15.37343,
+    -9.90148
+],
+  "geometry": {"coordinates":[15.37343,-9.90148],"type":"Point"}
+}

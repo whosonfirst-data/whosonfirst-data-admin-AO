@@ -1,0 +1,67 @@
+{
+  "id": 1309675575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.64714,-8.66693,17.64714,-8.66693",
+    "geom:latitude":-8.66693,
+    "geom:longitude":17.64714,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muala",
+    "gn:country_code":"AO",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7768234,
+    "gn:latitude":-8.66693,
+    "gn:longitude":17.64714,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768234
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"be70129f7d3883025033935e6ef7bfa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1309675575,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1309675575,
+    "wof:lastmodified":1536619896,
+    "wof:name":"Muala",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.64714,
+    -8.66693,
+    17.64714,
+    -8.66693
+],
+  "geometry": {"coordinates":[17.64714,-8.66693],"type":"Point"}
+}

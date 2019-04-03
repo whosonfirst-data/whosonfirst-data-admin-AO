@@ -1,0 +1,67 @@
+{
+  "id": 1293756913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15899,-7.3058,15.15899,-7.3058",
+    "geom:latitude":-7.3058,
+    "geom:longitude":15.15899,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bemba Nova",
+    "gn:country_code":"AO",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535750,
+    "gn:latitude":-7.3058,
+    "gn:longitude":15.15899,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Bemba Nova",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535750
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dc7bd66dfd2a7b39bababa7251ba0725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799753,
+            "locality_id":1293756913,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1293756913,
+    "wof:lastmodified":1536895668,
+    "wof:name":"Bemba Nova",
+    "wof:parent_id":1108799753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15899,
+    -7.3058,
+    15.15899,
+    -7.3058
+],
+  "geometry": {"coordinates":[15.15899,-7.3058],"type":"Point"}
+}

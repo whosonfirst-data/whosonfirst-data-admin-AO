@@ -1,0 +1,61 @@
+{
+  "id": 1209437061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25593,-10.90586,14.25593,-10.90586",
+    "geom:latitude":-10.90586,
+    "geom:longitude":14.25593,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Buenbue",
+    "gn:country_code":"AO",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7866675,
+    "gn:latitude":-10.90586,
+    "gn:longitude":14.25593,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Buenbue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866675
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"56ec7ac0214de631a7bc114db413b650",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209437061
+        }
+    ],
+    "wof:id":1209437061,
+    "wof:lastmodified":1536287072,
+    "wof:name":"Buenbue",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25593,
+    -10.90586,
+    14.25593,
+    -10.90586
+],
+  "geometry": {"coordinates":[14.25593,-10.90586],"type":"Point"}
+}

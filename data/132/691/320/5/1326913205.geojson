@@ -1,0 +1,72 @@
+{
+  "id": 1326913205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.70472,-6.28078,16.70472,-6.28078",
+    "geom:latitude":-6.28078,
+    "geom:longitude":16.70472,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cuango",
+    "gn:country_code":"AO",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241669,
+    "gn:latitude":-6.28078,
+    "gn:longitude":16.70472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cuango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quimbele",
+        "Kwang",
+        "Cuango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241669
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1e72fec127ee6187535489a68e1df33b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1326913205,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1326913205,
+    "wof:lastmodified":1537584651,
+    "wof:name":"Cuango",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.70472,
+    -6.28078,
+    16.70472,
+    -6.28078
+],
+  "geometry": {"coordinates":[16.70472,-6.28078],"type":"Point"}
+}

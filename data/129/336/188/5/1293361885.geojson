@@ -1,0 +1,67 @@
+{
+  "id": 1293361885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08788,-9.1686,18.08788,-9.1686",
+    "geom:latitude":-9.1686,
+    "geom:longitude":18.08788,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Quissueia",
+    "gn:country_code":"AO",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786995,
+    "gn:latitude":-9.1686,
+    "gn:longitude":18.08788,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Quissueia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786995
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"25aaf8a3cc904f12e3cbf847b1b01960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1293361885,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293361885,
+    "wof:lastmodified":1536967923,
+    "wof:name":"Quissueia",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08788,
+    -9.1686,
+    18.08788,
+    -9.1686
+],
+  "geometry": {"coordinates":[18.08788,-9.1686],"type":"Point"}
+}

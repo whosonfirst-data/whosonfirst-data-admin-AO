@@ -1,0 +1,67 @@
+{
+  "id": 1277056411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36667,-8.85,17.36667,-8.85",
+    "geom:latitude":-8.85,
+    "geom:longitude":17.36667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Muangua",
+    "gn:country_code":"AO",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239361,
+    "gn:latitude":-8.85,
+    "gn:longitude":17.36667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Muangua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239361
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b3a86c6c54a90ae3c8272a8042571a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799725,
+            "locality_id":1277056411,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1277056411,
+    "wof:lastmodified":1536804254,
+    "wof:name":"Muangua",
+    "wof:parent_id":1108799725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36667000000001,
+    -8.85,
+    17.36667000000001,
+    -8.85
+],
+  "geometry": {"coordinates":[17.36667000000001,-8.85],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310082747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2554,-8.36145,16.2554,-8.36145",
+    "geom:latitude":-8.36145,
+    "geom:longitude":16.2554,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Penza Malambo",
+    "gn:country_code":"AO",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7742315,
+    "gn:latitude":-8.36145,
+    "gn:longitude":16.2554,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Penza Malambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7742315
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"03cb56c4bbf4a8641c09e17154913fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1310082747,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1310082747,
+    "wof:lastmodified":1537028197,
+    "wof:name":"Penza Malambo",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2554,
+    -8.36145,
+    16.2554,
+    -8.36145
+],
+  "geometry": {"coordinates":[16.2554,-8.36145],"type":"Point"}
+}

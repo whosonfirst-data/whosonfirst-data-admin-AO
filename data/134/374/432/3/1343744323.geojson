@@ -1,0 +1,67 @@
+{
+  "id": 1343744323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.79554,-6.89371,12.79554,-6.89371",
+    "geom:latitude":-6.89371,
+    "geom:longitude":12.79554,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quifunta",
+    "gn:country_code":"AO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8633872,
+    "gn:latitude":-6.89371,
+    "gn:longitude":12.79554,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Quifunta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8633872
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"414fef6d71560b7c50bcf8cc08e3e913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799615,
+            "locality_id":1343744323,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1343744323,
+    "wof:lastmodified":1536833166,
+    "wof:name":"Quifunta",
+    "wof:parent_id":1108799615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.79554,
+    -6.89371,
+    12.79554,
+    -6.89371
+],
+  "geometry": {"coordinates":[12.79554,-6.89371],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209920287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.6639,-14.70987,17.6639,-14.70987",
+    "geom:latitude":-14.70987,
+    "geom:longitude":17.6639,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cuenha",
+    "gn:country_code":"AO",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7909042,
+    "gn:latitude":-14.70987,
+    "gn:longitude":17.6639,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Cuenha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909042
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f3a8c394736c7b66cf281a1c1f500d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799961,
+            "locality_id":1209920287,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1209920287,
+    "wof:lastmodified":1536369157,
+    "wof:name":"Cuenha",
+    "wof:parent_id":1108799961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6639,
+    -14.70987,
+    17.6639,
+    -14.70987
+],
+  "geometry": {"coordinates":[17.6639,-14.70987],"type":"Point"}
+}

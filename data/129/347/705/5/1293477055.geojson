@@ -1,0 +1,67 @@
+{
+  "id": 1293477055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36743,-8.97548,17.36743,-8.97548",
+    "geom:latitude":-8.97548,
+    "geom:longitude":17.36743,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bombo",
+    "gn:country_code":"AO",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356370,
+    "gn:latitude":-8.97548,
+    "gn:longitude":17.36743,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Bombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356370
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f1f72ff7467dec2d6c819986d0370dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799725,
+            "locality_id":1293477055,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293477055,
+    "wof:lastmodified":1536802158,
+    "wof:name":"Bombo",
+    "wof:parent_id":1108799725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36743,
+    -8.97548,
+    17.36743,
+    -8.97548
+],
+  "geometry": {"coordinates":[17.36743,-8.97548],"type":"Point"}
+}

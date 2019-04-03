@@ -1,0 +1,67 @@
+{
+  "id": 1226025041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2703,-8.862,17.2703,-8.862",
+    "geom:latitude":-8.862,
+    "geom:longitude":17.2703,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quizamba",
+    "gn:country_code":"AO",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7756194,
+    "gn:latitude":-8.862,
+    "gn:longitude":17.2703,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quizamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7756194
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2ad7e505c90de68bd8d3322bc66e78e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799725,
+            "locality_id":1226025041,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226025041,
+    "wof:lastmodified":1536755115,
+    "wof:name":"Quizamba",
+    "wof:parent_id":1108799725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2703,
+    -8.862,
+    17.2703,
+    -8.862
+],
+  "geometry": {"coordinates":[17.2703,-8.862],"type":"Point"}
+}

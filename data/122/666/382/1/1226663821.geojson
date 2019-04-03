@@ -1,0 +1,67 @@
+{
+  "id": 1226663821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74639,-12.29459,14.74639,-12.29459",
+    "geom:latitude":-12.29459,
+    "geom:longitude":14.74639,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lanhoha",
+    "gn:country_code":"AO",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7902909,
+    "gn:latitude":-12.29459,
+    "gn:longitude":14.74639,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Lanh\u00f4ha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7902909
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4cc8c3c226637fea32181847a9f5b93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799737,
+            "locality_id":1226663821,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1226663821,
+    "wof:lastmodified":1536832441,
+    "wof:name":"Lanhoha",
+    "wof:parent_id":1108799737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74639,
+    -12.29459,
+    14.74639,
+    -12.29459
+],
+  "geometry": {"coordinates":[14.74639,-12.29459],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310481755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8814,-9.01272,15.8814,-9.01272",
+    "geom:latitude":-9.01272,
+    "geom:longitude":15.8814,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Macuto",
+    "gn:country_code":"AO",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769001,
+    "gn:latitude":-9.01272,
+    "gn:longitude":15.8814,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Macuto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769001
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7440763e41bdc1e032b7e0bd1f4c798e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1310481755,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1310481755,
+    "wof:lastmodified":1536951390,
+    "wof:name":"Macuto",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8814,
+    -9.01272,
+    15.8814,
+    -9.01272
+],
+  "geometry": {"coordinates":[15.8814,-9.01272],"type":"Point"}
+}

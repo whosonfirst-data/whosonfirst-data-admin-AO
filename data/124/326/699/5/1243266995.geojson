@@ -1,0 +1,67 @@
+{
+  "id": 1243266995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96667,-11.13333,16.96667,-11.13333",
+    "geom:latitude":-11.13333,
+    "geom:longitude":16.96667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sachinhama",
+    "gn:country_code":"AO",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346355,
+    "gn:latitude":-11.13333,
+    "gn:longitude":16.96667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Sachinhama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346355
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"03c822d64ca59d0d2058630150350393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1243266995,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1243266995,
+    "wof:lastmodified":1537061467,
+    "wof:name":"Sachinhama",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96667,
+    -11.13333,
+    16.96667,
+    -11.13333
+],
+  "geometry": {"coordinates":[16.96667,-11.13333],"type":"Point"}
+}

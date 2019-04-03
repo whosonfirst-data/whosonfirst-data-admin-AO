@@ -1,0 +1,73 @@
+{
+  "id": 1310618903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82606,-12.30362,13.82606,-12.30362",
+    "geom:latitude":-12.30362,
+    "geom:longitude":13.82606,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Colango",
+    "gn:country_code":"AO",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349142,
+    "gn:latitude":-12.30362,
+    "gn:longitude":13.82606,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Colango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Culanga",
+        "Cubango",
+        "Cutango",
+        "Culango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349142
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7755dbd812bb501f9593c1c962bfb557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1310618903,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1310618903,
+    "wof:lastmodified":1537584748,
+    "wof:name":"Colango",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82606,
+    -12.30362,
+    13.82606,
+    -12.30362
+],
+  "geometry": {"coordinates":[13.82606,-12.30362],"type":"Point"}
+}

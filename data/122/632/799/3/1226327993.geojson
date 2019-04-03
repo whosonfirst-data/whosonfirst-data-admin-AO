@@ -1,0 +1,67 @@
+{
+  "id": 1226327993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53417,-12.50306,15.53417,-12.50306",
+    "geom:latitude":-12.50306,
+    "geom:longitude":15.53417,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bundo de Cima",
+    "gn:country_code":"AO",
+    "gn:dem":1624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372190,
+    "gn:latitude":-12.50306,
+    "gn:longitude":15.53417,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Bundo de Cima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372190
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"473d86f272e585b76e00e44b521820a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1226327993,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1226327993,
+    "wof:lastmodified":1536814396,
+    "wof:name":"Bundo de Cima",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53417,
+    -12.50306,
+    15.53417,
+    -12.50306
+],
+  "geometry": {"coordinates":[15.53417,-12.50306],"type":"Point"}
+}

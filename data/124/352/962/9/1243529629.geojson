@@ -1,0 +1,67 @@
+{
+  "id": 1243529629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76684,-8.64044,14.76684,-8.64044",
+    "geom:latitude":-8.64044,
+    "geom:longitude":14.76684,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Culaia",
+    "gn:country_code":"AO",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241610,
+    "gn:latitude":-8.64044,
+    "gn:longitude":14.76684,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Culaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241610
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9877f4bfa387432d2487c01a245cd08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799817,
+            "locality_id":1243529629,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1243529629,
+    "wof:lastmodified":1536685689,
+    "wof:name":"Culaia",
+    "wof:parent_id":1108799817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76684,
+    -8.64044,
+    14.76684,
+    -8.64044
+],
+  "geometry": {"coordinates":[14.76684,-8.64044],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242956011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7,-7.01667,15.7,-7.01667",
+    "geom:latitude":-7.01667,
+    "geom:longitude":15.7,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimaeta",
+    "gn:country_code":"AO",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238262,
+    "gn:latitude":-7.01667,
+    "gn:longitude":15.7,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quimaeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238262
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c440677c23d6136b6974d98eeaba5a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799617,
+            "locality_id":1242956011,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1242956011,
+    "wof:lastmodified":1537014968,
+    "wof:name":"Quimaeta",
+    "wof:parent_id":1108799617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7,
+    -7.01667,
+    15.7,
+    -7.01667
+],
+  "geometry": {"coordinates":[15.7,-7.01667],"type":"Point"}
+}

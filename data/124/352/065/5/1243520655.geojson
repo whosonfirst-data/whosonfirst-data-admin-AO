@@ -1,0 +1,67 @@
+{
+  "id": 1243520655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50334,-9.397,20.50334,-9.397",
+    "geom:latitude":-9.397,
+    "geom:longitude":20.50334,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muatchissengue",
+    "gn:country_code":"AO",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7770479,
+    "gn:latitude":-9.397,
+    "gn:longitude":20.50334,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muatchissengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7770479
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cdf45dbe05d31bceb6d9d89e7a277c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1243520655,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1243520655,
+    "wof:lastmodified":1536698919,
+    "wof:name":"Muatchissengue",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50334,
+    -9.397,
+    20.50334,
+    -9.397
+],
+  "geometry": {"coordinates":[20.50334,-9.397],"type":"Point"}
+}

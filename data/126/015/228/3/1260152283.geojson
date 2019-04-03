@@ -1,0 +1,72 @@
+{
+  "id": 1260152283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.65511,-8.86422,20.65511,-8.86422",
+    "geom:latitude":-8.86422,
+    "geom:longitude":20.65511,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Caxiaxia",
+    "gn:country_code":"AO",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145853,
+    "gn:latitude":-8.86422,
+    "gn:longitude":20.65511,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caxiaxia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cachiachia",
+        "Caxia",
+        "Caxiaxia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145853
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d263a66d34be173f851df6e5972e2e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1260152283,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1260152283,
+    "wof:lastmodified":1537584529,
+    "wof:name":"Caxiaxia",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.65511,
+    -8.86422,
+    20.65511,
+    -8.86422
+],
+  "geometry": {"coordinates":[20.65511,-8.86422],"type":"Point"}
+}

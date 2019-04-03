@@ -1,0 +1,67 @@
+{
+  "id": 1293695677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53333,-11.65,17.53333,-11.65",
+    "geom:latitude":-11.65,
+    "geom:longitude":17.53333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chicozo",
+    "gn:country_code":"AO",
+    "gn:dem":1253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349936,
+    "gn:latitude":-11.65,
+    "gn:longitude":17.53333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chicozo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349936
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"46f52916bb60a2c9e47954a75eb194bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799719,
+            "locality_id":1293695677,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293695677,
+    "wof:lastmodified":1536983378,
+    "wof:name":"Chicozo",
+    "wof:parent_id":1108799719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53333,
+    -11.65,
+    17.53333,
+    -11.65
+],
+  "geometry": {"coordinates":[17.53333,-11.65],"type":"Point"}
+}

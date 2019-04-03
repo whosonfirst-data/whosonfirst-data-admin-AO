@@ -1,0 +1,67 @@
+{
+  "id": 1276842647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47584,-5.91282,13.47584,-5.91282",
+    "geom:latitude":-5.91282,
+    "geom:longitude":13.47584,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quissilua",
+    "gn:country_code":"AO",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7644643,
+    "gn:latitude":-5.91282,
+    "gn:longitude":13.47584,
+    "gn:modification_date":"2011-01-05",
+    "gn:name":"Quissilua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7644643
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e3e66c818b2862a02152c9924d9bc13d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799679,
+            "locality_id":1276842647,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1276842647,
+    "wof:lastmodified":1537087855,
+    "wof:name":"Quissilua",
+    "wof:parent_id":1108799679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47584,
+    -5.91282,
+    13.47584,
+    -5.91282
+],
+  "geometry": {"coordinates":[13.47584,-5.91282],"type":"Point"}
+}

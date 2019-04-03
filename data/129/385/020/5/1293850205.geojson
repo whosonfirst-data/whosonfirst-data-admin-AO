@@ -1,0 +1,72 @@
+{
+  "id": 1293850205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55682,-9.59948,21.55682,-9.59948",
+    "geom:latitude":-9.59948,
+    "geom:longitude":21.55682,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muazaza",
+    "gn:country_code":"AO",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145642,
+    "gn:latitude":-9.59948,
+    "gn:longitude":21.55682,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Muazaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muazanza",
+        "Muanzanza",
+        "Muazaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145642
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"923677ff65bb4fbc0f46a82f04033a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799787,
+            "locality_id":1293850205,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1293850205,
+    "wof:lastmodified":1537584525,
+    "wof:name":"Muazaza",
+    "wof:parent_id":1108799787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55682,
+    -9.59948,
+    21.55682,
+    -9.59948
+],
+  "geometry": {"coordinates":[21.55682,-9.59948],"type":"Point"}
+}

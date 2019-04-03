@@ -1,0 +1,67 @@
+{
+  "id": 1259656195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63879,-6.22695,14.63879,-6.22695",
+    "geom:latitude":-6.22695,
+    "geom:longitude":14.63879,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quitinda",
+    "gn:country_code":"AO",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2237497,
+    "gn:latitude":-6.22695,
+    "gn:longitude":14.63879,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Quitinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237497
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"24718437dc894b38115926d7cf6f20a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799899,
+            "locality_id":1259656195,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1259656195,
+    "wof:lastmodified":1536607184,
+    "wof:name":"Quitinda",
+    "wof:parent_id":1108799899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63879,
+    -6.22695,
+    14.63879,
+    -6.22695
+],
+  "geometry": {"coordinates":[14.63879,-6.22695],"type":"Point"}
+}

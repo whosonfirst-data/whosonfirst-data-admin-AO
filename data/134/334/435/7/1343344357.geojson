@@ -1,0 +1,67 @@
+{
+  "id": 1343344357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,-6.83333,15.01667,-6.83333",
+    "geom:latitude":-6.83333,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimaulo",
+    "gn:country_code":"AO",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238228,
+    "gn:latitude":-6.83333,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quimaulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238228
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"39f87e1933f1af2f8902bf3b51b17b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1343344357,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343344357,
+    "wof:lastmodified":1536914328,
+    "wof:name":"Quimaulo",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    -6.83333,
+    15.01667,
+    -6.83333
+],
+  "geometry": {"coordinates":[15.01667,-6.83333],"type":"Point"}
+}

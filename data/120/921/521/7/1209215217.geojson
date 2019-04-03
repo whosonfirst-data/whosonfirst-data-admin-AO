@@ -1,0 +1,66 @@
+{
+  "id": 1209215217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53333,-15.78333,21.53333,-15.78333",
+    "geom:latitude":-15.78333,
+    "geom:longitude":21.53333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Neriquinha",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875893,
+    "gn:latitude":-15.78333,
+    "gn:longitude":21.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Neriquinha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nriquinha",
+        "Neriquinha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875893
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"599756579bfac66f71f6989496ce7b5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209215217
+        }
+    ],
+    "wof:id":1209215217,
+    "wof:lastmodified":1537584544,
+    "wof:name":"Neriquinha",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53333,
+    -15.78333,
+    21.53333,
+    -15.78333
+],
+  "geometry": {"coordinates":[21.53333,-15.78333],"type":"Point"}
+}

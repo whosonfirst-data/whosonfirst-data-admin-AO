@@ -1,0 +1,67 @@
+{
+  "id": 1226207927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85242,-8.73025,14.85242,-8.73025",
+    "geom:latitude":-8.73025,
+    "geom:longitude":14.85242,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Calunga Iumba",
+    "gn:country_code":"AO",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535955,
+    "gn:latitude":-8.73025,
+    "gn:longitude":14.85242,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Calunga Iumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535955
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3c885ca488eaf7830fe288b6d95463ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799817,
+            "locality_id":1226207927,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1226207927,
+    "wof:lastmodified":1536987441,
+    "wof:name":"Calunga Iumba",
+    "wof:parent_id":1108799817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85242,
+    -8.73025,
+    14.85242,
+    -8.73025
+],
+  "geometry": {"coordinates":[14.85242,-8.73025],"type":"Point"}
+}

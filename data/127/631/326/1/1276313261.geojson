@@ -1,0 +1,72 @@
+{
+  "id": 1276313261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99767,-8.93163,15.99767,-8.93163",
+    "geom:latitude":-8.93163,
+    "geom:longitude":15.99767,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quiluangi",
+    "gn:country_code":"AO",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238316,
+    "gn:latitude":-8.93163,
+    "gn:longitude":15.99767,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quiluangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quiloange",
+        "Quiluange",
+        "Quiluangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238316
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7cc7290e49c37c835be85e55095f9b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1276313261,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276313261,
+    "wof:lastmodified":1537584602,
+    "wof:name":"Quiluangi",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99767,
+    -8.93163,
+    15.99767,
+    -8.93163
+],
+  "geometry": {"coordinates":[15.99767,-8.93163],"type":"Point"}
+}

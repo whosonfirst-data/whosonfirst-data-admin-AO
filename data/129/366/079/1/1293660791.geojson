@@ -1,0 +1,67 @@
+{
+  "id": 1293660791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83333,-8.75,17.83333,-8.75",
+    "geom:latitude":-8.75,
+    "geom:longitude":17.83333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Calanga",
+    "gn:country_code":"AO",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242995,
+    "gn:latitude":-8.75,
+    "gn:longitude":17.83333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Calanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242995
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f5466d82d31042d7390c19f8247ab2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1293660791,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293660791,
+    "wof:lastmodified":1537033087,
+    "wof:name":"Calanga",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83333,
+    -8.75,
+    17.83333,
+    -8.75
+],
+  "geometry": {"coordinates":[17.83333,-8.75],"type":"Point"}
+}

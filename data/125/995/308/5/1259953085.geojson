@@ -1,0 +1,67 @@
+{
+  "id": 1259953085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96116,-7.32303,14.96116,-7.32303",
+    "geom:latitude":-7.32303,
+    "geom:longitude":14.96116,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cavunga",
+    "gn:country_code":"AO",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750316,
+    "gn:latitude":-7.32303,
+    "gn:longitude":14.96116,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cavunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750316
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a42a8f3173d9712fe79be3af61ee5f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799683,
+            "locality_id":1259953085,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1259953085,
+    "wof:lastmodified":1536678989,
+    "wof:name":"Cavunga",
+    "wof:parent_id":1108799683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96116,
+    -7.32303,
+    14.96116,
+    -7.32303
+],
+  "geometry": {"coordinates":[14.96116,-7.32303],"type":"Point"}
+}

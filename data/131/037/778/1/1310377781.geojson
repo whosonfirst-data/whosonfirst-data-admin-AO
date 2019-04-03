@@ -1,0 +1,67 @@
+{
+  "id": 1310377781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53333,-6.55,14.53333,-6.55",
+    "geom:latitude":-6.55,
+    "geom:longitude":14.53333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Vimpe",
+    "gn:country_code":"AO",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236488,
+    "gn:latitude":-6.55,
+    "gn:longitude":14.53333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Vimpe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236488
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c580b3061c8706aa13586efd2681f453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799899,
+            "locality_id":1310377781,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1310377781,
+    "wof:lastmodified":1536600607,
+    "wof:name":"Vimpe",
+    "wof:parent_id":1108799899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53333,
+    -6.55,
+    14.53333,
+    -6.55
+],
+  "geometry": {"coordinates":[14.53333,-6.55],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242850375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8,-8.86667,20.8,-8.86667",
+    "geom:latitude":-8.86667,
+    "geom:longitude":20.8,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Caiambo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145921,
+    "gn:latitude":-8.86667,
+    "gn:longitude":20.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caiambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cacho",
+        "Caiambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145921
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6a7ffbac98a5f5563496e12201b52fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1242850375,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1242850375,
+    "wof:lastmodified":1537584532,
+    "wof:name":"Caiambo",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8,
+    -8.86667,
+    20.8,
+    -8.86667
+],
+  "geometry": {"coordinates":[20.8,-8.86667],"type":"Point"}
+}

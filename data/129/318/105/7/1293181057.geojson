@@ -1,0 +1,67 @@
+{
+  "id": 1293181057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51557,-8.99214,16.51557,-8.99214",
+    "geom:latitude":-8.99214,
+    "geom:longitude":16.51557,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Maundo",
+    "gn:country_code":"AO",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7757721,
+    "gn:latitude":-8.99214,
+    "gn:longitude":16.51557,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Maundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7757721
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c9a76c37d664a2dec934265fe0de9e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799701,
+            "locality_id":1293181057,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293181057,
+    "wof:lastmodified":1536732193,
+    "wof:name":"Maundo",
+    "wof:parent_id":1108799701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51557,
+    -8.99214,
+    16.51557,
+    -8.99214
+],
+  "geometry": {"coordinates":[16.51557,-8.99214],"type":"Point"}
+}

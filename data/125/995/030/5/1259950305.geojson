@@ -1,0 +1,70 @@
+{
+  "id": 1259950305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97241,-7.2835,14.97241,-7.2835",
+    "geom:latitude":-7.2835,
+    "geom:longitude":14.97241,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quiteca",
+    "gn:country_code":"AO",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2238866,
+    "gn:latitude":-7.2835,
+    "gn:longitude":14.97241,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quiteca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Pombo Quiteca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238866
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f4beb861a89a856993174f8a978849d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799683,
+            "locality_id":1259950305,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1259950305,
+    "wof:lastmodified":1537584612,
+    "wof:name":"Quiteca",
+    "wof:parent_id":1108799683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97241,
+    -7.2835,
+    14.97241,
+    -7.2835
+],
+  "geometry": {"coordinates":[14.97241,-7.2835],"type":"Point"}
+}

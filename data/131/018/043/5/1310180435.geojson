@@ -1,0 +1,67 @@
+{
+  "id": 1310180435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,-9.86667,14.15,-9.86667",
+    "geom:latitude":-9.86667,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dimina",
+    "gn:country_code":"AO",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241421,
+    "gn:latitude":-9.86667,
+    "gn:longitude":14.15,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Dimina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241421
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0efa8d29c0fd8c8198212220186a56b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1310180435,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1310180435,
+    "wof:lastmodified":1536888125,
+    "wof:name":"Dimina",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    -9.86667,
+    14.15,
+    -9.86667
+],
+  "geometry": {"coordinates":[14.15,-9.86667],"type":"Point"}
+}

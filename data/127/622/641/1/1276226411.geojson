@@ -1,0 +1,67 @@
+{
+  "id": 1276226411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28085,-9.16177,15.28085,-9.16177",
+    "geom:latitude":-9.16177,
+    "geom:longitude":15.28085,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cariombua de Baixo",
+    "gn:country_code":"AO",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7769445,
+    "gn:latitude":-9.16177,
+    "gn:longitude":15.28085,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cari\u00f4mbua de Baixo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769445
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6b046c02cf81f2dc88188ae78b7d38bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799905,
+            "locality_id":1276226411,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1276226411,
+    "wof:lastmodified":1536922778,
+    "wof:name":"Cariombua de Baixo",
+    "wof:parent_id":1108799905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28085,
+    -9.16177,
+    15.28085,
+    -9.16177
+],
+  "geometry": {"coordinates":[15.28085,-9.16177],"type":"Point"}
+}

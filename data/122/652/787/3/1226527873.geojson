@@ -1,0 +1,67 @@
+{
+  "id": 1226527873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09603,-12.2897,15.09603,-12.2897",
+    "geom:latitude":-12.2897,
+    "geom:longitude":15.09603,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Eculica",
+    "gn:country_code":"AO",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7906117,
+    "gn:latitude":-12.2897,
+    "gn:longitude":15.09603,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Eculica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906117
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fe47e28b0a4bb05850348c4dd28d0659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1226527873,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1226527873,
+    "wof:lastmodified":1537022820,
+    "wof:name":"Eculica",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09603,
+    -12.2897,
+    15.09603,
+    -12.2897
+],
+  "geometry": {"coordinates":[15.09603,-12.2897],"type":"Point"}
+}

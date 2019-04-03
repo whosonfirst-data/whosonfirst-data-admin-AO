@@ -1,0 +1,64 @@
+{
+  "id": 1209096037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30164,-14.61603,14.30164,-14.61603",
+    "geom:latitude":-14.61603,
+    "geom:longitude":14.30164,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchicuaqueia",
+    "gn:country_code":"AO",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349930,
+    "gn:latitude":-14.61603,
+    "gn:longitude":14.30164,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchicuaqueia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicuaqueia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349930
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2eb96ff1c490a28f8dfbad6224353a1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209096037
+        }
+    ],
+    "wof:id":1209096037,
+    "wof:lastmodified":1537584766,
+    "wof:name":"Tchicuaqueia",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30164,
+    -14.61603,
+    14.30164,
+    -14.61603
+],
+  "geometry": {"coordinates":[14.30164,-14.61603],"type":"Point"}
+}

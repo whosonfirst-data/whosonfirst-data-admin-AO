@@ -1,0 +1,67 @@
+{
+  "id": 1226534955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68267,-10.73406,14.68267,-10.73406",
+    "geom:latitude":-10.73406,
+    "geom:longitude":14.68267,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sambalunga",
+    "gn:country_code":"AO",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865641,
+    "gn:latitude":-10.73406,
+    "gn:longitude":14.68267,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Sambalunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865641
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9c89990d237936ecf964e9660844e538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799659,
+            "locality_id":1226534955,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226534955,
+    "wof:lastmodified":1537012935,
+    "wof:name":"Sambalunga",
+    "wof:parent_id":1108799659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68267,
+    -10.73406,
+    14.68267,
+    -10.73406
+],
+  "geometry": {"coordinates":[14.68267,-10.73406],"type":"Point"}
+}

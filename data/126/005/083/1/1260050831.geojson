@@ -1,0 +1,72 @@
+{
+  "id": 1260050831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85,-11.98333,23.85,-11.98333",
+    "geom:latitude":-11.98333,
+    "geom:longitude":23.85,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mambeco",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876048,
+    "gn:latitude":-11.98333,
+    "gn:longitude":23.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mambeco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mambeca",
+        "Mambeco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876048
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d328bd714919a562826af6bcecde344b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799861,
+            "locality_id":1260050831,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1260050831,
+    "wof:lastmodified":1537584548,
+    "wof:name":"Mambeco",
+    "wof:parent_id":1108799861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85,
+    -11.98333,
+    23.85,
+    -11.98333
+],
+  "geometry": {"coordinates":[23.85,-11.98333],"type":"Point"}
+}

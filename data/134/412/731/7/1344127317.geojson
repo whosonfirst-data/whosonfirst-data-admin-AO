@@ -1,0 +1,67 @@
+{
+  "id": 1344127317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8057,-7.5606,15.8057,-7.5606",
+    "geom:latitude":-7.5606,
+    "geom:longitude":15.8057,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cacilhas",
+    "gn:country_code":"AO",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867974,
+    "gn:latitude":-7.5606,
+    "gn:longitude":15.8057,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cacilhas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867974
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c61970491a375f94e2f91737d820b21b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799657,
+            "locality_id":1344127317,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1344127317,
+    "wof:lastmodified":1536779740,
+    "wof:name":"Cacilhas",
+    "wof:parent_id":1108799657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8057,
+    -7.5606,
+    15.8057,
+    -7.5606
+],
+  "geometry": {"coordinates":[15.8057,-7.5606],"type":"Point"}
+}

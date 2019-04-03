@@ -1,0 +1,72 @@
+{
+  "id": 1309696715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54438,-15.05041,13.54438,-15.05041",
+    "geom:latitude":-15.05041,
+    "geom:longitude":13.54438,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Huila",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348305,
+    "gn:latitude":-15.05041,
+    "gn:longitude":13.54438,
+    "gn:modification_date":"2014-08-16",
+    "gn:name":"Huila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu\u00edlo",
+        "Huila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348305
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7364b9e27544de6ce2b0b5c29a69480d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799869,
+            "locality_id":1309696715,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1309696715,
+    "wof:lastmodified":1537584733,
+    "wof:name":"Huila",
+    "wof:parent_id":1108799869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54438,
+    -15.05041,
+    13.54438,
+    -15.05041
+],
+  "geometry": {"coordinates":[13.54438,-15.05041],"type":"Point"}
+}

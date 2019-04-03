@@ -1,0 +1,67 @@
+{
+  "id": 1225837559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11687,-10.54248,16.11687,-10.54248",
+    "geom:latitude":-10.54248,
+    "geom:longitude":16.11687,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Samalia",
+    "gn:country_code":"AO",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7900112,
+    "gn:latitude":-10.54248,
+    "gn:longitude":16.11687,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Samalia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900112
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f8f881b641b0625251e2f6f0b1010597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1225837559,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1225837559,
+    "wof:lastmodified":1537024426,
+    "wof:name":"Samalia",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11687,
+    -10.54248,
+    16.11687,
+    -10.54248
+],
+  "geometry": {"coordinates":[16.11687,-10.54248],"type":"Point"}
+}

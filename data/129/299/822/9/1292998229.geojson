@@ -1,0 +1,72 @@
+{
+  "id": 1292998229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81667,-11.01667,14.81667,-11.01667",
+    "geom:latitude":-11.01667,
+    "geom:longitude":14.81667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Fazenda Vitoria",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348648,
+    "gn:latitude":-11.01667,
+    "gn:longitude":14.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fazenda Vit\u00f3ria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A. Gon\u00e7alves Magalh\u00e3es",
+        "Fazenda Vit\u00f3ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348648
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a90acd86b437328e4aa3f48c95a4bdd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799659,
+            "locality_id":1292998229,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1292998229,
+    "wof:lastmodified":1537584740,
+    "wof:name":"Fazenda Vitoria",
+    "wof:parent_id":1108799659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81667,
+    -11.01667,
+    14.81667,
+    -11.01667
+],
+  "geometry": {"coordinates":[14.81667,-11.01667],"type":"Point"}
+}

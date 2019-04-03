@@ -1,0 +1,67 @@
+{
+  "id": 1293222839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73136,-11.89544,14.73136,-11.89544",
+    "geom:latitude":-11.89544,
+    "geom:longitude":14.73136,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chinhundo",
+    "gn:country_code":"AO",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3349705,
+    "gn:latitude":-11.89544,
+    "gn:longitude":14.73136,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Chinhundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349705
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d5de7e1299ea683792fc16d9d866190f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1293222839,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293222839,
+    "wof:lastmodified":1536671538,
+    "wof:name":"Chinhundo",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73136,
+    -11.89544,
+    14.73136,
+    -11.89544
+],
+  "geometry": {"coordinates":[14.73136,-11.89544],"type":"Point"}
+}

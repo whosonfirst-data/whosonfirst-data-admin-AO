@@ -1,0 +1,74 @@
+{
+  "id": 1243536709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.84043,-6.96923,12.84043,-6.96923",
+    "geom:latitude":-6.96923,
+    "geom:longitude":12.84043,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mucula",
+    "gn:country_code":"AO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239304,
+    "gn:latitude":-6.96923,
+    "gn:longitude":12.84043,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Mucula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukula",
+        "Moculla",
+        "Mukala",
+        "Mocula",
+        "Mucula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239304
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1cabbac5a405ea1dc284ee63918197f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799615,
+            "locality_id":1243536709,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1243536709,
+    "wof:lastmodified":1537584619,
+    "wof:name":"Mucula",
+    "wof:parent_id":1108799615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.84043,
+    -6.96923,
+    12.84043,
+    -6.96923
+],
+  "geometry": {"coordinates":[12.84043,-6.96923],"type":"Point"}
+}

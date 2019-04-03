@@ -1,0 +1,67 @@
+{
+  "id": 1226222329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17123,-9.2925,16.17123,-9.2925",
+    "geom:latitude":-9.2925,
+    "geom:longitude":16.17123,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Lima",
+    "gn:country_code":"AO",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771743,
+    "gn:latitude":-9.2925,
+    "gn:longitude":16.17123,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Lima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771743
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"629b0f931b994f7b1b333c2cb8d3e62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1226222329,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226222329,
+    "wof:lastmodified":1536967163,
+    "wof:name":"Lima",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17123,
+    -9.2925,
+    16.17123,
+    -9.2925
+],
+  "geometry": {"coordinates":[16.17123,-9.2925],"type":"Point"}
+}

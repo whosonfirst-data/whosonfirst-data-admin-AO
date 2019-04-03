@@ -1,0 +1,70 @@
+{
+  "id": 1310567573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22453,-9.60093,20.22453,-9.60093",
+    "geom:latitude":-9.60093,
+    "geom:longitude":20.22453,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ngando",
+    "gn:country_code":"AO",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7789905,
+    "gn:latitude":-9.60093,
+    "gn:longitude":20.22453,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ngando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salumbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789905
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b3e977f19517665bdbb3e714e29bd200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1310567573,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1310567573,
+    "wof:lastmodified":1537584810,
+    "wof:name":"Ngando",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22453,
+    -9.60093,
+    20.22453,
+    -9.60093
+],
+  "geometry": {"coordinates":[20.22453,-9.60093],"type":"Point"}
+}

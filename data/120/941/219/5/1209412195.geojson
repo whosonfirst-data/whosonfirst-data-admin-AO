@@ -1,0 +1,66 @@
+{
+  "id": 1209412195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16137,-12.34342,15.16137,-12.34342",
+    "geom:latitude":-12.34342,
+    "geom:longitude":15.16137,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Muanga",
+    "gn:country_code":"AO",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347226,
+    "gn:latitude":-12.34342,
+    "gn:longitude":15.16137,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Muanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimuanga",
+        "Muanga",
+        "Muango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347226
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"73e02340034fd8b7c31b65b1c900e983",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209412195
+        }
+    ],
+    "wof:id":1209412195,
+    "wof:lastmodified":1537584718,
+    "wof:name":"Muanga",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16137,
+    -12.34342,
+    15.16137,
+    -12.34342
+],
+  "geometry": {"coordinates":[15.16137,-12.34342],"type":"Point"}
+}

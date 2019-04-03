@@ -1,0 +1,67 @@
+{
+  "id": 1276201299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73557,-8.68126,14.73557,-8.68126",
+    "geom:latitude":-8.68126,
+    "geom:longitude":14.73557,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Caxinginge",
+    "gn:country_code":"AO",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7763911,
+    "gn:latitude":-8.68126,
+    "gn:longitude":14.73557,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Caxinginge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7763911
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"842012d16e29a65c77078bb57a7494c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799817,
+            "locality_id":1276201299,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1276201299,
+    "wof:lastmodified":1536956026,
+    "wof:name":"Caxinginge",
+    "wof:parent_id":1108799817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73557,
+    -8.68126,
+    14.73557,
+    -8.68126
+],
+  "geometry": {"coordinates":[14.73557,-8.68126],"type":"Point"}
+}

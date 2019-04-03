@@ -1,0 +1,70 @@
+{
+  "id": 1360290337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26162,-9.62428,14.26162,-9.62428",
+    "geom:latitude":-9.62428,
+    "geom:longitude":14.26162,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nguimbi Songo",
+    "gn:country_code":"AO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239702,
+    "gn:latitude":-9.62428,
+    "gn:longitude":14.26162,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nguimbi Songo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Massangano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239702
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7085c1b5031ef59596a88d563bc44a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799789,
+            "locality_id":1360290337,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1360290337,
+    "wof:lastmodified":1537584624,
+    "wof:name":"Nguimbi Songo",
+    "wof:parent_id":1108799789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26162,
+    -9.62428,
+    14.26162,
+    -9.62428
+],
+  "geometry": {"coordinates":[14.26162,-9.62428],"type":"Point"}
+}

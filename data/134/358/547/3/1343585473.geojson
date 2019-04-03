@@ -1,0 +1,72 @@
+{
+  "id": 1343585473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7,-14.45,16.7,-14.45",
+    "geom:latitude":-14.45,
+    "geom:longitude":16.7,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Techipeio",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3345858,
+    "gn:latitude":-14.45,
+    "gn:longitude":16.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Techipeio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xipeio",
+        "Techipeio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345858
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"00e81386efa78185a07a9032f36b1cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799877,
+            "locality_id":1343585473,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1343585473,
+    "wof:lastmodified":1537584691,
+    "wof:name":"Techipeio",
+    "wof:parent_id":1108799877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7,
+    -14.45,
+    16.7,
+    -14.45
+],
+  "geometry": {"coordinates":[16.7,-14.45],"type":"Point"}
+}

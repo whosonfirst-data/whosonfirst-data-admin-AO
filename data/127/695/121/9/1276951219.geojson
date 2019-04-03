@@ -1,0 +1,67 @@
+{
+  "id": 1276951219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.92077,-7.23056,16.92077,-7.23056",
+    "geom:latitude":-7.23056,
+    "geom:longitude":16.92077,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Massau",
+    "gn:country_code":"AO",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239687,
+    "gn:latitude":-7.23056,
+    "gn:longitude":16.92077,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Massau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239687
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"25b8b592e812052e9654a64c2d066752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799599,
+            "locality_id":1276951219,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1276951219,
+    "wof:lastmodified":1536946173,
+    "wof:name":"Massau",
+    "wof:parent_id":1108799599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.92077,
+    -7.23056,
+    16.92077,
+    -7.23056
+],
+  "geometry": {"coordinates":[16.92077,-7.23056],"type":"Point"}
+}

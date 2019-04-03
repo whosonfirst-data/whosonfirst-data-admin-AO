@@ -1,0 +1,72 @@
+{
+  "id": 1293111619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.45,-13.16667,17.45,-13.16667",
+    "geom:latitude":-13.16667,
+    "geom:longitude":17.45,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mutumbo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347047,
+    "gn:latitude":-13.16667,
+    "gn:longitude":17.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mutumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utombo",
+        "Mutumbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347047
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bb3d533819a0a4639c9118924293e31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799947,
+            "locality_id":1293111619,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1293111619,
+    "wof:lastmodified":1537584714,
+    "wof:name":"Mutumbo",
+    "wof:parent_id":1108799947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.45,
+    -13.16667,
+    17.45,
+    -13.16667
+],
+  "geometry": {"coordinates":[17.45,-13.16667],"type":"Point"}
+}

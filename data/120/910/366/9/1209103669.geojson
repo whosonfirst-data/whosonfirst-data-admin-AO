@@ -1,0 +1,61 @@
+{
+  "id": 1209103669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50797,-10.77315,15.50797,-10.77315",
+    "geom:latitude":-10.77315,
+    "geom:longitude":15.50797,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cambumba",
+    "gn:country_code":"AO",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":8308374,
+    "gn:latitude":-10.77315,
+    "gn:longitude":15.50797,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Cambumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308374
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"947ac62e34054634fe29d545e2fa5cef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209103669
+        }
+    ],
+    "wof:id":1209103669,
+    "wof:lastmodified":1536297649,
+    "wof:name":"Cambumba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.507970000000002,
+    -10.77315,
+    15.507970000000002,
+    -10.77315
+],
+  "geometry": {"coordinates":[15.50797,-10.77315],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344156151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23115,-8.43211,15.23115,-8.43211",
+    "geom:latitude":-8.43211,
+    "geom:longitude":15.23115,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cahombo",
+    "gn:country_code":"AO",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698390,
+    "gn:latitude":-8.43211,
+    "gn:longitude":15.23115,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Cahombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698390
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ff0f787ae2782600f56d2123e1abe473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799619,
+            "locality_id":1344156151,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1344156151,
+    "wof:lastmodified":1536737497,
+    "wof:name":"Cahombo",
+    "wof:parent_id":1108799619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23115,
+    -8.43211,
+    15.23115,
+    -8.43211
+],
+  "geometry": {"coordinates":[15.23115,-8.43211],"type":"Point"}
+}

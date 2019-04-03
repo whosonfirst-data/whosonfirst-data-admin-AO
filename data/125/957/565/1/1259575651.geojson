@@ -1,0 +1,67 @@
+{
+  "id": 1259575651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43036,-11.31467,14.43036,-11.31467",
+    "geom:latitude":-11.31467,
+    "geom:longitude":14.43036,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chipindo",
+    "gn:country_code":"AO",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7864544,
+    "gn:latitude":-11.31467,
+    "gn:longitude":14.43036,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Chipindo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7864544
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"86cb300d92c59b55e527e15a450e3003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1259575651,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259575651,
+    "wof:lastmodified":1536726543,
+    "wof:name":"Chipindo",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43036,
+    -11.31467,
+    14.43036,
+    -11.31467
+],
+  "geometry": {"coordinates":[14.43036,-11.31467],"type":"Point"}
+}

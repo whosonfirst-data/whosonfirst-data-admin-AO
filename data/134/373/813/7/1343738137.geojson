@@ -1,0 +1,67 @@
+{
+  "id": 1343738137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10373,-9.00832,21.10373,-9.00832",
+    "geom:latitude":-9.00832,
+    "geom:longitude":21.10373,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Vulege",
+    "gn:country_code":"AO",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771242,
+    "gn:latitude":-9.00832,
+    "gn:longitude":21.10373,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Vul\u00e9ge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771242
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f9c176862f41d00e0836ba9901103f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1343738137,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1343738137,
+    "wof:lastmodified":1536842095,
+    "wof:name":"Vulege",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10373,
+    -9.00832,
+    21.10373,
+    -9.00832
+],
+  "geometry": {"coordinates":[21.10373,-9.00832],"type":"Point"}
+}

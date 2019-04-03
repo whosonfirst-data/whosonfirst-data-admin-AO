@@ -1,0 +1,67 @@
+{
+  "id": 1243272679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08643,-11.87865,17.08643,-11.87865",
+    "geom:latitude":-11.87865,
+    "geom:longitude":17.08643,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Satchiuala",
+    "gn:country_code":"AO",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901859,
+    "gn:latitude":-11.87865,
+    "gn:longitude":17.08643,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Satchiuala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901859
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d0d0143b1b215751f3422a0d8fdf5887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799633,
+            "locality_id":1243272679,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1243272679,
+    "wof:lastmodified":1537053630,
+    "wof:name":"Satchiuala",
+    "wof:parent_id":1108799633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08643,
+    -11.87865,
+    17.08643,
+    -11.87865
+],
+  "geometry": {"coordinates":[17.08643,-11.87865],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276776169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55901,-11.34175,16.55901,-11.34175",
+    "geom:latitude":-11.34175,
+    "geom:longitude":16.55901,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gonga",
+    "gn:country_code":"AO",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858828,
+    "gn:latitude":-11.34175,
+    "gn:longitude":16.55901,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Gonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858828
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aef4751e6f793287bc24831cf6576d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1276776169,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1276776169,
+    "wof:lastmodified":1536682355,
+    "wof:name":"Gonga",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55901,
+    -11.34175,
+    16.55901,
+    -11.34175
+],
+  "geometry": {"coordinates":[16.55901,-11.34175],"type":"Point"}
+}

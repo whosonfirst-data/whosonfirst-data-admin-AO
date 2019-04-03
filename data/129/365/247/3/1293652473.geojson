@@ -1,0 +1,67 @@
+{
+  "id": 1293652473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.83333,-8.85,21.83333,-8.85",
+    "geom:latitude":-8.85,
+    "geom:longitude":21.83333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Capudi",
+    "gn:country_code":"AO",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145879,
+    "gn:latitude":-8.85,
+    "gn:longitude":21.83333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Capudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145879
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f17b9a8bc29280f1ce6fb23d9bd14fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1293652473,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1293652473,
+    "wof:lastmodified":1537044686,
+    "wof:name":"Capudi",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.83333,
+    -8.85,
+    21.83333,
+    -8.85
+],
+  "geometry": {"coordinates":[21.83333,-8.85],"type":"Point"}
+}

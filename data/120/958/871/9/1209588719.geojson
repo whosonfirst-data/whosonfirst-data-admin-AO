@@ -1,0 +1,61 @@
+{
+  "id": 1209588719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24388,-6.05759,15.24388,-6.05759",
+    "geom:latitude":-6.05759,
+    "geom:longitude":15.24388,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quitxinga",
+    "gn:country_code":"AO",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691328,
+    "gn:latitude":-6.05759,
+    "gn:longitude":15.24388,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Quitxinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691328
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4783b91f21ba500b0946828a1c5eecab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209588719
+        }
+    ],
+    "wof:id":1209588719,
+    "wof:lastmodified":1536282548,
+    "wof:name":"Quitxinga",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24388,
+    -6.05759,
+    15.24388,
+    -6.05759
+],
+  "geometry": {"coordinates":[15.24388,-6.05759],"type":"Point"}
+}

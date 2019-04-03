@@ -1,0 +1,67 @@
+{
+  "id": 1242778889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35,-16.7,22.35,-16.7",
+    "geom:latitude":-16.7,
+    "geom:longitude":22.35,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Inguza",
+    "gn:country_code":"AO",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876257,
+    "gn:latitude":-16.7,
+    "gn:longitude":22.35,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Inguza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876257
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bdd6c0652f5e2a4ac7d492defe672cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799779,
+            "locality_id":1242778889,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1242778889,
+    "wof:lastmodified":1536774398,
+    "wof:name":"Inguza",
+    "wof:parent_id":1108799779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35,
+    -16.7,
+    22.35,
+    -16.7
+],
+  "geometry": {"coordinates":[22.35,-16.7],"type":"Point"}
+}

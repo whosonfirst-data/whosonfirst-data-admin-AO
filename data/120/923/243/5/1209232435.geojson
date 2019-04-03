@@ -1,0 +1,61 @@
+{
+  "id": 1209232435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73281,-12.46384,14.73281,-12.46384",
+    "geom:latitude":-12.46384,
+    "geom:longitude":14.73281,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Camupa",
+    "gn:country_code":"AO",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7903034,
+    "gn:latitude":-12.46384,
+    "gn:longitude":14.73281,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Camupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903034
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6733e51dc8807c50b2c6ae3a2fffaef7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209232435
+        }
+    ],
+    "wof:id":1209232435,
+    "wof:lastmodified":1536293595,
+    "wof:name":"Camupa",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73281,
+    -12.46384,
+    14.73281,
+    -12.46384
+],
+  "geometry": {"coordinates":[14.73281,-12.46384],"type":"Point"}
+}

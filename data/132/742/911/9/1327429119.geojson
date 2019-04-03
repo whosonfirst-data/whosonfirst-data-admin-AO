@@ -1,0 +1,72 @@
+{
+  "id": 1327429119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33792,-9.94577,15.33792,-9.94577",
+    "geom:latitude":-9.94577,
+    "geom:longitude":15.33792,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mbanguanga",
+    "gn:country_code":"AO",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2243780,
+    "gn:latitude":-9.94577,
+    "gn:longitude":15.33792,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mbanguanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bango-Ango",
+        "Banguanga",
+        "Mbanguanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243780
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7048cbf8049357663583bc294da0cac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1327429119,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1327429119,
+    "wof:lastmodified":1537584683,
+    "wof:name":"Mbanguanga",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33792,
+    -9.94577,
+    15.33792,
+    -9.94577
+],
+  "geometry": {"coordinates":[15.33792,-9.94577],"type":"Point"}
+}

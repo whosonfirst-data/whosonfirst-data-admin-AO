@@ -1,0 +1,67 @@
+{
+  "id": 1343259689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34694,-12.86389,15.34694,-12.86389",
+    "geom:latitude":-12.86389,
+    "geom:longitude":15.34694,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Jilacalimi II",
+    "gn:country_code":"AO",
+    "gn:dem":1685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372054,
+    "gn:latitude":-12.86389,
+    "gn:longitude":15.34694,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Jilacalimi II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372054
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2bf6f2f9ce91a7a4b2feccba4ba8e571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799831,
+            "locality_id":1343259689,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1343259689,
+    "wof:lastmodified":1537034519,
+    "wof:name":"Jilacalimi II",
+    "wof:parent_id":1108799831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34694,
+    -12.86389,
+    15.34694,
+    -12.86389
+],
+  "geometry": {"coordinates":[15.34694,-12.86389],"type":"Point"}
+}

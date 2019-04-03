@@ -1,0 +1,67 @@
+{
+  "id": 1209879347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45,-9.45,20.45,-9.45",
+    "geom:latitude":-9.45,
+    "geom:longitude":20.45,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Chinguar",
+    "gn:country_code":"AO",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145791,
+    "gn:latitude":-9.45,
+    "gn:longitude":20.45,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chinguar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145791
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5cd84dcc79197d49721f3aa40cea81c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1209879347,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1209879347,
+    "wof:lastmodified":1536395761,
+    "wof:name":"Chinguar",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45,
+    -9.45,
+    20.45,
+    -9.45
+],
+  "geometry": {"coordinates":[20.45,-9.45],"type":"Point"}
+}

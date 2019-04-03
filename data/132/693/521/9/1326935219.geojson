@@ -1,0 +1,67 @@
+{
+  "id": 1326935219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83333,-9.65,14.83333,-9.65",
+    "geom:latitude":-9.65,
+    "geom:longitude":14.83333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Muela",
+    "gn:country_code":"AO",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239287,
+    "gn:latitude":-9.65,
+    "gn:longitude":14.83333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Muela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239287
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"65f1ca79890d842fb0310e2ecee1fbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799789,
+            "locality_id":1326935219,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1326935219,
+    "wof:lastmodified":1536900472,
+    "wof:name":"Muela",
+    "wof:parent_id":1108799789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83333,
+    -9.65,
+    14.83333,
+    -9.65
+],
+  "geometry": {"coordinates":[14.83333,-9.65],"type":"Point"}
+}

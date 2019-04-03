@@ -1,0 +1,67 @@
+{
+  "id": 1259587389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23333,-12.56667,14.23333,-12.56667",
+    "geom:latitude":-12.56667,
+    "geom:longitude":14.23333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Capembe",
+    "gn:country_code":"AO",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350601,
+    "gn:latitude":-12.56667,
+    "gn:longitude":14.23333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Capembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350601
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e9d4ad3718f51acc6ddb02a2faa19804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799837,
+            "locality_id":1259587389,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1259587389,
+    "wof:lastmodified":1536709442,
+    "wof:name":"Capembe",
+    "wof:parent_id":1108799837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23333,
+    -12.56667,
+    14.23333,
+    -12.56667
+],
+  "geometry": {"coordinates":[14.23333,-12.56667],"type":"Point"}
+}

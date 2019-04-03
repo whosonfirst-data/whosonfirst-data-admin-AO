@@ -1,0 +1,67 @@
+{
+  "id": 1309812603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96963,-11.43834,16.96963,-11.43834",
+    "geom:latitude":-11.43834,
+    "geom:longitude":16.96963,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ecoma",
+    "gn:country_code":"AO",
+    "gn:dem":1574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858875,
+    "gn:latitude":-11.43834,
+    "gn:longitude":16.96963,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Ecoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858875
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8c5a6d2f1d678161019df13e1dfe6ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1309812603,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1309812603,
+    "wof:lastmodified":1536921816,
+    "wof:name":"Ecoma",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96963,
+    -11.43834,
+    16.96963,
+    -11.43834
+],
+  "geometry": {"coordinates":[16.96963,-11.43834],"type":"Point"}
+}

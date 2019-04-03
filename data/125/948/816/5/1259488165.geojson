@@ -1,0 +1,67 @@
+{
+  "id": 1259488165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26486,-9.14506,15.26486,-9.14506",
+    "geom:latitude":-9.14506,
+    "geom:longitude":15.26486,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ngola Luigi",
+    "gn:country_code":"AO",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7769442,
+    "gn:latitude":-9.14506,
+    "gn:longitude":15.26486,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Ngola Luigi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769442
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"04e4d22337008751d31a96b60005eb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799905,
+            "locality_id":1259488165,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1259488165,
+    "wof:lastmodified":1536850935,
+    "wof:name":"Ngola Luigi",
+    "wof:parent_id":1108799905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26486,
+    -9.14506,
+    15.26486,
+    -9.14506
+],
+  "geometry": {"coordinates":[15.26486,-9.14506],"type":"Point"}
+}

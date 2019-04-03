@@ -1,0 +1,72 @@
+{
+  "id": 1292998291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85,-11.66667,14.85,-11.66667",
+    "geom:latitude":-11.66667,
+    "geom:longitude":14.85,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gure",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348393,
+    "gn:latitude":-11.66667,
+    "gn:longitude":14.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guri",
+        "Gure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348393
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"73c06425a3a6cbbdd50fb5aa7382c028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799841,
+            "locality_id":1292998291,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1292998291,
+    "wof:lastmodified":1537584735,
+    "wof:name":"Gure",
+    "wof:parent_id":1108799841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85,
+    -11.66667,
+    14.85,
+    -11.66667
+],
+  "geometry": {"coordinates":[14.85,-11.66667],"type":"Point"}
+}

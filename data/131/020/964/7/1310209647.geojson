@@ -1,0 +1,67 @@
+{
+  "id": 1310209647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61042,-8.45754,15.61042,-8.45754",
+    "geom:latitude":-8.45754,
+    "geom:longitude":15.61042,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lubino",
+    "gn:country_code":"AO",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240407,
+    "gn:latitude":-8.45754,
+    "gn:longitude":15.61042,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Lubino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240407
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"eb182d2dd4f14f0ca5487e310ebd0e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1310209647,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1310209647,
+    "wof:lastmodified":1536845170,
+    "wof:name":"Lubino",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61042,
+    -8.45754,
+    15.61042,
+    -8.45754
+],
+  "geometry": {"coordinates":[15.61042,-8.45754],"type":"Point"}
+}

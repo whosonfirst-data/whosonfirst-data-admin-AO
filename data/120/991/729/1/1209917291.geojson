@@ -1,0 +1,67 @@
+{
+  "id": 1209917291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80498,-11.90166,16.80498,-11.90166",
+    "geom:latitude":-11.90166,
+    "geom:longitude":16.80498,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchandja Alta",
+    "gn:country_code":"AO",
+    "gn:dem":1744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903560,
+    "gn:latitude":-11.90166,
+    "gn:longitude":16.80498,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchandja Alta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903560
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6b66e4905cd8da9ddbe415c004a5916b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799907,
+            "locality_id":1209917291,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1209917291,
+    "wof:lastmodified":1536372346,
+    "wof:name":"Tchandja Alta",
+    "wof:parent_id":1108799907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80498,
+    -11.90166,
+    16.80498,
+    -11.90166
+],
+  "geometry": {"coordinates":[16.80498,-11.90166],"type":"Point"}
+}

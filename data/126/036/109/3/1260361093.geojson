@@ -1,0 +1,67 @@
+{
+  "id": 1260361093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1,-8.25,21.1,-8.25",
+    "geom:latitude":-8.25,
+    "geom:longitude":21.1,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chauamba",
+    "gn:country_code":"AO",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145817,
+    "gn:latitude":-8.25,
+    "gn:longitude":21.1,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chauamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145817
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e932d7299bd1c7a2030f755e9752a99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1260361093,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1260361093,
+    "wof:lastmodified":1536605028,
+    "wof:name":"Chauamba",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1,
+    -8.25,
+    21.1,
+    -8.25
+],
+  "geometry": {"coordinates":[21.1,-8.25],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326917447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93689,-11.04337,17.93689,-11.04337",
+    "geom:latitude":-11.04337,
+    "geom:longitude":17.93689,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mela Antiga",
+    "gn:country_code":"AO",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7789452,
+    "gn:latitude":-11.04337,
+    "gn:longitude":17.93689,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Mela Antiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789452
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2924f296263edc9e92a8c9b9d9c7b756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799651,
+            "locality_id":1326917447,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1326917447,
+    "wof:lastmodified":1536926826,
+    "wof:name":"Mela Antiga",
+    "wof:parent_id":1108799651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93689,
+    -11.04337,
+    17.93689,
+    -11.04337
+],
+  "geometry": {"coordinates":[17.93689,-11.04337],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292972317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27431,-8.83141,18.27431,-8.83141",
+    "geom:latitude":-8.83141,
+    "geom:longitude":18.27431,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nguba",
+    "gn:country_code":"AO",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7765251,
+    "gn:latitude":-8.83141,
+    "gn:longitude":18.27431,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Nguba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7765251
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2e980bc3fe3c9e5edeb932785c4b3c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1292972317,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1292972317,
+    "wof:lastmodified":1537031433,
+    "wof:name":"Nguba",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27431,
+    -8.83141,
+    18.27431,
+    -8.83141
+],
+  "geometry": {"coordinates":[18.27431,-8.83141],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310292075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0399,-8.36227,17.0399,-8.36227",
+    "geom:latitude":-8.36227,
+    "geom:longitude":17.0399,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Marimba Nzenza",
+    "gn:country_code":"AO",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535727,
+    "gn:latitude":-8.36227,
+    "gn:longitude":17.0399,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Marimba Nzenza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535727
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"72c60da25d6ed18498e516379dbb31b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799621,
+            "locality_id":1310292075,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1310292075,
+    "wof:lastmodified":1536727700,
+    "wof:name":"Marimba Nzenza",
+    "wof:parent_id":1108799621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0399,
+    -8.36227,
+    17.0399,
+    -8.36227
+],
+  "geometry": {"coordinates":[17.0399,-8.36227],"type":"Point"}
+}

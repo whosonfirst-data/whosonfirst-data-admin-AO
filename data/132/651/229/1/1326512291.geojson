@@ -1,0 +1,67 @@
+{
+  "id": 1326512291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05,-6.46667,14.05,-6.46667",
+    "geom:latitude":-6.46667,
+    "geom:longitude":14.05,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gando",
+    "gn:country_code":"AO",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241063,
+    "gn:latitude":-6.46667,
+    "gn:longitude":14.05,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Gando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241063
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"de2f9d55469970a1fd3f3a3cdbcba9c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1326512291,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1326512291,
+    "wof:lastmodified":1537012091,
+    "wof:name":"Gando",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05,
+    -6.46667,
+    14.05,
+    -6.46667
+],
+  "geometry": {"coordinates":[14.05,-6.46667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259792421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48786,-12.23621,16.48786,-12.23621",
+    "geom:latitude":-12.23621,
+    "geom:longitude":16.48786,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Caliueque",
+    "gn:country_code":"AO",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7904610,
+    "gn:latitude":-12.23621,
+    "gn:longitude":16.48786,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Caliueque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904610
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"814b1d88c9c2632010140f94975205d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799735,
+            "locality_id":1259792421,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1259792421,
+    "wof:lastmodified":1536910547,
+    "wof:name":"Caliueque",
+    "wof:parent_id":1108799735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48786,
+    -12.23621,
+    16.48786,
+    -12.23621
+],
+  "geometry": {"coordinates":[16.48786,-12.23621],"type":"Point"}
+}

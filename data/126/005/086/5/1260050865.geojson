@@ -1,0 +1,67 @@
+{
+  "id": 1260050865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61552,-11.4844,20.61552,-11.4844",
+    "geom:latitude":-11.4844,
+    "geom:longitude":20.61552,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Joao",
+    "gn:country_code":"AO",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7772265,
+    "gn:latitude":-11.4844,
+    "gn:longitude":20.61552,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Jo\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7772265
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8df7aae9c00b6ca969bf59035af5f21b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799675,
+            "locality_id":1260050865,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1260050865,
+    "wof:lastmodified":1537033673,
+    "wof:name":"Joao",
+    "wof:parent_id":1108799675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61552,
+    -11.4844,
+    20.61552,
+    -11.4844
+],
+  "geometry": {"coordinates":[20.61552,-11.4844],"type":"Point"}
+}

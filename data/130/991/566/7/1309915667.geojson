@@ -1,0 +1,67 @@
+{
+  "id": 1309915667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75917,-12.64889,13.75917,-12.64889",
+    "geom:latitude":-12.64889,
+    "geom:longitude":13.75917,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Viendi",
+    "gn:country_code":"AO",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372421,
+    "gn:latitude":-12.64889,
+    "gn:longitude":13.75917,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Viendi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372421
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2e2774fc6ffaa9955cecb68b10b04eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799959,
+            "locality_id":1309915667,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1309915667,
+    "wof:lastmodified":1536773277,
+    "wof:name":"Viendi",
+    "wof:parent_id":1108799959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75917,
+    -12.64889,
+    13.75917,
+    -12.64889
+],
+  "geometry": {"coordinates":[13.75917,-12.64889],"type":"Point"}
+}

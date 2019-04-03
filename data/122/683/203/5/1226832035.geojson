@@ -1,0 +1,67 @@
+{
+  "id": 1226832035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71655,-6.06362,15.71655,-6.06362",
+    "geom:latitude":-6.06362,
+    "geom:longitude":15.71655,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bunga",
+    "gn:country_code":"AO",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7693622,
+    "gn:latitude":-6.06362,
+    "gn:longitude":15.71655,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7693622
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1ace41147db4e14ef4fc8e423c579cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799957,
+            "locality_id":1226832035,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226832035,
+    "wof:lastmodified":1537084916,
+    "wof:name":"Bunga",
+    "wof:parent_id":1108799957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71655,
+    -6.06362,
+    15.71655,
+    -6.06362
+],
+  "geometry": {"coordinates":[15.71655,-6.06362],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259378767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49611,-13.03194,15.49611,-13.03194",
+    "geom:latitude":-13.03194,
+    "geom:longitude":15.49611,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lupili",
+    "gn:country_code":"AO",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371437,
+    "gn:latitude":-13.03194,
+    "gn:longitude":15.49611,
+    "gn:modification_date":"1998-03-31",
+    "gn:name":"Lupili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371437
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9c37087add885fa0f232459e68a17d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799917,
+            "locality_id":1259378767,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1259378767,
+    "wof:lastmodified":1537008387,
+    "wof:name":"Lupili",
+    "wof:parent_id":1108799917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49611,
+    -13.03194,
+    15.49611,
+    -13.03194
+],
+  "geometry": {"coordinates":[15.49611,-13.03194],"type":"Point"}
+}

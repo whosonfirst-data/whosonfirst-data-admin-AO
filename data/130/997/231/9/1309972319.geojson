@@ -1,0 +1,73 @@
+{
+  "id": 1309972319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73333,-10.0,20.73333,-10.0",
+    "geom:latitude":-10.0,
+    "geom:longitude":20.73333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Samulomba",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875725,
+    "gn:latitude":-10.0,
+    "gn:longitude":20.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Samulomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Satumbo",
+        "Satambu\u00e9",
+        "Samulomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875725
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a56baabcfef206617282d3f5ee3012e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1309972319,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1309972319,
+    "wof:lastmodified":1537584536,
+    "wof:name":"Samulomba",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73333,
+    -10.0,
+    20.73333,
+    -10.0
+],
+  "geometry": {"coordinates":[20.73333,-10.0],"type":"Point"}
+}

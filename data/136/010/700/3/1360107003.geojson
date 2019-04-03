@@ -1,0 +1,72 @@
+{
+  "id": 1360107003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.27306,-10.45168,14.27306,-10.45168",
+    "geom:latitude":-10.45168,
+    "geom:longitude":14.27306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Benga do Pungo",
+    "gn:country_code":"AO",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351666,
+    "gn:latitude":-10.45168,
+    "gn:longitude":14.27306,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Benga do Pungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonga",
+        "Benga",
+        "Benga do Pungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351666
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f6d581764b479b6dcf824ed4ad235173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799949,
+            "locality_id":1360107003,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1360107003,
+    "wof:lastmodified":1537584801,
+    "wof:name":"Benga do Pungo",
+    "wof:parent_id":1108799949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.27306,
+    -10.45168,
+    14.27306,
+    -10.45168
+],
+  "geometry": {"coordinates":[14.27306,-10.45168],"type":"Point"}
+}

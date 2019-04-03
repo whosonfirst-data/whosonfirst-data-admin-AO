@@ -1,0 +1,67 @@
+{
+  "id": 1327206535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11571,-6.68652,14.11571,-6.68652",
+    "geom:latitude":-6.68652,
+    "geom:longitude":14.11571,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tombe",
+    "gn:country_code":"AO",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7700553,
+    "gn:latitude":-6.68652,
+    "gn:longitude":14.11571,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7700553
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1ad820d250bacb2b60e7f91f2d9e1c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1327206535,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1327206535,
+    "wof:lastmodified":1537006350,
+    "wof:name":"Tombe",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11571,
+    -6.68652,
+    14.11571,
+    -6.68652
+],
+  "geometry": {"coordinates":[14.11571,-6.68652],"type":"Point"}
+}

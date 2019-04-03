@@ -1,0 +1,61 @@
+{
+  "id": 1209305203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06453,-12.36885,15.06453,-12.36885",
+    "geom:latitude":-12.36885,
+    "geom:longitude":15.06453,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Caiamba",
+    "gn:country_code":"AO",
+    "gn:dem":1818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906129,
+    "gn:latitude":-12.36885,
+    "gn:longitude":15.06453,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Caiamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906129
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3d1e747c64d959bdc0822675ddf841e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209305203
+        }
+    ],
+    "wof:id":1209305203,
+    "wof:lastmodified":1536291219,
+    "wof:name":"Caiamba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06453,
+    -12.36885,
+    15.06453,
+    -12.36885
+],
+  "geometry": {"coordinates":[15.06453,-12.36885],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310106799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15,-17.93333,21.15,-17.93333",
+    "geom:latitude":-17.93333,
+    "geom:longitude":21.15,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chingume",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876404,
+    "gn:latitude":-17.93333,
+    "gn:longitude":21.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chingume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chibabara",
+        "Chingume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876404
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"92a947607041171a2fc068ca16261289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799741,
+            "locality_id":1310106799,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1310106799,
+    "wof:lastmodified":1537584556,
+    "wof:name":"Chingume",
+    "wof:parent_id":1108799741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15,
+    -17.93332999999999,
+    21.15,
+    -17.93332999999999
+],
+  "geometry": {"coordinates":[21.15,-17.93332999999999],"type":"Point"}
+}

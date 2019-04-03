@@ -1,0 +1,67 @@
+{
+  "id": 1276740283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94099,-9.3254,15.94099,-9.3254",
+    "geom:latitude":-9.3254,
+    "geom:longitude":15.94099,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cacoca",
+    "gn:country_code":"AO",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769258,
+    "gn:latitude":-9.3254,
+    "gn:longitude":15.94099,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cacoca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769258
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c8a3b3ebd63c1d2df43593b849ccd5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1276740283,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276740283,
+    "wof:lastmodified":1536730966,
+    "wof:name":"Cacoca",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94099,
+    -9.3254,
+    15.94099,
+    -9.3254
+],
+  "geometry": {"coordinates":[15.94099,-9.3254],"type":"Point"}
+}

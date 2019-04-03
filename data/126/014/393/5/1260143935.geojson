@@ -1,0 +1,72 @@
+{
+  "id": 1260143935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49178,-7.42914,20.49178,-7.42914",
+    "geom:latitude":-7.42914,
+    "geom:longitude":20.49178,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Satambue",
+    "gn:country_code":"AO",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145537,
+    "gn:latitude":-7.42914,
+    "gn:longitude":20.49178,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Satambue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00e1-Tambu\u00e9",
+        "Chatamba",
+        "Satambue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145537
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ae60040218bc2b64f18b10528b648ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "locality_id":1260143935,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1260143935,
+    "wof:lastmodified":1537584521,
+    "wof:name":"Satambue",
+    "wof:parent_id":1108799855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49178,
+    -7.42914,
+    20.49178,
+    -7.42914
+],
+  "geometry": {"coordinates":[20.49178,-7.42914],"type":"Point"}
+}

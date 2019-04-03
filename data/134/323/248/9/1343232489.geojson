@@ -1,0 +1,72 @@
+{
+  "id": 1343232489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41667,-7.56667,16.41667,-7.56667",
+    "geom:latitude":-7.56667,
+    "geom:longitude":16.41667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quime-Cassequila",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238112,
+    "gn:latitude":-7.56667,
+    "gn:longitude":16.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quime-Cassequila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quileca",
+        "Quime-Cassequila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238112
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f1b221902d7da19dcbad182841627840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799627,
+            "locality_id":1343232489,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343232489,
+    "wof:lastmodified":1537584597,
+    "wof:name":"Quime-Cassequila",
+    "wof:parent_id":1108799627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41667,
+    -7.56667,
+    16.41667,
+    -7.56667
+],
+  "geometry": {"coordinates":[16.41667,-7.56667],"type":"Point"}
+}

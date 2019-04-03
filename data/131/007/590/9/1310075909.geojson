@@ -1,0 +1,67 @@
+{
+  "id": 1310075909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49152,-7.58693,15.49152,-7.58693",
+    "geom:latitude":-7.58693,
+    "geom:longitude":15.49152,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ndela",
+    "gn:country_code":"AO",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537178,
+    "gn:latitude":-7.58693,
+    "gn:longitude":15.49152,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ndela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537178
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"44b6d34cd5e29ed0a74331675f88b4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799889,
+            "locality_id":1310075909,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1310075909,
+    "wof:lastmodified":1537037670,
+    "wof:name":"Ndela",
+    "wof:parent_id":1108799889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49152,
+    -7.58693,
+    15.49152,
+    -7.58693
+],
+  "geometry": {"coordinates":[15.49152,-7.58693],"type":"Point"}
+}

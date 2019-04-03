@@ -1,0 +1,71 @@
+{
+  "id": 1309988865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07363,-6.65486,15.07363,-6.65486",
+    "geom:latitude":-6.65486,
+    "geom:longitude":15.07363,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quicambani",
+    "gn:country_code":"AO",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238561,
+    "gn:latitude":-6.65486,
+    "gn:longitude":15.07363,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Quic\u00e2mbani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quic\u00e2mbana",
+        "Quic\u00e2mbani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238561
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"96fbf02143f61e0233509f8a54cfccc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1309988865,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1309988865,
+    "wof:lastmodified":1537584608,
+    "wof:name":"Quicambani",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07363,
+    -6.65486,
+    15.07363,
+    -6.65486
+],
+  "geometry": {"coordinates":[15.07363,-6.65486],"type":"Point"}
+}

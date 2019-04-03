@@ -1,0 +1,65 @@
+{
+  "id": 1209013307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00419,-11.74086,17.00419,-11.74086",
+    "geom:latitude":-11.74086,
+    "geom:longitude":17.00419,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Alanda",
+    "gn:country_code":"AO",
+    "gn:dem":1760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351939,
+    "gn:latitude":-11.74086,
+    "gn:longitude":17.00419,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Alanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elende",
+        "Alanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351939
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a88616e31081a0e7168a3a2c9514a8f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209013307
+        }
+    ],
+    "wof:id":1209013307,
+    "wof:lastmodified":1537584806,
+    "wof:name":"Alanda",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00419,
+    -11.74086,
+    17.00419,
+    -11.74086
+],
+  "geometry": {"coordinates":[17.00419,-11.74086],"type":"Point"}
+}

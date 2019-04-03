@@ -1,0 +1,127 @@
+{
+  "id": 421193219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28333,-12.15,17.28333,-12.15",
+    "geom:latitude":-12.15,
+    "geom:longitude":17.28333,
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Catabola"
+    ],
+    "name:deu_x_preferred":[
+        "Catabola"
+    ],
+    "name:dut_x_preferred":[
+        "Catabola"
+    ],
+    "name:eng_x_preferred":[
+        "Catabola"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u062a\u0628\u0644\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Catabola"
+    ],
+    "name:fre_x_preferred":[
+        "Catabola"
+    ],
+    "name:ger_x_preferred":[
+        "Catabola"
+    ],
+    "name:ita_x_preferred":[
+        "Catabola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30bf\u30dc\u30e9"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u062a\u0628\u0644\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Catabola"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u0431\u043e\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Catabola"
+    ],
+    "name:unk_x_variant":[
+        "Katabola"
+    ],
+    "qs:gn_country":"AO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3350372,
+    "qs:gn_pop":18855,
+    "qs:name":"Catabola",
+    "qs:name_adm0":"Angola",
+    "qs:name_adm1":"Bie",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1294980,
+    "qs:woe_adm0":23424745,
+    "qs:woe_id":1259655,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":191,
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350372,
+        "gp:id":1259655,
+        "qs:id":1294980,
+        "wd:id":"Q2341822",
+        "wk:page":"Catabola"
+    },
+    "wof:country":"AO",
+    "wof:created":1459009764,
+    "wof:geomhash":"7c47cc2b4bd302c2ef3526f93dfdc3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799633,
+            "locality_id":421193219,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":421193219,
+    "wof:lastmodified":1527716141,
+    "wof:name":"Catabola",
+    "wof:parent_id":1108799633,
+    "wof:placetype":"locality",
+    "wof:population":18855,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28333,
+    -12.15,
+    17.28333,
+    -12.15
+],
+  "geometry": {"coordinates":[17.28333,-12.15],"type":"Point"}
+}

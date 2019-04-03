@@ -1,0 +1,64 @@
+{
+  "id": 1209187319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00691,-7.32412,16.00691,-7.32412",
+    "geom:latitude":-7.32412,
+    "geom:longitude":16.00691,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sarrador",
+    "gn:country_code":"AO",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7745461,
+    "gn:latitude":-7.32412,
+    "gn:longitude":16.00691,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sarrador",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quiteca Zumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745461
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0f795830e6feadb719be94c08644ccae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209187319
+        }
+    ],
+    "wof:id":1209187319,
+    "wof:lastmodified":1537584808,
+    "wof:name":"Sarrador",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00691,
+    -7.32412,
+    16.00691,
+    -7.32412
+],
+  "geometry": {"coordinates":[16.00691,-7.32412],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344249559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4238,-10.43355,15.4238,-10.43355",
+    "geom:latitude":-10.43355,
+    "geom:longitude":15.4238,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tchinde Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856089,
+    "gn:latitude":-10.43355,
+    "gn:longitude":15.4238,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Tchinde Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856089
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a9d03d5d47c5e593792afe4cfb40edd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1344249559,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1344249559,
+    "wof:lastmodified":1537096711,
+    "wof:name":"Tchinde Segundo",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4238,
+    -10.43355,
+    15.4238,
+    -10.43355
+],
+  "geometry": {"coordinates":[15.4238,-10.43355],"type":"Point"}
+}

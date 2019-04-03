@@ -1,0 +1,67 @@
+{
+  "id": 1209779323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48568,-7.56106,21.48568,-7.56106",
+    "geom:latitude":-7.56106,
+    "geom:longitude":21.48568,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mbinza",
+    "gn:country_code":"AO",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7696386,
+    "gn:latitude":-7.56106,
+    "gn:longitude":21.48568,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mbinza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696386
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e9944e3c017569fd0d22f71a8f04f80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1209779323,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1209779323,
+    "wof:lastmodified":1536375425,
+    "wof:name":"Mbinza",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48568,
+    -7.56106,
+    21.48568,
+    -7.56106
+],
+  "geometry": {"coordinates":[21.48568,-7.56106],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226165561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93781,-9.3769,14.93781,-9.3769",
+    "geom:latitude":-9.3769,
+    "geom:longitude":14.93781,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Capeche de Cima",
+    "gn:country_code":"AO",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7770609,
+    "gn:latitude":-9.3769,
+    "gn:longitude":14.93781,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Capeche de Cima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7770609
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2f5dd253bdc2ef7ed04ba793e38d9c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799713,
+            "locality_id":1226165561,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1226165561,
+    "wof:lastmodified":1537047172,
+    "wof:name":"Capeche de Cima",
+    "wof:parent_id":1108799713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93781,
+    -9.3769,
+    14.93781,
+    -9.3769
+],
+  "geometry": {"coordinates":[14.93781,-9.3769],"type":"Point"}
+}

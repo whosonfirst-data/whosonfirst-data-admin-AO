@@ -1,0 +1,67 @@
+{
+  "id": 1310081813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64011,-8.55938,20.64011,-8.55938",
+    "geom:latitude":-8.55938,
+    "geom:longitude":20.64011,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muaneno",
+    "gn:country_code":"AO",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7764452,
+    "gn:latitude":-8.55938,
+    "gn:longitude":20.64011,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muaneno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764452
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"37eaee23c5345a6415db679910ce217d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1310081813,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1310081813,
+    "wof:lastmodified":1537029462,
+    "wof:name":"Muaneno",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64011,
+    -8.55938,
+    20.64011,
+    -8.55938
+],
+  "geometry": {"coordinates":[20.64011,-8.55938],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360182269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,-12.2,15.91667,-12.2",
+    "geom:latitude":-12.2,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cangato",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350769,
+    "gn:latitude":-12.2,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cangato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cangeto",
+        "Cangato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350769
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"51f01bdba5ee9b542360949ddfa0b4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1360182269,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1360182269,
+    "wof:lastmodified":1537584784,
+    "wof:name":"Cangato",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    -12.2,
+    15.91667,
+    -12.2
+],
+  "geometry": {"coordinates":[15.91667,-12.2],"type":"Point"}
+}

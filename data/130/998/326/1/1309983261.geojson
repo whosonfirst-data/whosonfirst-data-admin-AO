@@ -1,0 +1,72 @@
+{
+  "id": 1309983261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.42915,-8.9006,16.42915,-8.9006",
+    "geom:latitude":-8.9006,
+    "geom:longitude":16.42915,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ndala Mataba",
+    "gn:country_code":"AO",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241512,
+    "gn:latitude":-8.9006,
+    "gn:longitude":16.42915,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ndala Mataba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caminanga",
+        "Dala Mataba",
+        "Ndala Mataba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241512
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"515bcce1fa1b713a764ed424903cad42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799701,
+            "locality_id":1309983261,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1309983261,
+    "wof:lastmodified":1537584648,
+    "wof:name":"Ndala Mataba",
+    "wof:parent_id":1108799701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42915,
+    -8.9006,
+    16.42915,
+    -8.9006
+],
+  "geometry": {"coordinates":[16.42915,-8.9006],"type":"Point"}
+}

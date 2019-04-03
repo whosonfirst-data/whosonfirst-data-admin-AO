@@ -1,0 +1,67 @@
+{
+  "id": 1344223295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3257,-9.45192,20.3257,-9.45192",
+    "geom:latitude":-9.45192,
+    "geom:longitude":20.3257,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sambaia",
+    "gn:country_code":"AO",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769964,
+    "gn:latitude":-9.45192,
+    "gn:longitude":20.3257,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Sambaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769964
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0d7cdc687c39d7d0b5708e977a7d42b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1344223295,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1344223295,
+    "wof:lastmodified":1536639773,
+    "wof:name":"Sambaia",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3257,
+    -9.45192,
+    20.3257,
+    -9.45192
+],
+  "geometry": {"coordinates":[20.3257,-9.45192],"type":"Point"}
+}

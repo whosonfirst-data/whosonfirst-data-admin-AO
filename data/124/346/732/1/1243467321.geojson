@@ -1,0 +1,67 @@
+{
+  "id": 1243467321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.44497,-12.36168,16.44497,-12.36168",
+    "geom:latitude":-12.36168,
+    "geom:longitude":16.44497,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lutamo",
+    "gn:country_code":"AO",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7904591,
+    "gn:latitude":-12.36168,
+    "gn:longitude":16.44497,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Lutamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904591
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a943ef1c16466b6509db08ace5914662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799735,
+            "locality_id":1243467321,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1243467321,
+    "wof:lastmodified":1536775970,
+    "wof:name":"Lutamo",
+    "wof:parent_id":1108799735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.44497,
+    -12.36168,
+    16.44497,
+    -12.36168
+],
+  "geometry": {"coordinates":[16.44497,-12.36168],"type":"Point"}
+}

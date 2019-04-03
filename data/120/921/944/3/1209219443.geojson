@@ -1,0 +1,66 @@
+{
+  "id": 1209219443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59504,-8.30865,15.59504,-8.30865",
+    "geom:latitude":-8.30865,
+    "geom:longitude":15.59504,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chita",
+    "gn:country_code":"AO",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241834,
+    "gn:latitude":-8.30865,
+    "gn:longitude":15.59504,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quingica",
+        "Quinjica",
+        "Chita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241834
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"92604f299fdfb208159b5bc08d8443b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209219443
+        }
+    ],
+    "wof:id":1209219443,
+    "wof:lastmodified":1537584653,
+    "wof:name":"Chita",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59504,
+    -8.30865,
+    15.59504,
+    -8.30865
+],
+  "geometry": {"coordinates":[15.59504,-8.30865],"type":"Point"}
+}

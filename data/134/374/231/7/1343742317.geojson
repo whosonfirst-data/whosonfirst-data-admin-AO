@@ -1,0 +1,67 @@
+{
+  "id": 1343742317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47335,-9.37449,15.47335,-9.37449",
+    "geom:latitude":-9.37449,
+    "geom:longitude":15.47335,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gica",
+    "gn:country_code":"AO",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7769595,
+    "gn:latitude":-9.37449,
+    "gn:longitude":15.47335,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Gica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769595
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"11ab5d4e8be6ac1dc8c38d336f508a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1343742317,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343742317,
+    "wof:lastmodified":1536836026,
+    "wof:name":"Gica",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47335,
+    -9.37449,
+    15.47335,
+    -9.37449
+],
+  "geometry": {"coordinates":[15.47335,-9.37449],"type":"Point"}
+}

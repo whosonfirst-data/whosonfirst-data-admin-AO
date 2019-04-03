@@ -1,0 +1,71 @@
+{
+  "id": 1209781247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26798,-9.66194,14.26798,-9.66194",
+    "geom:latitude":-9.66194,
+    "geom:longitude":14.26798,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cabumba",
+    "gn:country_code":"AO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243237,
+    "gn:latitude":-9.66194,
+    "gn:longitude":14.26798,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cabumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fazenda Cambunda",
+        "Cabumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243237
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d0597a557ba95f9526edc3bd52b4fda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1209781247,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1209781247,
+    "wof:lastmodified":1537584674,
+    "wof:name":"Cabumba",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26798,
+    -9.66194,
+    14.26798,
+    -9.66194
+],
+  "geometry": {"coordinates":[14.26798,-9.66194],"type":"Point"}
+}

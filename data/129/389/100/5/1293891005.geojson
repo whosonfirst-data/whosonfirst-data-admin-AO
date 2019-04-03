@@ -1,0 +1,76 @@
+{
+  "id": 1293891005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18333,-5.33333,12.18333,-5.33333",
+    "geom:latitude":-5.33333,
+    "geom:longitude":12.18333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malembo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239852,
+    "gn:latitude":-5.33333,
+    "gn:longitude":12.18333,
+    "gn:modification_date":"2014-06-23",
+    "gn:name":"Malembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0435\u043c\u0431\u0443"
+    ],
+    "name:und_x_variant":[
+        "Povo Malembo",
+        "Malembo",
+        "Malemba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667683,
+        1108799777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239852
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8930528e54a25565a00ff9443a76cdb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799777,
+            "locality_id":1293891005,
+            "region_id":85667683
+        }
+    ],
+    "wof:id":1293891005,
+    "wof:lastmodified":1537584626,
+    "wof:name":"Malembo",
+    "wof:parent_id":1108799777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18333,
+    -5.33333,
+    12.18333,
+    -5.33333
+],
+  "geometry": {"coordinates":[12.18333,-5.33333],"type":"Point"}
+}

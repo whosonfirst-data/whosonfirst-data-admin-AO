@@ -1,0 +1,67 @@
+{
+  "id": 1326610205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45626,-9.20004,15.45626,-9.20004",
+    "geom:latitude":-9.20004,
+    "geom:longitude":15.45626,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Catari",
+    "gn:country_code":"AO",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":8307317,
+    "gn:latitude":-9.20004,
+    "gn:longitude":15.45626,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Cat\u00e1ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307317
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"da0defea535b6f1b3506e46ea1b26f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1326610205,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1326610205,
+    "wof:lastmodified":1536870579,
+    "wof:name":"Catari",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45626,
+    -9.20004,
+    15.45626,
+    -9.20004
+],
+  "geometry": {"coordinates":[15.45626,-9.20004],"type":"Point"}
+}

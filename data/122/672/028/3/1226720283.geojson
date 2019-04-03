@@ -1,0 +1,67 @@
+{
+  "id": 1226720283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88992,-8.13923,14.88992,-8.13923",
+    "geom:latitude":-8.13923,
+    "geom:longitude":14.88992,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cauanga",
+    "gn:country_code":"AO",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242078,
+    "gn:latitude":-8.13923,
+    "gn:longitude":14.88992,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Cauanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242078
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"73a8decce6bca663a7b08eb4deff9daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799843,
+            "locality_id":1226720283,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226720283,
+    "wof:lastmodified":1536752274,
+    "wof:name":"Cauanga",
+    "wof:parent_id":1108799843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88992,
+    -8.13923,
+    14.88992,
+    -8.13923
+],
+  "geometry": {"coordinates":[14.88992,-8.13923],"type":"Point"}
+}

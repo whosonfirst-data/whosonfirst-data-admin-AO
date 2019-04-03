@@ -1,0 +1,67 @@
+{
+  "id": 1276541699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94164,-10.57649,15.94164,-10.57649",
+    "geom:latitude":-10.57649,
+    "geom:longitude":15.94164,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Betania",
+    "gn:country_code":"AO",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7899547,
+    "gn:latitude":-10.57649,
+    "gn:longitude":15.94164,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Bet\u00e1nia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7899547
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6a140fff315ec978c82a2bb47c41624b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1276541699,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276541699,
+    "wof:lastmodified":1536996004,
+    "wof:name":"Betania",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94164,
+    -10.57649,
+    15.94164,
+    -10.57649
+],
+  "geometry": {"coordinates":[15.94164,-10.57649],"type":"Point"}
+}

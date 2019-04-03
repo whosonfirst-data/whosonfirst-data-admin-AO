@@ -1,0 +1,67 @@
+{
+  "id": 1327100081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.44942,-8.54824,13.44942,-8.54824",
+    "geom:latitude":-8.54824,
+    "geom:longitude":13.44942,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Catanga",
+    "gn:country_code":"AO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591930,
+    "gn:latitude":-8.54824,
+    "gn:longitude":13.44942,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Catanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591930
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fe79b92e671d5fe790e45c9a7e1865b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799875,
+            "locality_id":1327100081,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1327100081,
+    "wof:lastmodified":1536662925,
+    "wof:name":"Catanga",
+    "wof:parent_id":1108799875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.44942,
+    -8.54824,
+    13.44942,
+    -8.54824
+],
+  "geometry": {"coordinates":[13.44942,-8.54824],"type":"Point"}
+}

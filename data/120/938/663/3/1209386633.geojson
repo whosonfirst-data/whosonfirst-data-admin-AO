@@ -1,0 +1,61 @@
+{
+  "id": 1209386633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31775,-9.4316,18.31775,-9.4316",
+    "geom:latitude":-9.4316,
+    "geom:longitude":18.31775,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cassoque",
+    "gn:country_code":"AO",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787022,
+    "gn:latitude":-9.4316,
+    "gn:longitude":18.31775,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Cassoque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787022
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0ec5b929c40de4b8bd4dc1b5989a9e6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209386633
+        }
+    ],
+    "wof:id":1209386633,
+    "wof:lastmodified":1536288602,
+    "wof:name":"Cassoque",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31775,
+    -9.4316,
+    18.31775,
+    -9.4316
+],
+  "geometry": {"coordinates":[18.31775,-9.4316],"type":"Point"}
+}

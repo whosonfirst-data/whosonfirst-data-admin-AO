@@ -1,0 +1,61 @@
+{
+  "id": 1209391085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04018,-9.12254,18.04018,-9.12254",
+    "geom:latitude":-9.12254,
+    "geom:longitude":18.04018,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Luzamba Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786910,
+    "gn:latitude":-9.12254,
+    "gn:longitude":18.04018,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Luzamba Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786910
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6d5f192ce05573bafc492cc1d4659ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209391085
+        }
+    ],
+    "wof:id":1209391085,
+    "wof:lastmodified":1536288458,
+    "wof:name":"Luzamba Primeiro",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04018,
+    -9.12254,
+    18.04018,
+    -9.12254
+],
+  "geometry": {"coordinates":[18.04018,-9.12254],"type":"Point"}
+}

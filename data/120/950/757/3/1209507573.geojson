@@ -1,0 +1,61 @@
+{
+  "id": 1209507573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72334,-11.81168,14.72334,-11.81168",
+    "geom:latitude":-11.81168,
+    "geom:longitude":14.72334,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cholo",
+    "gn:country_code":"AO",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7901451,
+    "gn:latitude":-11.81168,
+    "gn:longitude":14.72334,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cholo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901451
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"083b6e2d0f0b0df25b4eb839ca768be9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209507573
+        }
+    ],
+    "wof:id":1209507573,
+    "wof:lastmodified":1536284985,
+    "wof:name":"Cholo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72334,
+    -11.81168,
+    14.72334,
+    -11.81168
+],
+  "geometry": {"coordinates":[14.72334,-11.81168],"type":"Point"}
+}

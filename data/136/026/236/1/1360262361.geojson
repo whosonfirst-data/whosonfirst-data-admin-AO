@@ -1,0 +1,67 @@
+{
+  "id": 1360262361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01441,-9.18306,16.01441,-9.18306",
+    "geom:latitude":-9.18306,
+    "geom:longitude":16.01441,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zumbungo",
+    "gn:country_code":"AO",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771675,
+    "gn:latitude":-9.18306,
+    "gn:longitude":16.01441,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Zumbungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771675
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"60ea2d4b4c10ee3be22faa3ae6852528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1360262361,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1360262361,
+    "wof:lastmodified":1536690086,
+    "wof:name":"Zumbungo",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01441,
+    -9.18306,
+    16.01441,
+    -9.18306
+],
+  "geometry": {"coordinates":[16.01441,-9.18306],"type":"Point"}
+}

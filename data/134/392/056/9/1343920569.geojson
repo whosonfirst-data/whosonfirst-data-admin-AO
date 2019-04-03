@@ -1,0 +1,72 @@
+{
+  "id": 1343920569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92033,-8.67396,14.92033,-8.67396",
+    "geom:latitude":-8.67396,
+    "geom:longitude":14.92033,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zombo Ngola",
+    "gn:country_code":"AO",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236247,
+    "gn:latitude":-8.67396,
+    "gn:longitude":14.92033,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zombo Ngola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zoa Angola",
+        "Zombo Angola",
+        "Zombo Ngola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236247
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6b81cf22a73e996614b6ccffdb125ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799817,
+            "locality_id":1343920569,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1343920569,
+    "wof:lastmodified":1537584567,
+    "wof:name":"Zombo Ngola",
+    "wof:parent_id":1108799817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92033,
+    -8.67396,
+    14.92033,
+    -8.67396
+],
+  "geometry": {"coordinates":[14.92033,-8.67396],"type":"Point"}
+}

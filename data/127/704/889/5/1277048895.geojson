@@ -1,0 +1,67 @@
+{
+  "id": 1277048895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86983,-8.01187,15.86983,-8.01187",
+    "geom:latitude":-8.01187,
+    "geom:longitude":15.86983,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Che",
+    "gn:country_code":"AO",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7737136,
+    "gn:latitude":-8.01187,
+    "gn:longitude":15.86983,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Che",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7737136
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"42fe391c937061e9a591ec9fbbaf773c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799689,
+            "locality_id":1277048895,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1277048895,
+    "wof:lastmodified":1536813901,
+    "wof:name":"Che",
+    "wof:parent_id":1108799689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86983,
+    -8.01187,
+    15.86983,
+    -8.01187
+],
+  "geometry": {"coordinates":[15.86983,-8.01187],"type":"Point"}
+}

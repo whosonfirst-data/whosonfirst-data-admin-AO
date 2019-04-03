@@ -1,0 +1,67 @@
+{
+  "id": 1209920127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89279,-14.62307,16.89279,-14.62307",
+    "geom:latitude":-14.62307,
+    "geom:longitude":16.89279,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cochi",
+    "gn:country_code":"AO",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7908885,
+    "gn:latitude":-14.62307,
+    "gn:longitude":16.89279,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Cochi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908885
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"15039ad048a10efef69ec5e1ab2b4c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799877,
+            "locality_id":1209920127,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1209920127,
+    "wof:lastmodified":1536369326,
+    "wof:name":"Cochi",
+    "wof:parent_id":1108799877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89279,
+    -14.62307,
+    16.89279,
+    -14.62307
+],
+  "geometry": {"coordinates":[16.89279,-14.62307],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276190661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40574,-8.50917,13.40574,-8.50917",
+    "geom:latitude":-8.50917,
+    "geom:longitude":13.40574,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Musseque Mafulo",
+    "gn:country_code":"AO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591920,
+    "gn:latitude":-8.50917,
+    "gn:longitude":13.40574,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Musseque Mafulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muceque Mafulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591920
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a8a9191c568a116182ddfa57c2abda2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799875,
+            "locality_id":1276190661,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1276190661,
+    "wof:lastmodified":1537584685,
+    "wof:name":"Musseque Mafulo",
+    "wof:parent_id":1108799875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40574,
+    -8.50917,
+    13.40574,
+    -8.50917
+],
+  "geometry": {"coordinates":[13.40574,-8.50917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242648845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97404,-7.76763,20.97404,-7.76763",
+    "geom:latitude":-7.76763,
+    "geom:longitude":20.97404,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sanjimi",
+    "gn:country_code":"AO",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7694743,
+    "gn:latitude":-7.76763,
+    "gn:longitude":20.97404,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Sanjimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7694743
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4fec04c6ce36a03320f4f687836e446d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "locality_id":1242648845,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1242648845,
+    "wof:lastmodified":1536961223,
+    "wof:name":"Sanjimi",
+    "wof:parent_id":1108799855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97404,
+    -7.76763,
+    20.97404,
+    -7.76763
+],
+  "geometry": {"coordinates":[20.97404,-7.76763],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193159235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72726,-11.54071,14.72726,-11.54071",
+    "geom:latitude":-11.54071,
+    "geom:longitude":14.72726,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Amboiva",
+    "gn:country_code":"AO",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351903,
+    "gn:latitude":-11.54071,
+    "gn:longitude":14.72726,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ambo\u00edva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambovia",
+        "Ambo\u00edva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351903,
+        "wk:page":"Amboiva"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"876670e3306f8c3ceae3fa6d075f5d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1193159235,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1193159235,
+    "wof:lastmodified":1537584805,
+    "wof:name":"Amboiva",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72726,
+    -11.54071,
+    14.72726,
+    -11.54071
+],
+  "geometry": {"coordinates":[14.72726,-11.54071],"type":"Point"}
+}

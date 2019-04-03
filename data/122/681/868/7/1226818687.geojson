@@ -1,0 +1,67 @@
+{
+  "id": 1226818687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1578,-10.4544,20.1578,-10.4544",
+    "geom:latitude":-10.4544,
+    "geom:longitude":20.1578,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Satchula",
+    "gn:country_code":"AO",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7894101,
+    "gn:latitude":-10.4544,
+    "gn:longitude":20.1578,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Satchula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7894101
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dfb3bca6925731b51cfd910718afc158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799823,
+            "locality_id":1226818687,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1226818687,
+    "wof:lastmodified":1536607798,
+    "wof:name":"Satchula",
+    "wof:parent_id":1108799823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1578,
+    -10.4544,
+    20.1578,
+    -10.4544
+],
+  "geometry": {"coordinates":[20.1578,-10.4544],"type":"Point"}
+}

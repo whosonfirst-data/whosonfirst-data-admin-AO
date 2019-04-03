@@ -1,0 +1,67 @@
+{
+  "id": 1226218409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45524,-9.81306,20.45524,-9.81306",
+    "geom:latitude":-9.81306,
+    "geom:longitude":20.45524,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Associacao Primeiro Maio",
+    "gn:country_code":"AO",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7789955,
+    "gn:latitude":-9.81306,
+    "gn:longitude":20.45524,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Associa\u00e7\u00e1o Primeiro Maio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789955
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0e36f97490a3e3719ea27b1ed982088e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1226218409,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1226218409,
+    "wof:lastmodified":1536972692,
+    "wof:name":"Associacao Primeiro Maio",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45524,
+    -9.81306,
+    20.45524,
+    -9.81306
+],
+  "geometry": {"coordinates":[20.45524,-9.81306],"type":"Point"}
+}

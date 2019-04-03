@@ -1,0 +1,67 @@
+{
+  "id": 1242944535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.50856,-8.92698,18.50856,-8.92698",
+    "geom:latitude":-8.92698,
+    "geom:longitude":18.50856,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sassa",
+    "gn:country_code":"AO",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7767878,
+    "gn:latitude":-8.92698,
+    "gn:longitude":18.50856,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Sassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7767878
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c31147b69de3dffef52bfe8341a0dee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1242944535,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1242944535,
+    "wof:lastmodified":1537030945,
+    "wof:name":"Sassa",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.50856,
+    -8.92698,
+    18.50856,
+    -8.92698
+],
+  "geometry": {"coordinates":[18.50856,-8.92698],"type":"Point"}
+}

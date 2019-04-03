@@ -1,0 +1,61 @@
+{
+  "id": 1209520293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72243,-8.94007,14.72243,-8.94007",
+    "geom:latitude":-8.94007,
+    "geom:longitude":14.72243,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Muenangombe",
+    "gn:country_code":"AO",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7764188,
+    "gn:latitude":-8.94007,
+    "gn:longitude":14.72243,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muenangombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764188
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"919e61429c27a5d30e1bc2722a9f8ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209520293
+        }
+    ],
+    "wof:id":1209520293,
+    "wof:lastmodified":1536284601,
+    "wof:name":"Muenangombe",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72243,
+    -8.94007,
+    14.72243,
+    -8.94007
+],
+  "geometry": {"coordinates":[14.72243,-8.94007],"type":"Point"}
+}

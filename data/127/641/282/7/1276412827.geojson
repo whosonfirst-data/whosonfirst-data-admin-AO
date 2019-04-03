@@ -1,0 +1,67 @@
+{
+  "id": 1276412827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68333,-6.5,14.68333,-6.5",
+    "geom:latitude":-6.5,
+    "geom:longitude":14.68333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quimazaguie",
+    "gn:country_code":"AO",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238223,
+    "gn:latitude":-6.5,
+    "gn:longitude":14.68333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quimazaguie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238223
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c758e4880f9a81a1860ced2ddf6d75d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799899,
+            "locality_id":1276412827,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1276412827,
+    "wof:lastmodified":1536672164,
+    "wof:name":"Quimazaguie",
+    "wof:parent_id":1108799899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68333,
+    -6.5,
+    14.68333,
+    -6.5
+],
+  "geometry": {"coordinates":[14.68333,-6.5],"type":"Point"}
+}

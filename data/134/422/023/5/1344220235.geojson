@@ -1,0 +1,67 @@
+{
+  "id": 1344220235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.32812,-10.19528,19.32812,-10.19528",
+    "geom:latitude":-10.19528,
+    "geom:longitude":19.32812,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Cazocame",
+    "gn:country_code":"AO",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892820,
+    "gn:latitude":-10.19528,
+    "gn:longitude":19.32812,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cazocame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892820
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e313a2a04f6eb5cc77d83d4af920e85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799647,
+            "locality_id":1344220235,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1344220235,
+    "wof:lastmodified":1536644570,
+    "wof:name":"Cazocame",
+    "wof:parent_id":1108799647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.32812,
+    -10.19528,
+    19.32812,
+    -10.19528
+],
+  "geometry": {"coordinates":[19.32812,-10.19528],"type":"Point"}
+}

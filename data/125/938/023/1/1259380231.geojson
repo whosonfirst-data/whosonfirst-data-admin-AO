@@ -1,0 +1,71 @@
+{
+  "id": 1259380231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32711,-11.0509,15.32711,-11.0509",
+    "geom:latitude":-11.0509,
+    "geom:longitude":15.32711,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quitangualeca",
+    "gn:country_code":"AO",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3346469,
+    "gn:latitude":-11.0509,
+    "gn:longitude":15.32711,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quitangualeca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Portalegre",
+        "Quitangualeca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346469
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"df0bcad5498e7baf7464702a06006baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1259380231,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259380231,
+    "wof:lastmodified":1537584705,
+    "wof:name":"Quitangualeca",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32711,
+    -11.0509,
+    15.32711,
+    -11.0509
+],
+  "geometry": {"coordinates":[15.32711,-11.0509],"type":"Point"}
+}

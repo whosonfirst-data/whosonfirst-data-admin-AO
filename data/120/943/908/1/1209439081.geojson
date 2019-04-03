@@ -1,0 +1,66 @@
+{
+  "id": 1209439081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.88333,-14.81667,16.88333,-14.81667",
+    "geom:latitude":-14.81667,
+    "geom:longitude":16.88333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ariomba",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351841,
+    "gn:latitude":-14.81667,
+    "gn:longitude":16.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ariomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Riombira",
+        "Ariomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351841
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cb977a6a768d7d08f0e1cc5dfccee749",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209439081
+        }
+    ],
+    "wof:id":1209439081,
+    "wof:lastmodified":1537584804,
+    "wof:name":"Ariomba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.88332999999999,
+    -14.81667,
+    16.88332999999999,
+    -14.81667
+],
+  "geometry": {"coordinates":[16.88332999999999,-14.81667],"type":"Point"}
+}

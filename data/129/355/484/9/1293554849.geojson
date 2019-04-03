@@ -1,0 +1,67 @@
+{
+  "id": 1293554849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94674,-8.50167,14.94674,-8.50167",
+    "geom:latitude":-8.50167,
+    "geom:longitude":14.94674,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Quipenene",
+    "gn:country_code":"AO",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237747,
+    "gn:latitude":-8.50167,
+    "gn:longitude":14.94674,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Quipenene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237747
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6943cb4af399de5300ddc936e0bac2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799817,
+            "locality_id":1293554849,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1293554849,
+    "wof:lastmodified":1536690263,
+    "wof:name":"Quipenene",
+    "wof:parent_id":1108799817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94674,
+    -8.50167,
+    14.94674,
+    -8.50167
+],
+  "geometry": {"coordinates":[14.94674,-8.50167],"type":"Point"}
+}

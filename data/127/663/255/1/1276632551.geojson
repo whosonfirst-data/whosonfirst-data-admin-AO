@@ -1,0 +1,67 @@
+{
+  "id": 1276632551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86831,-8.71116,15.86831,-8.71116",
+    "geom:latitude":-8.71116,
+    "geom:longitude":15.86831,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nguanza",
+    "gn:country_code":"AO",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7759129,
+    "gn:latitude":-8.71116,
+    "gn:longitude":15.86831,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Nguanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759129
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a57002fa317ab84c8b617c515caa00c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1276632551,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276632551,
+    "wof:lastmodified":1536874181,
+    "wof:name":"Nguanza",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86831,
+    -8.71116,
+    15.86831,
+    -8.71116
+],
+  "geometry": {"coordinates":[15.86831,-8.71116],"type":"Point"}
+}

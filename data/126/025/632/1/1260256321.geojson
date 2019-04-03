@@ -1,0 +1,73 @@
+{
+  "id": 1260256321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75,-13.31667,21.75,-13.31667",
+    "geom:latitude":-13.31667,
+    "geom:longitude":21.75,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Luaia",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876195,
+    "gn:latitude":-13.31667,
+    "gn:longitude":21.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Luaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shikaia",
+        "Chicaia",
+        "Luaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876195
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c07f35601c6f28d6687e3a9e90952eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1260256321,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1260256321,
+    "wof:lastmodified":1537584550,
+    "wof:name":"Luaia",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75,
+    -13.31667,
+    21.75,
+    -13.31667
+],
+  "geometry": {"coordinates":[21.75,-13.31667],"type":"Point"}
+}

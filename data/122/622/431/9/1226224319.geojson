@@ -1,0 +1,67 @@
+{
+  "id": 1226224319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.67367,-6.77673,12.67367,-6.77673",
+    "geom:latitude":-6.77673,
+    "geom:longitude":12.67367,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Muango",
+    "gn:country_code":"AO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8633859,
+    "gn:latitude":-6.77673,
+    "gn:longitude":12.67367,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Muango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8633859
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c2073ef556bc187629d17cba4e64ec3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799615,
+            "locality_id":1226224319,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1226224319,
+    "wof:lastmodified":1536964371,
+    "wof:name":"Muango",
+    "wof:parent_id":1108799615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.67367,
+    -6.77673,
+    12.67367,
+    -6.77673
+],
+  "geometry": {"coordinates":[12.67367,-6.77673],"type":"Point"}
+}

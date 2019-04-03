@@ -1,0 +1,67 @@
+{
+  "id": 1293014371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50962,-12.33309,14.50962,-12.33309",
+    "geom:latitude":-12.33309,
+    "geom:longitude":14.50962,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Cassaco",
+    "gn:country_code":"AO",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7902726,
+    "gn:latitude":-12.33309,
+    "gn:longitude":14.50962,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cassaco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7902726
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ced3ddf5076a83196ea88814d02a7929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799737,
+            "locality_id":1293014371,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1293014371,
+    "wof:lastmodified":1536971630,
+    "wof:name":"Cassaco",
+    "wof:parent_id":1108799737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50962,
+    -12.33309,
+    14.50962,
+    -12.33309
+],
+  "geometry": {"coordinates":[14.50962,-12.33309],"type":"Point"}
+}

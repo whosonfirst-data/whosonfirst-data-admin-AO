@@ -1,0 +1,67 @@
+{
+  "id": 1243343677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18333,-9.7,15.18333,-9.7",
+    "geom:latitude":-9.7,
+    "geom:longitude":15.18333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nhangue-ia-Culo",
+    "gn:country_code":"AO",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239039,
+    "gn:latitude":-9.7,
+    "gn:longitude":15.18333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Nhangue-i\u00e1-Culo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239039
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"43c2281283ad24ac1e8511275f9b5450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1243343677,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1243343677,
+    "wof:lastmodified":1536953874,
+    "wof:name":"Nhangue-ia-Culo",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18333,
+    -9.7,
+    15.18333,
+    -9.7
+],
+  "geometry": {"coordinates":[15.18333,-9.7],"type":"Point"}
+}

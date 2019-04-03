@@ -1,0 +1,67 @@
+{
+  "id": 1310591021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62527,-14.56391,14.62527,-14.56391",
+    "geom:latitude":-14.56391,
+    "geom:longitude":14.62527,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ndongue ia Handa",
+    "gn:country_code":"AO",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7907779,
+    "gn:latitude":-14.56391,
+    "gn:longitude":14.62527,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Ndongue i\u00e1 Handa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7907779
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e3ad742a3f3e27d099f02efa07ca1810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799929,
+            "locality_id":1310591021,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1310591021,
+    "wof:lastmodified":1536793894,
+    "wof:name":"Ndongue ia Handa",
+    "wof:parent_id":1108799929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62527,
+    -14.56391,
+    14.62527,
+    -14.56391
+],
+  "geometry": {"coordinates":[14.62527,-14.56391],"type":"Point"}
+}

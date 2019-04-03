@@ -1,0 +1,67 @@
+{
+  "id": 1293172303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7807,-9.86282,19.7807,-9.86282",
+    "geom:latitude":-9.86282,
+    "geom:longitude":19.7807,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Samaquenda",
+    "gn:country_code":"AO",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7787190,
+    "gn:latitude":-9.86282,
+    "gn:longitude":19.7807,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Samaquenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787190
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"01baa5fccfc32bc5f044724308059508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799759,
+            "locality_id":1293172303,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1293172303,
+    "wof:lastmodified":1536744315,
+    "wof:name":"Samaquenda",
+    "wof:parent_id":1108799759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7807,
+    -9.86282,
+    19.7807,
+    -9.86282
+],
+  "geometry": {"coordinates":[19.7807,-9.86282],"type":"Point"}
+}

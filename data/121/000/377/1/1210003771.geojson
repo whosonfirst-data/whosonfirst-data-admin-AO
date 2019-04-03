@@ -1,0 +1,67 @@
+{
+  "id": 1210003771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14705,-8.92207,16.14705,-8.92207",
+    "geom:latitude":-8.92207,
+    "geom:longitude":16.14705,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Canzele",
+    "gn:country_code":"AO",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7758595,
+    "gn:latitude":-8.92207,
+    "gn:longitude":16.14705,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Canzele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7758595
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f3cc46d855f35e392e19a1e07a914193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799701,
+            "locality_id":1210003771,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1210003771,
+    "wof:lastmodified":1536375895,
+    "wof:name":"Canzele",
+    "wof:parent_id":1108799701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14705,
+    -8.92207,
+    16.14705,
+    -8.92207
+],
+  "geometry": {"coordinates":[16.14705,-8.92207],"type":"Point"}
+}

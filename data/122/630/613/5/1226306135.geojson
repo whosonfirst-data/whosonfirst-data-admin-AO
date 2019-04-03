@@ -1,0 +1,71 @@
+{
+  "id": 1226306135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3076,-10.82681,20.3076,-10.82681",
+    "geom:latitude":-10.82681,
+    "geom:longitude":20.3076,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muando",
+    "gn:country_code":"AO",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1105796,
+    "gn:latitude":-10.82681,
+    "gn:longitude":20.3076,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Muando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Huto",
+        "Muando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105796
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"20f773ee8ea7a14035614a6868f0496e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799823,
+            "locality_id":1226306135,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1226306135,
+    "wof:lastmodified":1537584567,
+    "wof:name":"Muando",
+    "wof:parent_id":1108799823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3076,
+    -10.82681,
+    20.3076,
+    -10.82681
+],
+  "geometry": {"coordinates":[20.3076,-10.82681],"type":"Point"}
+}

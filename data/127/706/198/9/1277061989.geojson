@@ -1,0 +1,73 @@
+{
+  "id": 1277061989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50556,-12.67889,15.50556,-12.67889",
+    "geom:latitude":-12.67889,
+    "geom:longitude":15.50556,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ecunna",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348774,
+    "gn:latitude":-12.67889,
+    "gn:longitude":15.50556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ecunna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vila Flor",
+        "Ekunha",
+        "Ecunna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348774
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4889140d94fd45d984e23598d2995e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1277061989,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1277061989,
+    "wof:lastmodified":1537584742,
+    "wof:name":"Ecunna",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50556,
+    -12.67889,
+    15.50556,
+    -12.67889
+],
+  "geometry": {"coordinates":[15.50556,-12.67889],"type":"Point"}
+}

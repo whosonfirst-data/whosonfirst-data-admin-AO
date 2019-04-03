@@ -1,0 +1,61 @@
+{
+  "id": 1209386015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14877,-10.77084,22.14877,-10.77084",
+    "geom:latitude":-10.77084,
+    "geom:longitude":22.14877,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Camuxito",
+    "gn:country_code":"AO",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7863875,
+    "gn:latitude":-10.77084,
+    "gn:longitude":22.14877,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Camuxito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863875
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1c32b13ae41e50bfb8cac7dd0b631479",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209386015
+        }
+    ],
+    "wof:id":1209386015,
+    "wof:lastmodified":1536288622,
+    "wof:name":"Camuxito",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.148770000000006,
+    -10.77084,
+    22.148770000000006,
+    -10.77084
+],
+  "geometry": {"coordinates":[22.14877000000001,-10.77084],"type":"Point"}
+}

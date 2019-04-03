@@ -1,0 +1,67 @@
+{
+  "id": 1259545373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.34321,-8.84072,13.34321,-8.84072",
+    "geom:latitude":-8.84072,
+    "geom:longitude":13.34321,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mulenvos Baixo",
+    "gn:country_code":"AO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591950,
+    "gn:latitude":-8.84072,
+    "gn:longitude":13.34321,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mulenvos Baixo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667669,
+        1108799945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591950
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"eb40d55cfd584539f365aa1dccfb8223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799945,
+            "locality_id":1259545373,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":1259545373,
+    "wof:lastmodified":1536770412,
+    "wof:name":"Mulenvos Baixo",
+    "wof:parent_id":1108799945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.34321,
+    -8.84072,
+    13.34321,
+    -8.84072
+],
+  "geometry": {"coordinates":[13.34321,-8.84072],"type":"Point"}
+}

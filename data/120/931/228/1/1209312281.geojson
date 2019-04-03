@@ -1,0 +1,61 @@
+{
+  "id": 1209312281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79874,-10.01666,14.79874,-10.01666",
+    "geom:latitude":-10.01666,
+    "geom:longitude":14.79874,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quizumbo do Mussende",
+    "gn:country_code":"AO",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537042,
+    "gn:latitude":-10.01666,
+    "gn:longitude":14.79874,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Quizumbo do Mussende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537042
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8886c9d9c0dffb3bba9152c9738db580",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209312281
+        }
+    ],
+    "wof:id":1209312281,
+    "wof:lastmodified":1536290985,
+    "wof:name":"Quizumbo do Mussende",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79874,
+    -10.01666,
+    14.79874,
+    -10.01666
+],
+  "geometry": {"coordinates":[14.79874,-10.01666],"type":"Point"}
+}

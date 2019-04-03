@@ -1,0 +1,61 @@
+{
+  "id": 1209602285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76986,-8.39883,16.76986,-8.39883",
+    "geom:latitude":-8.39883,
+    "geom:longitude":16.76986,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Coxi ia Tala",
+    "gn:country_code":"AO",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7744110,
+    "gn:latitude":-8.39883,
+    "gn:longitude":16.76986,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Coxi i\u00e1 Tala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7744110
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8f6ec07927da982f712480cb4bffdfc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209602285
+        }
+    ],
+    "wof:id":1209602285,
+    "wof:lastmodified":1536282127,
+    "wof:name":"Coxi ia Tala",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76986,
+    -8.39883,
+    16.76986,
+    -8.39883
+],
+  "geometry": {"coordinates":[16.76986,-8.39883],"type":"Point"}
+}

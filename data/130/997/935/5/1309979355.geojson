@@ -1,0 +1,67 @@
+{
+  "id": 1309979355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71667,-6.65,14.71667,-6.65",
+    "geom:latitude":-6.65,
+    "geom:longitude":14.71667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Paza",
+    "gn:country_code":"AO",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238929,
+    "gn:latitude":-6.65,
+    "gn:longitude":14.71667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Paza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238929
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"71dacdec11c640ca36b5ee52c65c05c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799951,
+            "locality_id":1309979355,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1309979355,
+    "wof:lastmodified":1536681015,
+    "wof:name":"Paza",
+    "wof:parent_id":1108799951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71667,
+    -6.65,
+    14.71667,
+    -6.65
+],
+  "geometry": {"coordinates":[14.71667,-6.65],"type":"Point"}
+}

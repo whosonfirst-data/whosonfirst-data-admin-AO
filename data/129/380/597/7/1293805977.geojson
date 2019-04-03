@@ -1,0 +1,67 @@
+{
+  "id": 1293805977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14176,-10.39243,15.14176,-10.39243",
+    "geom:latitude":-10.39243,
+    "geom:longitude":15.14176,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cassala",
+    "gn:country_code":"AO",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7856015,
+    "gn:latitude":-10.39243,
+    "gn:longitude":15.14176,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cassala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856015
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3a8d2db1ea04a71c963482836d0b253c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1293805977,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293805977,
+    "wof:lastmodified":1536824136,
+    "wof:name":"Cassala",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14176,
+    -10.39243,
+    15.14176,
+    -10.39243
+],
+  "geometry": {"coordinates":[15.14176,-10.39243],"type":"Point"}
+}

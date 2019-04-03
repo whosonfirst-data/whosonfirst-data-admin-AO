@@ -1,0 +1,67 @@
+{
+  "id": 1344042913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,-12.75,15.01667,-12.75",
+    "geom:latitude":-12.75,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"J. C. Campos",
+    "gn:country_code":"AO",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348141,
+    "gn:latitude":-12.75,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"J. C. Campos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348141
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"653a8886167557a16f3f0dd4bc5f293e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799845,
+            "locality_id":1344042913,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1344042913,
+    "wof:lastmodified":1536901054,
+    "wof:name":"J. C. Campos",
+    "wof:parent_id":1108799845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    -12.75,
+    15.01667,
+    -12.75
+],
+  "geometry": {"coordinates":[15.01667,-12.75],"type":"Point"}
+}

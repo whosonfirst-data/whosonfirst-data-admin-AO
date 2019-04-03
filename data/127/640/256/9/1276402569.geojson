@@ -1,0 +1,67 @@
+{
+  "id": 1276402569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50088,-11.09366,20.50088,-11.09366",
+    "geom:latitude":-11.09366,
+    "geom:longitude":20.50088,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ngua",
+    "gn:country_code":"AO",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7772240,
+    "gn:latitude":-11.09366,
+    "gn:longitude":20.50088,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Ngua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7772240
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9f10b422cec5c07f1b68f3dee84e17b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799823,
+            "locality_id":1276402569,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1276402569,
+    "wof:lastmodified":1536685954,
+    "wof:name":"Ngua",
+    "wof:parent_id":1108799823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50088,
+    -11.09366,
+    20.50088,
+    -11.09366
+],
+  "geometry": {"coordinates":[20.50088,-11.09366],"type":"Point"}
+}

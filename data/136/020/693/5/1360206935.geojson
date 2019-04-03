@@ -1,0 +1,71 @@
+{
+  "id": 1360206935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07076,-11.39872,14.07076,-11.39872",
+    "geom:latitude":-11.39872,
+    "geom:longitude":14.07076,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Obra",
+    "gn:country_code":"AO",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346873,
+    "gn:latitude":-11.39872,
+    "gn:longitude":14.07076,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Obra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lovi",
+        "Obra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346873
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5f8218449b1dbe02d2caa0de651e9453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1360206935,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1360206935,
+    "wof:lastmodified":1537584712,
+    "wof:name":"Obra",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07076,
+    -11.39872,
+    14.07076,
+    -11.39872
+],
+  "geometry": {"coordinates":[14.07076,-11.39872],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209294597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43387,-9.424,16.43387,-9.424",
+    "geom:latitude":-9.424,
+    "geom:longitude":16.43387,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Casagi",
+    "gn:country_code":"AO",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7771604,
+    "gn:latitude":-9.424,
+    "gn:longitude":16.43387,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Casagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771604
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a3d5841d2b91b63d051f3aa4e73cfaaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209294597
+        }
+    ],
+    "wof:id":1209294597,
+    "wof:lastmodified":1536291574,
+    "wof:name":"Casagi",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.433870000000002,
+    -9.424,
+    16.433870000000002,
+    -9.424
+],
+  "geometry": {"coordinates":[16.43387,-9.424],"type":"Point"}
+}

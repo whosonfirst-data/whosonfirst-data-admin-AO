@@ -1,0 +1,67 @@
+{
+  "id": 1343755245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46343,-12.09548,16.46343,-12.09548",
+    "geom:latitude":-12.09548,
+    "geom:longitude":16.46343,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ngolonga",
+    "gn:country_code":"AO",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7904563,
+    "gn:latitude":-12.09548,
+    "gn:longitude":16.46343,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Ngolonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904563
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"87bcf31a563f88a4eac4f7c694be39aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1343755245,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1343755245,
+    "wof:lastmodified":1536817623,
+    "wof:name":"Ngolonga",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46343,
+    -12.09548,
+    16.46343,
+    -12.09548
+],
+  "geometry": {"coordinates":[16.46343,-12.09548],"type":"Point"}
+}

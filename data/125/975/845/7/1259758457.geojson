@@ -1,0 +1,67 @@
+{
+  "id": 1259758457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72167,-8.95944,13.72167,-8.95944",
+    "geom:latitude":-8.95944,
+    "geom:longitude":13.72167,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ngala",
+    "gn:country_code":"AO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591917,
+    "gn:latitude":-8.95944,
+    "gn:longitude":13.72167,
+    "gn:modification_date":"1998-06-02",
+    "gn:name":"Ngala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591917
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1f887360ca4da06631cd7ebd167855a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799819,
+            "locality_id":1259758457,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1259758457,
+    "wof:lastmodified":1536959210,
+    "wof:name":"Ngala",
+    "wof:parent_id":1108799819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72167,
+    -8.95944,
+    13.72167,
+    -8.95944
+],
+  "geometry": {"coordinates":[13.72167,-8.95944],"type":"Point"}
+}

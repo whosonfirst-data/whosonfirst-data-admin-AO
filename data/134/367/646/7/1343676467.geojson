@@ -1,0 +1,67 @@
+{
+  "id": 1343676467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61972,-12.30278,13.61972,-12.30278",
+    "geom:latitude":-12.30278,
+    "geom:longitude":13.61972,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Jomba",
+    "gn:country_code":"AO",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372345,
+    "gn:latitude":-12.30278,
+    "gn:longitude":13.61972,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Jomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372345
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c63a26034d721a27753d2b8841801202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1343676467,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1343676467,
+    "wof:lastmodified":1536932656,
+    "wof:name":"Jomba",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61972,
+    -12.30278,
+    13.61972,
+    -12.30278
+],
+  "geometry": {"coordinates":[13.61972,-12.30278],"type":"Point"}
+}

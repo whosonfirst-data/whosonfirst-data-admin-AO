@@ -1,0 +1,67 @@
+{
+  "id": 1344233265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.52299,-7.62128,20.52299,-7.62128",
+    "geom:latitude":-7.62128,
+    "geom:longitude":20.52299,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tchinguvo Segundo",
+    "gn:country_code":"AO",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7694704,
+    "gn:latitude":-7.62128,
+    "gn:longitude":20.52299,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tchinguvo Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7694704
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"53836bedb03c4648ec5fe95a3fa592f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "locality_id":1344233265,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1344233265,
+    "wof:lastmodified":1536624336,
+    "wof:name":"Tchinguvo Segundo",
+    "wof:parent_id":1108799855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52299,
+    -7.62128,
+    20.52299,
+    -7.62128
+],
+  "geometry": {"coordinates":[20.52299,-7.62128],"type":"Point"}
+}

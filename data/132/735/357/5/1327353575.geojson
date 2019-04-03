@@ -1,0 +1,72 @@
+{
+  "id": 1327353575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42628,-12.03896,15.42628,-12.03896",
+    "geom:latitude":-12.03896,
+    "geom:longitude":15.42628,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Quessambi",
+    "gn:country_code":"AO",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3346607,
+    "gn:latitude":-12.03896,
+    "gn:longitude":15.42628,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quessambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sabi",
+        "Quessabi",
+        "Quessambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346607
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"25a54f183cfe764064f7a72e13454749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1327353575,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1327353575,
+    "wof:lastmodified":1537584708,
+    "wof:name":"Quessambi",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42628,
+    -12.03896,
+    15.42628,
+    -12.03896
+],
+  "geometry": {"coordinates":[15.42628,-12.03896],"type":"Point"}
+}

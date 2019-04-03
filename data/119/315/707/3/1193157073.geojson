@@ -1,0 +1,72 @@
+{
+  "id": 1193157073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,-12.7,15.91667,-12.7",
+    "geom:latitude":-12.7,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cambuio",
+    "gn:country_code":"AO",
+    "gn:dem":1756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350922,
+    "gn:latitude":-12.7,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Cambu\u00edo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Combuiu de Cima",
+        "Cambu\u00edo",
+        "Combuiu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350922
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"66d6b6247283f0e353832d629dbb2f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799867,
+            "locality_id":1193157073,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1193157073,
+    "wof:lastmodified":1537584787,
+    "wof:name":"Cambuio",
+    "wof:parent_id":1108799867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    -12.7,
+    15.91667,
+    -12.7
+],
+  "geometry": {"coordinates":[15.91667,-12.7],"type":"Point"}
+}

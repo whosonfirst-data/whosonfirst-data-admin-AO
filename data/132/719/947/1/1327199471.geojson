@@ -1,0 +1,67 @@
+{
+  "id": 1327199471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5,-8.53333,14.5,-8.53333",
+    "geom:latitude":-8.53333,
+    "geom:longitude":14.5,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cassule Cameno",
+    "gn:country_code":"AO",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242216,
+    "gn:latitude":-8.53333,
+    "gn:longitude":14.5,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Cassule Cameno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242216
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1e02514dafb95a6e9ac7a70e2e3934ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799859,
+            "locality_id":1327199471,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1327199471,
+    "wof:lastmodified":1537016539,
+    "wof:name":"Cassule Cameno",
+    "wof:parent_id":1108799859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5,
+    -8.53333,
+    14.5,
+    -8.53333
+],
+  "geometry": {"coordinates":[14.5,-8.53333],"type":"Point"}
+}

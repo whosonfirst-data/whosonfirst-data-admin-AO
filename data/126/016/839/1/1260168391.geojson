@@ -1,0 +1,71 @@
+{
+  "id": 1260168391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76223,-8.98624,15.76223,-8.98624",
+    "geom:latitude":-8.98624,
+    "geom:longitude":15.76223,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bande a Hui",
+    "gn:country_code":"AO",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243821,
+    "gn:latitude":-8.98624,
+    "gn:longitude":15.76223,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bande \u00e1 Hui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bande \u00e1 Hui",
+        "Bande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243821
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4e22e34382320ee3b3fcdea4c38f35f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1260168391,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1260168391,
+    "wof:lastmodified":1537584683,
+    "wof:name":"Bande a Hui",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76223,
+    -8.98624,
+    15.76223,
+    -8.98624
+],
+  "geometry": {"coordinates":[15.76223,-8.98624],"type":"Point"}
+}

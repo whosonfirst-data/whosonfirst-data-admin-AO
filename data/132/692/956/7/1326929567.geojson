@@ -1,0 +1,67 @@
+{
+  "id": 1326929567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94247,-8.98434,14.94247,-8.98434",
+    "geom:latitude":-8.98434,
+    "geom:longitude":14.94247,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pongolola",
+    "gn:country_code":"AO",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7764212,
+    "gn:latitude":-8.98434,
+    "gn:longitude":14.94247,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Pongolola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764212
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5196b01bf5bedb39ce26effc912b88c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799881,
+            "locality_id":1326929567,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1326929567,
+    "wof:lastmodified":1536908910,
+    "wof:name":"Pongolola",
+    "wof:parent_id":1108799881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94247,
+    -8.98434,
+    14.94247,
+    -8.98434
+],
+  "geometry": {"coordinates":[14.94247,-8.98434],"type":"Point"}
+}

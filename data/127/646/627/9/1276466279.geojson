@@ -1,0 +1,67 @@
+{
+  "id": 1276466279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86334,-11.127,14.86334,-11.127",
+    "geom:latitude":-11.127,
+    "geom:longitude":14.86334,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Banza Quissobe",
+    "gn:country_code":"AO",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7860329,
+    "gn:latitude":-11.127,
+    "gn:longitude":14.86334,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Banza Quissobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860329
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"782b22f680220c4d17c754358f70d671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799659,
+            "locality_id":1276466279,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276466279,
+    "wof:lastmodified":1537094541,
+    "wof:name":"Banza Quissobe",
+    "wof:parent_id":1108799659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86334,
+    -11.127,
+    14.86334,
+    -11.127
+],
+  "geometry": {"coordinates":[14.86334,-11.127],"type":"Point"}
+}

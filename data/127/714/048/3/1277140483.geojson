@@ -1,0 +1,67 @@
+{
+  "id": 1277140483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25903,-9.34731,18.25903,-9.34731",
+    "geom:latitude":-9.34731,
+    "geom:longitude":18.25903,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ambala quia Quiluangi",
+    "gn:country_code":"AO",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787018,
+    "gn:latitude":-9.34731,
+    "gn:longitude":18.25903,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Ambala qui\u00e1 Quiluangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787018
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c19d8037e53e7b985046e9d654407d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1277140483,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1277140483,
+    "wof:lastmodified":1536684489,
+    "wof:name":"Ambala quia Quiluangi",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25903,
+    -9.34731,
+    18.25903,
+    -9.34731
+],
+  "geometry": {"coordinates":[18.25903,-9.34731],"type":"Point"}
+}

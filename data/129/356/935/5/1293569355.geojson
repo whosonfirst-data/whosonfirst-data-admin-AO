@@ -1,0 +1,67 @@
+{
+  "id": 1293569355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51392,-10.60197,17.51392,-10.60197",
+    "geom:latitude":-10.60197,
+    "geom:longitude":17.51392,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Casseco-Seco",
+    "gn:country_code":"AO",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900740,
+    "gn:latitude":-10.60197,
+    "gn:longitude":17.51392,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Casseco-Seco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900740
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"38847cfe45a009d8d14bb248f109e969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799719,
+            "locality_id":1293569355,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293569355,
+    "wof:lastmodified":1536669112,
+    "wof:name":"Casseco-Seco",
+    "wof:parent_id":1108799719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51392,
+    -10.60197,
+    17.51392,
+    -10.60197
+],
+  "geometry": {"coordinates":[17.51392,-10.60197],"type":"Point"}
+}

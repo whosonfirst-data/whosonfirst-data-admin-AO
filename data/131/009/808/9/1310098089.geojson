@@ -1,0 +1,72 @@
+{
+  "id": 1310098089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80641,-11.18234,14.80641,-11.18234",
+    "geom:latitude":-11.18234,
+    "geom:longitude":14.80641,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quizingue",
+    "gn:country_code":"AO",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346443,
+    "gn:latitude":-11.18234,
+    "gn:longitude":14.80641,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quizingue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kizingue",
+        "Quizinde",
+        "Quizingue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346443
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c2a8a2a15e4c58e43c87a34ee10d5d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1310098089,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310098089,
+    "wof:lastmodified":1537584705,
+    "wof:name":"Quizingue",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80641,
+    -11.18234,
+    14.80641,
+    -11.18234
+],
+  "geometry": {"coordinates":[14.80641,-11.18234],"type":"Point"}
+}

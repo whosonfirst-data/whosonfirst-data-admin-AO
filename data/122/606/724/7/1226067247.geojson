@@ -1,0 +1,67 @@
+{
+  "id": 1226067247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8275,-9.8188,14.8275,-9.8188",
+    "geom:latitude":-9.8188,
+    "geom:longitude":14.8275,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mucosso",
+    "gn:country_code":"AO",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783947,
+    "gn:latitude":-9.8188,
+    "gn:longitude":14.8275,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Mucosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783947
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9102f0f7afb7830ae9f48b5f660f5b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1226067247,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1226067247,
+    "wof:lastmodified":1536694441,
+    "wof:name":"Mucosso",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8275,
+    -9.8188,
+    14.8275,
+    -9.8188
+],
+  "geometry": {"coordinates":[14.8275,-9.8188],"type":"Point"}
+}

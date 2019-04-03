@@ -1,0 +1,67 @@
+{
+  "id": 1260283107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95775,-8.96982,14.95775,-8.96982",
+    "geom:latitude":-8.96982,
+    "geom:longitude":14.95775,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cafuta",
+    "gn:country_code":"AO",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7764211,
+    "gn:latitude":-8.96982,
+    "gn:longitude":14.95775,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cafuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764211
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e15398ee8e7f4e50d27d4c0f6d4a7065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799881,
+            "locality_id":1260283107,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1260283107,
+    "wof:lastmodified":1536712753,
+    "wof:name":"Cafuta",
+    "wof:parent_id":1108799881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95775,
+    -8.96982,
+    14.95775,
+    -8.96982
+],
+  "geometry": {"coordinates":[14.95775,-8.96982],"type":"Point"}
+}

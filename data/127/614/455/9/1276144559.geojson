@@ -1,0 +1,67 @@
+{
+  "id": 1276144559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01281,-10.32683,15.01281,-10.32683",
+    "geom:latitude":-10.32683,
+    "geom:longitude":15.01281,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Israel",
+    "gn:country_code":"AO",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856004,
+    "gn:latitude":-10.32683,
+    "gn:longitude":15.01281,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Israel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856004
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"02b6e3aef3b27406fee6a63b655f7c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1276144559,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276144559,
+    "wof:lastmodified":1537030379,
+    "wof:name":"Israel",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01281,
+    -10.32683,
+    15.01281,
+    -10.32683
+],
+  "geometry": {"coordinates":[15.01281,-10.32683],"type":"Point"}
+}

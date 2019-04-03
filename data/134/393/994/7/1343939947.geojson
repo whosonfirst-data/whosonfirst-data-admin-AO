@@ -1,0 +1,67 @@
+{
+  "id": 1343939947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47913,-7.19561,13.47913,-7.19561",
+    "geom:latitude":-7.19561,
+    "geom:longitude":13.47913,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quiximba",
+    "gn:country_code":"AO",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7755996,
+    "gn:latitude":-7.19561,
+    "gn:longitude":13.47913,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quiximba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755996
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"471bfb069c71250f1746e03da0176f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799731,
+            "locality_id":1343939947,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1343939947,
+    "wof:lastmodified":1537047650,
+    "wof:name":"Quiximba",
+    "wof:parent_id":1108799731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47913,
+    -7.19561,
+    13.47913,
+    -7.19561
+],
+  "geometry": {"coordinates":[13.47913,-7.19561],"type":"Point"}
+}

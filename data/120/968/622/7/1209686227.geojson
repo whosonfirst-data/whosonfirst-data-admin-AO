@@ -1,0 +1,61 @@
+{
+  "id": 1209686227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16667,-7.35,15.16667,-7.35",
+    "geom:latitude":-7.35,
+    "geom:longitude":15.16667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quitambe",
+    "gn:country_code":"AO",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2237538,
+    "gn:latitude":-7.35,
+    "gn:longitude":15.16667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Quitambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2237538
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8ccb6e569b6b260a38927aba7584a58d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209686227
+        }
+    ],
+    "wof:id":1209686227,
+    "wof:lastmodified":1536279401,
+    "wof:name":"Quitambe",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.166670000000002,
+    -7.35,
+    15.166670000000002,
+    -7.35
+],
+  "geometry": {"coordinates":[15.16667,-7.35],"type":"Point"}
+}

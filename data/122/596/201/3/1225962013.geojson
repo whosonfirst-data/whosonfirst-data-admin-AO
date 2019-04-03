@@ -1,0 +1,72 @@
+{
+  "id": 1225962013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,-12.56667,14.16667,-12.56667",
+    "geom:latitude":-12.56667,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maco",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347551,
+    "gn:latitude":-12.56667,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Maco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumbo",
+        "Maco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347551
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"918d46891934d576a8bd095e5026e4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799837,
+            "locality_id":1225962013,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1225962013,
+    "wof:lastmodified":1537584724,
+    "wof:name":"Maco",
+    "wof:parent_id":1108799837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    -12.56667,
+    14.16667,
+    -12.56667
+],
+  "geometry": {"coordinates":[14.16667,-12.56667],"type":"Point"}
+}

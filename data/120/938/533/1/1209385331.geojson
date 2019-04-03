@@ -1,0 +1,65 @@
+{
+  "id": 1209385331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91941,-6.84977,14.91941,-6.84977",
+    "geom:latitude":-6.84977,
+    "geom:longitude":14.91941,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lemboa",
+    "gn:country_code":"AO",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240608,
+    "gn:latitude":-6.84977,
+    "gn:longitude":14.91941,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"L\u00eamboa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00eamboa",
+        "Lemboa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240608
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"adfe95f6fa9d55973a44621260edc4ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209385331
+        }
+    ],
+    "wof:id":1209385331,
+    "wof:lastmodified":1537584632,
+    "wof:name":"Lemboa",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91941,
+    -6.84977,
+    14.91941,
+    -6.84977
+],
+  "geometry": {"coordinates":[14.91941,-6.84977],"type":"Point"}
+}

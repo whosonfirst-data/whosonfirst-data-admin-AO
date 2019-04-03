@@ -1,0 +1,71 @@
+{
+  "id": 1225958513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97098,-12.01034,13.97098,-12.01034",
+    "geom:latitude":-12.01034,
+    "geom:longitude":13.97098,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Balabaia",
+    "gn:country_code":"AO",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348779,
+    "gn:latitude":-12.01034,
+    "gn:longitude":13.97098,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Balabaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Egito",
+        "Balabaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348779
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"85ae350535180657c67a0efde56c6cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1225958513,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1225958513,
+    "wof:lastmodified":1537584742,
+    "wof:name":"Balabaia",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97098,
+    -12.01034,
+    13.97098,
+    -12.01034
+],
+  "geometry": {"coordinates":[13.97098,-12.01034],"type":"Point"}
+}

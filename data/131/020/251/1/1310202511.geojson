@@ -1,0 +1,67 @@
+{
+  "id": 1310202511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12081,-10.69289,14.12081,-10.69289",
+    "geom:latitude":-10.69289,
+    "geom:longitude":14.12081,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Calange",
+    "gn:country_code":"AO",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866491,
+    "gn:latitude":-10.69289,
+    "gn:longitude":14.12081,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Calange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866491
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e1400b5422b5729f7aa9f602e565ae66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799943,
+            "locality_id":1310202511,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1310202511,
+    "wof:lastmodified":1536855419,
+    "wof:name":"Calange",
+    "wof:parent_id":1108799943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12081,
+    -10.69289,
+    14.12081,
+    -10.69289
+],
+  "geometry": {"coordinates":[14.12081,-10.69289],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293689791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.86667,-12.1,17.86667,-12.1",
+    "geom:latitude":-12.1,
+    "geom:longitude":17.86667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nhacandombe",
+    "gn:country_code":"AO",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346952,
+    "gn:latitude":-12.1,
+    "gn:longitude":17.86667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Nhacandombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346952
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"aa4e7ee28b25da2524afbe9d567cfdff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799709,
+            "locality_id":1293689791,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1293689791,
+    "wof:lastmodified":1536991850,
+    "wof:name":"Nhacandombe",
+    "wof:parent_id":1108799709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.86667000000001,
+    -12.1,
+    17.86667000000001,
+    -12.1
+],
+  "geometry": {"coordinates":[17.86667000000001,-12.1],"type":"Point"}
+}

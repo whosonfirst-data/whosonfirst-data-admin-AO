@@ -1,0 +1,67 @@
+{
+  "id": 1309769353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0,-8.75,21.0,-8.75",
+    "geom:latitude":-8.75,
+    "geom:longitude":21.0,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mafuba",
+    "gn:country_code":"AO",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145680,
+    "gn:latitude":-8.75,
+    "gn:longitude":21.0,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Mafuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145680
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2e9e198661ce4aa5050ff0b1fd67a92a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1309769353,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1309769353,
+    "wof:lastmodified":1536983023,
+    "wof:name":"Mafuba",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0,
+    -8.75,
+    21.0,
+    -8.75
+],
+  "geometry": {"coordinates":[21.0,-8.75],"type":"Point"}
+}

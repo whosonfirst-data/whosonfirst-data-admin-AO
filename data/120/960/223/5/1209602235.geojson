@@ -1,0 +1,61 @@
+{
+  "id": 1209602235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53333,-9.18333,15.53333,-9.18333",
+    "geom:latitude":-9.18333,
+    "geom:longitude":15.53333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Maluanda",
+    "gn:country_code":"AO",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239838,
+    "gn:latitude":-9.18333,
+    "gn:longitude":15.53333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Maluanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239838
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c18d06a440f78a93f132c8524c2dd995",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209602235
+        }
+    ],
+    "wof:id":1209602235,
+    "wof:lastmodified":1536282129,
+    "wof:name":"Maluanda",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53333,
+    -9.18333,
+    15.53333,
+    -9.18333
+],
+  "geometry": {"coordinates":[15.53333,-9.18333],"type":"Point"}
+}

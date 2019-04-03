@@ -1,0 +1,67 @@
+{
+  "id": 1209778859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4806,-10.40874,18.4806,-10.40874",
+    "geom:latitude":-10.40874,
+    "geom:longitude":18.4806,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sambumbulo",
+    "gn:country_code":"AO",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7869461,
+    "gn:latitude":-10.40874,
+    "gn:longitude":18.4806,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Sambumbulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7869461
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4a2216d6888c99062254e9fa64bdcb1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1209778859,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1209778859,
+    "wof:lastmodified":1536375899,
+    "wof:name":"Sambumbulo",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4806,
+    -10.40874,
+    18.4806,
+    -10.40874
+],
+  "geometry": {"coordinates":[18.4806,-10.40874],"type":"Point"}
+}

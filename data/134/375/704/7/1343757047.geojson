@@ -1,0 +1,67 @@
+{
+  "id": 1343757047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93016,-10.14723,14.93016,-10.14723",
+    "geom:latitude":-10.14723,
+    "geom:longitude":14.93016,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quitila",
+    "gn:country_code":"AO",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7859321,
+    "gn:latitude":-10.14723,
+    "gn:longitude":14.93016,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quitila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859321
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f87b40469490fc7647f2886dbcdefd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1343757047,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343757047,
+    "wof:lastmodified":1536815127,
+    "wof:name":"Quitila",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93016,
+    -10.14723,
+    14.93016,
+    -10.14723
+],
+  "geometry": {"coordinates":[14.93016,-10.14723],"type":"Point"}
+}

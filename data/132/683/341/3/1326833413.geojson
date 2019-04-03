@@ -1,0 +1,72 @@
+{
+  "id": 1326833413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23333,-11.8,17.23333,-11.8",
+    "geom:latitude":-11.8,
+    "geom:longitude":17.23333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Calulavela",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3351066,
+    "gn:latitude":-11.8,
+    "gn:longitude":17.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Calulavela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calalavera",
+        "Calulavela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351066
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"692b10e1867d6441226a2f1372082254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799673,
+            "locality_id":1326833413,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1326833413,
+    "wof:lastmodified":1537584790,
+    "wof:name":"Calulavela",
+    "wof:parent_id":1108799673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23333,
+    -11.8,
+    17.23333,
+    -11.8
+],
+  "geometry": {"coordinates":[17.23333,-11.8],"type":"Point"}
+}

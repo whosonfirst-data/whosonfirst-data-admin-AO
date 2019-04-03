@@ -1,0 +1,67 @@
+{
+  "id": 1343934001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36667,-7.9,21.36667,-7.9",
+    "geom:latitude":-7.9,
+    "geom:longitude":21.36667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Muriata",
+    "gn:country_code":"AO",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145631,
+    "gn:latitude":-7.9,
+    "gn:longitude":21.36667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Muriata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145631
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ede20ad93b6e8e83fa43a5f93e77bbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1343934001,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1343934001,
+    "wof:lastmodified":1537055827,
+    "wof:name":"Muriata",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36667000000001,
+    -7.9,
+    21.36667000000001,
+    -7.9
+],
+  "geometry": {"coordinates":[21.36667000000001,-7.9],"type":"Point"}
+}

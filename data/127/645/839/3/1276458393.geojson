@@ -1,0 +1,67 @@
+{
+  "id": 1276458393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36222,-12.72361,13.36222,-12.72361",
+    "geom:latitude":-12.72361,
+    "geom:longitude":13.36222,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Cautere",
+    "gn:country_code":"AO",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372309,
+    "gn:latitude":-12.72361,
+    "gn:longitude":13.36222,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Cautere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372309
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7dc1149d80bec2713cae79216b22b922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799959,
+            "locality_id":1276458393,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1276458393,
+    "wof:lastmodified":1536608301,
+    "wof:name":"Cautere",
+    "wof:parent_id":1108799959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36222,
+    -12.72361,
+    13.36222,
+    -12.72361
+],
+  "geometry": {"coordinates":[13.36222,-12.72361],"type":"Point"}
+}

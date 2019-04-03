@@ -1,0 +1,67 @@
+{
+  "id": 1260159839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1,-12.98333,21.1,-12.98333",
+    "geom:latitude":-12.98333,
+    "geom:longitude":21.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chiesso",
+    "gn:country_code":"AO",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876429,
+    "gn:latitude":-12.98333,
+    "gn:longitude":21.1,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chiesso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876429
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0b512a0363ec658d0a25d4d7cf016260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1260159839,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1260159839,
+    "wof:lastmodified":1536879693,
+    "wof:name":"Chiesso",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1,
+    -12.98333,
+    21.1,
+    -12.98333
+],
+  "geometry": {"coordinates":[21.1,-12.98333],"type":"Point"}
+}

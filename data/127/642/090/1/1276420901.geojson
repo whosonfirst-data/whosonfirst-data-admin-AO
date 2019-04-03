@@ -1,0 +1,67 @@
+{
+  "id": 1276420901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18225,-9.39347,16.18225,-9.39347",
+    "geom:latitude":-9.39347,
+    "geom:longitude":16.18225,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quicuca",
+    "gn:country_code":"AO",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771664,
+    "gn:latitude":-9.39347,
+    "gn:longitude":16.18225,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quicuca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771664
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"48e15b9578a97fa4b257e058ee56ff02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1276420901,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276420901,
+    "wof:lastmodified":1536661388,
+    "wof:name":"Quicuca",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18225,
+    -9.39347,
+    16.18225,
+    -9.39347
+],
+  "geometry": {"coordinates":[16.18225,-9.39347],"type":"Point"}
+}

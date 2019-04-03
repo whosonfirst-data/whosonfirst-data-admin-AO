@@ -1,0 +1,67 @@
+{
+  "id": 1310281223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85952,-7.35932,20.85952,-7.35932",
+    "geom:latitude":-7.35932,
+    "geom:longitude":20.85952,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sacavula",
+    "gn:country_code":"AO",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891080,
+    "gn:latitude":-7.35932,
+    "gn:longitude":20.85952,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Sacavula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891080
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f080e5ac2e44725d94c1a32f9b5ef9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "locality_id":1310281223,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1310281223,
+    "wof:lastmodified":1536742729,
+    "wof:name":"Sacavula",
+    "wof:parent_id":1108799855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85952,
+    -7.35932,
+    20.85952,
+    -7.35932
+],
+  "geometry": {"coordinates":[20.85952,-7.35932],"type":"Point"}
+}

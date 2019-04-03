@@ -1,0 +1,67 @@
+{
+  "id": 1276743311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46103,-9.78887,17.46103,-9.78887",
+    "geom:latitude":-9.78887,
+    "geom:longitude":17.46103,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Temba",
+    "gn:country_code":"AO",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785611,
+    "gn:latitude":-9.78887,
+    "gn:longitude":17.46103,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Temba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785611
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ddefa03826dbde4caa9990d66b9a1055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799887,
+            "locality_id":1276743311,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276743311,
+    "wof:lastmodified":1536726953,
+    "wof:name":"Temba",
+    "wof:parent_id":1108799887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46102999999999,
+    -9.78887,
+    17.46102999999999,
+    -9.78887
+],
+  "geometry": {"coordinates":[17.46102999999999,-9.78887],"type":"Point"}
+}

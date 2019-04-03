@@ -1,0 +1,72 @@
+{
+  "id": 1326652347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,-11.58333,14.75,-11.58333",
+    "geom:latitude":-11.58333,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Roca Rianguila",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346406,
+    "gn:latitude":-11.58333,
+    "gn:longitude":14.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ro\u00e7a Rianguila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanquira",
+        "Ro\u00e7a Rianguila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346406
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6569121577930363deccda6f4068e2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1326652347,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1326652347,
+    "wof:lastmodified":1537584703,
+    "wof:name":"Roca Rianguila",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    -11.58333,
+    14.75,
+    -11.58333
+],
+  "geometry": {"coordinates":[14.75,-11.58333],"type":"Point"}
+}

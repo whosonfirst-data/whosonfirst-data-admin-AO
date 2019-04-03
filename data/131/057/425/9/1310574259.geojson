@@ -1,0 +1,67 @@
+{
+  "id": 1310574259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17833,-7.19601,16.17833,-7.19601",
+    "geom:latitude":-7.19601,
+    "geom:longitude":16.17833,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimussuquidi Mbundo",
+    "gn:country_code":"AO",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7745539,
+    "gn:latitude":-7.19601,
+    "gn:longitude":16.17833,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quimussuquidi Mbundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7745539
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"99488eda63c1a7bd54a5eddc54c44169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799617,
+            "locality_id":1310574259,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1310574259,
+    "wof:lastmodified":1536817020,
+    "wof:name":"Quimussuquidi Mbundo",
+    "wof:parent_id":1108799617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17833,
+    -7.19601,
+    16.17833,
+    -7.19601
+],
+  "geometry": {"coordinates":[16.17833,-7.19601],"type":"Point"}
+}

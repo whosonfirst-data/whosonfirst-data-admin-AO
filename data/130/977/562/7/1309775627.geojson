@@ -1,0 +1,70 @@
+{
+  "id": 1309775627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94149,-5.9611,13.94149,-5.9611",
+    "geom:latitude":-5.9611,
+    "geom:longitude":13.94149,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Muingo",
+    "gn:country_code":"AO",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662840,
+    "gn:latitude":-5.9611,
+    "gn:longitude":13.94149,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Muingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nguembo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662840
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5f3dbaec3b5f57c02544962d6f86d04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1309775627,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1309775627,
+    "wof:lastmodified":1537584807,
+    "wof:name":"Muingo",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94149,
+    -5.9611,
+    13.94149,
+    -5.9611
+],
+  "geometry": {"coordinates":[13.94149,-5.9611],"type":"Point"}
+}

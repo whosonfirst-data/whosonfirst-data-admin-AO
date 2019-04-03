@@ -1,0 +1,67 @@
+{
+  "id": 1327310039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25743,-8.86322,18.25743,-8.86322",
+    "geom:latitude":-8.86322,
+    "geom:longitude":18.25743,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mamuculo",
+    "gn:country_code":"AO",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7765253,
+    "gn:latitude":-8.86322,
+    "gn:longitude":18.25743,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mamuculo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7765253
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c10475a708e90563ee97f4dd6af261df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799797,
+            "locality_id":1327310039,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1327310039,
+    "wof:lastmodified":1536856365,
+    "wof:name":"Mamuculo",
+    "wof:parent_id":1108799797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25743,
+    -8.86322,
+    18.25743,
+    -8.86322
+],
+  "geometry": {"coordinates":[18.25743,-8.86322],"type":"Point"}
+}

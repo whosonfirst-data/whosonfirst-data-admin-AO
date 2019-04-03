@@ -1,0 +1,72 @@
+{
+  "id": 1327435573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58333,-12.35,14.58333,-12.35",
+    "geom:latitude":-12.35,
+    "geom:longitude":14.58333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chilenhe",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349850,
+    "gn:latitude":-12.35,
+    "gn:longitude":14.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chilenhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chindede",
+        "Chilenhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349850
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"eeec835a555371a5654197929b892ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799737,
+            "locality_id":1327435573,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1327435573,
+    "wof:lastmodified":1537584763,
+    "wof:name":"Chilenhe",
+    "wof:parent_id":1108799737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58333,
+    -12.35,
+    14.58333,
+    -12.35
+],
+  "geometry": {"coordinates":[14.58333,-12.35],"type":"Point"}
+}

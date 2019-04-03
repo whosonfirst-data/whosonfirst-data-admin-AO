@@ -1,0 +1,77 @@
+{
+  "id": 1360157927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21625,-6.52334,16.21625,-6.52334",
+    "geom:latitude":-6.52334,
+    "geom:longitude":16.21625,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimbele",
+    "gn:country_code":"AO",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238175,
+    "gn:latitude":-6.52334,
+    "gn:longitude":16.21625,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quimbele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043c\u0431\u0435\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Cuango",
+        "Quimbel",
+        "Quimbelo",
+        "Quimbele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238175,
+        "wk:page":"Quimbele"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e5caae29b9e3a355968ca2485f839357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1360157927,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1360157927,
+    "wof:lastmodified":1537584599,
+    "wof:name":"Quimbele",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21625,
+    -6.52334,
+    16.21625,
+    -6.52334
+],
+  "geometry": {"coordinates":[16.21625,-6.52334],"type":"Point"}
+}

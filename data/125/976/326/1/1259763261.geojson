@@ -1,0 +1,72 @@
+{
+  "id": 1259763261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46667,-8.93333,17.46667,-8.93333",
+    "geom:latitude":-8.93333,
+    "geom:longitude":17.46667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bumba",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243395,
+    "gn:latitude":-8.93333,
+    "gn:longitude":17.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bumba-Calala",
+        "Bumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243395
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"061715091d474c314b5a83da992260d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799725,
+            "locality_id":1259763261,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1259763261,
+    "wof:lastmodified":1537584676,
+    "wof:name":"Bumba",
+    "wof:parent_id":1108799725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46667,
+    -8.93333,
+    17.46667,
+    -8.93333
+],
+  "geometry": {"coordinates":[17.46667,-8.93333],"type":"Point"}
+}

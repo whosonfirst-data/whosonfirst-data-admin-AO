@@ -1,0 +1,72 @@
+{
+  "id": 1326627371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.225,-12.30449,15.225,-12.30449",
+    "geom:latitude":-12.30449,
+    "geom:longitude":15.225,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchiuva",
+    "gn:country_code":"AO",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3349447,
+    "gn:latitude":-12.30449,
+    "gn:longitude":15.225,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchiuva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Chivebo",
+        "Chiuvo",
+        "Tchiuva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349447
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"37ad2f35a542ab81e7d63373a34e36eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1326627371,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1326627371,
+    "wof:lastmodified":1537584753,
+    "wof:name":"Tchiuva",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.225,
+    -12.30449,
+    15.225,
+    -12.30449
+],
+  "geometry": {"coordinates":[15.225,-12.30449],"type":"Point"}
+}

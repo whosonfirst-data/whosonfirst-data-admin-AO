@@ -1,0 +1,70 @@
+{
+  "id": 1343835275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96443,-8.631,16.96443,-8.631",
+    "geom:latitude":-8.631,
+    "geom:longitude":16.96443,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Vila Nova",
+    "gn:country_code":"AO",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7757899,
+    "gn:latitude":-8.631,
+    "gn:longitude":16.96443,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Vila Nova",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calandala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7757899
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ee36700d0b9f5686bb6fe04cbe763921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1343835275,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1343835275,
+    "wof:lastmodified":1537584808,
+    "wof:name":"Vila Nova",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96443,
+    -8.631,
+    16.96443,
+    -8.631
+],
+  "geometry": {"coordinates":[16.96443,-8.631],"type":"Point"}
+}

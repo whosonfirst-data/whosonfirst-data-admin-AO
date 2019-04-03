@@ -1,0 +1,67 @@
+{
+  "id": 1242673021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01408,-12.43699,16.01408,-12.43699",
+    "geom:latitude":-12.43699,
+    "geom:longitude":16.01408,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Uelema",
+    "gn:country_code":"AO",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8308516,
+    "gn:latitude":-12.43699,
+    "gn:longitude":16.01408,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"U\u00ealema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308516
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7653047084b2abbb624ad0eb3cade2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799853,
+            "locality_id":1242673021,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1242673021,
+    "wof:lastmodified":1536927065,
+    "wof:name":"Uelema",
+    "wof:parent_id":1108799853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01408,
+    -12.43699,
+    16.01408,
+    -12.43699
+],
+  "geometry": {"coordinates":[16.01408,-12.43699],"type":"Point"}
+}

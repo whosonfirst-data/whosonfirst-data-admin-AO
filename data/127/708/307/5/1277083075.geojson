@@ -1,0 +1,67 @@
+{
+  "id": 1277083075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41074,-12.38518,16.41074,-12.38518",
+    "geom:latitude":-12.38518,
+    "geom:longitude":16.41074,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sacato",
+    "gn:country_code":"AO",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7904587,
+    "gn:latitude":-12.38518,
+    "gn:longitude":16.41074,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Sacato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904587
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4bc74ddef0fd4c4016ef09fa498e1ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799735,
+            "locality_id":1277083075,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1277083075,
+    "wof:lastmodified":1536767493,
+    "wof:name":"Sacato",
+    "wof:parent_id":1108799735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41074,
+    -12.38518,
+    16.41074,
+    -12.38518
+],
+  "geometry": {"coordinates":[16.41074,-12.38518],"type":"Point"}
+}

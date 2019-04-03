@@ -1,0 +1,71 @@
+{
+  "id": 1226730045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8089,-8.56751,15.8089,-8.56751",
+    "geom:latitude":-8.56751,
+    "geom:longitude":15.8089,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cui ia Luamba",
+    "gn:country_code":"AO",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241638,
+    "gn:latitude":-8.56751,
+    "gn:longitude":15.8089,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Cui i\u00e1 Luamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hui-i\u00e1-Lumba",
+        "Cui i\u00e1 Luamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241638
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"232e6e3fbb147cea2e1ef2abf1766548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1226730045,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226730045,
+    "wof:lastmodified":1537584651,
+    "wof:name":"Cui ia Luamba",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8089,
+    -8.56751,
+    15.8089,
+    -8.56751
+],
+  "geometry": {"coordinates":[15.8089,-8.56751],"type":"Point"}
+}

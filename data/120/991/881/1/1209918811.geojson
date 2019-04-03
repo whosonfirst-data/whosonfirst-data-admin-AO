@@ -1,0 +1,67 @@
+{
+  "id": 1209918811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59947,-8.97222,15.59947,-8.97222",
+    "geom:latitude":-8.97222,
+    "geom:longitude":15.59947,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Camigi",
+    "gn:country_code":"AO",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7759268,
+    "gn:latitude":-8.97222,
+    "gn:longitude":15.59947,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cam\u00edgi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759268
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b54ff7b6c4d5ae13cbcc4f4844cf9292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799625,
+            "locality_id":1209918811,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1209918811,
+    "wof:lastmodified":1536370791,
+    "wof:name":"Camigi",
+    "wof:parent_id":1108799625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59947,
+    -8.97222,
+    15.59947,
+    -8.97222
+],
+  "geometry": {"coordinates":[15.59947,-8.97222],"type":"Point"}
+}

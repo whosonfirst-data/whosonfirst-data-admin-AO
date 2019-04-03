@@ -1,0 +1,67 @@
+{
+  "id": 1226418485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.09503,-9.86458,20.09503,-9.86458",
+    "geom:latitude":-9.86458,
+    "geom:longitude":20.09503,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Samutoma",
+    "gn:country_code":"AO",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7789960,
+    "gn:latitude":-9.86458,
+    "gn:longitude":20.09503,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Samutoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789960
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"23be700042580b38bae33a7b0173382f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799909,
+            "locality_id":1226418485,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1226418485,
+    "wof:lastmodified":1536684807,
+    "wof:name":"Samutoma",
+    "wof:parent_id":1108799909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.09503,
+    -9.86458,
+    20.09503,
+    -9.86458
+],
+  "geometry": {"coordinates":[20.09503,-9.86458],"type":"Point"}
+}

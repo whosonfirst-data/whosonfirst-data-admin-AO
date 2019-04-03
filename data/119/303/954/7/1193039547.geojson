@@ -1,0 +1,67 @@
+{
+  "id": 1193039547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9,-16.55,14.9,-16.55",
+    "geom:latitude":-16.55,
+    "geom:longitude":14.9,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Duvango",
+    "gn:country_code":"AO",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348798,
+    "gn:latitude":-16.55,
+    "gn:longitude":14.9,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Duvango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348798
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"80ac6dd610b1ba408d2d0eee870ea8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799893,
+            "locality_id":1193039547,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1193039547,
+    "wof:lastmodified":1536377404,
+    "wof:name":"Duvango",
+    "wof:parent_id":1108799893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9,
+    -16.55,
+    14.9,
+    -16.55
+],
+  "geometry": {"coordinates":[14.9,-16.55],"type":"Point"}
+}

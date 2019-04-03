@@ -1,0 +1,74 @@
+{
+  "id": 1343870917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68067,-11.81213,16.68067,-11.81213",
+    "geom:latitude":-11.81213,
+    "geom:longitude":16.68067,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tunda Tchissococua",
+    "gn:country_code":"AO",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3345743,
+    "gn:latitude":-11.81213,
+    "gn:longitude":16.68067,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tunda Tchissoc\u00f3cua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunda",
+        "Tunda Xivangue",
+        "Tunda Chissosocua",
+        "Tunda Chissococua",
+        "Tunda Tchissoc\u00f3cua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3345743
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e7c3014c3ff4407cbd78893b22b913f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1343870917,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1343870917,
+    "wof:lastmodified":1537584689,
+    "wof:name":"Tunda Tchissococua",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68067000000001,
+    -11.81213,
+    16.68067000000001,
+    -11.81213
+],
+  "geometry": {"coordinates":[16.68067000000001,-11.81213],"type":"Point"}
+}

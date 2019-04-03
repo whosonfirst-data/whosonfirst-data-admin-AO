@@ -1,0 +1,61 @@
+{
+  "id": 1209076481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58297,-7.12007,14.58297,-7.12007",
+    "geom:latitude":-7.12007,
+    "geom:longitude":14.58297,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ngole",
+    "gn:country_code":"AO",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750308,
+    "gn:latitude":-7.12007,
+    "gn:longitude":14.58297,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Ngole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750308
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f570259677e2a33c4f3e811573d6b064",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209076481
+        }
+    ],
+    "wof:id":1209076481,
+    "wof:lastmodified":1536298477,
+    "wof:name":"Ngole",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58297,
+    -7.12007,
+    14.58297,
+    -7.12007
+],
+  "geometry": {"coordinates":[14.58297,-7.12007],"type":"Point"}
+}

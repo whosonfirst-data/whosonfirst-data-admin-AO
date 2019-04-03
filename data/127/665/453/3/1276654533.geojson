@@ -1,0 +1,67 @@
+{
+  "id": 1276654533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75969,-10.40671,14.75969,-10.40671",
+    "geom:latitude":-10.40671,
+    "geom:longitude":14.75969,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mbuexi",
+    "gn:country_code":"AO",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7859578,
+    "gn:latitude":-10.40671,
+    "gn:longitude":14.75969,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Mbuexi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859578
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0230c912171cd64983be17df5d5ea8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1276654533,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1276654533,
+    "wof:lastmodified":1536844360,
+    "wof:name":"Mbuexi",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75969,
+    -10.40671,
+    14.75969,
+    -10.40671
+],
+  "geometry": {"coordinates":[14.75969,-10.40671],"type":"Point"}
+}

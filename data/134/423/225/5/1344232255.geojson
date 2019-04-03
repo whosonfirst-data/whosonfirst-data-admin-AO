@@ -1,0 +1,67 @@
+{
+  "id": 1344232255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68333,-9.9,13.68333,-9.9",
+    "geom:latitude":-9.9,
+    "geom:longitude":13.68333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Baquenze",
+    "gn:country_code":"AO",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243684,
+    "gn:latitude":-9.9,
+    "gn:longitude":13.68333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Baquenze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243684
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b5bdc081ea938332bf6fb1b557a67dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1344232255,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1344232255,
+    "wof:lastmodified":1536625920,
+    "wof:name":"Baquenze",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68333,
+    -9.9,
+    13.68333,
+    -9.9
+],
+  "geometry": {"coordinates":[13.68333,-9.9],"type":"Point"}
+}

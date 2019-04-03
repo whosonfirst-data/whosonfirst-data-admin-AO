@@ -1,0 +1,67 @@
+{
+  "id": 1243152339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86667,-8.93333,15.86667,-8.93333",
+    "geom:latitude":-8.93333,
+    "geom:longitude":15.86667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cambolo",
+    "gn:country_code":"AO",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242779,
+    "gn:latitude":-8.93333,
+    "gn:longitude":15.86667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cambolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242779
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6c972cb680a14cf79fbd47b7bbeac048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1243152339,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1243152339,
+    "wof:lastmodified":1536732901,
+    "wof:name":"Cambolo",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86667,
+    -8.93333,
+    15.86667,
+    -8.93333
+],
+  "geometry": {"coordinates":[15.86667,-8.93333],"type":"Point"}
+}

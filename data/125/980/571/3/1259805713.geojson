@@ -1,0 +1,67 @@
+{
+  "id": 1259805713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81275,-11.15853,14.81275,-11.15853",
+    "geom:latitude":-11.15853,
+    "geom:longitude":14.81275,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Atumboa-Congo",
+    "gn:country_code":"AO",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7860325,
+    "gn:latitude":-11.15853,
+    "gn:longitude":14.81275,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"At\u00famboa-Congo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860325
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e058e953b056f03afbf6c4bb55d1b9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799863,
+            "locality_id":1259805713,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259805713,
+    "wof:lastmodified":1536890895,
+    "wof:name":"Atumboa-Congo",
+    "wof:parent_id":1108799863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81275,
+    -11.15853,
+    14.81275,
+    -11.15853
+],
+  "geometry": {"coordinates":[14.81275,-11.15853],"type":"Point"}
+}

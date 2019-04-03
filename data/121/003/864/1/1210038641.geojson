@@ -1,0 +1,67 @@
+{
+  "id": 1210038641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94554,-11.03462,14.94554,-11.03462",
+    "geom:latitude":-11.03462,
+    "geom:longitude":14.94554,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Caundi Mendunda",
+    "gn:country_code":"AO",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7860254,
+    "gn:latitude":-11.03462,
+    "gn:longitude":14.94554,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Ca\u00fandi Mendunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860254
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"da13d9f6696ec07966afc189e05d4d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799659,
+            "locality_id":1210038641,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1210038641,
+    "wof:lastmodified":1536385336,
+    "wof:name":"Caundi Mendunda",
+    "wof:parent_id":1108799659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94554,
+    -11.03462,
+    14.94554,
+    -11.03462
+],
+  "geometry": {"coordinates":[14.94554,-11.03462],"type":"Point"}
+}

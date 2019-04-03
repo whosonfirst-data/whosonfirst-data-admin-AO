@@ -1,0 +1,67 @@
+{
+  "id": 1242748915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.11667,-13.41667,21.11667,-13.41667",
+    "geom:latitude":-13.41667,
+    "geom:longitude":21.11667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nhaseque",
+    "gn:country_code":"AO",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875868,
+    "gn:latitude":-13.41667,
+    "gn:longitude":21.11667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Nhaseque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875868
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"319ca2a060b3f3005de07498c8c3af4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1242748915,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1242748915,
+    "wof:lastmodified":1536816249,
+    "wof:name":"Nhaseque",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.11667000000001,
+    -13.41667,
+    21.11667000000001,
+    -13.41667
+],
+  "geometry": {"coordinates":[21.11667000000001,-13.41667],"type":"Point"}
+}

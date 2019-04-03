@@ -1,0 +1,67 @@
+{
+  "id": 1293711409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84199,-10.75336,14.84199,-10.75336",
+    "geom:latitude":-10.75336,
+    "geom:longitude":14.84199,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quicoo Dimitrove",
+    "gn:country_code":"AO",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7865764,
+    "gn:latitude":-10.75336,
+    "gn:longitude":14.84199,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quico\u00f3 Dimitrove",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865764
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7601bc4ff229a2060e1c9be841165ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1293711409,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1293711409,
+    "wof:lastmodified":1536961545,
+    "wof:name":"Quicoo Dimitrove",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84199,
+    -10.75336,
+    14.84199,
+    -10.75336
+],
+  "geometry": {"coordinates":[14.84199,-10.75336],"type":"Point"}
+}

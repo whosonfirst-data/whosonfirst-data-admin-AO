@@ -1,0 +1,67 @@
+{
+  "id": 1309681925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.38293,-6.20079,12.38293,-6.20079",
+    "geom:latitude":-6.20079,
+    "geom:longitude":12.38293,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quipanga",
+    "gn:country_code":"AO",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7663470,
+    "gn:latitude":-6.20079,
+    "gn:longitude":12.38293,
+    "gn:modification_date":"2011-02-09",
+    "gn:name":"Quipanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663470
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b7372f01802725e3956e7a7678fd42a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799751,
+            "locality_id":1309681925,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1309681925,
+    "wof:lastmodified":1536610220,
+    "wof:name":"Quipanga",
+    "wof:parent_id":1108799751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.38293,
+    -6.20079,
+    12.38293,
+    -6.20079
+],
+  "geometry": {"coordinates":[12.38293,-6.20079],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209814701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92012,-9.28481,14.92012,-9.28481",
+    "geom:latitude":-9.28481,
+    "geom:longitude":14.92012,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sobocoto",
+    "gn:country_code":"AO",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7770580,
+    "gn:latitude":-9.28481,
+    "gn:longitude":14.92012,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Sobocoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7770580
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"34c0e30b21df16277186793d44f3c270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799713,
+            "locality_id":1209814701,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1209814701,
+    "wof:lastmodified":1536384843,
+    "wof:name":"Sobocoto",
+    "wof:parent_id":1108799713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92012,
+    -9.28481,
+    14.92012,
+    -9.28481
+],
+  "geometry": {"coordinates":[14.92012,-9.28481],"type":"Point"}
+}

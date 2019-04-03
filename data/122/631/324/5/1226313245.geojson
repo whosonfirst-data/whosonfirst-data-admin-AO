@@ -1,0 +1,67 @@
+{
+  "id": 1226313245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79323,-6.62026,15.79323,-6.62026",
+    "geom:latitude":-6.62026,
+    "geom:longitude":15.79323,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimuanza",
+    "gn:country_code":"AO",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754799,
+    "gn:latitude":-6.62026,
+    "gn:longitude":15.79323,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Quimuanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754799
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"018ac953f5ddc4c6ce1bc360039d5039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799715,
+            "locality_id":1226313245,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226313245,
+    "wof:lastmodified":1536835439,
+    "wof:name":"Quimuanza",
+    "wof:parent_id":1108799715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79323,
+    -6.62026,
+    15.79323,
+    -6.62026
+],
+  "geometry": {"coordinates":[15.79323,-6.62026],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344265799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98749,-11.9054,16.98749,-11.9054",
+    "geom:latitude":-11.9054,
+    "geom:longitude":16.98749,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchivangulula",
+    "gn:country_code":"AO",
+    "gn:dem":1768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903597,
+    "gn:latitude":-11.9054,
+    "gn:longitude":16.98749,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchivangulula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903597
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"53e9afb4cf6ec91d0603d72aef905968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799907,
+            "locality_id":1344265799,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1344265799,
+    "wof:lastmodified":1537073269,
+    "wof:name":"Tchivangulula",
+    "wof:parent_id":1108799907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98749,
+    -11.9054,
+    16.98749,
+    -11.9054
+],
+  "geometry": {"coordinates":[16.98749,-11.9054],"type":"Point"}
+}

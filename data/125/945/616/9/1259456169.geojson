@@ -1,0 +1,67 @@
+{
+  "id": 1259456169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18927,-6.51482,16.18927,-6.51482",
+    "geom:latitude":-6.51482,
+    "geom:longitude":16.18927,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Massanga Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7755512,
+    "gn:latitude":-6.51482,
+    "gn:longitude":16.18927,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Massanga Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7755512
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7c1d8994c7c3528a5d618ef084893ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1259456169,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1259456169,
+    "wof:lastmodified":1536898048,
+    "wof:name":"Massanga Primeiro",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18927,
+    -6.51482,
+    16.18927,
+    -6.51482
+],
+  "geometry": {"coordinates":[16.18927,-6.51482],"type":"Point"}
+}

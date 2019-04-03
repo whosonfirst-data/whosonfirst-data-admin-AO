@@ -1,0 +1,67 @@
+{
+  "id": 1276965465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9,-15.1,12.9,-15.1",
+    "geom:latitude":-15.1,
+    "geom:longitude":12.9,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mipolo",
+    "gn:country_code":"AO",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347315,
+    "gn:latitude":-15.1,
+    "gn:longitude":12.9,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Mipolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667717,
+        1108799601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347315
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0a5a1c6611f96b16bb4e7378f1c80e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799601,
+            "locality_id":1276965465,
+            "region_id":85667717
+        }
+    ],
+    "wof:id":1276965465,
+    "wof:lastmodified":1536927326,
+    "wof:name":"Mipolo",
+    "wof:parent_id":1108799601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9,
+    -15.1,
+    12.9,
+    -15.1
+],
+  "geometry": {"coordinates":[12.9,-15.1],"type":"Point"}
+}

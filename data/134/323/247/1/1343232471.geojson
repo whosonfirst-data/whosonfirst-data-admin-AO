@@ -1,0 +1,67 @@
+{
+  "id": 1343232471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85802,-6.43796,15.85802,-6.43796",
+    "geom:latitude":-6.43796,
+    "geom:longitude":15.85802,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quitechimbanda",
+    "gn:country_code":"AO",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7693636,
+    "gn:latitude":-6.43796,
+    "gn:longitude":15.85802,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Quitechimbanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7693636
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5d1081b9d9195cc0ba3ba101e6a01f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799715,
+            "locality_id":1343232471,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1343232471,
+    "wof:lastmodified":1537072373,
+    "wof:name":"Quitechimbanda",
+    "wof:parent_id":1108799715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85802,
+    -6.43796,
+    15.85802,
+    -6.43796
+],
+  "geometry": {"coordinates":[15.85802,-6.43796],"type":"Point"}
+}

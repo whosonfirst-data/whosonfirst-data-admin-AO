@@ -1,0 +1,67 @@
+{
+  "id": 1326701877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31667,-8.06667,18.31667,-8.06667",
+    "geom:latitude":-8.06667,
+    "geom:longitude":18.31667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Calengo",
+    "gn:country_code":"AO",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2242969,
+    "gn:latitude":-8.06667,
+    "gn:longitude":18.31667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Calengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2242969
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"64ac9fe8f538a65e0f3e58604d9fee2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799661,
+            "locality_id":1326701877,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1326701877,
+    "wof:lastmodified":1536739452,
+    "wof:name":"Calengo",
+    "wof:parent_id":1108799661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31667,
+    -8.06667,
+    18.31667,
+    -8.06667
+],
+  "geometry": {"coordinates":[18.31667,-8.06667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309887941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.74835,-6.13326,12.74835,-6.13326",
+    "geom:latitude":-6.13326,
+    "geom:longitude":12.74835,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2236966.0",
+    "gn:asciiname":"Tandococo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236854,
+    "gn:latitude":-6.13326,
+    "gn:longitude":12.74835,
+    "gn:modification_date":"2014-09-07",
+    "gn:name":"Tandococo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanda Coca",
+        "Tandococo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236854
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ecfec0651bd0f1a806c32ec6135c3671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799751,
+            "locality_id":1309887941,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1309887941,
+    "wof:lastmodified":1537584575,
+    "wof:name":"Tandococo",
+    "wof:parent_id":1108799751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.74835,
+    -6.13326,
+    12.74835,
+    -6.13326
+],
+  "geometry": {"coordinates":[12.74835,-6.13326],"type":"Point"}
+}

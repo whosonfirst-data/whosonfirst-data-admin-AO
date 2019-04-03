@@ -1,0 +1,67 @@
+{
+  "id": 1360005789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36508,-12.0147,15.36508,-12.0147",
+    "geom:latitude":-12.0147,
+    "geom:longitude":15.36508,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cambongue",
+    "gn:country_code":"AO",
+    "gn:dem":1437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906072,
+    "gn:latitude":-12.0147,
+    "gn:longitude":15.36508,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cambongue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906072
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5b9b707adc9b6d0895ff3d2350dc94c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1360005789,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1360005789,
+    "wof:lastmodified":1537057557,
+    "wof:name":"Cambongue",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36508,
+    -12.0147,
+    15.36508,
+    -12.0147
+],
+  "geometry": {"coordinates":[15.36508,-12.0147],"type":"Point"}
+}

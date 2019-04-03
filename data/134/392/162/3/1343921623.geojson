@@ -1,0 +1,71 @@
+{
+  "id": 1343921623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36201,-7.68896,21.36201,-7.68896",
+    "geom:latitude":-7.68896,
+    "geom:longitude":21.36201,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nzagi",
+    "gn:country_code":"AO",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7669378,
+    "gn:latitude":-7.68896,
+    "gn:longitude":21.36201,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Nzagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nzagi Andrada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7669378,
+        "wk:page":"Nzagi_(Andrada)"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"76e46f7629d22a22941f099efec78df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1343921623,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1343921623,
+    "wof:lastmodified":1537584808,
+    "wof:name":"Nzagi",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36201,
+    -7.68896,
+    21.36201,
+    -7.68896
+],
+  "geometry": {"coordinates":[21.36201,-7.68896],"type":"Point"}
+}

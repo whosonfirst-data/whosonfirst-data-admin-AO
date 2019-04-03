@@ -1,0 +1,70 @@
+{
+  "id": 1243239779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78584,-7.40476,21.78584,-7.40476",
+    "geom:latitude":-7.40476,
+    "geom:longitude":21.78584,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Calibuitchi",
+    "gn:country_code":"AO",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891573,
+    "gn:latitude":-7.40476,
+    "gn:longitude":21.78584,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Calibuitchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchicolondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891573
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"88a14df3632e236e73b1ff25ad130712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1243239779,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1243239779,
+    "wof:lastmodified":1537584812,
+    "wof:name":"Calibuitchi",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78584,
+    -7.40476,
+    21.78584,
+    -7.40476
+],
+  "geometry": {"coordinates":[21.78584,-7.40476],"type":"Point"}
+}

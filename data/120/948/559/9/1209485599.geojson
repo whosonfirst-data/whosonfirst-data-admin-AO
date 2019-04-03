@@ -1,0 +1,61 @@
+{
+  "id": 1209485599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4,-7.48333,14.4,-7.48333",
+    "geom:latitude":-7.48333,
+    "geom:longitude":14.4,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zenge",
+    "gn:country_code":"AO",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236287,
+    "gn:latitude":-7.48333,
+    "gn:longitude":14.4,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Zenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236287
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6c82c72618bd18e6eca54357c276ee93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209485599
+        }
+    ],
+    "wof:id":1209485599,
+    "wof:lastmodified":1536285646,
+    "wof:name":"Zenge",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4,
+    -7.48333,
+    14.4,
+    -7.48333
+],
+  "geometry": {"coordinates":[14.4,-7.48333],"type":"Point"}
+}

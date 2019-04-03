@@ -1,0 +1,67 @@
+{
+  "id": 1360080367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85208,-11.22024,13.85208,-11.22024",
+    "geom:latitude":-11.22024,
+    "geom:longitude":13.85208,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saca",
+    "gn:country_code":"AO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857169,
+    "gn:latitude":-11.22024,
+    "gn:longitude":13.85208,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Saca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857169
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"509691476bcdadba1d7934c95e450333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799795,
+            "locality_id":1360080367,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1360080367,
+    "wof:lastmodified":1536952631,
+    "wof:name":"Saca",
+    "wof:parent_id":1108799795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85208,
+    -11.22024,
+    13.85208,
+    -11.22024
+],
+  "geometry": {"coordinates":[13.85208,-11.22024],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243377799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63079,-12.39803,14.63079,-12.39803",
+    "geom:latitude":-12.39803,
+    "geom:longitude":14.63079,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nonguna",
+    "gn:country_code":"AO",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7903008,
+    "gn:latitude":-12.39803,
+    "gn:longitude":14.63079,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Nonguna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903008
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"58bcdc08fc5a7dfc71af8f431087c4d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799737,
+            "locality_id":1243377799,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1243377799,
+    "wof:lastmodified":1536904682,
+    "wof:name":"Nonguna",
+    "wof:parent_id":1108799737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63079,
+    -12.39803,
+    14.63079,
+    -12.39803
+],
+  "geometry": {"coordinates":[14.63079,-12.39803],"type":"Point"}
+}

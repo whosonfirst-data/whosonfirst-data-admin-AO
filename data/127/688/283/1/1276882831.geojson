@@ -1,0 +1,67 @@
+{
+  "id": 1276882831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56508,-12.44122,13.56508,-12.44122",
+    "geom:latitude":-12.44122,
+    "geom:longitude":13.56508,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chiule",
+    "gn:country_code":"AO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8634760,
+    "gn:latitude":-12.44122,
+    "gn:longitude":13.56508,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Chiule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8634760
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7bae2a17383d444a2ba877d66b25b0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1276882831,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1276882831,
+    "wof:lastmodified":1537035520,
+    "wof:name":"Chiule",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56508,
+    -12.44122,
+    13.56508,
+    -12.44122
+],
+  "geometry": {"coordinates":[13.56508,-12.44122],"type":"Point"}
+}

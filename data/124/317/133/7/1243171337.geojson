@@ -1,0 +1,67 @@
+{
+  "id": 1243171337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33335,-8.28889,15.33335,-8.28889",
+    "geom:latitude":-8.28889,
+    "geom:longitude":15.33335,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Calanda",
+    "gn:country_code":"AO",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243007,
+    "gn:latitude":-8.28889,
+    "gn:longitude":15.33335,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Calanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243007
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dc3ff58ade393acff040c16a659ea8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799939,
+            "locality_id":1243171337,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1243171337,
+    "wof:lastmodified":1536705474,
+    "wof:name":"Calanda",
+    "wof:parent_id":1108799939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33335,
+    -8.28889,
+    15.33335,
+    -8.28889
+],
+  "geometry": {"coordinates":[15.33335,-8.28889],"type":"Point"}
+}

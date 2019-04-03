@@ -1,0 +1,70 @@
+{
+  "id": 1343779667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99961,-11.96508,13.99961,-11.96508",
+    "geom:latitude":-11.96508,
+    "geom:longitude":13.99961,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Canjala Caluntele",
+    "gn:country_code":"AO",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3371640,
+    "gn:latitude":-11.96508,
+    "gn:longitude":13.99961,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Canjala Caluntele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caluntele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3371640
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"57d7ce38a25e4f4bd80ac5227ff6b65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799747,
+            "locality_id":1343779667,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1343779667,
+    "wof:lastmodified":1537584806,
+    "wof:name":"Canjala Caluntele",
+    "wof:parent_id":1108799747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99961,
+    -11.96508,
+    13.99961,
+    -11.96508
+],
+  "geometry": {"coordinates":[13.99961,-11.96508],"type":"Point"}
+}

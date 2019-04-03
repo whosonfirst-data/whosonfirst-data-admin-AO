@@ -1,0 +1,67 @@
+{
+  "id": 1276652315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28694,-12.83444,15.28694,-12.83444",
+    "geom:latitude":-12.83444,
+    "geom:longitude":15.28694,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mbungue I",
+    "gn:country_code":"AO",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372045,
+    "gn:latitude":-12.83444,
+    "gn:longitude":15.28694,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Mbungue I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372045
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5468a45ae726969279e50e9b7d91cd22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799831,
+            "locality_id":1276652315,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276652315,
+    "wof:lastmodified":1536847308,
+    "wof:name":"Mbungue I",
+    "wof:parent_id":1108799831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28694,
+    -12.83444,
+    15.28694,
+    -12.83444
+],
+  "geometry": {"coordinates":[15.28694,-12.83444],"type":"Point"}
+}

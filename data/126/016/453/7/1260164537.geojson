@@ -1,0 +1,67 @@
+{
+  "id": 1260164537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3863,-11.30625,22.3863,-11.30625",
+    "geom:latitude":-11.30625,
+    "geom:longitude":22.3863,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Muimana",
+    "gn:country_code":"AO",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7900990,
+    "gn:latitude":-11.30625,
+    "gn:longitude":22.3863,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Muimana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900990
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2149f5dee96c6ccf4f2071250cc6b2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799891,
+            "locality_id":1260164537,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1260164537,
+    "wof:lastmodified":1536873002,
+    "wof:name":"Muimana",
+    "wof:parent_id":1108799891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3863,
+    -11.30625,
+    22.3863,
+    -11.30625
+],
+  "geometry": {"coordinates":[22.3863,-11.30625],"type":"Point"}
+}

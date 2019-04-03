@@ -1,0 +1,67 @@
+{
+  "id": 1276627367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21088,-6.28543,14.21088,-6.28543",
+    "geom:latitude":-6.28543,
+    "geom:longitude":14.21088,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Quiditu",
+    "gn:country_code":"AO",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7688528,
+    "gn:latitude":-6.28543,
+    "gn:longitude":14.21088,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Quiditu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688528
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"75d5173636f720a5e24bafa96a640268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "locality_id":1276627367,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1276627367,
+    "wof:lastmodified":1536881453,
+    "wof:name":"Quiditu",
+    "wof:parent_id":1108799609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21088,
+    -6.28543,
+    14.21088,
+    -6.28543
+],
+  "geometry": {"coordinates":[14.21088,-6.28543],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243360355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23675,-12.3407,15.23675,-12.3407",
+    "geom:latitude":-12.3407,
+    "geom:longitude":15.23675,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nossi",
+    "gn:country_code":"AO",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346898,
+    "gn:latitude":-12.3407,
+    "gn:longitude":15.23675,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"N\u00f3ssi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nache",
+        "N\u00f3ssi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346898
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3b8d4552e543ab4467c4923db66142fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1243360355,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1243360355,
+    "wof:lastmodified":1537584712,
+    "wof:name":"Nossi",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23675,
+    -12.3407,
+    15.23675,
+    -12.3407
+],
+  "geometry": {"coordinates":[15.23675,-12.3407],"type":"Point"}
+}

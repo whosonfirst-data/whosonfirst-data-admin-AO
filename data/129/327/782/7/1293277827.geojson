@@ -1,0 +1,67 @@
+{
+  "id": 1293277827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06402,-12.37684,15.06402,-12.37684",
+    "geom:latitude":-12.37684,
+    "geom:longitude":15.06402,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cangoma",
+    "gn:country_code":"AO",
+    "gn:dem":1865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3350750,
+    "gn:latitude":-12.37684,
+    "gn:longitude":15.06402,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Cangoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350750
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0cd77021fbb45454ea957d1dd006317f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1293277827,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1293277827,
+    "wof:lastmodified":1537086125,
+    "wof:name":"Cangoma",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06402,
+    -12.37684,
+    15.06402,
+    -12.37684
+],
+  "geometry": {"coordinates":[15.06402,-12.37684],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310586805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36111,-12.87833,15.36111,-12.87833",
+    "geom:latitude":-12.87833,
+    "geom:longitude":15.36111,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Capila",
+    "gn:country_code":"AO",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372057,
+    "gn:latitude":-12.87833,
+    "gn:longitude":15.36111,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Capila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372057
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"dbee969e7b19d73af5d5f39a2909018c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799831,
+            "locality_id":1310586805,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1310586805,
+    "wof:lastmodified":1536799787,
+    "wof:name":"Capila",
+    "wof:parent_id":1108799831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36111,
+    -12.87833,
+    15.36111,
+    -12.87833
+],
+  "geometry": {"coordinates":[15.36111,-12.87833],"type":"Point"}
+}

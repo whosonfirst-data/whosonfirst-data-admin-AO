@@ -1,0 +1,67 @@
+{
+  "id": 1259950337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6,-7.48333,14.6,-7.48333",
+    "geom:latitude":-7.48333,
+    "geom:longitude":14.6,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zunga",
+    "gn:country_code":"AO",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236181,
+    "gn:latitude":-7.48333,
+    "gn:longitude":14.6,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Zunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236181
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"86116ecf6a05824b058a279ccb04bc2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799711,
+            "locality_id":1259950337,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1259950337,
+    "wof:lastmodified":1536682907,
+    "wof:name":"Zunga",
+    "wof:parent_id":1108799711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6,
+    -7.48333,
+    14.6,
+    -7.48333
+],
+  "geometry": {"coordinates":[14.6,-7.48333],"type":"Point"}
+}

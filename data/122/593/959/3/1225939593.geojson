@@ -1,0 +1,67 @@
+{
+  "id": 1225939593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72801,-11.05464,14.72801,-11.05464",
+    "geom:latitude":-11.05464,
+    "geom:longitude":14.72801,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cedula",
+    "gn:country_code":"AO",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7860280,
+    "gn:latitude":-11.05464,
+    "gn:longitude":14.72801,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cedula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860280
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"9f8dad8759caa8f2d5ec4fb6dc25f760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799659,
+            "locality_id":1225939593,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1225939593,
+    "wof:lastmodified":1536877452,
+    "wof:name":"Cedula",
+    "wof:parent_id":1108799659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72801,
+    -11.05464,
+    14.72801,
+    -11.05464
+],
+  "geometry": {"coordinates":[14.72801,-11.05464],"type":"Point"}
+}

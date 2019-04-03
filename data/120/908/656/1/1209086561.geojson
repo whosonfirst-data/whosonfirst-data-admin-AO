@@ -1,0 +1,61 @@
+{
+  "id": 1209086561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80384,-10.8094,17.80384,-10.8094",
+    "geom:latitude":-10.8094,
+    "geom:longitude":17.80384,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cassunga",
+    "gn:country_code":"AO",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7900706,
+    "gn:latitude":-10.8094,
+    "gn:longitude":17.80384,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cassunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900706
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fbd872fbaca3d08a84919d5e2e4415d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209086561
+        }
+    ],
+    "wof:id":1209086561,
+    "wof:lastmodified":1536298168,
+    "wof:name":"Cassunga",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80384,
+    -10.8094,
+    17.80384,
+    -10.8094
+],
+  "geometry": {"coordinates":[17.80384,-10.8094],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243378099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92361,-12.92333,13.92361,-12.92333",
+    "geom:latitude":-12.92333,
+    "geom:longitude":13.92361,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pupira",
+    "gn:country_code":"AO",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372459,
+    "gn:latitude":-12.92333,
+    "gn:longitude":13.92361,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Pupira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372459
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c2317b72b11d3c19d4278821597bfb62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799815,
+            "locality_id":1243378099,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1243378099,
+    "wof:lastmodified":1536904251,
+    "wof:name":"Pupira",
+    "wof:parent_id":1108799815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92361,
+    -12.92333,
+    13.92361,
+    -12.92333
+],
+  "geometry": {"coordinates":[13.92361,-12.92333],"type":"Point"}
+}

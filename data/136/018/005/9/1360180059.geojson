@@ -1,0 +1,67 @@
+{
+  "id": 1360180059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86921,-10.08462,14.86921,-10.08462",
+    "geom:latitude":-10.08462,
+    "geom:longitude":14.86921,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ngungue",
+    "gn:country_code":"AO",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7859245,
+    "gn:latitude":-10.08462,
+    "gn:longitude":14.86921,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Ngungue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859245
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1acf72ba0b10209a26bbf963f2bda369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1360180059,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1360180059,
+    "wof:lastmodified":1536808329,
+    "wof:name":"Ngungue",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86921,
+    -10.08462,
+    14.86921,
+    -10.08462
+],
+  "geometry": {"coordinates":[14.86921,-10.08462],"type":"Point"}
+}

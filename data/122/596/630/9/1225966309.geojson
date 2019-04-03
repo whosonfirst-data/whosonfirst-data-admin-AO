@@ -1,0 +1,67 @@
+{
+  "id": 1225966309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38238,-11.39904,15.38238,-11.39904",
+    "geom:latitude":-11.39904,
+    "geom:longitude":15.38238,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Haco",
+    "gn:country_code":"AO",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7860683,
+    "gn:latitude":-11.39904,
+    "gn:longitude":15.38238,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Haco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860683
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ae9361a229386551e4b3ad80e3aab3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1225966309,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1225966309,
+    "wof:lastmodified":1536838655,
+    "wof:name":"Haco",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38238,
+    -11.39904,
+    15.38238,
+    -11.39904
+],
+  "geometry": {"coordinates":[15.38238,-11.39904],"type":"Point"}
+}

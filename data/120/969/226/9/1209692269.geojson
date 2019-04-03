@@ -1,0 +1,61 @@
+{
+  "id": 1209692269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54468,-8.18942,18.54468,-8.18942",
+    "geom:latitude":-8.18942,
+    "geom:longitude":18.54468,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Xinganhima",
+    "gn:country_code":"AO",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7898386,
+    "gn:latitude":-8.18942,
+    "gn:longitude":18.54468,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Xinganhima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898386
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"73b3c4eff51a46ccd7466ef118b85379",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209692269
+        }
+    ],
+    "wof:id":1209692269,
+    "wof:lastmodified":1536279198,
+    "wof:name":"Xinganhima",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54468,
+    -8.18942,
+    18.54468,
+    -8.18942
+],
+  "geometry": {"coordinates":[18.54468,-8.18942],"type":"Point"}
+}

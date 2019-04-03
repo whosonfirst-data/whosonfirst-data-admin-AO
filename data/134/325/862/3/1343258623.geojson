@@ -1,0 +1,67 @@
+{
+  "id": 1343258623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49083,-14.60619,15.49083,-14.60619",
+    "geom:latitude":-14.60619,
+    "geom:longitude":15.49083,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cabanas",
+    "gn:country_code":"AO",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908129,
+    "gn:latitude":-14.60619,
+    "gn:longitude":15.49083,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cabanas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908129
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"35e4a268d369f5566fa0d7924098f20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1343258623,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1343258623,
+    "wof:lastmodified":1537035999,
+    "wof:name":"Cabanas",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49083,
+    -14.60619,
+    15.49083,
+    -14.60619
+],
+  "geometry": {"coordinates":[15.49083,-14.60619],"type":"Point"}
+}

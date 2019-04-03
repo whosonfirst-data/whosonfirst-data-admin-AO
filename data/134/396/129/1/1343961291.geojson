@@ -1,0 +1,67 @@
+{
+  "id": 1343961291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46521,-12.41411,16.46521,-12.41411",
+    "geom:latitude":-12.41411,
+    "geom:longitude":16.46521,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchimo",
+    "gn:country_code":"AO",
+    "gn:dem":1766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7904581,
+    "gn:latitude":-12.41411,
+    "gn:longitude":16.46521,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Tchimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904581
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3eed2df716f1a0102fb64c8faa4dd0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799735,
+            "locality_id":1343961291,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1343961291,
+    "wof:lastmodified":1537017987,
+    "wof:name":"Tchimo",
+    "wof:parent_id":1108799735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46521,
+    -12.41411,
+    16.46521,
+    -12.41411
+],
+  "geometry": {"coordinates":[16.46521,-12.41411],"type":"Point"}
+}

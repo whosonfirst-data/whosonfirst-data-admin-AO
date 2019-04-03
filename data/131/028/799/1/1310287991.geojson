@@ -1,0 +1,70 @@
+{
+  "id": 1310287991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97787,-6.46329,14.97787,-6.46329",
+    "geom:latitude":-6.46329,
+    "geom:longitude":14.97787,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mbanza Comba",
+    "gn:country_code":"AO",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243760,
+    "gn:latitude":-6.46329,
+    "gn:longitude":14.97787,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbanza Comba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banza Comba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243760
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"439a0422b9229b9b387e4544b9b1eafb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799705,
+            "locality_id":1310287991,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1310287991,
+    "wof:lastmodified":1537584682,
+    "wof:name":"Mbanza Comba",
+    "wof:parent_id":1108799705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97787,
+    -6.46329,
+    14.97787,
+    -6.46329
+],
+  "geometry": {"coordinates":[14.97787,-6.46329],"type":"Point"}
+}

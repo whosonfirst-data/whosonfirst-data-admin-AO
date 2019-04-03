@@ -1,0 +1,71 @@
+{
+  "id": 1260179629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51987,-11.15401,15.51987,-11.15401",
+    "geom:latitude":-11.15401,
+    "geom:longitude":15.51987,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sao Cirilo",
+    "gn:country_code":"AO",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7859078,
+    "gn:latitude":-11.15401,
+    "gn:longitude":15.51987,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"S\u00e3o Cirilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "S\u00e3o Cirilo",
+        "Quipembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859078
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b063826d5f4f2ab510623ebf79133913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1260179629,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1260179629,
+    "wof:lastmodified":1537584811,
+    "wof:name":"Sao Cirilo",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51987,
+    -11.15401,
+    15.51987,
+    -11.15401
+],
+  "geometry": {"coordinates":[15.51987,-11.15401],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226562077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41246,-12.48488,15.41246,-12.48488",
+    "geom:latitude":-12.48488,
+    "geom:longitude":15.41246,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Satchingolo",
+    "gn:country_code":"AO",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346357,
+    "gn:latitude":-12.48488,
+    "gn:longitude":15.41246,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Satchingolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchingola",
+        "Sachingolo",
+        "Satchingolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346357
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3466b20dee2dc537059f484ab90873fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799773,
+            "locality_id":1226562077,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1226562077,
+    "wof:lastmodified":1537584701,
+    "wof:name":"Satchingolo",
+    "wof:parent_id":1108799773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41246,
+    -12.48488,
+    15.41246,
+    -12.48488
+],
+  "geometry": {"coordinates":[15.41246,-12.48488],"type":"Point"}
+}

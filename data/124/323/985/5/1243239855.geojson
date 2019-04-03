@@ -1,0 +1,67 @@
+{
+  "id": 1243239855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14083,-9.24912,19.14083,-9.24912",
+    "geom:latitude":-9.24912,
+    "geom:longitude":19.14083,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mulombe",
+    "gn:country_code":"AO",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7778078,
+    "gn:latitude":-9.24912,
+    "gn:longitude":19.14083,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Mulombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778078
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"98b54205a10bf4bbffb5378ebe597393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799759,
+            "locality_id":1243239855,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1243239855,
+    "wof:lastmodified":1536603373,
+    "wof:name":"Mulombe",
+    "wof:parent_id":1108799759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14083,
+    -9.24912,
+    19.14083,
+    -9.24912
+],
+  "geometry": {"coordinates":[19.14083,-9.24912],"type":"Point"}
+}

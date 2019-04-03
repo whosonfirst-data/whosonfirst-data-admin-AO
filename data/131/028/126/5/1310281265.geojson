@@ -1,0 +1,67 @@
+{
+  "id": 1310281265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63134,-8.44029,17.63134,-8.44029",
+    "geom:latitude":-8.44029,
+    "geom:longitude":17.63134,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Conhi",
+    "gn:country_code":"AO",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7893818,
+    "gn:latitude":-8.44029,
+    "gn:longitude":17.63134,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Conhi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893818
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ff56a28165573611f495ab22e98d7d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799693,
+            "locality_id":1310281265,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1310281265,
+    "wof:lastmodified":1536742668,
+    "wof:name":"Conhi",
+    "wof:parent_id":1108799693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63133999999999,
+    -8.44029,
+    17.63133999999999,
+    -8.44029
+],
+  "geometry": {"coordinates":[17.63133999999999,-8.44029],"type":"Point"}
+}

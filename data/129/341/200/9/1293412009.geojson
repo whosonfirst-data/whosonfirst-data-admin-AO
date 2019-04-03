@@ -1,0 +1,72 @@
+{
+  "id": 1293412009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65,-12.11667,15.65,-12.11667",
+    "geom:latitude":-12.11667,
+    "geom:longitude":15.65,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cungungo",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3349083,
+    "gn:latitude":-12.11667,
+    "gn:longitude":15.65,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cungungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bango",
+        "Cungungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349083
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"acf10128897c720bf3c1f8dc144fd2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1293412009,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1293412009,
+    "wof:lastmodified":1537584747,
+    "wof:name":"Cungungo",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65,
+    -12.11667,
+    15.65,
+    -12.11667
+],
+  "geometry": {"coordinates":[15.65,-12.11667],"type":"Point"}
+}

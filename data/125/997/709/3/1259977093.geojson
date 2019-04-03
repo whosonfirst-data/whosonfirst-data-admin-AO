@@ -1,0 +1,67 @@
+{
+  "id": 1259977093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41055,-11.27796,15.41055,-11.27796",
+    "geom:latitude":-11.27796,
+    "geom:longitude":15.41055,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lianga",
+    "gn:country_code":"AO",
+    "gn:dem":1521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8356683,
+    "gn:latitude":-11.27796,
+    "gn:longitude":15.41055,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Lianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356683
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"519c00d9c4aef9835ba5df1218b77344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799857,
+            "locality_id":1259977093,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259977093,
+    "wof:lastmodified":1536643726,
+    "wof:name":"Lianga",
+    "wof:parent_id":1108799857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41055,
+    -11.27796,
+    15.41055,
+    -11.27796
+],
+  "geometry": {"coordinates":[15.41055,-11.27796],"type":"Point"}
+}

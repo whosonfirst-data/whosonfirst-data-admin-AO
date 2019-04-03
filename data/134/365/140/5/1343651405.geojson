@@ -1,0 +1,67 @@
+{
+  "id": 1343651405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9,-14.66667,13.9,-14.66667",
+    "geom:latitude":-14.66667,
+    "geom:longitude":13.9,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hoque",
+    "gn:country_code":"AO",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348320,
+    "gn:latitude":-14.66667,
+    "gn:longitude":13.9,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Hoque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348320
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"52843a1d130857464634610200e4e465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799869,
+            "locality_id":1343651405,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1343651405,
+    "wof:lastmodified":1536967829,
+    "wof:name":"Hoque",
+    "wof:parent_id":1108799869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9,
+    -14.66667,
+    13.9,
+    -14.66667
+],
+  "geometry": {"coordinates":[13.9,-14.66667],"type":"Point"}
+}

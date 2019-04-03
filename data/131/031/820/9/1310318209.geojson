@@ -1,0 +1,67 @@
+{
+  "id": 1310318209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89254,-11.88069,16.89254,-11.88069",
+    "geom:latitude":-11.88069,
+    "geom:longitude":16.89254,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mangrinha",
+    "gn:country_code":"AO",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7903570,
+    "gn:latitude":-11.88069,
+    "gn:longitude":16.89254,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Mangrinha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7903570
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"55ce00b1b3d9db40f065100f1d6b8a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799907,
+            "locality_id":1310318209,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1310318209,
+    "wof:lastmodified":1536689621,
+    "wof:name":"Mangrinha",
+    "wof:parent_id":1108799907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89254,
+    -11.88069,
+    16.89254,
+    -11.88069
+],
+  "geometry": {"coordinates":[16.89254,-11.88069],"type":"Point"}
+}

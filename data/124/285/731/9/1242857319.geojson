@@ -1,0 +1,67 @@
+{
+  "id": 1242857319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.49625,-6.31412,16.49625,-6.31412",
+    "geom:latitude":-6.31412,
+    "geom:longitude":16.49625,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cabeia Mbinda",
+    "gn:country_code":"AO",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544898,
+    "gn:latitude":-6.31412,
+    "gn:longitude":16.49625,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Cabeia Mbinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544898
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6034f4a921dbca9bc0cda806bbafdd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799763,
+            "locality_id":1242857319,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1242857319,
+    "wof:lastmodified":1536660822,
+    "wof:name":"Cabeia Mbinda",
+    "wof:parent_id":1108799763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49625,
+    -6.31412,
+    16.49625,
+    -6.31412
+],
+  "geometry": {"coordinates":[16.49625,-6.31412],"type":"Point"}
+}

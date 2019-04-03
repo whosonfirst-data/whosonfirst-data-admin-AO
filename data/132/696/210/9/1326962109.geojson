@@ -1,0 +1,67 @@
+{
+  "id": 1326962109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96667,-9.35,14.96667,-9.35",
+    "geom:latitude":-9.35,
+    "geom:longitude":14.96667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cazanga",
+    "gn:country_code":"AO",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241985,
+    "gn:latitude":-9.35,
+    "gn:longitude":14.96667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cazanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241985
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"133412d201ef1055b34fa96642438939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799713,
+            "locality_id":1326962109,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1326962109,
+    "wof:lastmodified":1536860448,
+    "wof:name":"Cazanga",
+    "wof:parent_id":1108799713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96667,
+    -9.35,
+    14.96667,
+    -9.35
+],
+  "geometry": {"coordinates":[14.96667,-9.35],"type":"Point"}
+}

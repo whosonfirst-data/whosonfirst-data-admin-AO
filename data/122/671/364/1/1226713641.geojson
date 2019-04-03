@@ -1,0 +1,67 @@
+{
+  "id": 1226713641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58783,-8.80151,18.58783,-8.80151",
+    "geom:latitude":-8.80151,
+    "geom:longitude":18.58783,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nambanda",
+    "gn:country_code":"AO",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7767810,
+    "gn:latitude":-8.80151,
+    "gn:longitude":18.58783,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Nambanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7767810
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8839c1b7d574924553b52666eed607d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799759,
+            "locality_id":1226713641,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1226713641,
+    "wof:lastmodified":1536762270,
+    "wof:name":"Nambanda",
+    "wof:parent_id":1108799759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58783,
+    -8.80151,
+    18.58783,
+    -8.80151
+],
+  "geometry": {"coordinates":[18.58783,-8.80151],"type":"Point"}
+}

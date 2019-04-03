@@ -1,0 +1,72 @@
+{
+  "id": 1293866821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72382,-7.61809,15.72382,-7.61809",
+    "geom:latitude":-7.61809,
+    "geom:longitude":15.72382,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimuchone",
+    "gn:country_code":"AO",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238054,
+    "gn:latitude":-7.61809,
+    "gn:longitude":15.72382,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quimuchone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quimichone",
+        "Quimoxoni",
+        "Quimuchone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238054
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0d93c410c903d3da48b1e6325295859a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799657,
+            "locality_id":1293866821,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1293866821,
+    "wof:lastmodified":1537584596,
+    "wof:name":"Quimuchone",
+    "wof:parent_id":1108799657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72382,
+    -7.61809,
+    15.72382,
+    -7.61809
+],
+  "geometry": {"coordinates":[15.72382,-7.61809],"type":"Point"}
+}

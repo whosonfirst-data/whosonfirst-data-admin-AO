@@ -1,0 +1,67 @@
+{
+  "id": 1326829321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76329,-8.87012,14.76329,-8.87012",
+    "geom:latitude":-8.87012,
+    "geom:longitude":14.76329,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Muhombo Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7764167,
+    "gn:latitude":-8.87012,
+    "gn:longitude":14.76329,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Muhombo Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7764167
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3a341c05a6d139ba838fd3f34bf4dfdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799881,
+            "locality_id":1326829321,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1326829321,
+    "wof:lastmodified":1537050830,
+    "wof:name":"Muhombo Primeiro",
+    "wof:parent_id":1108799881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76329,
+    -8.87012,
+    14.76329,
+    -8.87012
+],
+  "geometry": {"coordinates":[14.76329,-8.87012],"type":"Point"}
+}

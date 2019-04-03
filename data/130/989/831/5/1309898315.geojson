@@ -1,0 +1,67 @@
+{
+  "id": 1309898315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81667,-9.78333,14.81667,-9.78333",
+    "geom:latitude":-9.78333,
+    "geom:longitude":14.81667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zenzo",
+    "gn:country_code":"AO",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236268,
+    "gn:latitude":-9.78333,
+    "gn:longitude":14.81667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Zenzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236268
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"14f072db833de99a2f2b1dd74a60ad6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1309898315,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1309898315,
+    "wof:lastmodified":1536797846,
+    "wof:name":"Zenzo",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81667,
+    -9.78333,
+    14.81667,
+    -9.78333
+],
+  "geometry": {"coordinates":[14.81667,-9.78333],"type":"Point"}
+}

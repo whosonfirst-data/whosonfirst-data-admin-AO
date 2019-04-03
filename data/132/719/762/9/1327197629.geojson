@@ -1,0 +1,67 @@
+{
+  "id": 1327197629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50994,-9.56491,19.50994,-9.56491",
+    "geom:latitude":-9.56491,
+    "geom:longitude":19.50994,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Caila",
+    "gn:country_code":"AO",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7787166,
+    "gn:latitude":-9.56491,
+    "gn:longitude":19.50994,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Caila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787166
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"591c19750e8ab9b9b1fd9269c675fc1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799759,
+            "locality_id":1327197629,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1327197629,
+    "wof:lastmodified":1537019090,
+    "wof:name":"Caila",
+    "wof:parent_id":1108799759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50994,
+    -9.56491,
+    19.50994,
+    -9.56491
+],
+  "geometry": {"coordinates":[19.50994,-9.56491],"type":"Point"}
+}

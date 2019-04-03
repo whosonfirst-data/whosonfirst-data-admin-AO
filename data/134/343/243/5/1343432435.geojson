@@ -1,0 +1,67 @@
+{
+  "id": 1343432435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53333,-8.45,20.53333,-8.45",
+    "geom:latitude":-8.45,
+    "geom:longitude":20.53333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chavo",
+    "gn:country_code":"AO",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145814,
+    "gn:latitude":-8.45,
+    "gn:longitude":20.53333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Chavo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145814
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"294243772a09d1bab2061e1b198adfd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1343432435,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1343432435,
+    "wof:lastmodified":1536787258,
+    "wof:name":"Chavo",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53333,
+    -8.45,
+    20.53333,
+    -8.45
+],
+  "geometry": {"coordinates":[20.53333,-8.45],"type":"Point"}
+}

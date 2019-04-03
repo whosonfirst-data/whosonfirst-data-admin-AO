@@ -1,0 +1,67 @@
+{
+  "id": 1259587919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2494,-9.18681,15.2494,-9.18681",
+    "geom:latitude":-9.18681,
+    "geom:longitude":15.2494,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bela Vista",
+    "gn:country_code":"AO",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7769476,
+    "gn:latitude":-9.18681,
+    "gn:longitude":15.2494,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Bela Vista",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769476
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f71f0044c4a718a33a1ed100081da339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799905,
+            "locality_id":1259587919,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1259587919,
+    "wof:lastmodified":1536708683,
+    "wof:name":"Bela Vista",
+    "wof:parent_id":1108799905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2494,
+    -9.18681,
+    15.2494,
+    -9.18681
+],
+  "geometry": {"coordinates":[15.2494,-9.18681],"type":"Point"}
+}

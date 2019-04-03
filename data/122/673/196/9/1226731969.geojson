@@ -1,0 +1,67 @@
+{
+  "id": 1226731969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05,-6.81667,14.05,-6.81667",
+    "geom:latitude":-6.81667,
+    "geom:longitude":14.05,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Futo",
+    "gn:country_code":"AO",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2241086,
+    "gn:latitude":-6.81667,
+    "gn:longitude":14.05,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Futo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2241086
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"65aae46596f8090d4127ba61c92354e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799615,
+            "locality_id":1226731969,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1226731969,
+    "wof:lastmodified":1536735487,
+    "wof:name":"Futo",
+    "wof:parent_id":1108799615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05,
+    -6.81667,
+    14.05,
+    -6.81667
+],
+  "geometry": {"coordinates":[14.05,-6.81667],"type":"Point"}
+}

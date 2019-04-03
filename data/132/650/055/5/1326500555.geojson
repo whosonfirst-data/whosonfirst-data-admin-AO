@@ -1,0 +1,72 @@
+{
+  "id": 1326500555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93333,-7.55,15.93333,-7.55",
+    "geom:latitude":-7.55,
+    "geom:longitude":15.93333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quimbambe",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238196,
+    "gn:latitude":-7.55,
+    "gn:longitude":15.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quimbambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quimbunga Zombo",
+        "Quimbambe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238196
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"27be15cd1053abeb6362f2460e0698f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799689,
+            "locality_id":1326500555,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1326500555,
+    "wof:lastmodified":1537584600,
+    "wof:name":"Quimbambe",
+    "wof:parent_id":1108799689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93333,
+    -7.55,
+    15.93333,
+    -7.55
+],
+  "geometry": {"coordinates":[15.93333,-7.55],"type":"Point"}
+}

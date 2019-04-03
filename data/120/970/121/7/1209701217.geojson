@@ -1,0 +1,67 @@
+{
+  "id": 1209701217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09554,-12.42153,16.09554,-12.42153",
+    "geom:latitude":-12.42153,
+    "geom:longitude":16.09554,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Napica",
+    "gn:country_code":"AO",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7904454,
+    "gn:latitude":-12.42153,
+    "gn:longitude":16.09554,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Napica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904454
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"a823881dd851bf15f01690e737224e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799853,
+            "locality_id":1209701217,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1209701217,
+    "wof:lastmodified":1536394886,
+    "wof:name":"Napica",
+    "wof:parent_id":1108799853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09554,
+    -12.42153,
+    16.09554,
+    -12.42153
+],
+  "geometry": {"coordinates":[16.09554,-12.42153],"type":"Point"}
+}

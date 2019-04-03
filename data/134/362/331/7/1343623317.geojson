@@ -1,0 +1,67 @@
+{
+  "id": 1343623317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28239,-8.89387,13.28239,-8.89387",
+    "geom:latitude":-8.89387,
+    "geom:longitude":13.28239,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Uengemaca",
+    "gn:country_code":"AO",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7758803,
+    "gn:latitude":-8.89387,
+    "gn:longitude":13.28239,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Ueng\u00e9maca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667669,
+        1108799895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7758803
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5c2c406757d134fb43f99abda687cbb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799895,
+            "locality_id":1343623317,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":1343623317,
+    "wof:lastmodified":1537008039,
+    "wof:name":"Uengemaca",
+    "wof:parent_id":1108799895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28239,
+    -8.89387,
+    13.28239,
+    -8.89387
+],
+  "geometry": {"coordinates":[13.28239,-8.89387],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260370415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56341,-8.7673,16.56341,-8.7673",
+    "geom:latitude":-8.7673,
+    "geom:longitude":16.56341,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Huiahongo",
+    "gn:country_code":"AO",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7757769,
+    "gn:latitude":-8.7673,
+    "gn:longitude":16.56341,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Huiahongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7757769
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b55d1bb0467e6aa4c09fb68f7dc90417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1260370415,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1260370415,
+    "wof:lastmodified":1537089227,
+    "wof:name":"Huiahongo",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56341,
+    -8.7673,
+    16.56341,
+    -8.7673
+],
+  "geometry": {"coordinates":[16.56341,-8.7673],"type":"Point"}
+}

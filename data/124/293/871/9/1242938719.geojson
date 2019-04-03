@@ -1,0 +1,70 @@
+{
+  "id": 1242938719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71346,-8.48189,14.71346,-8.48189",
+    "geom:latitude":-8.48189,
+    "geom:longitude":14.71346,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Massunda",
+    "gn:country_code":"AO",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2239151,
+    "gn:latitude":-8.48189,
+    "gn:longitude":14.71346,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Massunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mussanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2239151
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1cbcc3571b513cfc3d4768e9638ed737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799859,
+            "locality_id":1242938719,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1242938719,
+    "wof:lastmodified":1537584616,
+    "wof:name":"Massunda",
+    "wof:parent_id":1108799859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71346,
+    -8.48189,
+    14.71346,
+    -8.48189
+],
+  "geometry": {"coordinates":[14.71346,-8.48189],"type":"Point"}
+}

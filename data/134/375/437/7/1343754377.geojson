@@ -1,0 +1,67 @@
+{
+  "id": 1343754377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29876,-10.42624,14.29876,-10.42624",
+    "geom:latitude":-10.42624,
+    "geom:longitude":14.29876,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hombo",
+    "gn:country_code":"AO",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856808,
+    "gn:latitude":-10.42624,
+    "gn:longitude":14.29876,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Hombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856808
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"238f86f8290175d24fcccf373c93f009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799949,
+            "locality_id":1343754377,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1343754377,
+    "wof:lastmodified":1536818844,
+    "wof:name":"Hombo",
+    "wof:parent_id":1108799949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29876,
+    -10.42624,
+    14.29876,
+    -10.42624
+],
+  "geometry": {"coordinates":[14.29876,-10.42624],"type":"Point"}
+}

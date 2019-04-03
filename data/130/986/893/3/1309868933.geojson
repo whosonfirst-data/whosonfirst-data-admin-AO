@@ -1,0 +1,72 @@
+{
+  "id": 1309868933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15439,-10.25204,19.15439,-10.25204",
+    "geom:latitude":-10.25204,
+    "geom:longitude":19.15439,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muamuieie",
+    "gn:country_code":"AO",
+    "gn:dem":1265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347497,
+    "gn:latitude":-10.25204,
+    "gn:longitude":19.15439,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Muamuieie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u00e1 Muiei",
+        "Mamiei",
+        "Muamuieie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667651,
+        1108799647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347497
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"b9f246e8a7b60503429a016ec71ab7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799647,
+            "locality_id":1309868933,
+            "region_id":85667651
+        }
+    ],
+    "wof:id":1309868933,
+    "wof:lastmodified":1537584723,
+    "wof:name":"Muamuieie",
+    "wof:parent_id":1108799647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15439,
+    -10.25204,
+    19.15439,
+    -10.25204
+],
+  "geometry": {"coordinates":[19.15439,-10.25204],"type":"Point"}
+}

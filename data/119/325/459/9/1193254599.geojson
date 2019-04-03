@@ -1,0 +1,67 @@
+{
+  "id": 1193254599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64901,-7.85392,21.64901,-7.85392",
+    "geom:latitude":-7.85392,
+    "geom:longitude":21.64901,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cassombo",
+    "gn:country_code":"AO",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7696471,
+    "gn:latitude":-7.85392,
+    "gn:longitude":21.64901,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Cassombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696471
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0920cdfdc6285f8fe9bb9518e4b08a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1193254599,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1193254599,
+    "wof:lastmodified":1536365244,
+    "wof:name":"Cassombo",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64901,
+    -7.85392,
+    21.64901,
+    -7.85392
+],
+  "geometry": {"coordinates":[21.64901,-7.85392],"type":"Point"}
+}

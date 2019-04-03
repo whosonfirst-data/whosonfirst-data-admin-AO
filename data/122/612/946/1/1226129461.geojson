@@ -1,0 +1,67 @@
+{
+  "id": 1226129461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83333,-11.36667,18.83333,-11.36667",
+    "geom:latitude":-11.36667,
+    "geom:longitude":18.83333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cangombe",
+    "gn:country_code":"AO",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3350748,
+    "gn:latitude":-11.36667,
+    "gn:longitude":18.83333,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Cangombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3350748
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"bc8a99e932ef9918d6f298a898402bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799651,
+            "locality_id":1226129461,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1226129461,
+    "wof:lastmodified":1536601173,
+    "wof:name":"Cangombe",
+    "wof:parent_id":1108799651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83333,
+    -11.36667,
+    18.83333,
+    -11.36667
+],
+  "geometry": {"coordinates":[18.83333,-11.36667],"type":"Point"}
+}

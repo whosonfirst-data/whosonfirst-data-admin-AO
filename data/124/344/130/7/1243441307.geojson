@@ -1,0 +1,67 @@
+{
+  "id": 1243441307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10239,-8.25253,16.10239,-8.25253",
+    "geom:latitude":-8.25253,
+    "geom:longitude":16.10239,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Augusto Ngangula",
+    "gn:country_code":"AO",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7742250,
+    "gn:latitude":-8.25253,
+    "gn:longitude":16.10239,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Augusto Ngangula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7742250
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"15773d2af7fa33311d3c9f7781ab4a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799873,
+            "locality_id":1243441307,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1243441307,
+    "wof:lastmodified":1536812362,
+    "wof:name":"Augusto Ngangula",
+    "wof:parent_id":1108799873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10239,
+    -8.25253,
+    16.10239,
+    -8.25253
+],
+  "geometry": {"coordinates":[16.10239,-8.25253],"type":"Point"}
+}

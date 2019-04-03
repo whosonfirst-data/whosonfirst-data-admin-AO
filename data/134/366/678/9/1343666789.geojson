@@ -1,0 +1,67 @@
+{
+  "id": 1343666789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.266,-9.06454,15.266,-9.06454",
+    "geom:latitude":-9.06454,
+    "geom:longitude":15.266,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Duas Marias",
+    "gn:country_code":"AO",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769422,
+    "gn:latitude":-9.06454,
+    "gn:longitude":15.266,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Duas Marias",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769422
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d139f039b06371965af65087ca075483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799905,
+            "locality_id":1343666789,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1343666789,
+    "wof:lastmodified":1536946280,
+    "wof:name":"Duas Marias",
+    "wof:parent_id":1108799905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.266,
+    -9.06454,
+    15.266,
+    -9.06454
+],
+  "geometry": {"coordinates":[15.266,-9.06454],"type":"Point"}
+}

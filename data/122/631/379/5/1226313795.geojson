@@ -1,0 +1,72 @@
+{
+  "id": 1226313795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91667,-13.4,20.91667,-13.4",
+    "geom:latitude":-13.4,
+    "geom:longitude":20.91667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lichissa",
+    "gn:cc2":"AO",
+    "gn:country_code":"AO",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876228,
+    "gn:latitude":-13.4,
+    "gn:longitude":20.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lichissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Richissa",
+        "Lichissa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876228
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c736163e9168b493b5607b19b8928b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799623,
+            "locality_id":1226313795,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1226313795,
+    "wof:lastmodified":1537584551,
+    "wof:name":"Lichissa",
+    "wof:parent_id":1108799623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91667,
+    -13.4,
+    20.91667,
+    -13.4
+],
+  "geometry": {"coordinates":[20.91667,-13.4],"type":"Point"}
+}

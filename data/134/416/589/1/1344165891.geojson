@@ -1,0 +1,67 @@
+{
+  "id": 1344165891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38226,-11.20234,16.38226,-11.20234",
+    "geom:latitude":-11.20234,
+    "geom:longitude":16.38226,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ndemba",
+    "gn:country_code":"AO",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7789806,
+    "gn:latitude":-11.20234,
+    "gn:longitude":16.38226,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Ndemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7789806
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"35c7e6103132059d2f8e816f13c3deed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799635,
+            "locality_id":1344165891,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1344165891,
+    "wof:lastmodified":1536723706,
+    "wof:name":"Ndemba",
+    "wof:parent_id":1108799635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38226,
+    -11.20234,
+    16.38226,
+    -11.20234
+],
+  "geometry": {"coordinates":[16.38226,-11.20234],"type":"Point"}
+}

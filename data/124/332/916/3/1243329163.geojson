@@ -1,0 +1,67 @@
+{
+  "id": 1243329163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15715,-8.13506,14.15715,-8.13506",
+    "geom:latitude":-8.13506,
+    "geom:longitude":14.15715,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Caiengue",
+    "gn:country_code":"AO",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2243061,
+    "gn:latitude":-8.13506,
+    "gn:longitude":14.15715,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Caiengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243061
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f4e0319dbe133c11fc7f0da0f115ae81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799629,
+            "locality_id":1243329163,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1243329163,
+    "wof:lastmodified":1536974294,
+    "wof:name":"Caiengue",
+    "wof:parent_id":1108799629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15715,
+    -8.13506,
+    14.15715,
+    -8.13506
+],
+  "geometry": {"coordinates":[14.15715,-8.13506],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259505601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65864,-11.55526,14.65864,-11.55526",
+    "geom:latitude":-11.55526,
+    "geom:longitude":14.65864,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Calatembo",
+    "gn:country_code":"AO",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7901339,
+    "gn:latitude":-11.55526,
+    "gn:longitude":14.65864,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Calatembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901339
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"e563dcec5e1216664971331b47590a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799799,
+            "locality_id":1259505601,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1259505601,
+    "wof:lastmodified":1536826129,
+    "wof:name":"Calatembo",
+    "wof:parent_id":1108799799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65864,
+    -11.55526,
+    14.65864,
+    -11.55526
+],
+  "geometry": {"coordinates":[14.65864,-11.55526],"type":"Point"}
+}

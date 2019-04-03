@@ -1,0 +1,67 @@
+{
+  "id": 1343842361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73228,-14.60781,15.73228,-14.60781",
+    "geom:latitude":-14.60781,
+    "geom:longitude":15.73228,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cuvangue",
+    "gn:country_code":"AO",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7908316,
+    "gn:latitude":-14.60781,
+    "gn:longitude":15.73228,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Cuvangue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667707,
+        1108799801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7908316
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4a308f9807251c7659f7c2f16ee4b277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799801,
+            "locality_id":1343842361,
+            "region_id":85667707
+        }
+    ],
+    "wof:id":1343842361,
+    "wof:lastmodified":1536692936,
+    "wof:name":"Cuvangue",
+    "wof:parent_id":1108799801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73228,
+    -14.60781,
+    15.73228,
+    -14.60781
+],
+  "geometry": {"coordinates":[15.73228,-14.60781],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343537771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.19351,-14.95014,12.19351,-14.95014",
+    "geom:latitude":-14.95014,
+    "geom:longitude":12.19351,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pipas",
+    "gn:country_code":"AO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3346703,
+    "gn:latitude":-14.95014,
+    "gn:longitude":12.19351,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pipas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667717,
+        1108799953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346703
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4a1ce71036be98055f026dff061f76af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799953,
+            "locality_id":1343537771,
+            "region_id":85667717
+        }
+    ],
+    "wof:id":1343537771,
+    "wof:lastmodified":1536633359,
+    "wof:name":"Pipas",
+    "wof:parent_id":1108799953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.19351,
+    -14.95014,
+    12.19351,
+    -14.95014
+],
+  "geometry": {"coordinates":[12.19351,-14.95014],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276416715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6,-8.26667,21.6,-8.26667",
+    "geom:latitude":-8.26667,
+    "geom:longitude":21.6,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Xa-Checa",
+    "gn:country_code":"AO",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145510,
+    "gn:latitude":-8.26667,
+    "gn:longitude":21.6,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"X\u00e1-Checa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145510
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"21853e6dfebb79685b53a9563b133eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799925,
+            "locality_id":1276416715,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1276416715,
+    "wof:lastmodified":1536667018,
+    "wof:name":"Xa-Checa",
+    "wof:parent_id":1108799925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6,
+    -8.26667,
+    21.6,
+    -8.26667
+],
+  "geometry": {"coordinates":[21.6,-8.26667],"type":"Point"}
+}

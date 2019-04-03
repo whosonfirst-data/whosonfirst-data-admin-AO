@@ -1,0 +1,70 @@
+{
+  "id": 1310492291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42655,-12.10653,15.42655,-12.10653",
+    "geom:latitude":-12.10653,
+    "geom:longitude":15.42655,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lemilo",
+    "gn:country_code":"AO",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3348017,
+    "gn:latitude":-12.10653,
+    "gn:longitude":15.42655,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lemilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3348017
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"4aacbcaf3cf5cbd71f3f77b5a1c6a55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1310492291,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1310492291,
+    "wof:lastmodified":1537584729,
+    "wof:name":"Lemilo",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42655,
+    -12.10653,
+    15.42655,
+    -12.10653
+],
+  "geometry": {"coordinates":[15.42655,-12.10653],"type":"Point"}
+}

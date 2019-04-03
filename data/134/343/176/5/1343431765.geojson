@@ -1,0 +1,73 @@
+{
+  "id": 1343431765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6562,-11.45729,20.6562,-11.45729",
+    "geom:latitude":-11.45729,
+    "geom:longitude":20.6562,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nhacalunda",
+    "gn:country_code":"AO",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876256,
+    "gn:latitude":-11.45729,
+    "gn:longitude":20.6562,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Nhacalunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nacalunda",
+        "Inhaculunga",
+        "Inhacalunga",
+        "Nhacalunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667711,
+        1108799675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876256
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d117d5d6c848b8065a55f706448d8538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799675,
+            "locality_id":1343431765,
+            "region_id":85667711
+        }
+    ],
+    "wof:id":1343431765,
+    "wof:lastmodified":1537584552,
+    "wof:name":"Nhacalunda",
+    "wof:parent_id":1108799675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6562,
+    -11.45729,
+    20.6562,
+    -11.45729
+],
+  "geometry": {"coordinates":[20.6562,-11.45729],"type":"Point"}
+}

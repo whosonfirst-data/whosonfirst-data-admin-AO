@@ -1,0 +1,67 @@
+{
+  "id": 1242599851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87852,-10.37174,15.87852,-10.37174",
+    "geom:latitude":-10.37174,
+    "geom:longitude":15.87852,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mucimbo",
+    "gn:country_code":"AO",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7866065,
+    "gn:latitude":-10.37174,
+    "gn:longitude":15.87852,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Mucimbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866065
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"8e15d8d7ac40bd54c6b0094d75972389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799833,
+            "locality_id":1242599851,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1242599851,
+    "wof:lastmodified":1537030341,
+    "wof:name":"Mucimbo",
+    "wof:parent_id":1108799833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87852,
+    -10.37174,
+    15.87852,
+    -10.37174
+],
+  "geometry": {"coordinates":[15.87852,-10.37174],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209580447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4331,-8.76514,13.4331,-8.76514",
+    "geom:latitude":-8.76514,
+    "geom:longitude":13.4331,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Quifangondo",
+    "gn:country_code":"AO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2238439,
+    "gn:latitude":-8.76514,
+    "gn:longitude":13.4331,
+    "gn:modification_date":"2011-10-28",
+    "gn:name":"Quifangondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kifangondo",
+        "Quifangondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238439
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"2e56c4460a4374dbdc3f7ec065b78a94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209580447
+        }
+    ],
+    "wof:id":1209580447,
+    "wof:lastmodified":1537584605,
+    "wof:name":"Quifangondo",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4331,
+    -8.76514,
+    13.4331,
+    -8.76514
+],
+  "geometry": {"coordinates":[13.4331,-8.76514],"type":"Point"}
+}

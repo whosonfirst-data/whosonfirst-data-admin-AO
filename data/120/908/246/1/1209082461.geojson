@@ -1,0 +1,61 @@
+{
+  "id": 1209082461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3,-8.85,20.3,-8.85",
+    "geom:latitude":-8.85,
+    "geom:longitude":20.3,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cha Calumba",
+    "gn:country_code":"AO",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145842,
+    "gn:latitude":-8.85,
+    "gn:longitude":20.3,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Ch\u00e1 Calumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145842
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cf145ebcc014292b94139649b609565a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209082461
+        }
+    ],
+    "wof:id":1209082461,
+    "wof:lastmodified":1536298293,
+    "wof:name":"Cha Calumba",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3,
+    -8.85,
+    20.3,
+    -8.85
+],
+  "geometry": {"coordinates":[20.3,-8.85],"type":"Point"}
+}

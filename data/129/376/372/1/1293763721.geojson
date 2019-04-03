@@ -1,0 +1,67 @@
+{
+  "id": 1293763721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27639,-9.70667,16.27639,-9.70667",
+    "geom:latitude":-9.70667,
+    "geom:longitude":16.27639,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Camacundua",
+    "gn:country_code":"AO",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592311,
+    "gn:latitude":-9.70667,
+    "gn:longitude":16.27639,
+    "gn:modification_date":"1998-06-17",
+    "gn:name":"Camacundua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592311
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"437e49ec9820670100a70a5c512b9904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799871,
+            "locality_id":1293763721,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1293763721,
+    "wof:lastmodified":1536885439,
+    "wof:name":"Camacundua",
+    "wof:parent_id":1108799871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27639,
+    -9.70667,
+    16.27639,
+    -9.70667
+],
+  "geometry": {"coordinates":[16.27639,-9.70667],"type":"Point"}
+}

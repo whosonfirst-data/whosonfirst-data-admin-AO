@@ -1,0 +1,67 @@
+{
+  "id": 1260072683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83813,-10.81294,13.83813,-10.81294",
+    "geom:latitude":-10.81294,
+    "geom:longitude":13.83813,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quivari",
+    "gn:country_code":"AO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865142,
+    "gn:latitude":-10.81294,
+    "gn:longitude":13.83813,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Quivari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865142
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"839b31b7d65ac1c608d126c184f62a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799943,
+            "locality_id":1260072683,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1260072683,
+    "wof:lastmodified":1537002850,
+    "wof:name":"Quivari",
+    "wof:parent_id":1108799943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83813,
+    -10.81294,
+    13.83813,
+    -10.81294
+],
+  "geometry": {"coordinates":[13.83813,-10.81294],"type":"Point"}
+}

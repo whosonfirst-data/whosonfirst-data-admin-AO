@@ -1,0 +1,67 @@
+{
+  "id": 1310225015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25798,-12.07185,15.25798,-12.07185",
+    "geom:latitude":-12.07185,
+    "geom:longitude":15.25798,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Caipepo",
+    "gn:country_code":"AO",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7906229,
+    "gn:latitude":-12.07185,
+    "gn:longitude":15.25798,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Caipepo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7906229
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"21b672686723c3a69fdbad4bed4740e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799825,
+            "locality_id":1310225015,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1310225015,
+    "wof:lastmodified":1536823268,
+    "wof:name":"Caipepo",
+    "wof:parent_id":1108799825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25798,
+    -12.07185,
+    15.25798,
+    -12.07185
+],
+  "geometry": {"coordinates":[15.25798,-12.07185],"type":"Point"}
+}

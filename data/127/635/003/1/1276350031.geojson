@@ -1,0 +1,73 @@
+{
+  "id": 1276350031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58944,-12.92944,13.58944,-12.92944",
+    "geom:latitude":-12.92944,
+    "geom:longitude":13.58944,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Coruteva",
+    "gn:country_code":"AO",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3349284,
+    "gn:latitude":-12.92944,
+    "gn:longitude":13.58944,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Coruteva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Koroteva",
+        "Civite",
+        "Koruteva",
+        "Coruteva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667691,
+        1108799959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3349284
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fc6db589ba33fc1ff9e88791daa97ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799959,
+            "locality_id":1276350031,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":1276350031,
+    "wof:lastmodified":1537584750,
+    "wof:name":"Coruteva",
+    "wof:parent_id":1108799959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58944,
+    -12.92944,
+    13.58944,
+    -12.92944
+],
+  "geometry": {"coordinates":[13.58944,-12.92944],"type":"Point"}
+}

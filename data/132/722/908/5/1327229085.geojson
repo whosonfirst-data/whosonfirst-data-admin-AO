@@ -1,0 +1,67 @@
+{
+  "id": 1327229085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85511,-10.09193,14.85511,-10.09193",
+    "geom:latitude":-10.09193,
+    "geom:longitude":14.85511,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cambambe do Mucongo",
+    "gn:country_code":"AO",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7859248,
+    "gn:latitude":-10.09193,
+    "gn:longitude":14.85511,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Cambambe do Mucongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859248
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"3b86a2591955c285bfe3023b685def23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799743,
+            "locality_id":1327229085,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1327229085,
+    "wof:lastmodified":1536973960,
+    "wof:name":"Cambambe do Mucongo",
+    "wof:parent_id":1108799743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85511,
+    -10.09193,
+    14.85511,
+    -10.09193
+],
+  "geometry": {"coordinates":[14.85511,-10.09193],"type":"Point"}
+}

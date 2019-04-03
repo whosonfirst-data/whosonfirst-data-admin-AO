@@ -1,0 +1,93 @@
+{
+  "id": 421181641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81671,-11.31944,13.81671,-11.31944",
+    "geom:latitude":-11.31944,
+    "geom:longitude":13.81671,
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cubal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043a\u043e\u043c\u0431\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Cubal"
+    ],
+    "name:unk_x_variant":[
+        "Kikombo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5b54\u535a\u6cb3"
+    ],
+    "qs:gn_country":"AO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3346579,
+    "qs:gn_pop":0,
+    "qs:name":"Quicombo",
+    "qs:name_adm0":"Angola",
+    "qs:name_adm1":"Cuanza Sul",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":496838,
+    "qs:woe_adm0":23424745,
+    "qs:woe_id":1263457,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3346579,
+        "gp:id":1263457,
+        "qs:id":496838,
+        "wd:id":"Q4781417"
+    },
+    "wof:country":"AO",
+    "wof:created":1459009302,
+    "wof:geomhash":"20c14ac2233bc4a40d3030e99f7591fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799795,
+            "locality_id":421181641,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":421181641,
+    "wof:lastmodified":1527716328,
+    "wof:name":"Quicombo",
+    "wof:parent_id":1108799795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81671,
+    -11.31944,
+    13.81671,
+    -11.31944
+],
+  "geometry": {"coordinates":[13.81671,-11.31944],"type":"Point"}
+}

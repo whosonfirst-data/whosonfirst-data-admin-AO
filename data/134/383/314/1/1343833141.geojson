@@ -1,0 +1,67 @@
+{
+  "id": 1343833141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25993,-10.14966,14.25993,-10.14966",
+    "geom:latitude":-10.14966,
+    "geom:longitude":14.25993,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Longa Nzemba",
+    "gn:country_code":"AO",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856910,
+    "gn:latitude":-10.14966,
+    "gn:longitude":14.25993,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Longa Nzemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667657,
+        1108799879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856910
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"d621704de5de5429777456cfa1e58ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799879,
+            "locality_id":1343833141,
+            "region_id":85667657
+        }
+    ],
+    "wof:id":1343833141,
+    "wof:lastmodified":1536706352,
+    "wof:name":"Longa Nzemba",
+    "wof:parent_id":1108799879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25993,
+    -10.14966,
+    14.25993,
+    -10.14966
+],
+  "geometry": {"coordinates":[14.25993,-10.14966],"type":"Point"}
+}

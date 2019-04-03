@@ -1,0 +1,67 @@
+{
+  "id": 1243335101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76683,-8.50049,18.76683,-8.50049",
+    "geom:latitude":-8.50049,
+    "geom:longitude":18.76683,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tchileba",
+    "gn:country_code":"AO",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7767890,
+    "gn:latitude":-8.50049,
+    "gn:longitude":18.76683,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Tchileba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7767890
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"0d7ec41768574b835d0eeeb189d70181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799661,
+            "locality_id":1243335101,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1243335101,
+    "wof:lastmodified":1536965975,
+    "wof:name":"Tchileba",
+    "wof:parent_id":1108799661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76683,
+    -8.50049,
+    18.76683,
+    -8.50049
+],
+  "geometry": {"coordinates":[18.76683,-8.50049],"type":"Point"}
+}

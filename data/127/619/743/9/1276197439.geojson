@@ -1,0 +1,67 @@
+{
+  "id": 1276197439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81498,-8.24696,20.81498,-8.24696",
+    "geom:latitude":-8.24696,
+    "geom:longitude":20.81498,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hongoege Primeiro",
+    "gn:country_code":"AO",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7766396,
+    "gn:latitude":-8.24696,
+    "gn:longitude":20.81498,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Hongoege Primeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7766396
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ddd877ea09279dbe6a2a0ef610528149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799695,
+            "locality_id":1276197439,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":1276197439,
+    "wof:lastmodified":1536961048,
+    "wof:name":"Hongoege Primeiro",
+    "wof:parent_id":1108799695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81498,
+    -8.24696,
+    20.81498,
+    -8.24696
+],
+  "geometry": {"coordinates":[20.81498,-8.24696],"type":"Point"}
+}

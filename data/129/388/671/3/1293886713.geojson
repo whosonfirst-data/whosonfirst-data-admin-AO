@@ -1,0 +1,67 @@
+{
+  "id": 1293886713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2444,-11.9175,17.2444,-11.9175",
+    "geom:latitude":-11.9175,
+    "geom:longitude":17.2444,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nende",
+    "gn:country_code":"AO",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7901851,
+    "gn:latitude":-11.9175,
+    "gn:longitude":17.2444,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Nende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667687,
+        1108799633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7901851
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ee4075afa5c285075959a0cc99e4c066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799633,
+            "locality_id":1293886713,
+            "region_id":85667687
+        }
+    ],
+    "wof:id":1293886713,
+    "wof:lastmodified":1536708988,
+    "wof:name":"Nende",
+    "wof:parent_id":1108799633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2444,
+    -11.9175,
+    17.2444,
+    -11.9175
+],
+  "geometry": {"coordinates":[17.2444,-11.9175],"type":"Point"}
+}

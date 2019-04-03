@@ -1,0 +1,67 @@
+{
+  "id": 1292927979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07169,-10.94512,15.07169,-10.94512",
+    "geom:latitude":-10.94512,
+    "geom:longitude":15.07169,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Somue",
+    "gn:country_code":"AO",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867346,
+    "gn:latitude":-10.94512,
+    "gn:longitude":15.07169,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Somu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667665,
+        1108799653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867346
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"01f8bd6a817f67ed0ce40651c6503224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799653,
+            "locality_id":1292927979,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":1292927979,
+    "wof:lastmodified":1537093558,
+    "wof:name":"Somue",
+    "wof:parent_id":1108799653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07169,
+    -10.94512,
+    15.07169,
+    -10.94512
+],
+  "geometry": {"coordinates":[15.07169,-10.94512],"type":"Point"}
+}

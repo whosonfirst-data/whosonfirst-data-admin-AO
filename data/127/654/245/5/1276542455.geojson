@@ -1,0 +1,67 @@
+{
+  "id": 1276542455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63667,-12.65278,15.63667,-12.65278",
+    "geom:latitude":-12.65278,
+    "geom:longitude":15.63667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Candjangui",
+    "gn:country_code":"AO",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372228,
+    "gn:latitude":-12.65278,
+    "gn:longitude":15.63667,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Candjangui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372228
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"fd35c88b2b7bba3c574b4521691d3016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799931,
+            "locality_id":1276542455,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1276542455,
+    "wof:lastmodified":1536994993,
+    "wof:name":"Candjangui",
+    "wof:parent_id":1108799931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63667,
+    -12.65278,
+    15.63667,
+    -12.65278
+],
+  "geometry": {"coordinates":[15.63667,-12.65278],"type":"Point"}
+}

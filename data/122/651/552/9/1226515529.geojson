@@ -1,0 +1,70 @@
+{
+  "id": 1226515529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58974,-6.67528,14.58974,-6.67528",
+    "geom:latitude":-6.67528,
+    "geom:longitude":14.58974,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quinxinga",
+    "gn:country_code":"AO",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2238527,
+    "gn:latitude":-6.67528,
+    "gn:longitude":14.58974,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Quinxinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Quichinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2238527
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5ca9a5d0cf0e32546bbefed1f8d334da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799951,
+            "locality_id":1226515529,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1226515529,
+    "wof:lastmodified":1537584607,
+    "wof:name":"Quinxinga",
+    "wof:parent_id":1108799951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58974,
+    -6.67528,
+    14.58974,
+    -6.67528
+],
+  "geometry": {"coordinates":[14.58974,-6.67528],"type":"Point"}
+}

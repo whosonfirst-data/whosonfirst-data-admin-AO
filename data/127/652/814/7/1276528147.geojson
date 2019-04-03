@@ -1,0 +1,67 @@
+{
+  "id": 1276528147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40235,-8.13241,16.40235,-8.13241",
+    "geom:latitude":-8.13241,
+    "geom:longitude":16.40235,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gange",
+    "gn:country_code":"AO",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7742133,
+    "gn:latitude":-8.13241,
+    "gn:longitude":16.40235,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Gange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7742133
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"abcd1308f2c4f689fcd6675cb9029b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799627,
+            "locality_id":1276528147,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1276528147,
+    "wof:lastmodified":1537014274,
+    "wof:name":"Gange",
+    "wof:parent_id":1108799627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40235,
+    -8.13241,
+    16.40235,
+    -8.13241
+],
+  "geometry": {"coordinates":[16.40235,-8.13241],"type":"Point"}
+}

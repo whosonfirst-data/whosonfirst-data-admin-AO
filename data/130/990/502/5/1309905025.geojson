@@ -1,0 +1,68 @@
+{
+  "id": 1309905025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25206,-9.27268,15.25206,-9.27268",
+    "geom:latitude":-9.27268,
+    "geom:longitude":15.25206,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lucala",
+    "gn:country_code":"AO",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2240393,
+    "gn:latitude":-9.27268,
+    "gn:longitude":15.25206,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Lucala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667659,
+        1108799905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2240393,
+        "wk:page":"Lucala"
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"6dd84f27c755516bc39087befbe446b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799905,
+            "locality_id":1309905025,
+            "region_id":85667659
+        }
+    ],
+    "wof:id":1309905025,
+    "wof:lastmodified":1537486225,
+    "wof:name":"Lucala",
+    "wof:parent_id":1108799905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25206,
+    -9.27268,
+    15.25206,
+    -9.27268
+],
+  "geometry": {"coordinates":[15.25206,-9.27268],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293277781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27549,-12.17036,16.27549,-12.17036",
+    "geom:latitude":-12.17036,
+    "geom:longitude":16.27549,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lomanta",
+    "gn:country_code":"AO",
+    "gn:dem":1663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7904547,
+    "gn:latitude":-12.17036,
+    "gn:longitude":16.27549,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Lomanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7904547
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c8aa9dd0667dfb7e5b6560a28b4d2e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799921,
+            "locality_id":1293277781,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1293277781,
+    "wof:lastmodified":1537086197,
+    "wof:name":"Lomanta",
+    "wof:parent_id":1108799921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27549,
+    -12.17036,
+    16.27549,
+    -12.17036
+],
+  "geometry": {"coordinates":[16.27549,-12.17036],"type":"Point"}
+}

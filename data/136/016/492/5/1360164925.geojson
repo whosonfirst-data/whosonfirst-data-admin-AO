@@ -1,0 +1,67 @@
+{
+  "id": 1360164925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4694,-9.31155,16.4694,-9.31155",
+    "geom:latitude":-9.31155,
+    "geom:longitude":16.4694,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Quifucussa",
+    "gn:country_code":"AO",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592017,
+    "gn:latitude":-9.31155,
+    "gn:longitude":16.4694,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Quifucussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592017
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"1fd3306e4589d86e964107396cc2bd89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799701,
+            "locality_id":1360164925,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1360164925,
+    "wof:lastmodified":1536829551,
+    "wof:name":"Quifucussa",
+    "wof:parent_id":1108799701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4694,
+    -9.31155,
+    16.4694,
+    -9.31155
+],
+  "geometry": {"coordinates":[16.4694,-9.31155],"type":"Point"}
+}

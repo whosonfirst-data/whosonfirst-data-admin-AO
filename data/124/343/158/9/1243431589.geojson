@@ -1,0 +1,67 @@
+{
+  "id": 1243431589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48494,-8.61893,16.48494,-8.61893",
+    "geom:latitude":-8.61893,
+    "geom:longitude":16.48494,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cauhenda",
+    "gn:country_code":"AO",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7758378,
+    "gn:latitude":-8.61893,
+    "gn:longitude":16.48494,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Cauhenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7758378
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cb31e79374a44a95296be40be2e0d244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799655,
+            "locality_id":1243431589,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1243431589,
+    "wof:lastmodified":1536826019,
+    "wof:name":"Cauhenda",
+    "wof:parent_id":1108799655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48494,
+    -8.61893,
+    16.48494,
+    -8.61893
+],
+  "geometry": {"coordinates":[16.48494,-8.61893],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343282019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25,-11.56667,16.25,-11.56667",
+    "geom:latitude":-11.56667,
+    "geom:longitude":16.25,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Assinha",
+    "gn:country_code":"AO",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3351825,
+    "gn:latitude":-11.56667,
+    "gn:longitude":16.25,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Assinha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Hacinha",
+        "Assinha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667705,
+        1108799697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3351825
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"38fa36041a7e77d5eb36fdbb15bbe351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799697,
+            "locality_id":1343282019,
+            "region_id":85667705
+        }
+    ],
+    "wof:id":1343282019,
+    "wof:lastmodified":1537584803,
+    "wof:name":"Assinha",
+    "wof:parent_id":1108799697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25,
+    -11.56667,
+    16.25,
+    -11.56667
+],
+  "geometry": {"coordinates":[16.25,-11.56667],"type":"Point"}
+}

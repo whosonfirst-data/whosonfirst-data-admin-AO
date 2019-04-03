@@ -1,0 +1,67 @@
+{
+  "id": 1260057175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81121,-9.28619,15.81121,-9.28619",
+    "geom:latitude":-9.28619,
+    "geom:longitude":15.81121,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sao Tomista",
+    "gn:country_code":"AO",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769271,
+    "gn:latitude":-9.28619,
+    "gn:longitude":15.81121,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"S\u00e3o Tomista",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667653,
+        1108799645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769271
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"ca66b6ef8e174563a5e0feb5717a2520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799645,
+            "locality_id":1260057175,
+            "region_id":85667653
+        }
+    ],
+    "wof:id":1260057175,
+    "wof:lastmodified":1537024900,
+    "wof:name":"Sao Tomista",
+    "wof:parent_id":1108799645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81121,
+    -9.28619,
+    15.81121,
+    -9.28619
+],
+  "geometry": {"coordinates":[15.81121,-9.28619],"type":"Point"}
+}

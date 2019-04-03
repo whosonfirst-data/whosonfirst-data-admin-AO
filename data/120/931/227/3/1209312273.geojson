@@ -1,0 +1,61 @@
+{
+  "id": 1209312273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56667,-10.1,16.56667,-10.1",
+    "geom:latitude":-10.1,
+    "geom:longitude":16.56667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Muquiche",
+    "gn:country_code":"AO",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3347082,
+    "gn:latitude":-10.1,
+    "gn:longitude":16.56667,
+    "gn:modification_date":"1994-01-31",
+    "gn:name":"Muquiche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3347082
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"5a81efe361ce247b99c2c84f8dab2cc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632281,
+            "locality_id":1209312273
+        }
+    ],
+    "wof:id":1209312273,
+    "wof:lastmodified":1536290986,
+    "wof:name":"Muquiche",
+    "wof:parent_id":85632281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.566670000000002,
+    -10.1,
+    16.566670000000002,
+    -10.1
+],
+  "geometry": {"coordinates":[16.56667,-10.1],"type":"Point"}
+}

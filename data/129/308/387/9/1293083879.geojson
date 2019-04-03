@@ -1,0 +1,70 @@
+{
+  "id": 1293083879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59688,-6.70234,14.59688,-6.70234",
+    "geom:latitude":-6.70234,
+    "geom:longitude":14.59688,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mbaca",
+    "gn:country_code":"AO",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2243875,
+    "gn:latitude":-6.70234,
+    "gn:longitude":14.59688,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"AO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Baca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667673,
+        1108799951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2243875
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"94fe352e98d5fdb7c5d8f84e26d12d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799951,
+            "locality_id":1293083879,
+            "region_id":85667673
+        }
+    ],
+    "wof:id":1293083879,
+    "wof:lastmodified":1537584684,
+    "wof:name":"Mbaca",
+    "wof:parent_id":1108799951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59688,
+    -6.70234,
+    14.59688,
+    -6.70234
+],
+  "geometry": {"coordinates":[14.59688,-6.70234],"type":"Point"}
+}
