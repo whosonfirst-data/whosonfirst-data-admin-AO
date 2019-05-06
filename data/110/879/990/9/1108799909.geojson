@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.912362,
-    "geom:area_square_m":23322575680.169136,
+    "geom:area_square_m":23322575680.168934,
     "geom:bbox":"19.5896393299,-10.6640617841,21.94,-8.33401654114",
     "geom:latitude":-9.480478,
     "geom:longitude":20.689116,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Saurimo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-9.931431,
     "lbl:longitude":20.315528,
     "meso:adm1_alt":"",
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":1108799909,
-    "wof:lastmodified":1553816513,
+    "wof:lastmodified":1555037212,
     "wof:name":"Saurimo",
     "wof:parent_id":85667651,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-10.266984,
     "geom:longitude":15.980462,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Mussende City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-10.077562,
     "lbl:longitude":15.9907,
     "meso:adm1_alt":"Cuanza-Sud|Kwanza Sul",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799833,
-    "wof:lastmodified":1536615829,
+    "wof:lastmodified":1553718823,
     "wof:name":"Mussende",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

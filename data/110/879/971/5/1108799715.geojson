@@ -10,6 +10,12 @@
     "geom:latitude":-6.668364,
     "geom:longitude":15.827438,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Buengas City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-6.744004,
     "lbl:longitude":15.823156,
     "meso:adm1_alt":"",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799715,
-    "wof:lastmodified":1536615825,
+    "wof:lastmodified":1553718818,
     "wof:name":"Buengas",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

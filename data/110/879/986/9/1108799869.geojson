@@ -10,6 +10,12 @@
     "geom:latitude":-14.729245,
     "geom:longitude":13.833116,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Lubango City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-14.696547,
     "lbl:longitude":13.840559,
     "meso:adm1_alt":"",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108799869,
-    "wof:lastmodified":1536615830,
+    "wof:lastmodified":1553718824,
     "wof:name":"Lubango",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

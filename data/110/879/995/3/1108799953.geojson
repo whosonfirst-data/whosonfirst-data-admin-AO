@@ -10,6 +10,12 @@
     "geom:latitude":-14.721051,
     "geom:longitude":12.459482,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Namibe City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-14.662867,
     "lbl:longitude":12.539144,
     "meso:adm1_alt":"Mo\u00e7\u00e2medes|Mossamedes",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108799953,
-    "wof:lastmodified":1536615833,
+    "wof:lastmodified":1553718827,
     "wof:name":"Namibe",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

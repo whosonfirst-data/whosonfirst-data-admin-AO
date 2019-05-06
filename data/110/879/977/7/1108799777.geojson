@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.199142,
-    "geom:area_square_m":2451244151.45734,
+    "geom:area_square_m":2451244151.457283,
     "geom:bbox":"12.145388603,-5.774131235,12.536667,-5.09348675085",
     "geom:latitude":-5.461229,
     "geom:longitude":12.367804,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Cabinda City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-5.459277,
     "lbl:longitude":12.383574,
     "meso:adm1_alt":"",
@@ -214,7 +220,7 @@
         }
     ],
     "wof:id":1108799777,
-    "wof:lastmodified":1553816513,
+    "wof:lastmodified":1555037214,
     "wof:name":"Cabinda",
     "wof:parent_id":85667683,
     "wof:placetype":"county",

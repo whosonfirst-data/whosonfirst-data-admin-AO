@@ -10,6 +10,12 @@
     "geom:latitude":-8.824359,
     "geom:longitude":13.265887,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Rangel City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.824679,
     "lbl:longitude":13.264872,
     "meso:adm1_alt":"Loanda",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108799813,
-    "wof:lastmodified":1536615828,
+    "wof:lastmodified":1553718822,
     "wof:name":"Rangel",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

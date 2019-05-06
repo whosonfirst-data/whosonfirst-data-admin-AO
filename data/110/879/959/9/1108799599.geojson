@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.479291,
-    "geom:area_square_m":5881774684.897559,
+    "geom:area_square_m":5881774684.897603,
     "geom:bbox":"16.0019521398,-7.60353340306,17.109267,-6.66987573204",
     "geom:latitude":-7.042016,
     "geom:longitude":16.582479,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Milunga City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-6.980871,
     "lbl:longitude":16.636977,
     "meso:adm1_alt":"",
@@ -20,6 +26,10 @@
     "meso:hasc_id":"NULL",
     "meso:name_alt":"",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Milunga"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -41,7 +51,7 @@
         }
     ],
     "wof:id":1108799599,
-    "wof:lastmodified":1494646449,
+    "wof:lastmodified":1555046995,
     "wof:name":"Milunga",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

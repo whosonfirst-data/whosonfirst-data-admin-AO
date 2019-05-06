@@ -10,6 +10,12 @@
     "geom:latitude":-10.157295,
     "geom:longitude":21.423477,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Mukonda City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-10.124857,
     "lbl:longitude":21.42342,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799787,
-    "wof:lastmodified":1536615828,
+    "wof:lastmodified":1553718822,
     "wof:name":"Mukonda",
     "wof:parent_id":85667651,
     "wof:placetype":"county",

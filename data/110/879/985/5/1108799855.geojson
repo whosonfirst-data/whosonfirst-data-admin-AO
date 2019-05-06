@@ -10,6 +10,12 @@
     "geom:latitude":-7.391172,
     "geom:longitude":20.414899,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Chitato City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-7.34001,
     "lbl:longitude":20.217403,
     "meso:adm1_alt":"",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108799855,
-    "wof:lastmodified":1536615830,
+    "wof:lastmodified":1553718824,
     "wof:name":"Chitato",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

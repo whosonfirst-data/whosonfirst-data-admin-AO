@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.297308,
-    "geom:area_square_m":3609899671.562138,
+    "geom:area_square_m":3609899671.562181,
     "geom:bbox":"21.6597974759,-11.2830813618,22.323611,-10.5872992771",
     "geom:latitude":-10.902715,
     "geom:longitude":22.00054,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Luau City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-10.935011,
     "lbl:longitude":21.961056,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799637,
-    "wof:lastmodified":1553816513,
+    "wof:lastmodified":1555037216,
     "wof:name":"Luau",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

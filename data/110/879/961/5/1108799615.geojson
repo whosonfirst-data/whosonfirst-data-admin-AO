@@ -10,6 +10,12 @@
     "geom:latitude":-6.706116,
     "geom:longitude":13.361187,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Tomboco City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-6.616435,
     "lbl:longitude":13.214075,
     "meso:adm1_alt":"",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799615,
-    "wof:lastmodified":1536615822,
+    "wof:lastmodified":1553718815,
     "wof:name":"Tomboco",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

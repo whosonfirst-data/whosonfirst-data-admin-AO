@@ -10,6 +10,12 @@
     "geom:latitude":-8.900961,
     "geom:longitude":14.902407,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Ngonguembo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.896991,
     "lbl:longitude":14.975025,
     "meso:adm1_alt":"Cuanza-Nord|Kwanza Norte",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799881,
-    "wof:lastmodified":1536615831,
+    "wof:lastmodified":1553718825,
     "wof:name":"Ngonguembo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

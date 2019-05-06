@@ -10,6 +10,12 @@
     "geom:latitude":-8.488274,
     "geom:longitude":15.321644,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kiculungo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.516127,
     "lbl:longitude":15.296659,
     "meso:adm1_alt":"Cuanza-Nord|Kwanza Norte",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799809,
-    "wof:lastmodified":1536615828,
+    "wof:lastmodified":1553718822,
     "wof:name":"Kiculungo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

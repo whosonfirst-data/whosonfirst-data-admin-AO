@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.516408,
-    "geom:area_square_m":18547997518.049347,
+    "geom:area_square_m":18547997518.049511,
     "geom:bbox":"19.8944909254,-9.42238735112,21.2651370028,-7.63619990755",
     "geom:latitude":-8.42203,
     "geom:longitude":20.483795,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Lukapa City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.407536,
     "lbl:longitude":20.496816,
     "meso:adm1_alt":"",
@@ -20,6 +26,10 @@
     "meso:hasc_id":"NULL",
     "meso:name_alt":"",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lukapa"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -41,7 +51,7 @@
         }
     ],
     "wof:id":1108799695,
-    "wof:lastmodified":1494646463,
+    "wof:lastmodified":1555046995,
     "wof:name":"Lukapa",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

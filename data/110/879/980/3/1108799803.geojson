@@ -10,6 +10,12 @@
     "geom:latitude":-4.803914,
     "geom:longitude":12.547005,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Buco Zau City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-4.790451,
     "lbl:longitude":12.541952,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799803,
-    "wof:lastmodified":1536615828,
+    "wof:lastmodified":1553718822,
     "wof:name":"Buco Zau",
     "wof:parent_id":85667683,
     "wof:placetype":"county",

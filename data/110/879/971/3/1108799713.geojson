@@ -10,6 +10,12 @@
     "geom:latitude":-9.318512,
     "geom:longitude":14.780124,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kazengo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-9.329665,
     "lbl:longitude":14.786148,
     "meso:adm1_alt":"Cuanza-Nord|Kwanza Norte",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799713,
-    "wof:lastmodified":1536615825,
+    "wof:lastmodified":1553718818,
     "wof:name":"Kazengo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

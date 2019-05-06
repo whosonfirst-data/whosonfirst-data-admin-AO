@@ -10,6 +10,12 @@
     "geom:latitude":-8.807045,
     "geom:longitude":15.496803,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Samba Caju City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.819662,
     "lbl:longitude":15.492309,
     "meso:adm1_alt":"Cuanza-Nord|Kwanza Norte",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799625,
-    "wof:lastmodified":1536615822,
+    "wof:lastmodified":1553718816,
     "wof:name":"Samba Caju",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

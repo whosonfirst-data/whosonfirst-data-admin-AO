@@ -10,6 +10,12 @@
     "geom:latitude":-15.834543,
     "geom:longitude":14.059624,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Gambos City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-15.836869,
     "lbl:longitude":14.070119,
     "meso:adm1_alt":"",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799913,
-    "wof:lastmodified":1536615832,
+    "wof:lastmodified":1553718826,
     "wof:name":"Gambos",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

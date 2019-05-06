@@ -10,6 +10,12 @@
     "geom:latitude":-10.886512,
     "geom:longitude":14.407524,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Amboim City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-10.883353,
     "lbl:longitude":14.423424,
     "meso:adm1_alt":"Cuanza-Sud|Kwanza Sul",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1108799827,
-    "wof:lastmodified":1536615829,
+    "wof:lastmodified":1553718823,
     "wof:name":"Amboim",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

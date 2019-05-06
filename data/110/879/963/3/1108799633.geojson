@@ -10,6 +10,12 @@
     "geom:latitude":-12.145808,
     "geom:longitude":17.257486,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Katabola City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-12.159159,
     "lbl:longitude":17.236405,
     "meso:adm1_alt":"",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799633,
-    "wof:lastmodified":1536615822,
+    "wof:lastmodified":1553718816,
     "wof:name":"Katabola",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-11.986166,
     "geom:longitude":16.808845,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kunhinga City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-12.038043,
     "lbl:longitude":16.734389,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799907,
-    "wof:lastmodified":1536615831,
+    "wof:lastmodified":1553718825,
     "wof:name":"Kunhinga",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

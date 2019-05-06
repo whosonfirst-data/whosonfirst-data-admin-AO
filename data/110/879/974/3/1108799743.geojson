@@ -10,6 +10,12 @@
     "geom:latitude":-10.061637,
     "geom:longitude":14.990133,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Libolo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-10.011811,
     "lbl:longitude":15.045353,
     "meso:adm1_alt":"Cuanza-Sud|Kwanza Sul",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108799743,
-    "wof:lastmodified":1536615826,
+    "wof:lastmodified":1553718820,
     "wof:name":"Libolo",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

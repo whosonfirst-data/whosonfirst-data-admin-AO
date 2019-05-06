@@ -10,6 +10,12 @@
     "geom:latitude":-14.212379,
     "geom:longitude":16.322504,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kuvango City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-13.909474,
     "lbl:longitude":16.237588,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799665,
-    "wof:lastmodified":1536615824,
+    "wof:lastmodified":1553718817,
     "wof:name":"Kuvango",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

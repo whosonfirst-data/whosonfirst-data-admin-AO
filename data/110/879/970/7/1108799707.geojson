@@ -10,6 +10,12 @@
     "geom:latitude":-13.120239,
     "geom:longitude":14.733954,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Ganda City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-13.084027,
     "lbl:longitude":14.758941,
     "meso:adm1_alt":"Benguella",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108799707,
-    "wof:lastmodified":1536615825,
+    "wof:lastmodified":1553718819,
     "wof:name":"Ganda",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

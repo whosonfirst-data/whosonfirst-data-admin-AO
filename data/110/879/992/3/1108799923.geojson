@@ -10,6 +10,12 @@
     "geom:latitude":-17.073178,
     "geom:longitude":16.610816,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Namakunde City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-17.072937,
     "lbl:longitude":16.758737,
     "meso:adm1_alt":"",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799923,
-    "wof:lastmodified":1536615832,
+    "wof:lastmodified":1553718825,
     "wof:name":"Namakunde",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

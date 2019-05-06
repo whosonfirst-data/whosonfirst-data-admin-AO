@@ -10,6 +10,12 @@
     "geom:latitude":-8.720426,
     "geom:longitude":15.203681,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Banga City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.722287,
     "lbl:longitude":15.214328,
     "meso:adm1_alt":"Cuanza-Nord|Kwanza Norte",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799733,
-    "wof:lastmodified":1536615826,
+    "wof:lastmodified":1553718820,
     "wof:name":"Banga",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

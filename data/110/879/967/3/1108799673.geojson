@@ -10,6 +10,12 @@
     "geom:latitude":-11.306312,
     "geom:longitude":17.161212,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Nharea City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-11.474857,
     "lbl:longitude":17.20841,
     "meso:adm1_alt":"",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799673,
-    "wof:lastmodified":1536615824,
+    "wof:lastmodified":1553718817,
     "wof:name":"Nharea",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

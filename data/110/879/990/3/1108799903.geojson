@@ -10,6 +10,12 @@
     "geom:latitude":-8.885268,
     "geom:longitude":13.251104,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kilamba Kiaxi City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.866344,
     "lbl:longitude":13.269014,
     "meso:adm1_alt":"Loanda",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108799903,
-    "wof:lastmodified":1536615831,
+    "wof:lastmodified":1553718824,
     "wof:name":"Kilamba Kiaxi",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-8.504666,
     "geom:longitude":14.552585,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Dembos City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.504124,
     "lbl:longitude":14.552596,
     "meso:adm1_alt":"Cuanza-Nord|Kwanza Norte",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799859,
-    "wof:lastmodified":1536615830,
+    "wof:lastmodified":1553718823,
     "wof:name":"Dembos",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

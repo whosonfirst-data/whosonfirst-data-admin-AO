@@ -10,6 +10,12 @@
     "geom:latitude":-8.526343,
     "geom:longitude":13.853108,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Dande City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.585507,
     "lbl:longitude":13.862989,
     "meso:adm1_alt":"",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108799875,
-    "wof:lastmodified":1536615831,
+    "wof:lastmodified":1553718824,
     "wof:name":"Dande",
     "wof:parent_id":85667657,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.855712,
-    "geom:area_square_m":10151145010.425308,
+    "geom:area_square_m":10151145010.425379,
     "geom:bbox":"18.0168895573,-16.9609205929,19.5758996746,-15.9301000396",
     "geom:latitude":-16.386742,
     "geom:longitude":18.738418,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Nancova City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-16.38168,
     "lbl:longitude":18.803319,
     "meso:adm1_alt":"",
@@ -20,6 +26,10 @@
     "meso:hasc_id":"NULL",
     "meso:name_alt":"",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nancova"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -41,7 +51,7 @@
         }
     ],
     "wof:id":1108799851,
-    "wof:lastmodified":1494646486,
+    "wof:lastmodified":1555046995,
     "wof:name":"Nancova",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

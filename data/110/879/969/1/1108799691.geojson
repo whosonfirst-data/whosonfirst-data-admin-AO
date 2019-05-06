@@ -10,6 +10,12 @@
     "geom:latitude":-14.948073,
     "geom:longitude":18.847191,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kuito Kuanavale City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-15.156986,
     "lbl:longitude":18.91893,
     "meso:adm1_alt":"",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108799691,
-    "wof:lastmodified":1536615824,
+    "wof:lastmodified":1553718818,
     "wof:name":"Kuito Kuanavale",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

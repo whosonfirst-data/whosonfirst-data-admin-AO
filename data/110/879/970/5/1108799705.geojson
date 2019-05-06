@@ -10,6 +10,12 @@
     "geom:latitude":-6.730039,
     "geom:longitude":15.218732,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Damba City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-6.678012,
     "lbl:longitude":15.225553,
     "meso:adm1_alt":"",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799705,
-    "wof:lastmodified":1536615825,
+    "wof:lastmodified":1553718818,
     "wof:name":"Damba",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

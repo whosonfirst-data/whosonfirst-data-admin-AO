@@ -10,6 +10,12 @@
     "geom:latitude":-11.948435,
     "geom:longitude":15.852117,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Bailundo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-11.886788,
     "lbl:longitude":15.665201,
     "meso:adm1_alt":"",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108799921,
-    "wof:lastmodified":1536615832,
+    "wof:lastmodified":1553718824,
     "wof:name":"Bailundo",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

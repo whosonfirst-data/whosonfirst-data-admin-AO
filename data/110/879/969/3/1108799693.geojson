@@ -10,6 +10,12 @@
     "geom:latitude":-9.602325,
     "geom:longitude":18.022216,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Xa-Muteba City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-9.601328,
     "lbl:longitude":18.032498,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799693,
-    "wof:lastmodified":1536615824,
+    "wof:lastmodified":1553718819,
     "wof:name":"Xa-Muteba",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

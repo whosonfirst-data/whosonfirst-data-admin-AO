@@ -10,6 +10,12 @@
     "geom:latitude":-13.159683,
     "geom:longitude":14.349918,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Cubal City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-13.184844,
     "lbl:longitude":14.383547,
     "meso:adm1_alt":"Benguella",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108799727,
-    "wof:lastmodified":1536615825,
+    "wof:lastmodified":1553718819,
     "wof:name":"Cubal",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

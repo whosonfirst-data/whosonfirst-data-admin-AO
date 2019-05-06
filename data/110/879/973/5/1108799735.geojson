@@ -10,6 +10,12 @@
     "geom:latitude":-12.561997,
     "geom:longitude":16.574963,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Chinguar City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-12.569653,
     "lbl:longitude":16.532795,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799735,
-    "wof:lastmodified":1536615826,
+    "wof:lastmodified":1553718820,
     "wof:name":"Chinguar",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

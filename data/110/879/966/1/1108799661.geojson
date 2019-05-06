@@ -10,6 +10,12 @@
     "geom:latitude":-8.339532,
     "geom:longitude":18.828568,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kaungula City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.354509,
     "lbl:longitude":18.841841,
     "meso:adm1_alt":"",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799661,
-    "wof:lastmodified":1536615823,
+    "wof:lastmodified":1553718817,
     "wof:name":"Kaungula",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

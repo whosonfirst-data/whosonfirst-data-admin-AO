@@ -10,6 +10,12 @@
     "geom:latitude":-7.825493,
     "geom:longitude":15.390422,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Negage City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-7.782955,
     "lbl:longitude":15.367623,
     "meso:adm1_alt":"",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108799765,
-    "wof:lastmodified":1536615827,
+    "wof:lastmodified":1553718820,
     "wof:name":"Negage",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

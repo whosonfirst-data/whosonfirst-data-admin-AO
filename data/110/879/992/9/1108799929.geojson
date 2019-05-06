@@ -10,6 +10,12 @@
     "geom:latitude":-15.057133,
     "geom:longitude":14.56095,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Tchipungo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-15.117818,
     "lbl:longitude":14.593377,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799929,
-    "wof:lastmodified":1536615832,
+    "wof:lastmodified":1553718825,
     "wof:name":"Tchipungo",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

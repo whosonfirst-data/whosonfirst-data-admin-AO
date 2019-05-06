@@ -10,6 +10,12 @@
     "geom:latitude":-7.328385,
     "geom:longitude":13.395428,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Nzeto City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-7.304441,
     "lbl:longitude":13.406355,
     "meso:adm1_alt":"",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108799731,
-    "wof:lastmodified":1536615826,
+    "wof:lastmodified":1553718820,
     "wof:name":"Nzeto",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

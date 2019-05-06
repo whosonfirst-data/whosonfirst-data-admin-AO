@@ -10,6 +10,12 @@
     "geom:latitude":-13.474688,
     "geom:longitude":17.229896,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Chitembo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-13.477531,
     "lbl:longitude":17.229931,
     "meso:adm1_alt":"",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799947,
-    "wof:lastmodified":1536615833,
+    "wof:lastmodified":1553718827,
     "wof:name":"Chitembo",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

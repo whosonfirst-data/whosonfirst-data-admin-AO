@@ -10,6 +10,12 @@
     "geom:latitude":-10.663636,
     "geom:longitude":19.211157,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kakolo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-10.655731,
     "lbl:longitude":19.201825,
     "meso:adm1_alt":"",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108799647,
-    "wof:lastmodified":1536615823,
+    "wof:lastmodified":1553718816,
     "wof:name":"Kakolo",
     "wof:parent_id":85667651,
     "wof:placetype":"county",

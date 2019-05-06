@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043182,
-    "geom:area_square_m":527121096.409861,
+    "geom:area_square_m":527121096.409845,
     "geom:bbox":"13.01724164,-9.342916489,13.304930707,-9.04100358125",
     "geom:latitude":-9.173835,
     "geom:longitude":13.166872,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Barra Do Cuanza City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-9.178369,
     "lbl:longitude":13.152753,
     "meso:adm1_alt":"Loanda",
@@ -20,6 +26,10 @@
     "meso:hasc_id":"NULL",
     "meso:name_alt":"",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Barra Do Cuanza"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -41,7 +51,7 @@
         }
     ],
     "wof:id":1108799941,
-    "wof:lastmodified":1494646497,
+    "wof:lastmodified":1555046995,
     "wof:name":"Barra Do Cuanza",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

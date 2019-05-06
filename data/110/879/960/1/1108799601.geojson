@@ -10,6 +10,12 @@
     "geom:latitude":-14.6843,
     "geom:longitude":13.141314,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Bibala City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-14.612614,
     "lbl:longitude":13.197741,
     "meso:adm1_alt":"Mo\u00e7\u00e2medes|Mossamedes",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799601,
-    "wof:lastmodified":1536615822,
+    "wof:lastmodified":1553718817,
     "wof:name":"Bibala",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

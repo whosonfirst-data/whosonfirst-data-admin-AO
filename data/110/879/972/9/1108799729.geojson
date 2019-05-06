@@ -10,6 +10,12 @@
     "geom:latitude":-12.326612,
     "geom:longitude":19.782492,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Moxico City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-12.223577,
     "lbl:longitude":19.636166,
     "meso:adm1_alt":"",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108799729,
-    "wof:lastmodified":1536615826,
+    "wof:lastmodified":1553718821,
     "wof:name":"Moxico",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

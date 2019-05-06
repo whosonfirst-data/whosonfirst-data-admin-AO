@@ -10,6 +10,12 @@
     "geom:latitude":-7.103601,
     "geom:longitude":15.046834,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Mucaba City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-7.105129,
     "lbl:longitude":15.06561,
     "meso:adm1_alt":"",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799753,
-    "wof:lastmodified":1536615826,
+    "wof:lastmodified":1553718820,
     "wof:name":"Mucaba",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

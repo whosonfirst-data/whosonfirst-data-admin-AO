@@ -10,6 +10,12 @@
     "geom:latitude":-8.694385,
     "geom:longitude":16.008173,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kalandula City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.593409,
     "lbl:longitude":15.961811,
     "meso:adm1_alt":"Malange",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108799873,
-    "wof:lastmodified":1536615830,
+    "wof:lastmodified":1553718825,
     "wof:name":"Kalandula",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

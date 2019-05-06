@@ -10,6 +10,12 @@
     "geom:latitude":-9.074771,
     "geom:longitude":14.666085,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Golungo Alto City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-9.087311,
     "lbl:longitude":14.660935,
     "meso:adm1_alt":"Cuanza-Nord|Kwanza Norte",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799607,
-    "wof:lastmodified":1536615822,
+    "wof:lastmodified":1553718816,
     "wof:name":"Golungo Alto",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

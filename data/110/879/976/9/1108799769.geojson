@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122295,
-    "geom:area_square_m":1506335194.790026,
+    "geom:area_square_m":1506335194.79,
     "geom:bbox":"12.005027886,-5.28476925736,12.4800349696,-4.793056",
     "geom:latitude":-5.046372,
     "geom:longitude":12.241363,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Landana City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-5.0387,
     "lbl:longitude":12.237701,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799769,
-    "wof:lastmodified":1553816513,
+    "wof:lastmodified":1555037214,
     "wof:name":"Landana",
     "wof:parent_id":85667683,
     "wof:placetype":"county",

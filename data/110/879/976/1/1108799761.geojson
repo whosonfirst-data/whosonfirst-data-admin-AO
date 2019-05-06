@@ -10,6 +10,12 @@
     "geom:latitude":-16.56435,
     "geom:longitude":12.363065,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Tombua City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-16.739098,
     "lbl:longitude":12.354273,
     "meso:adm1_alt":"Mo\u00e7\u00e2medes|Mossamedes",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108799761,
-    "wof:lastmodified":1536615827,
+    "wof:lastmodified":1553718821,
     "wof:name":"Tombua",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

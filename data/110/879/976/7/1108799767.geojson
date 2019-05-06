@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.748059,
-    "geom:area_square_m":20726694429.422825,
+    "geom:area_square_m":20726694429.422817,
     "geom:bbox":"15.1796048821,-17.3042544911,17.4295711748,-15.7495923999",
     "geom:latitude":-16.480193,
     "geom:longitude":16.326329,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kwanyama City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-16.302807,
     "lbl:longitude":16.496795,
     "meso:adm1_alt":"",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1108799767,
-    "wof:lastmodified":1553816513,
+    "wof:lastmodified":1555037215,
     "wof:name":"Kwanyama",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

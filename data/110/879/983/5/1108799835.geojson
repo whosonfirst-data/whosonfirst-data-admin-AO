@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09133,
-    "geom:area_square_m":1125668487.160396,
+    "geom:area_square_m":1125668487.160414,
     "geom:bbox":"12.6439774191,-4.80475156534,13.102884784,-4.387944",
     "geom:latitude":-4.60567,
     "geom:longitude":12.842163,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Belize City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-4.612111,
     "lbl:longitude":12.845591,
     "meso:adm1_alt":"",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799835,
-    "wof:lastmodified":1553816513,
+    "wof:lastmodified":1555037213,
     "wof:name":"Belize",
     "wof:parent_id":85667683,
     "wof:placetype":"county",

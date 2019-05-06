@@ -10,6 +10,12 @@
     "geom:latitude":-15.075791,
     "geom:longitude":13.375942,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Humpata City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-15.075905,
     "lbl:longitude":13.37597,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799749,
-    "wof:lastmodified":1536615826,
+    "wof:lastmodified":1553718819,
     "wof:name":"Humpata",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

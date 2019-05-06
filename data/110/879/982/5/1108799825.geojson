@@ -10,6 +10,12 @@
     "geom:latitude":-12.233422,
     "geom:longitude":15.292835,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Londuimbali City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-12.208146,
     "lbl:longitude":15.270453,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799825,
-    "wof:lastmodified":1536615829,
+    "wof:lastmodified":1553718823,
     "wof:name":"Londuimbali",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-8.22222,
     "geom:longitude":15.512988,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Ambaca City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.264503,
     "lbl:longitude":15.552303,
     "meso:adm1_alt":"Cuanza-Nord|Kwanza Norte",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799939,
-    "wof:lastmodified":1536615832,
+    "wof:lastmodified":1553718826,
     "wof:name":"Ambaca",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

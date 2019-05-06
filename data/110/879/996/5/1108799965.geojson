@@ -10,6 +10,12 @@
     "geom:latitude":-9.753418,
     "geom:longitude":18.848568,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kapenda Kamulemba City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-9.816089,
     "lbl:longitude":19.009427,
     "meso:adm1_alt":"",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108799965,
-    "wof:lastmodified":1536615833,
+    "wof:lastmodified":1553718826,
     "wof:name":"Kapenda Kamulemba",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

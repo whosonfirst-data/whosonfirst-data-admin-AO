@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176203,
-    "geom:area_square_m":2160683980.471819,
+    "geom:area_square_m":2160683980.471931,
     "geom:bbox":"15.1506211151,-7.62222100772,15.7647061556,-7.14333541803",
     "geom:latitude":-7.390814,
     "geom:longitude":15.449168,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Bungo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-7.425495,
     "lbl:longitude":15.443316,
     "meso:adm1_alt":"",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108799889,
-    "wof:lastmodified":1553816513,
+    "wof:lastmodified":1555046995,
     "wof:name":"Bungo",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

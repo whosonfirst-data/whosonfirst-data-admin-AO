@@ -10,6 +10,12 @@
     "geom:latitude":-16.415033,
     "geom:longitude":14.253426,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kahama City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-16.42278,
     "lbl:longitude":14.264302,
     "meso:adm1_alt":"",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108799783,
-    "wof:lastmodified":1536615827,
+    "wof:lastmodified":1553718821,
     "wof:name":"Kahama",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

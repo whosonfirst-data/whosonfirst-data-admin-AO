@@ -10,6 +10,12 @@
     "geom:latitude":-10.922917,
     "geom:longitude":20.358709,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Dala City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-10.826466,
     "lbl:longitude":20.443924,
     "meso:adm1_alt":"",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799823,
-    "wof:lastmodified":1536615829,
+    "wof:lastmodified":1553718823,
     "wof:name":"Dala",
     "wof:parent_id":85667651,
     "wof:placetype":"county",

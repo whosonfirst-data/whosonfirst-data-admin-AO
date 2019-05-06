@@ -10,6 +10,12 @@
     "geom:latitude":-12.958535,
     "geom:longitude":16.095228,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Thicala-Thilohanga City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-13.082493,
     "lbl:longitude":16.170151,
     "meso:adm1_alt":"",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108799867,
-    "wof:lastmodified":1536615830,
+    "wof:lastmodified":1553718824,
     "wof:name":"Thicala-Thilohanga",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

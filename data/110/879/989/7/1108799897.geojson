@@ -10,6 +10,12 @@
     "geom:latitude":-15.811799,
     "geom:longitude":12.945136,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Virei City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-15.803191,
     "lbl:longitude":12.958553,
     "meso:adm1_alt":"Mo\u00e7\u00e2medes|Mossamedes",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799897,
-    "wof:lastmodified":1536615831,
+    "wof:lastmodified":1553718826,
     "wof:name":"Virei",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

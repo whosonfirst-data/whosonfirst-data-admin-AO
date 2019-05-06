@@ -10,6 +10,12 @@
     "geom:latitude":-10.522312,
     "geom:longitude":14.368357,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kilenda City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-10.523856,
     "lbl:longitude":14.390247,
     "meso:adm1_alt":"Cuanza-Sud|Kwanza Sul",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799949,
-    "wof:lastmodified":1536615833,
+    "wof:lastmodified":1553718827,
     "wof:name":"Kilenda",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

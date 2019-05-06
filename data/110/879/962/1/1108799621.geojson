@@ -10,6 +10,12 @@
     "geom:latitude":-8.169238,
     "geom:longitude":17.11535,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Marimba City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.179437,
     "lbl:longitude":17.065026,
     "meso:adm1_alt":"Malange",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799621,
-    "wof:lastmodified":1536615822,
+    "wof:lastmodified":1553718815,
     "wof:name":"Marimba",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

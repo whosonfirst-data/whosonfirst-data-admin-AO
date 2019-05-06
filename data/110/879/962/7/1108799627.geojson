@@ -10,6 +10,12 @@
     "geom:latitude":-7.763071,
     "geom:longitude":16.603138,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Massango City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-7.772257,
     "lbl:longitude":16.530873,
     "meso:adm1_alt":"Malange",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108799627,
-    "wof:lastmodified":1536615822,
+    "wof:lastmodified":1553718816,
     "wof:name":"Massango",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

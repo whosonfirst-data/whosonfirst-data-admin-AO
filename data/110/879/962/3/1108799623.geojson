@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.362655,
-    "geom:area_square_m":40305125118.700333,
+    "geom:area_square_m":40305125118.700142,
     "geom:bbox":"20.3077628682,-16.1604369318,22.000278,-12.7322711642",
     "geom:latitude":-14.203604,
     "geom:longitude":21.321144,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Lumbala-Nguimbo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-14.191136,
     "lbl:longitude":21.333947,
     "meso:adm1_alt":"",
@@ -20,6 +26,10 @@
     "meso:hasc_id":"NULL",
     "meso:name_alt":"",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lumbala-Nguimbo"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -41,7 +51,7 @@
         }
     ],
     "wof:id":1108799623,
-    "wof:lastmodified":1494646452,
+    "wof:lastmodified":1555046995,
     "wof:name":"Lumbala-Nguimbo",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

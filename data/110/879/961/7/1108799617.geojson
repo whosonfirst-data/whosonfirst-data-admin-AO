@@ -10,6 +10,12 @@
     "geom:latitude":-7.224284,
     "geom:longitude":16.055796,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Sanza Pombo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-7.248778,
     "lbl:longitude":16.065286,
     "meso:adm1_alt":"",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108799617,
-    "wof:lastmodified":1536615822,
+    "wof:lastmodified":1553718815,
     "wof:name":"Sanza Pombo",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

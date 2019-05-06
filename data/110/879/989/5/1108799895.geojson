@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072144,
-    "geom:area_square_m":881089487.518579,
+    "geom:area_square_m":881089487.518578,
     "geom:bbox":"13.1869014865,-9.16891949308,13.5339090575,-8.84275050624",
     "geom:latitude":-9.000609,
     "geom:longitude":13.370688,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Viana City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-8.998539,
     "lbl:longitude":13.367412,
     "meso:adm1_alt":"Loanda",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108799895,
-    "wof:lastmodified":1553816513,
+    "wof:lastmodified":1555037213,
     "wof:name":"Viana",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-12.743332,
     "geom:longitude":15.151102,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Ukuma City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-12.697052,
     "lbl:longitude":15.131944,
     "meso:adm1_alt":"",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799845,
-    "wof:lastmodified":1536615830,
+    "wof:lastmodified":1553718823,
     "wof:name":"Ukuma",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-9.950904,
     "geom:longitude":16.686475,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Kangandala City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-9.940809,
     "lbl:longitude":16.646862,
     "meso:adm1_alt":"Malange",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799805,
-    "wof:lastmodified":1536615828,
+    "wof:lastmodified":1553718822,
     "wof:name":"Kangandala",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

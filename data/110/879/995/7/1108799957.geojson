@@ -10,6 +10,12 @@
     "geom:latitude":-6.115527,
     "geom:longitude":15.505951,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Maquela do Zombo City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-6.100781,
     "lbl:longitude":15.575587,
     "meso:adm1_alt":"",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108799957,
-    "wof:lastmodified":1536615833,
+    "wof:lastmodified":1553718826,
     "wof:name":"Maquela do Zombo",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

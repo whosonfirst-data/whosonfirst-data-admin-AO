@@ -10,6 +10,12 @@
     "geom:latitude":-13.168293,
     "geom:longitude":13.111447,
     "iso:country":"AO",
+    "label:eng_x_preferred_longname":[
+        "Baia Farta City Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":-13.23315,
     "lbl:longitude":13.103123,
     "meso:adm1_alt":"Benguella",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108799781,
-    "wof:lastmodified":1536615827,
+    "wof:lastmodified":1553718821,
     "wof:name":"Baia Farta",
     "wof:parent_id":85667691,
     "wof:placetype":"county",
