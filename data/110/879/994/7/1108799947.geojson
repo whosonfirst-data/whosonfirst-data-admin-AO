@@ -30,26 +30,26 @@
     "name:cat_x_preferred":[
         "Chitembo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chitembo"
     ],
     "name:eng_x_preferred":[
         "Chitembo"
     ],
-    "name:fre_x_preferred":[
-        "Chitembo"
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062a\u0645\u0628\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chitembo"
     ],
     "name:ita_x_preferred":[
         "Chitembo"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Chitembo"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u062a\u0645\u0628\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Chitembo"
     ],
     "name:por_x_preferred":[
         "Chitembo"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1108799947,
-    "wof:lastmodified":1553718827,
+    "wof:lastmodified":1561790855,
     "wof:name":"Chitembo",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

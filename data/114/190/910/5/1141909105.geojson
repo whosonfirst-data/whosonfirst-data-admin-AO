@@ -17,19 +17,19 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u062f\u0648\u0646\u062f\u0648"
     ],
+    "name:deu_x_preferred":[
+        "Dondo"
+    ],
     "name:eng_x_preferred":[
         "Dondo"
     ],
-    "name:ger_x_preferred":[
-        "Dondo"
-    ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dondo"
     ],
     "name:por_x_preferred":[
         "Dondo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dondo"
     ],
     "ne:ADM0CAP":0.0,
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1141909105,
-    "wof:lastmodified":1513888755,
+    "wof:lastmodified":1561790981,
     "wof:name":"Dondo",
     "wof:parent_id":1108799789,
     "wof:placetype":"locality",

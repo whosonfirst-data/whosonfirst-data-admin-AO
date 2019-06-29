@@ -30,23 +30,23 @@
     "name:cat_x_preferred":[
         "Catchiungo"
     ],
-    "name:dut_x_preferred":[
-        "Katchiungo"
+    "name:deu_x_preferred":[
+        "Cachiungo"
     ],
     "name:eng_x_preferred":[
         "Catchiungo"
     ],
-    "name:fre_x_preferred":[
-        "Katchiungo"
+    "name:fas_x_preferred":[
+        "\u06a9\u062a\u0634\u06cc\u0648\u0646\u06af\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Cachiungo"
+    "name:fra_x_preferred":[
+        "Katchiungo"
     ],
     "name:ita_x_preferred":[
         "Katchiungo"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u062a\u0634\u06cc\u0648\u0646\u06af\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Katchiungo"
     ],
     "name:por_x_preferred":[
         "Catchiungo"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108799853,
-    "wof:lastmodified":1553718823,
+    "wof:lastmodified":1561790850,
     "wof:name":"Kachiungo",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

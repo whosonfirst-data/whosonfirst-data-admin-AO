@@ -50,10 +50,7 @@
     "name:cat_x_preferred":[
         "Benguela"
     ],
-    "name:chi_x_preferred":[
-        "\u672c\u5409\u62c9\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Benguela"
     ],
     "name:dan_x_preferred":[
@@ -62,8 +59,8 @@
     "name:deu_x_preferred":[
         "Provinz Benguela"
     ],
-    "name:dut_x_preferred":[
-        "Benguela"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bd\u03b3\u03ba\u03bf\u03c5\u03ad\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Benguela"
@@ -80,20 +77,11 @@
     "name:fin_x_preferred":[
         "Benguelan maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Benguela"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10dc\u10d2\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Benguela"
     ],
     "name:glg_x_preferred":[
         "Provincia de Benguela"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03bd\u03b3\u03ba\u03bf\u03c5\u03ad\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1\u0ab2\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -113,6 +101,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cc6\u0c82\u0c97\u0ccd\u0caf\u0cc1\u0cb2\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10dc\u10d2\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kon_x_preferred":[
         "Benguela"
     ],
@@ -131,14 +122,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0902\u0917\u0941\u090f\u0932\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Benguela Province"
+    ],
+    "name:nld_x_preferred":[
+        "Benguela"
     ],
     "name:nob_x_preferred":[
         "Benguela"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0646\u06af\u0648\u0626\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Prowincja Benguela"
@@ -147,9 +138,6 @@
         "Benguela"
     ],
     "name:ron_x_preferred":[
-        "Provincia Benguela"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Benguela"
     ],
     "name:rus_x_preferred":[
@@ -329,7 +317,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550292,
+    "wof:lastmodified":1561790767,
     "wof:name":"Benguela",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

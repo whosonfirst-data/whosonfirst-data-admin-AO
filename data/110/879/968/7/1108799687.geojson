@@ -30,29 +30,29 @@
     "name:cat_x_preferred":[
         "Matala"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Matala"
     ],
     "name:eng_x_preferred":[
         "Matala"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u0644\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Matala"
     ],
-    "name:fre_x_preferred":[
-        "Matala"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Matala"
     ],
     "name:ita_x_preferred":[
         "Matala"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Matala"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u062a\u0644\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Matala"
     ],
     "name:por_x_preferred":[
         "Matala"
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108799687,
-    "wof:lastmodified":1553718819,
+    "wof:lastmodified":1561790852,
     "wof:name":"Matala",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

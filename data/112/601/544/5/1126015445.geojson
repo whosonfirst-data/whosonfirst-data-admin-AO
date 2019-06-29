@@ -42,10 +42,7 @@
     "name:cat_x_preferred":[
         "Kuito"
     ],
-    "name:chi_x_preferred":[
-        "\u594e\u6258"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kuito"
     ],
     "name:dan_x_preferred":[
@@ -54,8 +51,8 @@
     "name:deu_x_preferred":[
         "Kuito"
     ],
-    "name:dut_x_preferred":[
-        "Kuito"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03af\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Kuito"
@@ -63,20 +60,14 @@
     "name:epo_x_preferred":[
         "Kuito"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06cc\u062a\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kuito"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kuito"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10d8\u10e2\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Kuito"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03af\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0a87\u0a9f\u0acb"
@@ -99,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0caf\u0cc2\u0c9f\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10d8\u10e2\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\uc774\ud1a0"
     ],
@@ -111,14 +105,14 @@
     "name:mar_x_preferred":[
         "\u0915\u0941\u0908\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kuito"
+    ],
+    "name:nld_x_preferred":[
         "Kuito"
     ],
     "name:nob_x_preferred":[
         "Kuito"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u06cc\u062a\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Kuito"
@@ -126,7 +120,7 @@
     "name:por_x_preferred":[
         "Kuito"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kuito"
     ],
     "name:rus_x_preferred":[
@@ -168,6 +162,9 @@
     "name:war_x_preferred":[
         "Kuito"
     ],
+    "name:zho_x_preferred":[
+        "\u594e\u6258"
+    ],
     "qs_pg:aaroncc":"AO",
     "qs_pg:gn_country":"AO",
     "qs_pg:gn_fcode":"PPLA",
@@ -207,7 +204,7 @@
         }
     ],
     "wof:id":1126015445,
-    "wof:lastmodified":1534379078,
+    "wof:lastmodified":1561790901,
     "wof:name":"Kuito",
     "wof:parent_id":1108799603,
     "wof:placetype":"locality",

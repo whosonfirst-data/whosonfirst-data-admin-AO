@@ -30,16 +30,13 @@
     "name:cat_x_preferred":[
         "Damba"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Damba"
     ],
     "name:eng_x_preferred":[
         "Damba"
     ],
-    "name:fre_x_preferred":[
-        "Damba"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Damba"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +44,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30f3\u30d0"
+    ],
+    "name:nld_x_preferred":[
+        "Damba"
     ],
     "name:por_x_preferred":[
         "Damba"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108799705,
-    "wof:lastmodified":1553718818,
+    "wof:lastmodified":1561790849,
     "wof:name":"Damba",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

@@ -30,19 +30,19 @@
     "name:cat_x_preferred":[
         "Chitato"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chitato"
     ],
     "name:eng_x_preferred":[
         "Chitato"
     ],
-    "name:fre_x_preferred":[
-        "Chitato"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chitato"
     ],
     "name:ita_x_preferred":[
+        "Chitato"
+    ],
+    "name:nld_x_preferred":[
         "Chitato"
     ],
     "name:por_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1108799855,
-    "wof:lastmodified":1553718824,
+    "wof:lastmodified":1561790850,
     "wof:name":"Chitato",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

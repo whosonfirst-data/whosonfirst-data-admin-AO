@@ -30,19 +30,19 @@
     "name:cat_x_preferred":[
         "Cambundi Catembo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cambundi-Catembo"
     ],
     "name:eng_x_preferred":[
         "Cambundi-Catembo"
     ],
-    "name:fre_x_preferred":[
-        "Cambundi-Catembo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cambundi-Catembo"
     ],
     "name:ita_x_preferred":[
+        "Cambundi-Catembo"
+    ],
+    "name:nld_x_preferred":[
         "Cambundi-Catembo"
     ],
     "name:por_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1108799771,
-    "wof:lastmodified":1553718820,
+    "wof:lastmodified":1561790846,
     "wof:name":"Kambundi-Katembo",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

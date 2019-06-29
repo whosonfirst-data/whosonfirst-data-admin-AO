@@ -30,19 +30,19 @@
     "name:cat_x_preferred":[
         "Negaje"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Negage"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Negage"
     ],
     "name:eng_x_preferred":[
         "Negage"
     ],
-    "name:fre_x_preferred":[
-        "Negage"
+    "name:fas_x_preferred":[
+        "\u0646\u06af\u06af\u0647\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Negage"
     ],
     "name:ita_x_preferred":[
@@ -51,11 +51,11 @@
     "name:jpn_x_preferred":[
         "\u30cd\u30ac\u30b8\u30a7"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Negage"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u06af\u06af\u0647\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Negage"
     ],
     "name:por_x_preferred":[
         "Negage"
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1108799765,
-    "wof:lastmodified":1553718820,
+    "wof:lastmodified":1561790852,
     "wof:name":"Negage",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

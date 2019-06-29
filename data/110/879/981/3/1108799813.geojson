@@ -30,19 +30,19 @@
     "name:cat_x_preferred":[
         "Rangel"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rangel"
     ],
     "name:eng_x_preferred":[
         "Rangel"
     ],
-    "name:fre_x_preferred":[
-        "Rangel"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rangel"
     ],
     "name:ita_x_preferred":[
+        "Rangel"
+    ],
+    "name:nld_x_preferred":[
         "Rangel"
     ],
     "name:por_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1108799813,
-    "wof:lastmodified":1553718822,
+    "wof:lastmodified":1561790859,
     "wof:name":"Rangel",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

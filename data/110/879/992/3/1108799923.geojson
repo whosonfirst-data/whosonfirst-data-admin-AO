@@ -30,29 +30,29 @@
     "name:cat_x_preferred":[
         "Namacunde"
     ],
-    "name:dut_x_preferred":[
-        "Namakunde"
+    "name:deu_x_preferred":[
+        "Namacunde"
     ],
     "name:eng_x_preferred":[
         "Namacunde"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0645\u06a9\u0648\u0646\u062f\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Namakunde"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Namakunde"
-    ],
-    "name:ger_x_preferred":[
-        "Namacunde"
     ],
     "name:ita_x_preferred":[
         "Namakunde"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Namakunde"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0645\u06a9\u0648\u0646\u062f\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Namakunde"
     ],
     "name:por_x_preferred":[
         "Namacunde"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1108799923,
-    "wof:lastmodified":1553718825,
+    "wof:lastmodified":1561790854,
     "wof:name":"Namakunde",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

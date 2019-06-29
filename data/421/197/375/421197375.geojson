@@ -19,20 +19,17 @@
     "name:deu_x_preferred":[
         "Cameia"
     ],
-    "name:dut_x_preferred":[
-        "Cameia"
-    ],
     "name:eng_x_preferred":[
         "Cameia"
     ],
-    "name:fre_x_preferred":[
-        "Cameia"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cameia"
     ],
     "name:ita_x_preferred":[
         "Lumeje"
+    ],
+    "name:nld_x_preferred":[
+        "Cameia"
     ],
     "name:por_x_preferred":[
         "Lumeje"
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":421197375,
-    "wof:lastmodified":1527716408,
+    "wof:lastmodified":1561790900,
     "wof:name":"Lumeje",
     "wof:parent_id":1108799791,
     "wof:placetype":"locality",

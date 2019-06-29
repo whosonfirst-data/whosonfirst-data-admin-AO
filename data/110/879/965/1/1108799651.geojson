@@ -30,26 +30,26 @@
     "name:cat_x_preferred":[
         "Quirima"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Quirima"
     ],
     "name:eng_x_preferred":[
         "Quirima"
     ],
-    "name:fre_x_preferred":[
-        "Quirima"
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06cc\u0631\u06cc\u0645\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Quirima"
     ],
     "name:ita_x_preferred":[
         "Quirima"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Quirima"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u06cc\u0631\u06cc\u0645\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Quirima"
     ],
     "name:por_x_preferred":[
         "Quirima"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108799651,
-    "wof:lastmodified":1553718816,
+    "wof:lastmodified":1561790840,
     "wof:name":"Kirima",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

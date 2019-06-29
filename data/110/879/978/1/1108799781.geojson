@@ -30,29 +30,26 @@
     "name:cat_x_preferred":[
         "Ba\u00eda Farta"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u723e\u5854\u7063"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ba\u00eda Farta"
     ],
     "name:eng_x_preferred":[
         "Ba\u00eda Farta"
     ],
-    "name:fre_x_preferred":[
-        "Ba\u00eda Farta"
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0647 \u0641\u0631\u062a\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ba\u00eda Farta"
     ],
     "name:ita_x_preferred":[
         "Ba\u00eda Farta"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Baia Farta"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u06cc\u0647 \u0641\u0631\u062a\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Ba\u00eda Farta"
     ],
     "name:por_x_preferred":[
         "Ba\u00eda Farta"
@@ -65,6 +62,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0626\u06cc\u0627 \u0641\u0627\u0631\u062a\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u723e\u5854\u7063"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1108799781,
-    "wof:lastmodified":1553718821,
+    "wof:lastmodified":1561790849,
     "wof:name":"Baia Farta",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

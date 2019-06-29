@@ -30,19 +30,19 @@
     "name:cat_x_preferred":[
         "Cuanhama"
     ],
-    "name:dut_x_preferred":[
-        "Kwanyama"
+    "name:deu_x_preferred":[
+        "Cuanhama"
     ],
     "name:eng_x_preferred":[
         "Cuanhama"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kwanyama"
     ],
-    "name:ger_x_preferred":[
-        "Cuanhama"
-    ],
     "name:ita_x_preferred":[
+        "Kwanyama"
+    ],
+    "name:nld_x_preferred":[
         "Kwanyama"
     ],
     "name:por_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1108799767,
-    "wof:lastmodified":1555037215,
+    "wof:lastmodified":1561790851,
     "wof:name":"Kwanyama",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

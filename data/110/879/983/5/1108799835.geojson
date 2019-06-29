@@ -30,25 +30,22 @@
     "name:cat_x_preferred":[
         "Belize"
     ],
-    "name:chi_x_preferred":[
-        "\u4f2f\u5229\u8332"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Belize"
     ],
     "name:eng_x_preferred":[
         "Belize"
     ],
-    "name:fre_x_preferred":[
-        "Belize"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Belize"
     ],
     "name:ita_x_preferred":[
         "Belize"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Belize"
+    ],
+    "name:nld_x_preferred":[
         "Belize"
     ],
     "name:por_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Munic\u00edpio Belize"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f2f\u5229\u8332"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1108799835,
-    "wof:lastmodified":1555037213,
+    "wof:lastmodified":1561790848,
     "wof:name":"Belize",
     "wof:parent_id":85667683,
     "wof:placetype":"county",

@@ -30,19 +30,13 @@
     "name:cat_x_preferred":[
         "Buco Zau"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u79d1\u85fb"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Buco-Zau"
     ],
     "name:eng_x_preferred":[
         "Buco-Zau"
     ],
-    "name:fre_x_preferred":[
-        "Buco-Zau"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Buco-Zau"
     ],
     "name:ita_x_preferred":[
@@ -51,11 +45,17 @@
     "name:kon_x_preferred":[
         "Mbuku-Nzau"
     ],
+    "name:nld_x_preferred":[
+        "Buco-Zau"
+    ],
     "name:por_x_preferred":[
         "Buco-Zau"
     ],
     "name:spa_x_preferred":[
         "Buco-Zau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u79d1\u85fb"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108799803,
-    "wof:lastmodified":1553718822,
+    "wof:lastmodified":1561790858,
     "wof:name":"Buco Zau",
     "wof:parent_id":85667683,
     "wof:placetype":"county",

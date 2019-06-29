@@ -29,17 +29,17 @@
     "name:cat_x_preferred":[
         "Luena"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u57c3\u7d0d"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Luena"
     ],
     "name:dan_x_preferred":[
         "Luena"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Luena"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ad\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Luena"
@@ -50,14 +50,8 @@
     "name:fin_x_preferred":[
         "Luena"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Luena"
-    ],
-    "name:ger_x_preferred":[
-        "Luena"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03ad\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0a8f\u0aa8\u0abe"
@@ -104,14 +98,14 @@
     "name:mar_x_preferred":[
         "\u0932\u0941\u092f\u0947\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Luena"
+    ],
+    "name:nld_x_preferred":[
         "Luena"
     ],
     "name:nob_x_preferred":[
         "Luena"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0646\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Luena"
@@ -119,7 +113,7 @@
     "name:por_x_preferred":[
         "Luena"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Luena"
     ],
     "name:rus_x_preferred":[
@@ -309,7 +303,7 @@
         }
     ],
     "wof:id":421176109,
-    "wof:lastmodified":1513888812,
+    "wof:lastmodified":1561790900,
     "wof:name":"Luena",
     "wof:parent_id":1108799729,
     "wof:placetype":"locality",

@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Catabola"
     ],
-    "name:dut_x_preferred":[
-        "Catabola"
-    ],
     "name:eng_x_preferred":[
         "Catabola"
     ],
@@ -31,20 +28,14 @@
     "name:fra_x_preferred":[
         "Catabola"
     ],
-    "name:fre_x_preferred":[
-        "Catabola"
-    ],
-    "name:ger_x_preferred":[
-        "Catabola"
-    ],
     "name:ita_x_preferred":[
         "Catabola"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30bf\u30dc\u30e9"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u062a\u0628\u0644\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Catabola"
     ],
     "name:por_x_preferred":[
         "Catabola"
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":421193219,
-    "wof:lastmodified":1527716141,
+    "wof:lastmodified":1561790899,
     "wof:name":"Catabola",
     "wof:parent_id":1108799633,
     "wof:placetype":"locality",

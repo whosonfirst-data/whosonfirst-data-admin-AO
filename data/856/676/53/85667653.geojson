@@ -47,14 +47,14 @@
     "name:cat_x_preferred":[
         "Malanje"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u862d\u54f2\u7701"
-    ],
     "name:dan_x_preferred":[
         "Malanje"
     ],
-    "name:dut_x_preferred":[
-        "Malanje"
+    "name:deu_x_preferred":[
+        "Provinz Malanje"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bb\u03b1\u03bd\u03c4\u03b6\u03ad"
     ],
     "name:eng_x_preferred":[
         "Malanje"
@@ -65,20 +65,14 @@
     "name:epo_x_preferred":[
         "Provinco Malanje"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u0644\u0627\u0646\u0698\u0647"
+    ],
     "name:fin_x_preferred":[
         "Malanjen maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Malanje"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10da\u10d0\u10dc\u10df\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Malanje"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bb\u03b1\u03bd\u03c4\u03b6\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab2\u0abe\u0a82\u0a9c\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -98,6 +92,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cb2\u0cbe\u0ca8\u0ccd\u0c9c\u0cc6 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d0\u10dc\u10df\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub9d0\ub780\uc988 \uc8fc"
     ],
@@ -110,14 +107,14 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0932\u093e\u0902\u091c\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Malanje Province"
+    ],
+    "name:nld_x_preferred":[
+        "Malanje"
     ],
     "name:nob_x_preferred":[
         "Malanje"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u0644\u0627\u0646\u0698\u0647"
     ],
     "name:pol_x_preferred":[
         "Prowincja Malanje"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Malanje"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Malanje"
     ],
     "name:rus_x_preferred":[
@@ -178,6 +175,9 @@
     ],
     "name:war_x_preferred":[
         "Malanje"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u862d\u54f2\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AGO",
@@ -300,7 +300,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550307,
+    "wof:lastmodified":1561790768,
     "wof:name":"Malanje",
     "wof:parent_id":85632281,
     "wof:placetype":"region",
