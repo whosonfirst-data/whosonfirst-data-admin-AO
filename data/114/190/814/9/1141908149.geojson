@@ -30,14 +30,14 @@
     "name:cat_x_preferred":[
         "Lucapa"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u5361\u5e15"
-    ],
     "name:dan_x_preferred":[
         "Lucapa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lucapa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ba\u03ac\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Lucapa"
@@ -45,17 +45,14 @@
     "name:epo_x_preferred":[
         "Lucapa"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06a9\u067e\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lucapa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lucapa"
-    ],
-    "name:ger_x_preferred":[
-        "Lucapa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03ba\u03ac\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0a95\u0abe\u0aaa\u0abe"
@@ -90,14 +87,14 @@
     "name:mar_x_preferred":[
         "\u0932\u0941\u0915\u093e\u092a\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Lucapa"
+    ],
+    "name:nld_x_preferred":[
         "Lucapa"
     ],
     "name:nob_x_preferred":[
         "Lucapa"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u06a9\u067e\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Lucapa"
@@ -105,7 +102,7 @@
     "name:por_x_preferred":[
         "Lucapa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lucapa"
     ],
     "name:rus_x_preferred":[
@@ -146,6 +143,9 @@
     ],
     "name:war_x_preferred":[
         "Lucapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5361\u5e15"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -280,7 +280,7 @@
         }
     ],
     "wof:id":1141908149,
-    "wof:lastmodified":1534379078,
+    "wof:lastmodified":1561790981,
     "wof:name":"Lucapa",
     "wof:parent_id":1108799695,
     "wof:placetype":"locality",

@@ -30,29 +30,26 @@
     "name:cat_x_preferred":[
         "Caluquembe"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u76e7\u80af\u8c9d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Caluquembe"
     ],
     "name:eng_x_preferred":[
         "Caluquembe"
     ],
-    "name:fre_x_preferred":[
-        "Caluquembe"
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0648\u06a9\u0648\u0645\u0628\u0647\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Caluquembe"
     ],
     "name:ita_x_preferred":[
         "Caluquembe"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kalukembe"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0644\u0648\u06a9\u0648\u0645\u0628\u0647\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Caluquembe"
     ],
     "name:pol_x_preferred":[
         "Caluquembe"
@@ -60,11 +57,14 @@
     "name:por_x_preferred":[
         "Caluquembe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Caluquembe"
     ],
     "name:spa_x_preferred":[
         "Caluquembe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u76e7\u80af\u8c9d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1108799807,
-    "wof:lastmodified":1553718822,
+    "wof:lastmodified":1561790857,
     "wof:name":"Kalukembe",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

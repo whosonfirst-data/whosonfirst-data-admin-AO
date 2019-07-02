@@ -30,22 +30,22 @@
     "name:cat_x_preferred":[
         "Buengas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Buengas"
     ],
     "name:eng_x_preferred":[
         "Buengas"
     ],
-    "name:fre_x_preferred":[
-        "Buengas"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Buengas"
     ],
     "name:ita_x_preferred":[
         "Buengas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Buengas"
+    ],
+    "name:nld_x_preferred":[
         "Buengas"
     ],
     "name:por_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108799715,
-    "wof:lastmodified":1553718818,
+    "wof:lastmodified":1561790850,
     "wof:name":"Buengas",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

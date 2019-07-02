@@ -47,14 +47,14 @@
     "name:cat_x_preferred":[
         "Kwanza-Sud"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u5ee3\u85a9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Cuanza Sul"
     ],
-    "name:dut_x_preferred":[
-        "Cuanza Sul"
+    "name:deu_x_preferred":[
+        "Provinz Cuanza Sul"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03ac\u03bd\u03b6\u03b1 \u03a3\u03bf\u03cd\u03bb"
     ],
     "name:eng_x_preferred":[
         "Cuanza Sul"
@@ -67,20 +67,14 @@
     "name:epo_x_preferred":[
         "Provinco Cuanza Sul"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0627\u0646\u0632\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Cuanza Sul"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kwanza-Sud"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7\u10d8 \u10d9\u10d5\u10d0\u10dc\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Cuanza Sul"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03ac\u03bd\u03b6\u03b1 \u03a3\u03bf\u03cd\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0a86\u0aa8\u0acd\u0a9d\u0abe \u0ab8\u0ac1\u0ab2"
@@ -100,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb5\u0cbe\u0ca8\u0ccd\u0c9c\u0cbe \u0cb8\u0cc1\u0cb2\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7\u10d8 \u10d9\u10d5\u10d0\u10dc\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\uc548\uc790\uc220 \uc8fc"
     ],
@@ -112,14 +109,14 @@
     "name:mar_x_preferred":[
         "\u0915\u0941\u0906\u0928\u094d\u091c\u093e \u0938\u0941\u0932\u094d\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Cuanza Sul"
+    ],
+    "name:nld_x_preferred":[
         "Cuanza Sul"
     ],
     "name:nob_x_preferred":[
         "Cuanza Sul"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0627\u0646\u0632\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
     ],
     "name:pol_x_preferred":[
         "Prowincja Kwanza Po\u0142udniowa"
@@ -127,7 +124,7 @@
     "name:por_x_preferred":[
         "Cuanza Sul"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Cuanza Sul"
     ],
     "name:rus_x_preferred":[
@@ -183,6 +180,9 @@
     ],
     "name:war_x_preferred":[
         "Cuanza Sul"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5ee3\u85a9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AGO",
@@ -305,7 +305,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550302,
+    "wof:lastmodified":1561790768,
     "wof:name":"Cuanza Sul",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

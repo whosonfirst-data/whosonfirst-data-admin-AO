@@ -30,19 +30,19 @@
     "name:cat_x_preferred":[
         "Camacuio"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Camacuio"
     ],
     "name:eng_x_preferred":[
         "Camacuio"
     ],
-    "name:fre_x_preferred":[
-        "Camacuio"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Camacuio"
     ],
     "name:ita_x_preferred":[
+        "Camacuio"
+    ],
+    "name:nld_x_preferred":[
         "Camacuio"
     ],
     "name:por_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1108799699,
-    "wof:lastmodified":1553718819,
+    "wof:lastmodified":1561790856,
     "wof:name":"Kamukuio",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

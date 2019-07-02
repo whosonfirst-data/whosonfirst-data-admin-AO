@@ -30,23 +30,23 @@
     "name:cat_x_preferred":[
         "Quilenda"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Quilenda"
     ],
     "name:eng_x_preferred":[
         "Quilenda"
     ],
-    "name:fre_x_preferred":[
-        "Quilenda"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Quilenda"
     ],
     "name:ita_x_preferred":[
         "Kilenda"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kilenda"
+    ],
+    "name:nld_x_preferred":[
+        "Quilenda"
     ],
     "name:por_x_preferred":[
         "Quilenda"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108799949,
-    "wof:lastmodified":1553718827,
+    "wof:lastmodified":1561790855,
     "wof:name":"Kilenda",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

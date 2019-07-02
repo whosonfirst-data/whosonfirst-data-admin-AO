@@ -33,23 +33,23 @@
     "name:cat_x_preferred":[
         "Cela"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cela"
     ],
     "name:eng_x_preferred":[
         "Waku Kungo"
     ],
-    "name:fre_x_preferred":[
-        "Cela"
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cela"
     ],
     "name:ita_x_preferred":[
         "Cela"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0644\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Cela"
     ],
     "name:por_x_preferred":[
         "Cela"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108799857,
-    "wof:lastmodified":1553718824,
+    "wof:lastmodified":1561790850,
     "wof:name":"Waco Kungo",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

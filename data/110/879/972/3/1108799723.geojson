@@ -30,26 +30,26 @@
     "name:cat_x_preferred":[
         "Quilengues"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Quilengues"
     ],
     "name:eng_x_preferred":[
         "Quilengues"
     ],
-    "name:fre_x_preferred":[
-        "Quilengues"
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06cc\u0644\u0646\u06af\u0648\u0633\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Quilengues"
     ],
     "name:ita_x_preferred":[
         "Quilengues"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Quilengues"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u06cc\u0644\u0646\u06af\u0648\u0633\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Quilengues"
     ],
     "name:por_x_preferred":[
         "Quilengues"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108799723,
-    "wof:lastmodified":1553718819,
+    "wof:lastmodified":1561790860,
     "wof:name":"Kilengue",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

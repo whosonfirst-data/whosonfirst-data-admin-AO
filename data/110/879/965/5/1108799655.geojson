@@ -30,22 +30,22 @@
     "name:cat_x_preferred":[
         "Cahombo"
     ],
-    "name:dut_x_preferred":[
-        "Caombo"
+    "name:deu_x_preferred":[
+        "Cahombo"
     ],
     "name:eng_x_preferred":[
         "Caombo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Caombo"
-    ],
-    "name:ger_x_preferred":[
-        "Cahombo"
     ],
     "name:ita_x_preferred":[
         "Cahombo"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Caombo"
+    ],
+    "name:nld_x_preferred":[
         "Caombo"
     ],
     "name:por_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108799655,
-    "wof:lastmodified":1553718817,
+    "wof:lastmodified":1561790840,
     "wof:name":"Kahombo",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

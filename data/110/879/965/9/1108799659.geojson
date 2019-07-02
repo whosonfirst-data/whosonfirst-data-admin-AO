@@ -30,22 +30,22 @@
     "name:cat_x_preferred":[
         "Ebo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ebo"
     ],
     "name:eng_x_preferred":[
         "Ebo"
     ],
-    "name:fre_x_preferred":[
-        "Ebo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ebo"
     ],
     "name:ita_x_preferred":[
         "Ebo"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ebo"
+    ],
+    "name:nld_x_preferred":[
         "Ebo"
     ],
     "name:por_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108799659,
-    "wof:lastmodified":1553718817,
+    "wof:lastmodified":1561790839,
     "wof:name":"Ebo",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

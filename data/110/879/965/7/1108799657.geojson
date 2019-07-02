@@ -30,16 +30,13 @@
     "name:cat_x_preferred":[
         "Puri"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puri"
     ],
     "name:eng_x_preferred":[
         "Puri"
     ],
-    "name:fre_x_preferred":[
-        "Puri"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Puri"
     ],
     "name:gla_x_preferred":[
@@ -48,7 +45,10 @@
     "name:ita_x_preferred":[
         "Puri"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Puri"
+    ],
+    "name:nld_x_preferred":[
         "Puri"
     ],
     "name:por_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108799657,
-    "wof:lastmodified":1553718817,
+    "wof:lastmodified":1561790839,
     "wof:name":"Puri",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

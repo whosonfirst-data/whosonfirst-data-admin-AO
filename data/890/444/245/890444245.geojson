@@ -31,16 +31,13 @@
     "name:cat_x_preferred":[
         "Caxito"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u897f\u6258"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Caxito"
     ],
     "name:dan_x_preferred":[
         "Caxito"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Caxito"
     ],
     "name:eng_x_preferred":[
@@ -49,13 +46,13 @@
     "name:epo_x_preferred":[
         "Caxito"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u06a9\u0634\u06cc\u062a\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Caxito"
     ],
     "name:frr_x_preferred":[
-        "Caxito"
-    ],
-    "name:ger_x_preferred":[
         "Caxito"
     ],
     "name:hrv_x_preferred":[
@@ -70,17 +67,17 @@
     "name:lit_x_preferred":[
         "Ka\u0161itas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u0430\u0448\u0438\u0442\u043e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Caxito"
+    ],
+    "name:nld_x_preferred":[
         "Caxito"
     ],
     "name:nob_x_preferred":[
         "Caxito"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0634\u06cc\u062a\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Caxito"
@@ -88,7 +85,7 @@
     "name:por_x_preferred":[
         "Caxito"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Caxito"
     ],
     "name:rus_x_preferred":[
@@ -111,6 +108,9 @@
     ],
     "name:war_x_preferred":[
         "Caxito"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u897f\u6258"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -243,7 +243,7 @@
         }
     ],
     "wof:id":890444245,
-    "wof:lastmodified":1527782129,
+    "wof:lastmodified":1561790901,
     "wof:name":"Caxito",
     "wof:parent_id":1108799875,
     "wof:placetype":"locality",

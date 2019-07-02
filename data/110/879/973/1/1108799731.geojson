@@ -36,19 +36,16 @@
     "name:cat_x_preferred":[
         "Nzeto"
     ],
-    "name:chi_x_preferred":[
-        "\u6069\u6fa4\u6258"
-    ],
-    "name:dut_x_preferred":[
-        "N'zeto"
+    "name:deu_x_preferred":[
+        "N'Zeto"
     ],
     "name:eng_x_preferred":[
         "N'Zeto"
     ],
-    "name:fre_x_preferred":[
-        "N'Zeto"
+    "name:fas_x_preferred":[
+        "\u0646\u0632\u062a\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "N'Zeto"
     ],
     "name:ita_x_preferred":[
@@ -60,8 +57,8 @@
     "name:kon_x_preferred":[
         "Nzeto"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0632\u062a\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "N'zeto"
     ],
     "name:pol_x_preferred":[
         "N'zeto"
@@ -69,11 +66,14 @@
     "name:por_x_preferred":[
         "N'Zeto"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "N'Zeto"
     ],
     "name:spa_x_preferred":[
         "N'Zeto"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u6fa4\u6258"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1108799731,
-    "wof:lastmodified":1553718820,
+    "wof:lastmodified":1561790857,
     "wof:name":"Nzeto",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

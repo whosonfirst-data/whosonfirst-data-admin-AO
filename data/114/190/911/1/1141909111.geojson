@@ -17,32 +17,32 @@
     "name:cat_x_preferred":[
         "Xangongo"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u8ca2\u6208"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Xangongo"
     ],
     "name:eng_x_preferred":[
         "Xangongo"
     ],
-    "name:fre_x_preferred":[
-        "Xangongo"
+    "name:fas_x_preferred":[
+        "\u0634\u0646\u06af\u0646\u06af\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Xangongo"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30f3\u30b4\u30f3\u30b4"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Xangongo"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0646\u06af\u0646\u06af\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Xangongo"
     ],
     "name:por_x_preferred":[
         "Xangongo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u8ca2\u6208"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":1141909111,
-    "wof:lastmodified":1513888913,
+    "wof:lastmodified":1561790981,
     "wof:name":"Xangongo",
     "wof:parent_id":1108799893,
     "wof:placetype":"locality",

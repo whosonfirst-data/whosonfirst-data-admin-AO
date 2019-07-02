@@ -45,14 +45,14 @@
     "name:cat_x_preferred":[
         "Menongue"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u8fb2\u84cb"
-    ],
     "name:dan_x_preferred":[
         "Menongue"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Menongue"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bd\u03cc\u03bd\u03b3\u03ba\u03bf\u03c5\u03b5"
     ],
     "name:eng_x_preferred":[
         "Menongue"
@@ -60,17 +60,14 @@
     "name:epo_x_preferred":[
         "Menongue"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0646\u06af\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Menongue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Menongue"
-    ],
-    "name:ger_x_preferred":[
-        "Menongue"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b5\u03bd\u03cc\u03bd\u03b3\u03ba\u03bf\u03c5\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0aa8\u0acb\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1"
@@ -108,14 +105,14 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u0928\u094b\u0928\u0917\u094d\u0935\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Menongue"
+    ],
+    "name:nld_x_preferred":[
         "Menongue"
     ],
     "name:nob_x_preferred":[
         "Menongue"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0646\u06af\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Menongue"
@@ -123,7 +120,7 @@
     "name:por_x_preferred":[
         "Menongue"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Menongue"
     ],
     "name:rus_x_preferred":[
@@ -162,6 +159,9 @@
     "name:war_x_preferred":[
         "Menongue"
     ],
+    "name:zho_x_preferred":[
+        "\u6885\u8fb2\u84cb"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -196,7 +196,7 @@
         }
     ],
     "wof:id":1108799961,
-    "wof:lastmodified":1553718826,
+    "wof:lastmodified":1561790840,
     "wof:name":"Menongue",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

@@ -30,22 +30,25 @@
     "name:cat_x_preferred":[
         "\u00cdcolo e Bengo"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
+        "\u00cdcolo e Bengo"
+    ],
+    "name:deu_x_preferred":[
         "\u00cdcolo e Bengo"
     ],
     "name:eng_x_preferred":[
         "Icolo e Bengo"
     ],
-    "name:fre_x_preferred":[
-        "\u00cdcolo e Bengo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00cdcolo e Bengo"
     ],
     "name:ita_x_preferred":[
         "\u00cdcolo e Bengo"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "\u00cdcolo e Bengo"
+    ],
+    "name:nld_x_preferred":[
         "\u00cdcolo e Bengo"
     ],
     "name:por_x_preferred":[
@@ -62,9 +65,6 @@
     ],
     "name:swe_x_preferred":[
         "Munic\u00edpio Icolo e Bengo"
-    ],
-    "name:wel_x_preferred":[
-        "\u00cdcolo e Bengo"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1108799819,
-    "wof:lastmodified":1553718822,
+    "wof:lastmodified":1561790859,
     "wof:name":"Icolo e Bengo",
     "wof:parent_id":85667657,
     "wof:placetype":"county",

@@ -30,26 +30,26 @@
     "name:cat_x_preferred":[
         "Balombo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Balombo"
     ],
     "name:eng_x_preferred":[
         "Balombo"
     ],
-    "name:fre_x_preferred":[
-        "Balombo"
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0648\u0645\u0628\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Balombo"
     ],
     "name:ita_x_preferred":[
         "Balombo"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Balombo"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0644\u0648\u0645\u0628\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Balombo"
     ],
     "name:por_x_preferred":[
         "Balombo"
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108799737,
-    "wof:lastmodified":1553718819,
+    "wof:lastmodified":1561790856,
     "wof:name":"Balombo",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

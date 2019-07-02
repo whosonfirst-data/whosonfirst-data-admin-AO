@@ -47,14 +47,14 @@
     "name:cat_x_preferred":[
         "Lunda Norte"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u502b\u9054\u7701"
-    ],
     "name:dan_x_preferred":[
         "Lunda Norte"
     ],
-    "name:dut_x_preferred":[
-        "Lunda Norte"
+    "name:deu_x_preferred":[
+        "Provinz Lunda Norte"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03cd\u03bd\u03c4\u03b1 \u039d\u03cc\u03c1\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Lunda Norte"
@@ -68,20 +68,14 @@
     "name:epo_x_preferred":[
         "Provinco Lunda Norte"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0648\u0646\u062f\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Lunda Norte"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lunda-Nord"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10da\u10e3\u10dc\u10d3\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Lunda Norte"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03cd\u03bd\u03c4\u03b1 \u039d\u03cc\u03c1\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0aa8\u0acd\u0aa1\u0abe \u0aa8\u0acb\u0ab0\u0acd\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -101,6 +95,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cc1\u0c82\u0ca1\u0cbe \u0ca8\u0cbe\u0cb0\u0ccd\u0c9f\u0cc6 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10da\u10e3\u10dc\u10d3\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub8ec\ub2e4\ub178\ub974\ud2b8 \uc8fc"
     ],
@@ -113,14 +110,14 @@
     "name:mar_x_preferred":[
         "\u0932\u0941\u0902\u0921\u093e \u0928\u0949\u0930\u094d\u091f \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Lunda Norte"
+    ],
+    "name:nld_x_preferred":[
+        "Lunda Norte"
     ],
     "name:nob_x_preferred":[
         "Lunda Norte"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0648\u0646\u062f\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Prowincja Lunda P\u00f3\u0142nocna"
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Lunda Norte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Lunda Norte"
     ],
     "name:rus_x_preferred":[
@@ -181,6 +178,9 @@
     ],
     "name:war_x_preferred":[
         "Lunda Norte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u502b\u9054\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AGO",
@@ -305,7 +305,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550307,
+    "wof:lastmodified":1561790767,
     "wof:name":"Lunda Norte",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

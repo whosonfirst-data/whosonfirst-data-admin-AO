@@ -27,16 +27,16 @@
     "meso:name_alt":"Benguela",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Benguela"
-    ],
     "name:eng_x_preferred":[
         "Benguela"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Benguela"
     ],
     "name:ita_x_preferred":[
+        "Benguela"
+    ],
+    "name:nld_x_preferred":[
         "Benguela"
     ],
     "src:geom":"meso",
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1108799959,
-    "wof:lastmodified":1553718826,
+    "wof:lastmodified":1561790852,
     "wof:name":"Benguela",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

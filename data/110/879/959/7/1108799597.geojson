@@ -30,20 +30,20 @@
     "name:cat_x_preferred":[
         "Calai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Calai"
     ],
     "name:eng_x_preferred":[
         "Calai"
     ],
-    "name:fre_x_preferred":[
-        "Calai"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Calai"
     ],
     "name:ita_x_preferred":[
         "Kalai"
+    ],
+    "name:nld_x_preferred":[
+        "Calai"
     ],
     "name:por_x_preferred":[
         "Calai"
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1108799597,
-    "wof:lastmodified":1553718815,
+    "wof:lastmodified":1561790854,
     "wof:name":"Kalai",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

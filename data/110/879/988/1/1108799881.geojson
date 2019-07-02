@@ -30,16 +30,13 @@
     "name:cat_x_preferred":[
         "Gonguembo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gonguembo"
     ],
     "name:eng_x_preferred":[
         "Gonguembo"
     ],
-    "name:fre_x_preferred":[
-        "Gonguembo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gonguembo"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +44,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b4\u30f3\u30b2\u30f3\u30dc"
+    ],
+    "name:nld_x_preferred":[
+        "Gonguembo"
     ],
     "name:por_x_preferred":[
         "Gonguembo"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108799881,
-    "wof:lastmodified":1553718825,
+    "wof:lastmodified":1561790858,
     "wof:name":"Ngonguembo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

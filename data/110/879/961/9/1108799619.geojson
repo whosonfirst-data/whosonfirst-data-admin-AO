@@ -33,16 +33,13 @@
     "name:cat_x_preferred":[
         "Bolongongo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bolongongo"
     ],
     "name:eng_x_preferred":[
         "Bolongongo"
     ],
-    "name:fre_x_preferred":[
-        "Bolongongo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bolongongo"
     ],
     "name:ita_x_preferred":[
@@ -51,7 +48,10 @@
     "name:jpn_x_preferred":[
         "\u30dc\u30ed\u30f3\u30b4\u30f3\u30b4"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Bolongongo"
+    ],
+    "name:nld_x_preferred":[
         "Bolongongo"
     ],
     "name:por_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1108799619,
-    "wof:lastmodified":1553718815,
+    "wof:lastmodified":1561790852,
     "wof:name":"Bolongongo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

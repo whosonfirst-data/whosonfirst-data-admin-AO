@@ -17,26 +17,26 @@
     "name:cat_x_preferred":[
         "Capenda Camulemba"
     ],
-    "name:dut_x_preferred":[
-        "Capenda-Camulemba"
+    "name:deu_x_preferred":[
+        "Capenda Camulemba"
     ],
     "name:eng_x_preferred":[
         "Capenda-Camulemba"
     ],
-    "name:fre_x_preferred":[
-        "Capenda-Camulemba"
+    "name:fas_x_preferred":[
+        "\u06a9\u067e\u0646\u062f\u0627 \u06a9\u0645\u0648\u0644\u0645\u0628\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Capenda Camulemba"
+    "name:fra_x_preferred":[
+        "Capenda-Camulemba"
     ],
     "name:ita_x_preferred":[
         "Capenda Camulemba"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kapenda Kamulemba"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u067e\u0646\u062f\u0627 \u06a9\u0645\u0648\u0644\u0645\u0628\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Capenda-Camulemba"
     ],
     "name:por_x_preferred":[
         "Capenda-Camulemba"
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":1141908151,
-    "wof:lastmodified":1513888706,
+    "wof:lastmodified":1561790981,
     "wof:name":"Capenda-Camulemba",
     "wof:parent_id":1108799965,
     "wof:placetype":"locality",
