@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Gonguembo"
     ],
+    "name:zho_x_preferred":[
+        "\u6069\u8ca2\u53e4\u6069\u535a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799881,
-    "wof:lastmodified":1561790858,
+    "wof:lastmodified":1563362027,
     "wof:name":"Ngonguembo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

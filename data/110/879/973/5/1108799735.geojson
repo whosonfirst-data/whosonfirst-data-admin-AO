@@ -57,6 +57,9 @@
     "name:spa_x_preferred":[
         "Chinguar"
     ],
+    "name:zho_x_preferred":[
+        "\u6b23\u74dc\u723e"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108799735,
-    "wof:lastmodified":1561790857,
+    "wof:lastmodified":1563362020,
     "wof:name":"Chinguar",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

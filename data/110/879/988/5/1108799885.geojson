@@ -27,6 +27,9 @@
     "meso:name_alt":"Tchindjenje",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u062a\u0634\u06cc\u0646\u062f\u0698\u0646\u0698\u0647"
+    ],
     "name:cat_x_preferred":[
         "Tchinjenje"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0634\u06cc\u0646\u062f\u0698\u0646\u0698\u0647\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0634\u06cc\u0646\u062f\u0698\u0646\u0698\u0647"
     ],
     "name:fra_x_preferred":[
         "Tchindjenje"
@@ -53,6 +59,9 @@
     ],
     "name:spa_x_preferred":[
         "Tchindjenje"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b3d\u4efb\u6d85"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1108799885,
-    "wof:lastmodified":1561790859,
+    "wof:lastmodified":1563362027,
     "wof:name":"Chinjenje",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

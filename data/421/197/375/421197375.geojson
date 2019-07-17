@@ -37,8 +37,14 @@
     "name:rus_x_preferred":[
         "\u041b\u0443\u043c\u0435\u0436\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Cameia"
+    ],
     "name:unk_x_variant":[
         "Lumege"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u6885\u71b1"
     ],
     "qs:gn_country":"AO",
     "qs:gn_fcode":"PPL",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421197375,
-    "wof:lastmodified":1561790900,
+    "wof:lastmodified":1563362372,
     "wof:name":"Lumeje",
     "wof:parent_id":1108799791,
     "wof:placetype":"locality",

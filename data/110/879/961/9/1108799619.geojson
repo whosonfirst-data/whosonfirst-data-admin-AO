@@ -60,6 +60,9 @@
     "name:spa_x_preferred":[
         "Bolongongo"
     ],
+    "name:zho_x_preferred":[
+        "\u535a\u6d1b\u6069\u6208\u6069\u6208"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108799619,
-    "wof:lastmodified":1561790852,
+    "wof:lastmodified":1563362001,
     "wof:name":"Bolongongo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

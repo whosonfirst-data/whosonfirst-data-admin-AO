@@ -23,13 +23,22 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0648\u0646\u063a\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u0646\u0642\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0435\u043d\u043e\u043d\u0433\u0432\u0435"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09a8\u0999\u09cd\u0997\u09c1"
     ],
+    "name:bre_x_preferred":[
+        "Menongue"
+    ],
     "name:cat_x_preferred":[
+        "Menongue"
+    ],
+    "name:ceb_x_preferred":[
         "Menongue"
     ],
     "name:dan_x_preferred":[
@@ -50,10 +59,16 @@
     "name:fas_x_preferred":[
         "\u0645\u0646\u0646\u06af\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0646\u0646\u06af\u0648"
+    ],
     "name:fin_x_preferred":[
         "Menongue"
     ],
     "name:fra_x_preferred":[
+        "Menongue"
+    ],
+    "name:frr_x_preferred":[
         "Menongue"
     ],
     "name:guj_x_preferred":[
@@ -134,6 +149,9 @@
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c28\u0c4b\u0c02\u0c17\u0c4d"
     ],
+    "name:tgl_x_preferred":[
+        "Menongue"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e19\u0e34\u0e19\u0e08\u0e35"
     ],
@@ -142,6 +160,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u043e\u043d\u0433\u0432\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0435\u043d\u043e\u043d\u0433\u0435"
     ],
     "name:unk_x_variant":[
         "Vila Serpa Pinto"
@@ -298,7 +319,7 @@
         }
     ],
     "wof:id":421198609,
-    "wof:lastmodified":1561790900,
+    "wof:lastmodified":1563362371,
     "wof:name":"Menongue",
     "wof:parent_id":1108799961,
     "wof:placetype":"locality",

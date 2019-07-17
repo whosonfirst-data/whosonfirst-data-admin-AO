@@ -30,16 +30,25 @@
     "name:cat_x_preferred":[
         "Chongoroi"
     ],
+    "name:ceb_x_preferred":[
+        "Munic\u00edpio Chongoroi"
+    ],
     "name:deu_x_preferred":[
         "Chongor\u00f3i"
     ],
     "name:eng_x_preferred":[
         "Chongoroi"
     ],
+    "name:eng_x_variant":[
+        "Chongor\u00f3i"
+    ],
     "name:fra_x_preferred":[
         "Chongor\u00f3i"
     ],
     "name:ita_x_preferred":[
+        "Chongor\u00f3i"
+    ],
+    "name:ltz_x_preferred":[
         "Chongor\u00f3i"
     ],
     "name:msa_x_preferred":[
@@ -59,6 +68,9 @@
     ],
     "name:swe_x_preferred":[
         "Munic\u00edpio Chongoroi"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c4\u6208\u7f85\u4f0a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":1108799717,
-    "wof:lastmodified":1561790850,
+    "wof:lastmodified":1563361991,
     "wof:name":"Chongoroi",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

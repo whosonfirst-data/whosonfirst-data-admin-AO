@@ -51,6 +51,9 @@
     "name:spa_x_preferred":[
         "Cuaba Nzogo"
     ],
+    "name:zho_x_preferred":[
+        "\u57fa\u74e6\u5df4\u6069\u4f50\u5409"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108799701,
-    "wof:lastmodified":1561790848,
+    "wof:lastmodified":1563361985,
     "wof:name":"Kiuaba-Nzoji",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

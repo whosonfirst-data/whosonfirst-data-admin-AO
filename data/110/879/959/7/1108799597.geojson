@@ -51,6 +51,9 @@
     "name:spa_x_preferred":[
         "Calai"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u4f0a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108799597,
-    "wof:lastmodified":1561790854,
+    "wof:lastmodified":1563362006,
     "wof:name":"Kalai",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

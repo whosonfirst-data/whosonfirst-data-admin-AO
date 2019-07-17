@@ -54,6 +54,12 @@
     "name:spa_x_preferred":[
         "Damba"
     ],
+    "name:tgl_x_preferred":[
+        "Damba"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u5df4"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799705,
-    "wof:lastmodified":1561790849,
+    "wof:lastmodified":1563361985,
     "wof:name":"Damba",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

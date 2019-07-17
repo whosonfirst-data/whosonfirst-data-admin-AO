@@ -48,6 +48,12 @@
     "name:por_x_preferred":[
         "Cambulo"
     ],
+    "name:spa_x_preferred":[
+        "Cambulo"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u5e03\u6d1b"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799925,
-    "wof:lastmodified":1561790854,
+    "wof:lastmodified":1563362005,
     "wof:name":"Kambulo",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

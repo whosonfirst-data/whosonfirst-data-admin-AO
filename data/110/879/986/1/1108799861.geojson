@@ -57,6 +57,9 @@
     "name:spa_x_preferred":[
         "Alto Zambeze"
     ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u8d0a\u8c9d\u6fa4"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108799861,
-    "wof:lastmodified":1561790860,
+    "wof:lastmodified":1563362034,
     "wof:name":"Alto Zambeze",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

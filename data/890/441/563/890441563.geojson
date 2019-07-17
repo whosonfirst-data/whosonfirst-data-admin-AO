@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0627\u0643\u0648\u0628\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0645\u06a9\u0648\u067e\u0627"
+    ],
     "name:cat_x_preferred":[
         "Camacupa"
     ],
@@ -31,6 +34,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0645\u06a9\u0648\u067e\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0645\u06a9\u0648\u067e\u0627"
+    ],
     "name:fra_x_preferred":[
         "Camacupa"
     ],
@@ -38,6 +44,9 @@
         "Camacupa"
     ],
     "name:nld_x_preferred":[
+        "Camacupa"
+    ],
+    "name:pol_x_preferred":[
         "Camacupa"
     ],
     "name:por_x_preferred":[
@@ -54,6 +63,9 @@
     ],
     "name:unk_x_variant":[
         "Machado"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u99ac\u5eab\u5e15"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -180,7 +192,7 @@
         }
     ],
     "wof:id":890441563,
-    "wof:lastmodified":1561790901,
+    "wof:lastmodified":1563362375,
     "wof:name":"Camacupa",
     "wof:parent_id":1108799709,
     "wof:placetype":"locality",

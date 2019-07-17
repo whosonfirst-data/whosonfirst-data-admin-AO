@@ -33,11 +33,20 @@
     "name:fra_x_preferred":[
         "Benguela"
     ],
+    "name:frr_x_preferred":[
+        "Benguela"
+    ],
     "name:ita_x_preferred":[
+        "Benguela"
+    ],
+    "name:ltz_x_preferred":[
         "Benguela"
     ],
     "name:nld_x_preferred":[
         "Benguela"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u0433\u0435\u043b\u0430"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1108799959,
-    "wof:lastmodified":1561790852,
+    "wof:lastmodified":1563362000,
     "wof:name":"Benguela",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

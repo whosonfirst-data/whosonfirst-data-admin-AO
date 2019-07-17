@@ -33,7 +33,13 @@
     "name:ast_x_preferred":[
         "N'Zeto"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0632\u062a\u0648"
+    ],
     "name:cat_x_preferred":[
+        "Nzeto"
+    ],
+    "name:ceb_x_preferred":[
         "Nzeto"
     ],
     "name:deu_x_preferred":[
@@ -42,8 +48,14 @@
     "name:eng_x_preferred":[
         "N'Zeto"
     ],
+    "name:eng_x_variant":[
+        "N'zeto"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0632\u062a\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0632\u062a\u0648"
     ],
     "name:fra_x_preferred":[
         "N'Zeto"
@@ -71,6 +83,9 @@
     ],
     "name:spa_x_preferred":[
         "N'Zeto"
+    ],
+    "name:swe_x_preferred":[
+        "Nzeto"
     ],
     "name:zho_x_preferred":[
         "\u6069\u6fa4\u6258"
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1108799731,
-    "wof:lastmodified":1561790857,
+    "wof:lastmodified":1563362019,
     "wof:name":"Nzeto",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

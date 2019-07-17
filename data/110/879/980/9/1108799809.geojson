@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Quiculungo"
     ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5eab\u9686\u6208"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799809,
-    "wof:lastmodified":1561790857,
+    "wof:lastmodified":1563362022,
     "wof:name":"Kiculungo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

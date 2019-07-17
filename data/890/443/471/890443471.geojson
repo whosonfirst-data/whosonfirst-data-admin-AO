@@ -52,6 +52,9 @@
     "name:unk_x_variant":[
         "Vila Teixera de Souza"
     ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5967"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
     "ne:ADM0_A3":"AGO",
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":890443471,
-    "wof:lastmodified":1561790901,
+    "wof:lastmodified":1563362379,
     "wof:name":"Luau",
     "wof:parent_id":1108799637,
     "wof:placetype":"locality",

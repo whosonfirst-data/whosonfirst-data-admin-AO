@@ -30,6 +30,9 @@
     "name:cat_x_preferred":[
         "Cacuaco"
     ],
+    "name:ceb_x_preferred":[
+        "Cacuaco Municipality"
+    ],
     "name:deu_x_preferred":[
         "Cacuaco"
     ],
@@ -40,6 +43,9 @@
         "Cacuaco"
     ],
     "name:ita_x_preferred":[
+        "Cacuaco"
+    ],
+    "name:ltz_x_preferred":[
         "Cacuaco"
     ],
     "name:msa_x_preferred":[
@@ -56,6 +62,9 @@
     ],
     "name:swe_x_preferred":[
         "Cacuaco Municipality"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5938\u79d1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1108799945,
-    "wof:lastmodified":1561790856,
+    "wof:lastmodified":1563362014,
     "wof:name":"Cacuaco",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0627\u0646\u0632\u0627 \u0633\u0648\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Cuanza Sur"
+    ],
+    "name:bar_x_preferred":[
+        "Provinz Cuanza Sul"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430\u044f \u041a\u0432\u0430\u043d\u0437\u0430"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:cat_x_preferred":[
         "Kwanza-Sud"
+    ],
+    "name:ceb_x_preferred":[
+        "Kwanza Sul"
     ],
     "name:dan_x_preferred":[
         "Cuanza Sul"
@@ -75,6 +84,9 @@
     ],
     "name:fra_x_preferred":[
         "Kwanza-Sud"
+    ],
+    "name:frr_x_preferred":[
+        "Cuanza Sul"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0a86\u0aa8\u0acd\u0a9d\u0abe \u0ab8\u0ac1\u0ab2"
@@ -106,11 +118,17 @@
     "name:lit_x_preferred":[
         "Piet\u0173 Kvanza"
     ],
+    "name:ltz_x_preferred":[
+        "Prov\u00ebnz Cuanza Sul"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0906\u0928\u094d\u091c\u093e \u0938\u0941\u0932\u094d\u0932"
     ],
     "name:msa_x_preferred":[
         "Cuanza Sul"
+    ],
+    "name:nan_x_preferred":[
+        "Cuanza Sul S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Cuanza Sul"
@@ -132,6 +150,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd4\u0dc0\u0db1\u0dca\u0dc3\u0dcf \u0dc3\u0dbd\u0dca"
+    ],
+    "name:som_x_preferred":[
+        "Cuanza Sul Province"
     ],
     "name:spa_x_preferred":[
         "Cuanza Sur"
@@ -180,6 +201,9 @@
     ],
     "name:war_x_preferred":[
         "Cuanza Sul"
+    ],
+    "name:yue_x_preferred":[
+        "\u5357\u5ee3\u85a9\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5357\u5ee3\u85a9\u7701"
@@ -305,7 +329,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561790768,
+    "wof:lastmodified":1563361041,
     "wof:name":"Cuanza Sul",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

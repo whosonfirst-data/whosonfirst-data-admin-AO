@@ -39,6 +39,9 @@
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0627\u0646\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0648\u06cc\u0627\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Viana"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30a2\u30ca"
+    ],
+    "name:ltz_x_preferred":[
+        "Viana"
     ],
     "name:msa_x_preferred":[
         "Viana"
@@ -65,6 +71,9 @@
     ],
     "name:spa_x_preferred":[
         "Viana"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u4e9e\u7d0d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1108799895,
-    "wof:lastmodified":1561790858,
+    "wof:lastmodified":1563362026,
     "wof:name":"Viana",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

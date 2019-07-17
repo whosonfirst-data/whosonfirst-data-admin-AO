@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Tchicala-Tcholoanga"
     ],
+    "name:eng_x_variant":[
+        "Tchicala Tcholoanga"
+    ],
     "name:fra_x_preferred":[
         "Tchicala Tcholoanga"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:spa_x_preferred":[
         "Tchicala-Tcholoanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u5361\u62c9\u7d39\u6d1b\u5b89\u52a0"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799867,
-    "wof:lastmodified":1561790860,
+    "wof:lastmodified":1563362033,
     "wof:name":"Thicala-Thilohanga",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

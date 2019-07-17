@@ -54,6 +54,9 @@
     "name:cat_x_preferred":[
         "Cabinda"
     ],
+    "name:ceb_x_preferred":[
+        "Cabinda"
+    ],
     "name:ces_x_preferred":[
         "Cabinda"
     ],
@@ -80,6 +83,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Kabindo"
+    ],
+    "name:epo_x_variant":[
+        "Kabindo"
     ],
     "name:eus_x_preferred":[
         "Kabinda"
@@ -150,6 +156,9 @@
     "name:lav_x_preferred":[
         "Kabindas province"
     ],
+    "name:lfn_x_preferred":[
+        "Provinse Cabinda"
+    ],
     "name:lit_x_preferred":[
         "Kabinda"
     ],
@@ -164,6 +173,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u0628\u06cc\u0646\u062f\u0627"
+    ],
+    "name:nan_x_preferred":[
+        "Cabinda S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Cabinda"
@@ -185,6 +197,12 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dcf\u0db6\u0dd2\u0db1\u0dca\u0da9\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:slk_x_preferred":[
+        "Cabinda"
+    ],
+    "name:som_x_preferred":[
+        "Cabinda Province"
     ],
     "name:spa_x_preferred":[
         "Cabinda"
@@ -233,6 +251,9 @@
     ],
     "name:war_x_preferred":[
         "Cabinda"
+    ],
+    "name:yue_x_preferred":[
+        "\u5580\u4e19\u9054\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5580\u4e19\u9054\u7701"
@@ -361,7 +382,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561790768,
+    "wof:lastmodified":1563361043,
     "wof:name":"Cabinda",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

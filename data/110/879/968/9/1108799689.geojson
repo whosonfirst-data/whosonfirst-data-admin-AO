@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Alto Cauale"
     ],
+    "name:eng_x_variant":[
+        "Kangola"
+    ],
     "name:fra_x_preferred":[
         "Kangola"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108799689,
-    "wof:lastmodified":1561790852,
+    "wof:lastmodified":1563361998,
     "wof:name":"Kangola",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

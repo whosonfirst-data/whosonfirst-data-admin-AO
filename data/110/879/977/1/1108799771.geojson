@@ -51,6 +51,9 @@
     "name:spa_x_preferred":[
         "Cambundi-Catembo"
     ],
+    "name:zho_x_preferred":[
+        "\u574e\u672c\u8fea-\u5361\u6ed5\u535a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108799771,
-    "wof:lastmodified":1561790846,
+    "wof:lastmodified":1563361977,
     "wof:name":"Kambundi-Katembo",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

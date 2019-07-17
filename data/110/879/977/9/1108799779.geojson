@@ -51,6 +51,9 @@
     "name:spa_x_preferred":[
         "Rivungo"
     ],
+    "name:zho_x_preferred":[
+        "\u91cc\u6eab\u6208"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108799779,
-    "wof:lastmodified":1561790846,
+    "wof:lastmodified":1563361976,
     "wof:name":"Rivungo",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

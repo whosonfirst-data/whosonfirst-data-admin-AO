@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Cazengo"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u66fe\u6208"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799713,
-    "wof:lastmodified":1561790850,
+    "wof:lastmodified":1563361992,
     "wof:name":"Kazengo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

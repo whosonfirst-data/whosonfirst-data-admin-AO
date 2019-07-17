@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Curoca"
     ],
+    "name:eng_x_variant":[
+        "Kuroka"
+    ],
     "name:fra_x_preferred":[
         "Kuroka"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:spa_x_preferred":[
         "Curoca"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u7f85\u5361"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799849,
-    "wof:lastmodified":1561790848,
+    "wof:lastmodified":1563361982,
     "wof:name":"Kuroka",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

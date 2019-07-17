@@ -27,6 +27,9 @@
     "meso:name_alt":"Ambuila",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u06cc\u0644\u0627"
+    ],
     "name:cat_x_preferred":[
         "Ambu\u00edla"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:spa_x_preferred":[
         "Ambu\u00edla"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5e03\u4f0a\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799711,
-    "wof:lastmodified":1561790850,
+    "wof:lastmodified":1563361991,
     "wof:name":"Ambuila",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

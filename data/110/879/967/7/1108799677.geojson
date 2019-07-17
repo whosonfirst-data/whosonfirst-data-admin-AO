@@ -42,6 +42,9 @@
     "name:ita_x_preferred":[
         "Cazenga"
     ],
+    "name:ltz_x_preferred":[
+        "Cazenga"
+    ],
     "name:msa_x_preferred":[
         "Cazenga"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:spa_x_preferred":[
         "Cazenga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u66fe\u52a0"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799677,
-    "wof:lastmodified":1561790854,
+    "wof:lastmodified":1563362009,
     "wof:name":"Cazenga",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

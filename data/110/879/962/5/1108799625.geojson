@@ -30,6 +30,9 @@
     "name:cat_x_preferred":[
         "Samba Caj\u00fa"
     ],
+    "name:ceb_x_preferred":[
+        "Samba Caj\u00fa"
+    ],
     "name:deu_x_preferred":[
         "Samba Caj\u00fa"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:swe_x_preferred":[
         "Samba Caj\u00fa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u5df4\u5361\u6731"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108799625,
-    "wof:lastmodified":1561790842,
+    "wof:lastmodified":1563361971,
     "wof:name":"Samba Caju",
     "wof:parent_id":85667659,
     "wof:placetype":"county",
