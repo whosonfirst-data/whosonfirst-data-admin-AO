@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Ebo"
     ],
+    "name:zho_x_preferred":[
+        "\u57c3\u535a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799659,
-    "wof:lastmodified":1561790839,
+    "wof:lastmodified":1563361964,
     "wof:name":"Ebo",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

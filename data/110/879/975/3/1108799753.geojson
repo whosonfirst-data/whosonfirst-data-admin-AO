@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Mucaba"
     ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5361\u5df4"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799753,
-    "wof:lastmodified":1561790859,
+    "wof:lastmodified":1563362030,
     "wof:name":"Mucaba",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

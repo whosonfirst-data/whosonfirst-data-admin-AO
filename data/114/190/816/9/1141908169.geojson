@@ -53,6 +53,9 @@
     "name:spa_x_preferred":[
         "Cuito Cuanavale"
     ],
+    "name:zho_x_preferred":[
+        "\u594e\u6258\u5938\u7d0d\u74e6\u840a"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
     "ne:ADM0_A3":"AGO",
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1141908169,
-    "wof:lastmodified":1561790979,
+    "wof:lastmodified":1563363072,
     "wof:name":"Cuito Caunavale",
     "wof:parent_id":1108799691,
     "wof:placetype":"locality",

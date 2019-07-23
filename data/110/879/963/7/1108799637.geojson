@@ -57,6 +57,9 @@
     "name:spa_x_preferred":[
         "Luau"
     ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5967"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108799637,
-    "wof:lastmodified":1561790843,
+    "wof:lastmodified":1563361972,
     "wof:name":"Luau",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

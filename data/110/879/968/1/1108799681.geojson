@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Cuemba"
     ],
+    "name:zho_x_preferred":[
+        "\u6606\u5df4"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799681,
-    "wof:lastmodified":1561790852,
+    "wof:lastmodified":1563361999,
     "wof:name":"Kuemba",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Marimba"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6797\u5df4"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799621,
-    "wof:lastmodified":1561790841,
+    "wof:lastmodified":1563361970,
     "wof:name":"Marimba",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

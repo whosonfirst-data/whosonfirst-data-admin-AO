@@ -42,6 +42,9 @@
     "name:ita_x_preferred":[
         "Kilenda"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30ea\u30f3\u30c0"
+    ],
     "name:msa_x_preferred":[
         "Kilenda"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:spa_x_preferred":[
         "Quilenda"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u502b\u9054"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799949,
-    "wof:lastmodified":1561790855,
+    "wof:lastmodified":1563362013,
     "wof:name":"Kilenda",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

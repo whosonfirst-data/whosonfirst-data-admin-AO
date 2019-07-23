@@ -51,6 +51,9 @@
     "name:spa_x_preferred":[
         "Quitexe"
     ],
+    "name:zho_x_preferred":[
+        "\u57fa\u6cf0\u8b1d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108799843,
-    "wof:lastmodified":1561790848,
+    "wof:lastmodified":1563361983,
     "wof:name":"Kitexe",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

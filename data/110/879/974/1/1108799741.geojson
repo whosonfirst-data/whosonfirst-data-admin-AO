@@ -57,6 +57,9 @@
     "name:spa_x_preferred":[
         "Dirico"
     ],
+    "name:zho_x_preferred":[
+        "\u8fea\u91cc\u79d1"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108799741,
-    "wof:lastmodified":1561790857,
+    "wof:lastmodified":1563362021,
     "wof:name":"Dirico",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

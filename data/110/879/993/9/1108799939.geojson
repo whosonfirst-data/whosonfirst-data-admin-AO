@@ -27,6 +27,9 @@
     "meso:name_alt":"Ambaca",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u06a9\u0627"
+    ],
     "name:cat_x_preferred":[
         "Ambaca"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:spa_x_preferred":[
         "Ambaca"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5df4\u5361"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108799939,
-    "wof:lastmodified":1561790854,
+    "wof:lastmodified":1563362006,
     "wof:name":"Ambaca",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Luquembo"
     ],
+    "name:zho_x_preferred":[
+        "\u76e7\u80af\u535a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799719,
-    "wof:lastmodified":1561790850,
+    "wof:lastmodified":1563361991,
     "wof:name":"Lukembo",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

@@ -43,6 +43,9 @@
     "name:unk_x_variant":[
         "Sandando"
     ],
+    "name:zho_x_preferred":[
+        "\u840a\u74e6"
+    ],
     "qs:gn_country":"AO",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":876233,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421167137,
-    "wof:lastmodified":1561790900,
+    "wof:lastmodified":1563362365,
     "wof:name":"Le\u00faa",
     "wof:parent_id":1108799915,
     "wof:placetype":"locality",

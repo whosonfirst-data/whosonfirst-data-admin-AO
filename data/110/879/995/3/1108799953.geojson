@@ -39,6 +39,9 @@
     "name:nld_x_preferred":[
         "Namibe"
     ],
+    "name:por_x_preferred":[
+        "Namibe"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108799953,
-    "wof:lastmodified":1561790852,
+    "wof:lastmodified":1563362001,
     "wof:name":"Namibe",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

@@ -51,6 +51,9 @@
     "name:spa_x_preferred":[
         "Mucari"
     ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5361\u91cc"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108799755,
-    "wof:lastmodified":1561790859,
+    "wof:lastmodified":1563362030,
     "wof:name":"Mukari",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

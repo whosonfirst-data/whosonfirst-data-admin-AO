@@ -30,6 +30,9 @@
     "name:ast_x_preferred":[
         "Ucuma"
     ],
+    "name:azb_x_preferred":[
+        "\u06cc\u0648\u06a9\u0648\u0645\u0627"
+    ],
     "name:cat_x_preferred":[
         "Ukuma"
     ],
@@ -39,8 +42,14 @@
     "name:eng_x_preferred":[
         "Ucuma"
     ],
+    "name:eng_x_variant":[
+        "Ukuma"
+    ],
     "name:fas_x_preferred":[
         "\u06cc\u0648\u06a9\u0648\u0645\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u06cc\u0648\u06a9\u0648\u0645\u0627"
     ],
     "name:fra_x_preferred":[
         "Ukuma"
@@ -59,6 +68,9 @@
     ],
     "name:spa_x_preferred":[
         "Ucuma"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5eab\u99ac"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":1108799845,
-    "wof:lastmodified":1561790848,
+    "wof:lastmodified":1563361984,
     "wof:name":"Ukuma",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

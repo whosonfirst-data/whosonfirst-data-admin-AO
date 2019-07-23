@@ -51,6 +51,9 @@
     "name:por_x_preferred":[
         "Banga"
     ],
+    "name:spa_x_preferred":[
+        "Banga"
+    ],
     "name:vie_x_preferred":[
         "Banga"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108799733,
-    "wof:lastmodified":1561790857,
+    "wof:lastmodified":1563362019,
     "wof:name":"Banga",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

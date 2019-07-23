@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Chicomba"
     ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5b54\u5df4"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799605,
-    "wof:lastmodified":1561790855,
+    "wof:lastmodified":1563362012,
     "wof:name":"Chicomba",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

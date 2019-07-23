@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0645\u0628\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0645\u0628\u0647"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0443\u043c\u0431\u044d"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0645\u0628\u0647\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0645\u0628\u0647"
     ],
     "name:fin_x_preferred":[
         "Sumbe"
@@ -300,7 +306,7 @@
         }
     ],
     "wof:id":421192771,
-    "wof:lastmodified":1561790899,
+    "wof:lastmodified":1563362363,
     "wof:name":"Sumbe",
     "wof:parent_id":1108799795,
     "wof:placetype":"locality",

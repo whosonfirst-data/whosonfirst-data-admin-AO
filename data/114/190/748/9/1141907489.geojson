@@ -20,6 +20,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u06a9\u0648\u0633\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u06a9\u0648\u0633\u0648"
+    ],
     "name:fra_x_preferred":[
         "Mucusso"
     ],
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":1141907489,
-    "wof:lastmodified":1561790980,
+    "wof:lastmodified":1563363075,
     "wof:name":"Mucusso",
     "wof:parent_id":1108799741,
     "wof:placetype":"locality",

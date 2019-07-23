@@ -48,6 +48,9 @@
     "name:por_x_preferred":[
         "Amboim"
     ],
+    "name:spa_x_preferred":[
+        "Amboim"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108799827,
-    "wof:lastmodified":1561790850,
+    "wof:lastmodified":1563361994,
     "wof:name":"Amboim",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

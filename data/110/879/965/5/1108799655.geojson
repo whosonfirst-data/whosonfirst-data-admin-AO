@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Caombo"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u7fc1\u535a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799655,
-    "wof:lastmodified":1561790840,
+    "wof:lastmodified":1563361966,
     "wof:name":"Kahombo",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

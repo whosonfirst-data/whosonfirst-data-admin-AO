@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Lubalo"
     ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5df4\u6d1b"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799759,
-    "wof:lastmodified":1561790859,
+    "wof:lastmodified":1563362029,
     "wof:name":"Lubalo",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

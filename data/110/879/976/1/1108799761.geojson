@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Tombwa"
     ],
+    "name:eng_x_variant":[
+        "T\u00f4mbua"
+    ],
     "name:fra_x_preferred":[
         "T\u00f4mbua"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108799761,
-    "wof:lastmodified":1561790851,
+    "wof:lastmodified":1563361997,
     "wof:name":"Tombua",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

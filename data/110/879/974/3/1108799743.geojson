@@ -42,6 +42,9 @@
     "name:ita_x_preferred":[
         "Libolo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30dc\u30ed"
+    ],
     "name:nld_x_preferred":[
         "Libolo"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:spa_x_preferred":[
         "Libolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u535a\u6d1b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108799743,
-    "wof:lastmodified":1561790857,
+    "wof:lastmodified":1563362022,
     "wof:name":"Libolo",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

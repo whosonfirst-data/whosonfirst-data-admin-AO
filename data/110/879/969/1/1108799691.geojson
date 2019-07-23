@@ -66,6 +66,9 @@
     "name:spa_x_preferred":[
         "Cuito Cuanavale"
     ],
+    "name:zho_x_preferred":[
+        "\u594e\u6258\u5938\u7d0d\u74e6\u840a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108799691,
-    "wof:lastmodified":1561790856,
+    "wof:lastmodified":1563362015,
     "wof:name":"Kuito Kuanavale",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

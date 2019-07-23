@@ -57,6 +57,9 @@
     "name:spa_x_preferred":[
         "Cunhinga"
     ],
+    "name:zho_x_preferred":[
+        "\u5eab\u5be7\u52a0"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108799907,
-    "wof:lastmodified":1561790844,
+    "wof:lastmodified":1563361974,
     "wof:name":"Kunhinga",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

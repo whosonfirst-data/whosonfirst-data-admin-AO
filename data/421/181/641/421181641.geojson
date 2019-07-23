@@ -16,6 +16,15 @@
     "name:ceb_x_preferred":[
         "Cubal"
     ],
+    "name:eng_x_preferred":[
+        "Rio Quicombo"
+    ],
+    "name:nob_x_preferred":[
+        "Quicombo"
+    ],
+    "name:por_x_preferred":[
+        "Rio Cubal-Quicombo"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043a\u043e\u043c\u0431\u043e"
     ],
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":421181641,
-    "wof:lastmodified":1527716328,
+    "wof:lastmodified":1563362370,
     "wof:name":"Quicombo",
     "wof:parent_id":1108799795,
     "wof:placetype":"locality",

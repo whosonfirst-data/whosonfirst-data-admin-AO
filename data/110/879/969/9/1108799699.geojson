@@ -48,6 +48,12 @@
     "name:por_x_preferred":[
         "Camucuio"
     ],
+    "name:spa_x_preferred":[
+        "Camucuio"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u99ac\u594e\u5967"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799699,
-    "wof:lastmodified":1561790856,
+    "wof:lastmodified":1563362015,
     "wof:name":"Kamukuio",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

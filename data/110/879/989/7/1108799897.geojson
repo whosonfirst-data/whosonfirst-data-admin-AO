@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Virey"
     ],
+    "name:zho_x_preferred":[
+        "\u7dad\u96f7"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799897,
-    "wof:lastmodified":1561790858,
+    "wof:lastmodified":1563362025,
     "wof:name":"Virei",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

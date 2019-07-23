@@ -51,6 +51,9 @@
     "name:spa_x_preferred":[
         "Chitato"
     ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5854\u6258"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108799855,
-    "wof:lastmodified":1561790850,
+    "wof:lastmodified":1563361994,
     "wof:name":"Chitato",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

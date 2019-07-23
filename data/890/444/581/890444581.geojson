@@ -16,11 +16,59 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
+    "name:afr_x_preferred":[
+        "Benguela"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u063a\u064a\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Benguela"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0646\u0642\u0648\u0626\u0644\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u043d\u0433\u0435\u043b\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09a8\u0997\u09c1\u09af\u09bc\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Benguela"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043d\u0433\u0435\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Benguela"
+    ],
+    "name:ceb_x_preferred":[
+        "Benguela"
+    ],
+    "name:ces_x_preferred":[
+        "Benguela"
+    ],
+    "name:dan_x_preferred":[
+        "Benguela"
+    ],
     "name:deu_x_preferred":[
         "Benguela"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bd\u03b3\u03ba\u03bf\u03c5\u03ad\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Benguela"
+    ],
+    "name:epo_x_preferred":[
+        "Benguela"
+    ],
+    "name:eus_x_preferred":[
+        "Benguela"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u06af\u0648\u0626\u0644\u0627"
     ],
     "name:fin_x_preferred":[
         "Benguela"
@@ -28,13 +76,82 @@
     "name:fra_x_preferred":[
         "Benguela"
     ],
+    "name:frr_x_preferred":[
+        "Benguela"
+    ],
     "name:glg_x_preferred":[
+        "Benguela"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac7\u0a82\u0a97\u0ac1\u0a8f\u0ab2\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Benguela"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0902\u0917\u0941\u090f\u0932\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Benguela"
+    ],
+    "name:hun_x_preferred":[
+        "Benguela"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0576\u0563\u0565\u056c\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Benguela"
+    ],
+    "name:ind_x_preferred":[
         "Benguela"
     ],
     "name:ita_x_preferred":[
         "Benguela"
     ],
+    "name:jav_x_preferred":[
+        "Benguela"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30f3\u30b2\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc6\u0c82\u0c97\u0cc1\u0cb5\u0cb2\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10dc\u10d2\u10d4\u10da\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcb5\uac94\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Benguela"
+    ],
+    "name:lav_x_preferred":[
+        "Bengela"
+    ],
+    "name:lit_x_preferred":[
+        "Bengela"
+    ],
+    "name:ltz_x_preferred":[
+        "Benguela"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0902\u0917\u094d\u0932\u093e\u0932\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Benguela"
+    ],
+    "name:mwl_x_preferred":[
+        "Benguela"
+    ],
+    "name:nah_x_preferred":[
+        "Benguela"
+    ],
     "name:nld_x_preferred":[
+        "Benguela"
+    ],
+    "name:nob_x_preferred":[
         "Benguela"
     ],
     "name:pol_x_preferred":[
@@ -43,14 +160,53 @@
     "name:por_x_preferred":[
         "Benguela"
     ],
+    "name:ron_x_preferred":[
+        "Benguela"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043d\u0433\u0435\u043b\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd9\u0db1\u0dca\u0d9c\u0dd4\u0dbd\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Benguela"
     ],
     "name:swe_x_preferred":[
         "Benguela"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bc1\u0bb2\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c46\u0c28\u0c4d\u0c17\u0c41\u0c2f\u0c46\u0c32\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0435\u043d\u0433\u0443\u044d\u043b\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Benguela"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e07\u0e01\u0e35\u0e25\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Benguela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d\u0433\u0435\u043b\u0430"
+    ],
     "name:unk_x_variant":[
         "S\u00e3o F\u00e9lipe de Benguela"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0646\u06af\u0648\u0626\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Benguela"
+    ],
+    "name:war_x_preferred":[
+        "Benguela"
     ],
     "name:zho_x_preferred":[
         "\u672c\u5409\u62c9"
@@ -184,7 +340,7 @@
         }
     ],
     "wof:id":890444581,
-    "wof:lastmodified":1527782131,
+    "wof:lastmodified":1563362377,
     "wof:name":"Benguela",
     "wof:parent_id":1108799959,
     "wof:placetype":"locality",

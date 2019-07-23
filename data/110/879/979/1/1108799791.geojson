@@ -48,6 +48,12 @@
     "name:por_x_preferred":[
         "Lumeje"
     ],
+    "name:spa_x_preferred":[
+        "Cameia"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u6885\u71b1"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799791,
-    "wof:lastmodified":1561790849,
+    "wof:lastmodified":1563361987,
     "wof:name":"Kameia",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

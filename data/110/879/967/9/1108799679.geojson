@@ -39,6 +39,9 @@
     "name:fra_x_preferred":[
         "Noqui"
     ],
+    "name:frr_x_preferred":[
+        "N\u00f3qui"
+    ],
     "name:ita_x_preferred":[
         "Noqui"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:spa_x_preferred":[
         "Noqui"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u57fa"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108799679,
-    "wof:lastmodified":1561790854,
+    "wof:lastmodified":1563362009,
     "wof:name":"Noqui",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

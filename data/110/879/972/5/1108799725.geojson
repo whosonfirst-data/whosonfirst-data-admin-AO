@@ -51,6 +51,9 @@
     "name:spa_x_preferred":[
         "Cunda-Dia-Baze"
     ],
+    "name:zho_x_preferred":[
+        "\u6606\u9054-\u8fea\u4e9e-\u5df4\u585e"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108799725,
-    "wof:lastmodified":1561790860,
+    "wof:lastmodified":1563362032,
     "wof:name":"Kunda-ia-Baze",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

@@ -39,11 +39,17 @@
     "name:fra_x_preferred":[
         "Dembos"
     ],
+    "name:frr_x_preferred":[
+        "Dembos"
+    ],
     "name:ita_x_preferred":[
         "Dembos"
     ],
     "name:jpn_x_preferred":[
         "\u30c7\u30f3\u30dc\u30b9"
+    ],
+    "name:ltz_x_preferred":[
+        "Dembos"
     ],
     "name:nld_x_preferred":[
         "Dembos"
@@ -53,6 +59,9 @@
     ],
     "name:spa_x_preferred":[
         "Dembos"
+    ],
+    "name:zho_x_preferred":[
+        "\u767b\u535a\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1108799859,
-    "wof:lastmodified":1561790850,
+    "wof:lastmodified":1563361993,
     "wof:name":"Dembos",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

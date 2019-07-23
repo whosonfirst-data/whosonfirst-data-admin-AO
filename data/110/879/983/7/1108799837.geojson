@@ -30,6 +30,9 @@
     "name:cat_x_preferred":[
         "Bocoio"
     ],
+    "name:ceb_x_preferred":[
+        "Munic\u00edpio Bocoio"
+    ],
     "name:deu_x_preferred":[
         "Bocoio"
     ],
@@ -39,7 +42,13 @@
     "name:fra_x_preferred":[
         "Bocoio"
     ],
+    "name:frr_x_preferred":[
+        "Bocoio"
+    ],
     "name:ita_x_preferred":[
+        "Bocoio"
+    ],
+    "name:ltz_x_preferred":[
         "Bocoio"
     ],
     "name:msa_x_preferred":[
@@ -56,6 +65,12 @@
     ],
     "name:spa_x_preferred":[
         "Bocoio"
+    ],
+    "name:swe_x_preferred":[
+        "Munic\u00edpio Bocoio"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u79d1\u7d04"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +106,7 @@
         }
     ],
     "wof:id":1108799837,
-    "wof:lastmodified":1561790847,
+    "wof:lastmodified":1563361978,
     "wof:name":"Bocoio",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

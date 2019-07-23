@@ -42,11 +42,17 @@
     "name:fra_x_preferred":[
         "Pango Aluqu\u00e9m"
     ],
+    "name:frr_x_preferred":[
+        "Pango Aluqu\u00e9m"
+    ],
     "name:ita_x_preferred":[
         "Pango-Aluqu\u00e9m"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30f3\u30b4\uff1d\u30a2\u30eb\u30b1\u30f3"
+    ],
+    "name:ltz_x_preferred":[
+        "Pango Aluqu\u00e9m"
     ],
     "name:msa_x_preferred":[
         "Pango-luquem"
@@ -59,6 +65,9 @@
     ],
     "name:spa_x_preferred":[
         "Pango-Aluqu\u00e9m"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f58\u6208\u963f\u76e7\u80af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1108799927,
-    "wof:lastmodified":1561790853,
+    "wof:lastmodified":1563362004,
     "wof:name":"Pango-Aluquem",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Tomboco"
     ],
+    "name:zho_x_preferred":[
+        "\u901a\u535a\u79d1"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799615,
-    "wof:lastmodified":1561790853,
+    "wof:lastmodified":1563362002,
     "wof:name":"Tomboco",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

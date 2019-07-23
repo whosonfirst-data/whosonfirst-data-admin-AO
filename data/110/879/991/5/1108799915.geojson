@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "L\u00e9ua"
     ],
+    "name:zho_x_preferred":[
+        "\u840a\u74e6"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799915,
-    "wof:lastmodified":1561790840,
+    "wof:lastmodified":1563361968,
     "wof:name":"Leua",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

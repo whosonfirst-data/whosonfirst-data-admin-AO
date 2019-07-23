@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Cuanhama"
     ],
+    "name:eng_x_variant":[
+        "Kwanyama"
+    ],
     "name:fra_x_preferred":[
         "Kwanyama"
     ],
@@ -47,6 +50,12 @@
     ],
     "name:por_x_preferred":[
         "Cuanhama"
+    ],
+    "name:spa_x_preferred":[
+        "Cuanhama"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bec\u54c8\u99ac"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1108799767,
-    "wof:lastmodified":1561790851,
+    "wof:lastmodified":1563361996,
     "wof:name":"Kwanyama",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

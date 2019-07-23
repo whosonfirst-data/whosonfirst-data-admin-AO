@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Londuimbale"
     ],
+    "name:eng_x_variant":[
+        "Londuimbali"
+    ],
     "name:fra_x_preferred":[
         "Londuimbali"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:spa_x_preferred":[
         "Londuimbale"
+    ],
+    "name:zho_x_preferred":[
+        "\u9686\u675c\u56e0\u5df4\u5229"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108799825,
-    "wof:lastmodified":1561790851,
+    "wof:lastmodified":1563361996,
     "wof:name":"Londuimbali",
     "wof:parent_id":85667705,
     "wof:placetype":"county",
