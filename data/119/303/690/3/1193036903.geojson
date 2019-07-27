@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Malaca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1193036903,
-    "wof:lastmodified":1536380083,
+    "wof:lastmodified":1564212017,
     "wof:name":"Malaca",
     "wof:parent_id":1108799801,
     "wof:placetype":"locality",

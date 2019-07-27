@@ -26,13 +26,40 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Humpata"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0645\u067e\u062a\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Humpata"
+    ],
+    "name:deu_x_preferred":[
+        "Humpata"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0645\u067e\u062a\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Humpata"
+    ],
+    "name:por_x_preferred":[
+        "Humpata"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u043c\u043f\u0430\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Humpata"
     ],
     "name:und_x_variant":[
         "S\u00e3o Januaria",
         "S\u00e3o Januario da Humpata",
         "Humpata"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d2a\u5e15\u5854"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1327024317,
-    "wof:lastmodified":1537584733,
+    "wof:lastmodified":1564210715,
     "wof:name":"Humpata",
     "wof:parent_id":1108799749,
     "wof:placetype":"locality",

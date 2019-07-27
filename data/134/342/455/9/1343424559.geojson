@@ -25,9 +25,30 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bote"
+    ],
+    "name:deu_x_preferred":[
+        "Bote"
+    ],
+    "name:nds_x_preferred":[
+        "Bote"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u043d\u0446\u0438\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Bote"
+    ],
+    "name:swe_x_preferred":[
+        "Bote"
+    ],
     "name:und_x_variant":[
         "Sanzala",
         "Cabandangala",
+        "Bote"
+    ],
+    "name:wln_x_preferred":[
         "Bote"
     ],
     "src:geom":"geonames",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1343424559,
-    "wof:lastmodified":1537584677,
+    "wof:lastmodified":1564211104,
     "wof:name":"Bote",
     "wof:parent_id":1108799693,
     "wof:placetype":"locality",

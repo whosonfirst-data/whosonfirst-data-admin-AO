@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Senda"
+    ],
+    "name:deu_x_preferred":[
+        "Senda"
+    ],
+    "name:por_x_preferred":[
+        "Senda"
+    ],
+    "name:slk_x_preferred":[
+        "Senda"
+    ],
+    "name:swe_x_preferred":[
+        "Senda"
+    ],
     "name:und_x_variant":[
         "Zaga",
         "Senda"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309905179,
-    "wof:lastmodified":1537584576,
+    "wof:lastmodified":1564212435,
     "wof:name":"Senda",
     "wof:parent_id":1108799939,
     "wof:placetype":"locality",

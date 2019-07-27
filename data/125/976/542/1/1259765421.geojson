@@ -25,6 +25,30 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tomboco"
+    ],
+    "name:deu_x_preferred":[
+        "Tomboco"
+    ],
+    "name:fra_x_preferred":[
+        "Tomboco"
+    ],
+    "name:ita_x_preferred":[
+        "Tomboco"
+    ],
+    "name:msa_x_preferred":[
+        "Tomboco"
+    ],
+    "name:por_x_preferred":[
+        "Tomboco"
+    ],
+    "name:spa_x_preferred":[
+        "Tomboco"
+    ],
+    "name:zho_x_preferred":[
+        "\u901a\u535a\u79d1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1259765421,
-    "wof:lastmodified":1536949491,
+    "wof:lastmodified":1564212882,
     "wof:name":"Tomboco",
     "wof:parent_id":1108799679,
     "wof:placetype":"locality",

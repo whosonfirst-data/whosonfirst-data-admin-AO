@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Quilemba"
+    ],
+    "name:swe_x_preferred":[
+        "Quilemba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293084017,
-    "wof:lastmodified":1536870721,
+    "wof:lastmodified":1564211201,
     "wof:name":"Quilemba",
     "wof:parent_id":1108799617,
     "wof:placetype":"locality",

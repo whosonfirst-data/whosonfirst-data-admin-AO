@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Catumbi"
+    ],
+    "name:ita_x_preferred":[
+        "Catumbi"
+    ],
+    "name:por_x_preferred":[
+        "Catumbi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293382459,
-    "wof:lastmodified":1536939185,
+    "wof:lastmodified":1564211159,
     "wof:name":"Catumbi",
     "wof:parent_id":1108799827,
     "wof:placetype":"locality",

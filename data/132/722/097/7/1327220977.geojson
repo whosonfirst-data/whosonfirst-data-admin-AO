@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cunda Dia Baze"
+    ],
+    "name:deu_x_preferred":[
+        "Cunda Dia Baze"
+    ],
+    "name:ita_x_preferred":[
+        "Kunda-dia-Baze"
+    ],
+    "name:por_x_preferred":[
+        "Cunda-Dia-Baze"
+    ],
+    "name:spa_x_preferred":[
+        "Cunda-dia-Baze"
+    ],
     "name:und_x_variant":[
         "Cunda Rio-Baza",
         "Montalegre",
@@ -32,6 +47,9 @@
         "Kunda-dia-Baze",
         "Cunda di\u00e1 Baze",
         "Cunda Ria-Baza"
+    ],
+    "name:zho_x_preferred":[
+        "\u6606\u9054-\u8fea\u4e9e-\u5df4\u585e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1327220977,
-    "wof:lastmodified":1537584633,
+    "wof:lastmodified":1564210675,
     "wof:name":"Cunda dia Baze",
     "wof:parent_id":1108799725,
     "wof:placetype":"locality",

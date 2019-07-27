@@ -26,6 +26,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lumbo"
+    ],
+    "name:deu_x_preferred":[
+        "Lumbo"
+    ],
+    "name:spa_x_preferred":[
+        "Lumbo"
+    ],
     "name:und_x_variant":[
         "Lumbo-Gunge",
         "Lumbo"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226040195,
-    "wof:lastmodified":1537584725,
+    "wof:lastmodified":1564213090,
     "wof:name":"Lumbo",
     "wof:parent_id":1108799743,
     "wof:placetype":"locality",

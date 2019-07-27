@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Cania"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Cania"
+    ],
     "name:und_x_variant":[
         "Cama",
         "Cania"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293293085,
-    "wof:lastmodified":1537584562,
+    "wof:lastmodified":1564211377,
     "wof:name":"Cania",
     "wof:parent_id":1108799779,
     "wof:placetype":"locality",

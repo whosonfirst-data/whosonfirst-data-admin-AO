@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0645\u0628\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Lombe"
+    ],
+    "name:por_x_preferred":[
+        "Lombe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +43,7 @@
         "gn:id":2240549
     },
     "wof:country":"AO",
-    "wof:geomhash":"0ca4c691d20e497a6c001160b25e6d74",
+    "wof:geomhash":"b34e1c45e81b1d263ecefce7bed2c71c",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209597541,
-    "wof:lastmodified":1536282275,
+    "wof:lastmodified":1564211866,
     "wof:name":"Lombe",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     12.93333,
-    -7.4333300000000015,
+    -7.43333,
     12.93333,
-    -7.4333300000000015
+    -7.43333
 ],
   "geometry": {"coordinates":[12.93333,-7.43333],"type":"Point"}
 }

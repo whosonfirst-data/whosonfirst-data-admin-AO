@@ -26,6 +26,42 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u064a\u0643\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Cueca"
+    ],
+    "name:deu_x_preferred":[
+        "Cueca"
+    ],
+    "name:eus_x_preferred":[
+        "Cueca"
+    ],
+    "name:fra_x_preferred":[
+        "Cueca"
+    ],
+    "name:glg_x_preferred":[
+        "Cueca"
+    ],
+    "name:ita_x_preferred":[
+        "Cueca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a8\u30c3\u30ab"
+    ],
+    "name:por_x_preferred":[
+        "Cueca"
+    ],
+    "name:que_x_preferred":[
+        "Cueca"
+    ],
+    "name:spa_x_preferred":[
+        "Cueca"
+    ],
+    "name:swe_x_preferred":[
+        "Cueca"
+    ],
     "name:und_x_variant":[
         "Kueka",
         "Cueca"
@@ -53,7 +89,7 @@
         }
     ],
     "wof:id":1310084553,
-    "wof:lastmodified":1537584553,
+    "wof:lastmodified":1564212223,
     "wof:name":"Cueca",
     "wof:parent_id":1108799861,
     "wof:placetype":"locality",

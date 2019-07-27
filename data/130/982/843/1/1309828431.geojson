@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cainde"
+    ],
+    "name:por_x_preferred":[
+        "Cainde"
+    ],
     "name:und_x_variant":[
         "Cavinda",
         "Cainde"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1309828431,
-    "wof:lastmodified":1537584793,
+    "wof:lastmodified":1564212467,
     "wof:name":"Cainde",
     "wof:parent_id":1108799921,
     "wof:placetype":"locality",

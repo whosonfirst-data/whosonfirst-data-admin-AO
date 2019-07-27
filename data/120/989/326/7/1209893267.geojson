@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cuango"
+    ],
+    "name:deu_x_preferred":[
+        "Cuango"
+    ],
+    "name:spa_x_preferred":[
+        "Cuango"
+    ],
+    "name:swe_x_preferred":[
+        "Cuango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209893267,
-    "wof:lastmodified":1536389767,
+    "wof:lastmodified":1564211939,
     "wof:name":"Cuango",
     "wof:parent_id":1108799871,
     "wof:placetype":"locality",

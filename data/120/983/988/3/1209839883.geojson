@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Moio"
+    ],
+    "name:ita_x_preferred":[
+        "Moio"
+    ],
+    "name:por_x_preferred":[
+        "Moio"
+    ],
+    "name:swe_x_preferred":[
+        "Moio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209839883,
-    "wof:lastmodified":1536393199,
+    "wof:lastmodified":1564211797,
     "wof:name":"Moio",
     "wof:parent_id":1108799741,
     "wof:placetype":"locality",

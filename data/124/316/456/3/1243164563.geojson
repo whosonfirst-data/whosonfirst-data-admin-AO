@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jumba"
+    ],
+    "name:swe_x_preferred":[
+        "Jumba"
+    ],
     "name:und_x_variant":[
         "Almeida",
         "Jumba"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243164563,
-    "wof:lastmodified":1537584730,
+    "wof:lastmodified":1564212751,
     "wof:name":"Jumba",
     "wof:parent_id":1108799841,
     "wof:placetype":"locality",

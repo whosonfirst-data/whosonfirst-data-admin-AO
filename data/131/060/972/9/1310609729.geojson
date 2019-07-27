@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vilaque Copata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310609729,
-    "wof:lastmodified":1536766926,
+    "wof:lastmodified":1564212344,
     "wof:name":"Copata",
     "wof:parent_id":1108799635,
     "wof:placetype":"locality",

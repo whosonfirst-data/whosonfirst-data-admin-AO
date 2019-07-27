@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Chipipa"
+    ],
+    "name:por_x_preferred":[
+        "Chipipa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259673353,
-    "wof:lastmodified":1537078469,
+    "wof:lastmodified":1564212923,
     "wof:name":"Chipipa",
     "wof:parent_id":1108799605,
     "wof:placetype":"locality",

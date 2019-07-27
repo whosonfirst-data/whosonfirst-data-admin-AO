@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sandala"
+    ],
+    "name:swe_x_preferred":[
+        "Sandala"
+    ],
     "name:und_x_variant":[
         "Condama",
         "Kandana",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1225828619,
-    "wof:lastmodified":1537584535,
+    "wof:lastmodified":1564213258,
     "wof:name":"Sandala",
     "wof:parent_id":1108799641,
     "wof:placetype":"locality",

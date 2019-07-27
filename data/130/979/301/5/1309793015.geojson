@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Muat\u00ee"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1309793015,
-    "wof:lastmodified":1536949782,
+    "wof:lastmodified":1564212453,
     "wof:name":"Muati",
     "wof:parent_id":1108799771,
     "wof:placetype":"locality",

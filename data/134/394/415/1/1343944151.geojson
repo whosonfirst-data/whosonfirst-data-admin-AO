@@ -26,6 +26,27 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Luso"
+    ],
+    "name:deu_x_preferred":[
+        "Luso"
+    ],
+    "name:nor_x_preferred":[
+        "Luso"
+    ],
+    "name:por_x_preferred":[
+        "Luso"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0441\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Luso"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0441\u043e"
+    ],
     "name:und_x_variant":[
         "Luzo",
         "Luso"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1343944151,
-    "wof:lastmodified":1537584724,
+    "wof:lastmodified":1564211047,
     "wof:name":"Luso",
     "wof:parent_id":1108799601,
     "wof:placetype":"locality",

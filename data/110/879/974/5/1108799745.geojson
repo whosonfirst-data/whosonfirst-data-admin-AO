@@ -27,7 +27,19 @@
     "meso:name_alt":"Maianga",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Maianga"
+    ],
+    "name:deu_x_preferred":[
+        "Maianga"
+    ],
     "name:eng_x_preferred":[
+        "Maianga"
+    ],
+    "name:ita_x_preferred":[
+        "Maianga"
+    ],
+    "name:por_x_preferred":[
         "Maianga"
     ],
     "src:geom":"meso",
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1108799745,
-    "wof:lastmodified":1553718819,
+    "wof:lastmodified":1564212161,
     "wof:name":"Maianga",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Catari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226047237,
-    "wof:lastmodified":1536723332,
+    "wof:lastmodified":1564213089,
     "wof:name":"Catari",
     "wof:parent_id":1108799713,
     "wof:placetype":"locality",

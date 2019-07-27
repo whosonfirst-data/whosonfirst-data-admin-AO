@@ -25,6 +25,36 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Machinda"
+    ],
+    "name:ceb_x_preferred":[
+        "Machinda"
+    ],
+    "name:ita_x_preferred":[
+        "Machinda"
+    ],
+    "name:pol_x_preferred":[
+        "Machinda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0447\u0438\u043d\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Machinda"
+    ],
+    "name:swe_x_preferred":[
+        "Machinda"
+    ],
+    "name:tur_x_preferred":[
+        "Machinda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u06cc\u0646\u0688\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6b3d\u9054"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1326910661,
-    "wof:lastmodified":1536936668,
+    "wof:lastmodified":1564210798,
     "wof:name":"Machinda",
     "wof:parent_id":1108799645,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mpambala"
+    ],
+    "name:swa_x_preferred":[
+        "Mpambala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276434025,
-    "wof:lastmodified":1536642999,
+    "wof:lastmodified":1564211468,
     "wof:name":"Mpambala",
     "wof:parent_id":1108799857,
     "wof:placetype":"locality",

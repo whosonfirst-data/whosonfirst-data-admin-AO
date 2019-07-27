@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Carvalho"
+    ],
+    "name:por_x_preferred":[
+        "Carvalho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +40,7 @@
         "gn:id":3350480
     },
     "wof:country":"AO",
-    "wof:geomhash":"2f8d9fcb6c3f63c2ddecdfc2dbb4f7f1",
+    "wof:geomhash":"3a8fcc51d0768ed5d752d32db4a473ed",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209236521,
-    "wof:lastmodified":1536293461,
+    "wof:lastmodified":1564211816,
     "wof:name":"Carvalho",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.183329999999998,
+    15.18333,
     -11.85,
-    15.183329999999998,
+    15.18333,
     -11.85
 ],
   "geometry": {"coordinates":[15.18333,-11.85],"type":"Point"}

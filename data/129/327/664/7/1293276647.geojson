@@ -25,6 +25,30 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Leca"
+    ],
+    "name:deu_x_preferred":[
+        "Leca"
+    ],
+    "name:fra_x_preferred":[
+        "Leca"
+    ],
+    "name:ita_x_preferred":[
+        "Leca"
+    ],
+    "name:nld_x_preferred":[
+        "Leca"
+    ],
+    "name:pol_x_preferred":[
+        "Leca"
+    ],
+    "name:ron_x_preferred":[
+        "Leca"
+    ],
+    "name:swe_x_preferred":[
+        "Leca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1293276647,
-    "wof:lastmodified":1537087828,
+    "wof:lastmodified":1564211373,
     "wof:name":"Leca",
     "wof:parent_id":1108799801,
     "wof:placetype":"locality",

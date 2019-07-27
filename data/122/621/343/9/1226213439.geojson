@@ -26,6 +26,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Maianga"
+    ],
+    "name:deu_x_preferred":[
+        "Maianga"
+    ],
+    "name:ita_x_preferred":[
+        "Maianga"
+    ],
+    "name:por_x_preferred":[
+        "Maianga"
+    ],
     "name:und_x_variant":[
         "Majanga",
         "Maianga"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226213439,
-    "wof:lastmodified":1537584548,
+    "wof:lastmodified":1564213025,
     "wof:name":"Maianga",
     "wof:parent_id":1108799623,
     "wof:placetype":"locality",

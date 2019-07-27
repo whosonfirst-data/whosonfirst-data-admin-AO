@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngondo"
+    ],
     "name:und_x_variant":[
         "Gondo"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310632465,
-    "wof:lastmodified":1537584638,
+    "wof:lastmodified":1564212219,
     "wof:name":"Ngondo",
     "wof:parent_id":1108799619,
     "wof:placetype":"locality",

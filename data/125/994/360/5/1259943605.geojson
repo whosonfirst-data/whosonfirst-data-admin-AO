@@ -25,9 +25,27 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cambulo"
+    ],
+    "name:deu_x_preferred":[
+        "Cambulo"
+    ],
+    "name:ita_x_preferred":[
+        "Cambulo"
+    ],
+    "name:por_x_preferred":[
+        "Cambulo"
+    ],
+    "name:spa_x_preferred":[
+        "Cambulo"
+    ],
     "name:und_x_variant":[
         "Combula",
         "Cambulo"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u5e03\u6d1b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1259943605,
-    "wof:lastmodified":1537584531,
+    "wof:lastmodified":1564212932,
     "wof:name":"Cambulo",
     "wof:parent_id":1108799925,
     "wof:placetype":"locality",

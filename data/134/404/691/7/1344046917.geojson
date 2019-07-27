@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0443\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Capula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1344046917,
-    "wof:lastmodified":1536894938,
+    "wof:lastmodified":1564211100,
     "wof:name":"Capula",
     "wof:parent_id":1108799801,
     "wof:placetype":"locality",

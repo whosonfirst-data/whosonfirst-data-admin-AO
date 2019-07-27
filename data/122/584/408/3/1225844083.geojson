@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Cazongo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1225844083,
-    "wof:lastmodified":1537015358,
+    "wof:lastmodified":1564213265,
     "wof:name":"Cazongo",
     "wof:parent_id":1108799939,
     "wof:placetype":"locality",

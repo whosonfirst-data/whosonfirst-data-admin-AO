@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gunga"
+    ],
+    "name:swe_x_preferred":[
+        "Gunga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276896619,
-    "wof:lastmodified":1537018008,
+    "wof:lastmodified":1564211495,
     "wof:name":"Gunga",
     "wof:parent_id":1108799659,
     "wof:placetype":"locality",

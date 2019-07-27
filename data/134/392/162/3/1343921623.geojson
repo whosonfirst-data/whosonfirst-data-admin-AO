@@ -25,8 +25,14 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0646\u0632\u0642\u06cc"
+    ],
     "name:eng_x_preferred":[
         "Nzagi Andrada"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0632\u06af\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343921623,
-    "wof:lastmodified":1537584808,
+    "wof:lastmodified":1564211022,
     "wof:name":"Nzagi",
     "wof:parent_id":1108799925,
     "wof:placetype":"locality",

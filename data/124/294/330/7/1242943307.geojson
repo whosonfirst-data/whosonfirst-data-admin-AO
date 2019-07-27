@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Matateu"
+    ],
+    "name:ita_x_preferred":[
+        "Matateu"
+    ],
+    "name:pol_x_preferred":[
+        "Matateu"
+    ],
+    "name:por_x_preferred":[
+        "Matateu"
+    ],
+    "name:spa_x_preferred":[
+        "Matateu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1242943307,
-    "wof:lastmodified":1537032653,
+    "wof:lastmodified":1564212594,
     "wof:name":"Matateu",
     "wof:parent_id":1108799617,
     "wof:placetype":"locality",

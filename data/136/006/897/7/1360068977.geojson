@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saputo"
+    ],
+    "name:ita_x_preferred":[
+        "Saputo"
+    ],
     "name:und_x_variant":[
         "Sampuca",
         "Sandembe",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360068977,
-    "wof:lastmodified":1537584534,
+    "wof:lastmodified":1564212377,
     "wof:name":"Saputo",
     "wof:parent_id":1108799861,
     "wof:placetype":"locality",

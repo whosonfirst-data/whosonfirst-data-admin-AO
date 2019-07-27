@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Humbe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276645803,
-    "wof:lastmodified":1536855970,
+    "wof:lastmodified":1564211651,
     "wof:name":"Humbe",
     "wof:parent_id":1108799749,
     "wof:placetype":"locality",

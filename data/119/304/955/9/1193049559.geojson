@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Quilemba"
+    ],
+    "name:swe_x_preferred":[
+        "Quilemba"
+    ],
     "name:und_x_variant":[
         "S\u00e3o Pedro da Quilemba",
         "Quilimba",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1193049559,
-    "wof:lastmodified":1537584603,
+    "wof:lastmodified":1564212018,
     "wof:name":"Quilemba",
     "wof:parent_id":1108799789,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Capunda"
+    ],
     "name:und_x_variant":[
         "Capunde",
         "Capunda"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1226240295,
-    "wof:lastmodified":1537584779,
+    "wof:lastmodified":1564213171,
     "wof:name":"Capunda",
     "wof:parent_id":1108799795,
     "wof:placetype":"locality",

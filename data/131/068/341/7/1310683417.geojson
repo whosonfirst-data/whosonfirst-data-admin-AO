@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lussenga"
+    ],
+    "name:swe_x_preferred":[
+        "Lussenga"
+    ],
     "name:und_x_variant":[
         "Luconge",
         "Lussenga"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1310683417,
-    "wof:lastmodified":1537584627,
+    "wof:lastmodified":1564212310,
     "wof:name":"Lussenga",
     "wof:parent_id":1108799615,
     "wof:placetype":"locality",

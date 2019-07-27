@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cutuile"
+    ],
+    "name:swe_x_preferred":[
+        "Cutuile"
+    ],
     "name:und_x_variant":[
         "Cutuilo",
         "Sambuanga",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360285883,
-    "wof:lastmodified":1537584553,
+    "wof:lastmodified":1564212401,
     "wof:name":"Cutuile",
     "wof:parent_id":1108799963,
     "wof:placetype":"locality",

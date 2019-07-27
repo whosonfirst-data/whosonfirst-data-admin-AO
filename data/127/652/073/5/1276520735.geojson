@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Quingombe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276520735,
-    "wof:lastmodified":1537023930,
+    "wof:lastmodified":1564211647,
     "wof:name":"Quingombe",
     "wof:parent_id":1108799683,
     "wof:placetype":"locality",

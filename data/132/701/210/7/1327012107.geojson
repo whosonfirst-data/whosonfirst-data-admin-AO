@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Cunco"
+    ],
+    "name:spa_x_preferred":[
+        "Cunco"
+    ],
     "name:und_x_variant":[
         "Kunko",
         "Cunco"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327012107,
-    "wof:lastmodified":1537584649,
+    "wof:lastmodified":1564210575,
     "wof:name":"Cunco",
     "wof:parent_id":1108799731,
     "wof:placetype":"locality",

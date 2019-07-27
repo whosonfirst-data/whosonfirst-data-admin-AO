@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Quiage"
+    ],
+    "name:msa_x_preferred":[
+        "Kiaje"
+    ],
+    "name:por_x_preferred":[
+        "Quiage"
+    ],
     "name:und_x_variant":[
         "Quiege",
         "Quiage"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276616539,
-    "wof:lastmodified":1537584610,
+    "wof:lastmodified":1564211543,
     "wof:name":"Quiage",
     "wof:parent_id":1108799817,
     "wof:placetype":"locality",

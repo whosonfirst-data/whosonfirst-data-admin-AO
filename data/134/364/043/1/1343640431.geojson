@@ -25,14 +25,41 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Luacano"
+    ],
+    "name:deu_x_preferred":[
+        "Luacano"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0627\u06a9\u0646\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "Luacano"
+    ],
+    "name:msa_x_preferred":[
+        "Luakano"
+    ],
+    "name:por_x_preferred":[
+        "Luacano"
+    ],
+    "name:ron_x_preferred":[
+        "Luacano"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u0430\u043a\u0430\u043d\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Luacano"
     ],
     "name:und_x_variant":[
         "Lucano",
         "Luakanu",
         "Dil\u00f5lo",
         "Luacano"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u963f\u5361\u8afe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1343640431,
-    "wof:lastmodified":1537584550,
+    "wof:lastmodified":1564210906,
     "wof:name":"Luacano",
     "wof:parent_id":1108799891,
     "wof:placetype":"locality",

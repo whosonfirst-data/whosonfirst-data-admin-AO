@@ -26,6 +26,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Combe"
+    ],
+    "name:ita_x_preferred":[
+        "Comba"
+    ],
+    "name:spa_x_preferred":[
+        "Combe"
+    ],
     "name:und_x_variant":[
         "Cambuale",
         "Kambuale",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1259758417,
-    "wof:lastmodified":1537584652,
+    "wof:lastmodified":1564212975,
     "wof:name":"Combe",
     "wof:parent_id":1108799875,
     "wof:placetype":"locality",

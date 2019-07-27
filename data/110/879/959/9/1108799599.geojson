@@ -30,6 +30,15 @@
     "name:eng_x_preferred":[
         "Milunga"
     ],
+    "name:ita_x_preferred":[
+        "Milunga"
+    ],
+    "name:por_x_preferred":[
+        "Milunga"
+    ],
+    "name:spa_x_preferred":[
+        "Milunga"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1108799599,
-    "wof:lastmodified":1555046995,
+    "wof:lastmodified":1564212159,
     "wof:name":"Milunga",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

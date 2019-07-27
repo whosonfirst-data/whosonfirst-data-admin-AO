@@ -26,12 +26,45 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bocoio"
+    ],
+    "name:ceb_x_preferred":[
+        "Munic\u00edpio Bocoio"
+    ],
+    "name:deu_x_preferred":[
+        "Bocoio"
+    ],
+    "name:frr_x_preferred":[
+        "Bocoio"
+    ],
+    "name:ita_x_preferred":[
+        "Bocoio"
+    ],
+    "name:msa_x_preferred":[
+        "Bocoio"
+    ],
+    "name:por_x_preferred":[
+        "Bocoio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043a\u043e\u0439\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Bocoio"
+    ],
+    "name:swe_x_preferred":[
+        "Munic\u00edpio Bocoio"
+    ],
     "name:und_x_variant":[
         "Sousa Lara",
         "Bokoio",
         "Sousa de Lara",
         "Vila Sousa Lara",
         "Bocoio"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u79d1\u7d04"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +90,7 @@
         }
     ],
     "wof:id":1226557673,
-    "wof:lastmodified":1537584799,
+    "wof:lastmodified":1564213201,
     "wof:name":"Bocoio",
     "wof:parent_id":1108799837,
     "wof:placetype":"locality",

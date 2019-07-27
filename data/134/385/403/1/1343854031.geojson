@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Kunjo"
+    ],
     "name:und_x_variant":[
         "Condjo",
         "Kondjo",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343854031,
-    "wof:lastmodified":1537584747,
+    "wof:lastmodified":1564210994,
     "wof:name":"Cunjo",
     "wof:parent_id":1108799913,
     "wof:placetype":"locality",

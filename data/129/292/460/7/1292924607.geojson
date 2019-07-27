@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Capunda-Cavilongo"
+    ],
+    "name:por_x_preferred":[
+        "Capunda-Cavilongo"
+    ],
     "name:und_x_variant":[
         "Oliven\u00e7a-a-Nova",
         "Capunda Cavilongo"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1292924607,
-    "wof:lastmodified":1537584779,
+    "wof:lastmodified":1564211218,
     "wof:name":"Capunda Cavilongo",
     "wof:parent_id":1108799663,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Calumbo"
+    ],
+    "name:por_x_preferred":[
+        "Calumbo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1242946153,
-    "wof:lastmodified":1537028735,
+    "wof:lastmodified":1564212597,
     "wof:name":"Calumbo",
     "wof:parent_id":1108799643,
     "wof:placetype":"locality",

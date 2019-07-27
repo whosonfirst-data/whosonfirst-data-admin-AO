@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Baixo Longa"
+    ],
     "name:und_x_variant":[
         "Longa",
         "Baishu Longa",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226651933,
-    "wof:lastmodified":1537584803,
+    "wof:lastmodified":1564213230,
     "wof:name":"Baixo Longa",
     "wof:parent_id":1108799691,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06a9\u0648\u0633\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Mucusso"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043a\u0443\u0441\u0441\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5eab\u7d22"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1309928635,
-    "wof:lastmodified":1536754085,
+    "wof:lastmodified":1564212480,
     "wof:name":"Mucusso",
     "wof:parent_id":1108799619,
     "wof:placetype":"locality",

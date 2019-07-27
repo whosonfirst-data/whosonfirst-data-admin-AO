@@ -25,6 +25,24 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Samur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10e3\u10e0\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0421\u0430\u043c\u0443\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0443\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Samur"
+    ],
+    "name:swe_x_preferred":[
+        "Samur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1243572277,
-    "wof:lastmodified":1536622184,
+    "wof:lastmodified":1564212650,
     "wof:name":"Samur",
     "wof:parent_id":1108799815,
     "wof:placetype":"locality",

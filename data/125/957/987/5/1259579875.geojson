@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0634\u0645\u0648\u062a\u062a\u0647"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0448\u0430\u043c\u0443\u0442\u0435\u0442\u0435"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1259579875,
-    "wof:lastmodified":1537584692,
+    "wof:lastmodified":1564212895,
     "wof:name":"Techamutete",
     "wof:parent_id":1108799801,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zumo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260370439,
-    "wof:lastmodified":1537089193,
+    "wof:lastmodified":1564212100,
     "wof:name":"Zumo",
     "wof:parent_id":1108799871,
     "wof:placetype":"locality",

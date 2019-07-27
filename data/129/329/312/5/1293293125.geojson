@@ -26,9 +26,30 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dirico"
+    ],
+    "name:deu_x_preferred":[
+        "Dirico"
+    ],
+    "name:ita_x_preferred":[
+        "Dirico"
+    ],
+    "name:msa_x_preferred":[
+        "Dirico"
+    ],
+    "name:por_x_preferred":[
+        "Dirico"
+    ],
+    "name:spa_x_preferred":[
+        "Dirico"
+    ],
     "name:und_x_variant":[
         "Diriko",
         "Dirico"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u91cc\u79d1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1293293125,
-    "wof:lastmodified":1537584553,
+    "wof:lastmodified":1564211377,
     "wof:name":"Dirico",
     "wof:parent_id":1108799741,
     "wof:placetype":"locality",

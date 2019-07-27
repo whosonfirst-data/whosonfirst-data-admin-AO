@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Joaquim Pinto"
+    ],
+    "name:deu_x_preferred":[
+        "Joaquim Pinto"
+    ],
+    "name:fra_x_preferred":[
+        "Joaquim Pinto"
+    ],
+    "name:kor_x_preferred":[
+        "\uc870\uc544\ud0b9 \ud540\ud22c"
+    ],
+    "name:por_x_preferred":[
+        "Joaquim Pinto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1226643113,
-    "wof:lastmodified":1536861860,
+    "wof:lastmodified":1564213210,
     "wof:name":"Joaquim Pinto",
     "wof:parent_id":1108799917,
     "wof:placetype":"locality",

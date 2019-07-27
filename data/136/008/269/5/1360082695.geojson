@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lunge"
+    ],
+    "name:dan_x_preferred":[
+        "Lunge"
+    ],
+    "name:deu_x_preferred":[
+        "Lunge"
+    ],
+    "name:ita_x_preferred":[
+        "Lunge"
+    ],
+    "name:swe_x_preferred":[
+        "Lunge"
+    ],
     "name:und_x_variant":[
         "Lunje",
         "Lunge"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1360082695,
-    "wof:lastmodified":1537584725,
+    "wof:lastmodified":1564212369,
     "wof:name":"Lunge",
     "wof:parent_id":1108799921,
     "wof:placetype":"locality",

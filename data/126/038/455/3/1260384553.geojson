@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Catete"
+    ],
+    "name:deu_x_preferred":[
+        "Catete"
+    ],
+    "name:por_x_preferred":[
+        "Catete"
+    ],
+    "name:swe_x_preferred":[
+        "Catete"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1260384553,
-    "wof:lastmodified":1537070538,
+    "wof:lastmodified":1564212077,
     "wof:name":"Catete",
     "wof:parent_id":1108799799,
     "wof:placetype":"locality",

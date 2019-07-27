@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Dombe Grande"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043c\u0431\u0435 \u0413\u0440\u0430\u043d\u0434\u0435"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209629039,
-    "wof:lastmodified":1537584744,
+    "wof:lastmodified":1564211747,
     "wof:name":"Dombe Grande",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

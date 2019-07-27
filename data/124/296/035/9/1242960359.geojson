@@ -25,6 +25,24 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Macari"
+    ],
+    "name:ceb_x_preferred":[
+        "Macari"
+    ],
+    "name:deu_x_preferred":[
+        "Macari"
+    ],
+    "name:fra_x_preferred":[
+        "Macari"
+    ],
+    "name:spa_x_preferred":[
+        "Macari"
+    ],
+    "name:swe_x_preferred":[
+        "Macari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1242960359,
-    "wof:lastmodified":1537008688,
+    "wof:lastmodified":1564212724,
     "wof:name":"Macari",
     "wof:parent_id":1108799771,
     "wof:placetype":"locality",

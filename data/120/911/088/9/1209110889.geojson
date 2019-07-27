@@ -25,6 +25,24 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Catuna"
+    ],
+    "name:fra_x_preferred":[
+        "Catuna"
+    ],
+    "name:nld_x_preferred":[
+        "Catuna"
+    ],
+    "name:nor_x_preferred":[
+        "Catuna"
+    ],
+    "name:spa_x_preferred":[
+        "Catuna"
+    ],
+    "name:zho_x_preferred":[
+        "\u73c2\u86fa\u8776\u5c6c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +52,7 @@
         "gn:id":2242097
     },
     "wof:country":"AO",
-    "wof:geomhash":"02803bb205e2e0372969c9abcba71e9e",
+    "wof:geomhash":"47268ff29bf5ab9e5ccc06c0c180404a",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209110889,
-    "wof:lastmodified":1536297411,
+    "wof:lastmodified":1564211907,
     "wof:name":"Catuna",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.433329999999998,
+    15.43333,
     -8.25,
-    15.433329999999998,
+    15.43333,
     -8.25
 ],
   "geometry": {"coordinates":[15.43333,-8.25],"type":"Point"}

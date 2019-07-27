@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0442\u043e\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Mutondo"
+    ],
     "name:und_x_variant":[
         "Mulondo",
         "Mutondo"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1344033499,
-    "wof:lastmodified":1537584524,
+    "wof:lastmodified":1564211090,
     "wof:name":"Mutondo",
     "wof:parent_id":1108799909,
     "wof:placetype":"locality",

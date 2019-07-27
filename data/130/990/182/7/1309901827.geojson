@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chicungo"
+    ],
     "name:und_x_variant":[
         "Tchicungo",
         "Chicungo"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309901827,
-    "wof:lastmodified":1537584765,
+    "wof:lastmodified":1564212439,
     "wof:name":"Chicungo",
     "wof:parent_id":1108799929,
     "wof:placetype":"locality",

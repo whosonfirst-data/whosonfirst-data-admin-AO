@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Ndanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226332951,
-    "wof:lastmodified":1536807681,
+    "wof:lastmodified":1564213065,
     "wof:name":"Ndanga",
     "wof:parent_id":1108799831,
     "wof:placetype":"locality",

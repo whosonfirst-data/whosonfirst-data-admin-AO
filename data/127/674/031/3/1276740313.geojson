@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Cuale"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276740313,
-    "wof:lastmodified":1536730927,
+    "wof:lastmodified":1564211498,
     "wof:name":"Cuale",
     "wof:parent_id":1108799873,
     "wof:placetype":"locality",

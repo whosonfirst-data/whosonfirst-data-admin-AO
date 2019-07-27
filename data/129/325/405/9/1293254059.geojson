@@ -25,6 +25,27 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Belas"
+    ],
+    "name:deu_x_preferred":[
+        "Belas"
+    ],
+    "name:fra_x_preferred":[
+        "Belas"
+    ],
+    "name:por_x_preferred":[
+        "Belas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Belas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0448"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1293254059,
-    "wof:lastmodified":1536624659,
+    "wof:lastmodified":1564211280,
     "wof:name":"Belas",
     "wof:parent_id":1108799785,
     "wof:placetype":"locality",

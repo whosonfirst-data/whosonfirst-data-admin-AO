@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Calomboloca"
+    ],
     "name:und_x_variant":[
         "Calumboloca",
         "Cassoneca",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226305473,
-    "wof:lastmodified":1537584670,
+    "wof:lastmodified":1564213216,
     "wof:name":"Calomboloca",
     "wof:parent_id":1108799819,
     "wof:placetype":"locality",

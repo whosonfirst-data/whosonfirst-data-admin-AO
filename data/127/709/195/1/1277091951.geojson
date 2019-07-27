@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Soche"
+    ],
+    "name:slk_x_preferred":[
+        "Soche"
+    ],
     "name:und_x_variant":[
         "Catali",
         "Soche"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1277091951,
-    "wof:lastmodified":1537584694,
+    "wof:lastmodified":1564211448,
     "wof:name":"Soche",
     "wof:parent_id":1108799837,
     "wof:placetype":"locality",

@@ -27,8 +27,32 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dondo"
+    ],
+    "name:deu_x_preferred":[
+        "Dondo"
+    ],
+    "name:fra_x_preferred":[
+        "Dondo"
+    ],
+    "name:ita_x_preferred":[
+        "Dondo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30f3\u30c9"
+    ],
+    "name:pol_x_preferred":[
+        "Dondo"
+    ],
+    "name:por_x_preferred":[
+        "Dondo"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043d\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dondo"
     ],
     "name:und_x_variant":[
         "Dando",
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1209397715,
-    "wof:lastmodified":1537584645,
+    "wof:lastmodified":1564211752,
     "wof:name":"Dondo",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Soana"
+    ],
+    "name:ita_x_preferred":[
+        "Soana"
+    ],
     "name:und_x_variant":[
         "Soana Chimbancatio",
         "Soana Shimbankanu",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1192992171,
-    "wof:lastmodified":1537584533,
+    "wof:lastmodified":1564212028,
     "wof:name":"Soana",
     "wof:parent_id":1108799729,
     "wof:placetype":"locality",

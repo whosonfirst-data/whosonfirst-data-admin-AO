@@ -25,11 +25,35 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Bolongongo"
+    ],
+    "name:cat_x_preferred":[
+        "Bolongongo"
+    ],
+    "name:deu_x_preferred":[
+        "Bolongongo"
+    ],
+    "name:ita_x_preferred":[
+        "Bolongongo"
+    ],
+    "name:msa_x_preferred":[
+        "Bolongongo"
+    ],
+    "name:por_x_preferred":[
+        "Bolongongo"
+    ],
+    "name:spa_x_preferred":[
+        "Bolongongo"
+    ],
     "name:und_x_variant":[
         "Quiculungo",
         "Quiculongo",
         "Quibolongongo",
         "Bolongongo"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u6d1b\u6069\u6208\u6069\u6208"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1360083943,
-    "wof:lastmodified":1537584678,
+    "wof:lastmodified":1564212370,
     "wof:name":"Bolongongo",
     "wof:parent_id":1108799619,
     "wof:placetype":"locality",

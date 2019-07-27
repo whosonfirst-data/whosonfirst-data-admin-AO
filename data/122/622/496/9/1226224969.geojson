@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bengo"
+    ],
+    "name:deu_x_preferred":[
+        "Bengo"
+    ],
+    "name:ita_x_preferred":[
+        "Bengo"
+    ],
+    "name:swe_x_preferred":[
+        "Bengo"
+    ],
     "name:und_x_variant":[
         "Bangalo",
         "Bengo"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226224969,
-    "wof:lastmodified":1537584679,
+    "wof:lastmodified":1564213150,
     "wof:name":"Bengo",
     "wof:parent_id":1108799873,
     "wof:placetype":"locality",

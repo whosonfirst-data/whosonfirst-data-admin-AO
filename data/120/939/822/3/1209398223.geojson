@@ -26,6 +26,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Candala"
+    ],
+    "name:deu_x_preferred":[
+        "Candala"
+    ],
+    "name:swe_x_preferred":[
+        "Candala"
+    ],
     "name:und_x_variant":[
         "Calanga",
         "Catanga",
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209398223,
-    "wof:lastmodified":1537584562,
+    "wof:lastmodified":1564211755,
     "wof:name":"Candala",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

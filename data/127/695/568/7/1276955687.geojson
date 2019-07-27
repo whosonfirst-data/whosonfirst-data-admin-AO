@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pa\u00eds"
+    ],
+    "name:fra_x_preferred":[
+        "Pa\u00eds"
+    ],
+    "name:nor_x_preferred":[
+        "Pais"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276955687,
-    "wof:lastmodified":1536940455,
+    "wof:lastmodified":1564211544,
     "wof:name":"Pais",
     "wof:parent_id":1108799871,
     "wof:placetype":"locality",

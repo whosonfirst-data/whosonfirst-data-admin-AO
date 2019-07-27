@@ -25,6 +25,36 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Solar"
+    ],
+    "name:deu_x_preferred":[
+        "Solar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0644\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Solar"
+    ],
+    "name:ita_x_preferred":[
+        "Solar"
+    ],
+    "name:por_x_preferred":[
+        "Solar"
+    ],
+    "name:spa_x_preferred":[
+        "Solar"
+    ],
+    "name:swe_x_preferred":[
+        "Solar"
+    ],
+    "name:tgl_x_preferred":[
+        "Solar"
+    ],
+    "name:tur_x_preferred":[
+        "Solar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1276847781,
-    "wof:lastmodified":1537080997,
+    "wof:lastmodified":1564211629,
     "wof:name":"Solar",
     "wof:parent_id":1108799651,
     "wof:placetype":"locality",

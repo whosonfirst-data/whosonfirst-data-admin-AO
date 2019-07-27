@@ -25,6 +25,438 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:abk_x_preferred":[
+        "\u0415\u0440\u043d\u0435\u0441\u0442\u043e \u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:afr_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:als_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:amh_x_preferred":[
+        "\u127c \u130c\u126b\u122b"
+    ],
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u064a \u062c\u064a\u0641\u0627\u0631\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Ernesto Guevara"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0641\u0627\u0631\u0627"
+    ],
+    "name:aym_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0631\u0646\u0633\u062a\u0648 \u0686\u0647 \u0642\u0648\u0627\u0631\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Ernesto \u00c7e Gevara"
+    ],
+    "name:bak_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:bar_x_preferred":[
+        "Ernesto Che Guevara"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u0440\u043d\u044d\u0441\u0442\u0430 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09c7 \u0997\u09c7\u09ad\u09be\u09b0\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:bre_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:cdo_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:ces_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:chv_x_preferred":[
+        "\u042d\u0440\u043d\u0435\u0441\u0442\u043e \u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0686\u06ce \u06af\u06cc\u06a4\u0627\u0631\u0627"
+    ],
+    "name:cym_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:dan_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:deu_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:diq_x_preferred":[
+        "Ernesto Che Guevara"
+    ],
+    "name:dsb_x_preferred":[
+        "Ernesto Che Guevara"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c1\u03bd\u03ad\u03c3\u03c4\u03bf \u03a4\u03c3\u03b5 \u0393\u03ba\u03b5\u03b2\u03ac\u03c1\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Ernesto Che Guevara"
+    ],
+    "name:epo_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:est_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:eus_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:fao_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0647 \u06af\u0648\u0627\u0631\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:fra_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:fry_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:gla_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:gle_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:glg_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:grn_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0ac7 \u0a97\u0ac2\u0ab5\u0ac7\u0ab0\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d4 \u05d2\u05d5\u05d5\u05d0\u05e8\u05d4"
+    ],
+    "name:hif_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0947 \u0917\u094d\u0935\u0947\u0930\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:hsb_x_preferred":[
+        "Ernesto Che Guevara"
+    ],
+    "name:hun_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0565 \u0533\u0587\u0561\u0580\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:ilo_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:ina_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:ind_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:isl_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:ita_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:jav_x_preferred":[
+        "Ernesto Che Guevara"
+    ],
+    "name:jbo_x_preferred":[
+        "tces.gevaras"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30fb\u30b2\u30d0\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9a\u0cc7 \u0c97\u0cc1\u0cb5\u0cbe\u0cb0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e0\u10dc\u10d4\u10e1\u10e2\u10dd \u10e9\u10d4 \u10d2\u10d4\u10d5\u10d0\u10e0\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:khm_x_preferred":[
+        "\u1788\u17b8 \u17a0\u17d2\u1782\u17b8\u179c\u17c9\u17b6\u179a\u17c9\u17b6"
+    ],
+    "name:kir_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb4 \uac8c\ubc14\ub77c"
+    ],
+    "name:kur_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:lat_x_preferred":[
+        "Ernestus Guevara"
+    ],
+    "name:lav_x_preferred":[
+        "\u010ce Gevara"
+    ],
+    "name:lez_x_preferred":[
+        "\u042d\u0440\u043d\u0435\u0441\u0442\u043e \u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:lim_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:lit_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:lmo_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:ltz_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:mai_x_preferred":[
+        "\u091a\u0947 \u0917\u094d\u0935\u0947\u092d\u093e\u0930\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1a\u0d46 \u0d17\u0d46\u0d35\u0d3e\u0d31"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u0947 \u0917\u0947\u0935\u094d\u0939\u093e\u0930\u093e"
+    ],
+    "name:min_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:mlt_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:mon_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:mwl_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:mya_x_preferred":[
+        "\u1001\u103b\u1031\u1002\u103d\u1031\u1017\u102c\u1038\u101b\u102c\u1038"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0686\u0647 \u06af\u0648\u0627\u0631\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Ernesto Guevara"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u0947 \u0917\u094d\u0935\u0947\u092d\u093e\u0930\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u0947 \u0917\u094d\u0935\u0947\u092d\u093e\u0930\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:nno_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:nor_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:oci_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:orm_x_preferred":[
+        "Chee Guvaaraa"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1a\u0a40 \u0a17\u0a35\u0a47\u0a30\u0a3e"
+    ],
+    "name:pms_x_preferred":[
+        "Ernesto Che Guevara"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0686\u06cc \u06af\u0648\u06cc\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:por_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:pus_x_preferred":[
+        "\u0686\u06d0 \u06af\u0648\u0627\u0631\u0627"
+    ],
+    "name:que_x_preferred":[
+        "Ernesto Guevara"
+    ],
+    "name:roh_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:ron_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:rue_x_preferred":[
+        "\u0427\u0435 \u0490\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:san_x_preferred":[
+        "\u091a\u0947 \u0917\u094d\u0935\u0947\u090f\u0930\u093e"
+    ],
+    "name:scn_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:sco_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da0\u0dda \u0d9c\u0dd4\u0dc0\u0dda\u0dbb\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:slv_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:som_x_preferred":[
+        "Che Guvara"
+    ],
+    "name:spa_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:sqi_x_preferred":[
+        "Ernesto Che Guevara"
+    ],
+    "name:srd_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:swa_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:swe_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:szl_x_preferred":[
+        "Ernesto Guevara"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc7 \u0b95\u0bc1\u0bb5\u0bc7\u0bb0\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u042d\u0440\u043d\u0435\u0441\u0442\u043e \u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1a\u0c47 \u0c17\u0c46\u0c35\u0c3e\u0c30\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0a \u0e40\u0e01\u0e1a\u0e32\u0e23\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0440\u043d\u0435\u0441\u0442\u043e \u0427\u0435 \u0413\u0435\u0432\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc \u06af\u0648\u06cc\u0631\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Ernesto Che Guevara"
+    ],
+    "name:vec_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:vep_x_preferred":[
+        "\u010ce Gevara Ernesto"
+    ],
+    "name:vie_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:vol_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:war_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5207\u00b7\u683c\u74e6\u62c9"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d4\u10e0\u10dc\u10d4\u10e1\u10e2\u10dd \u10e9\u10d4 \u10d2\u10d4\u10d5\u10d0\u10e0\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d8\u05e9\u05e2 \u05d2\u05e2\u05d5\u05d5\u05d0\u05e8\u05d0"
+    ],
+    "name:yor_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:zea_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u00b7\u683c\u74e6\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +480,7 @@
         }
     ],
     "wof:id":1343953203,
-    "wof:lastmodified":1537029260,
+    "wof:lastmodified":1564211018,
     "wof:name":"Che Guevara",
     "wof:parent_id":1108799659,
     "wof:placetype":"locality",

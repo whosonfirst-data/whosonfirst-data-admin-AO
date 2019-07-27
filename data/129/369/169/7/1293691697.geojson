@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salava"
+    ],
+    "name:deu_x_preferred":[
+        "Salava"
+    ],
+    "name:est_x_preferred":[
+        "Salavamaa"
+    ],
+    "name:fra_x_preferred":[
+        "Salava"
+    ],
+    "name:swe_x_preferred":[
+        "Salavamaa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293691697,
-    "wof:lastmodified":1536989055,
+    "wof:lastmodified":1564211310,
     "wof:name":"Salava",
     "wof:parent_id":1108799939,
     "wof:placetype":"locality",

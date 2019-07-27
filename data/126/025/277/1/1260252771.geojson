@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Quibocolo"
+    ],
     "name:und_x_variant":[
         "Kibokolo",
         "Quibocolo"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260252771,
-    "wof:lastmodified":1537584609,
+    "wof:lastmodified":1564212073,
     "wof:name":"Quibocolo",
     "wof:parent_id":1108799957,
     "wof:placetype":"locality",

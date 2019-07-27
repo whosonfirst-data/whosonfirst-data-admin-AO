@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngando"
+    ],
+    "name:deu_x_preferred":[
+        "Ngando"
+    ],
+    "name:swe_x_preferred":[
+        "Ngando"
+    ],
     "name:und_x_variant":[
         "Gando"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1343734665,
-    "wof:lastmodified":1537584640,
+    "wof:lastmodified":1564211116,
     "wof:name":"Ngando",
     "wof:parent_id":1108799899,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Mabaia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343928183,
-    "wof:lastmodified":1537063853,
+    "wof:lastmodified":1564211020,
     "wof:name":"Mabaia",
     "wof:parent_id":1108799705,
     "wof:placetype":"locality",

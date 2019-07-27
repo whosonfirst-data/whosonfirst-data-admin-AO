@@ -26,6 +26,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Quicabo"
+    ],
+    "name:msa_x_preferred":[
+        "Kikabo"
+    ],
+    "name:por_x_preferred":[
+        "Quicabo"
+    ],
     "name:und_x_variant":[
         "Anapasso",
         "Quicabo"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310663171,
-    "wof:lastmodified":1537584608,
+    "wof:lastmodified":1564212296,
     "wof:name":"Quicabo",
     "wof:parent_id":1108799875,
     "wof:placetype":"locality",

@@ -26,6 +26,39 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zama"
+    ],
+    "name:deu_x_preferred":[
+        "Zama"
+    ],
+    "name:fra_x_preferred":[
+        "Zama"
+    ],
+    "name:ind_x_preferred":[
+        "Zama"
+    ],
+    "name:ita_x_preferred":[
+        "Zama"
+    ],
+    "name:nld_x_preferred":[
+        "Zama"
+    ],
+    "name:oci_x_preferred":[
+        "Zama"
+    ],
+    "name:pol_x_preferred":[
+        "Zama"
+    ],
+    "name:por_x_preferred":[
+        "Zama"
+    ],
+    "name:swe_x_preferred":[
+        "Zama"
+    ],
+    "name:tur_x_preferred":[
+        "Zama"
+    ],
     "name:und_x_variant":[
         "Nema",
         "Zama"
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1193254631,
-    "wof:lastmodified":1537584520,
+    "wof:lastmodified":1564212013,
     "wof:name":"Zama",
     "wof:parent_id":1108799925,
     "wof:placetype":"locality",

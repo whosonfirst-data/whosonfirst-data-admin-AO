@@ -26,6 +26,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sange"
+    ],
+    "name:deu_x_preferred":[
+        "Sange"
+    ],
+    "name:fra_x_preferred":[
+        "Sange"
+    ],
+    "name:swe_x_preferred":[
+        "Sange"
+    ],
     "name:und_x_variant":[
         "Kionzo",
         "Coinzo",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1277045093,
-    "wof:lastmodified":1537584578,
+    "wof:lastmodified":1564211576,
     "wof:name":"Sange",
     "wof:parent_id":1108799679,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Ulua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260055245,
-    "wof:lastmodified":1537027593,
+    "wof:lastmodified":1564212152,
     "wof:name":"Ulua",
     "wof:parent_id":1108799875,
     "wof:placetype":"locality",

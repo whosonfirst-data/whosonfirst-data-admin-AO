@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "L\u00e2ndana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062f\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e2ndana"
+    ],
+    "name:msa_x_preferred":[
+        "Landana"
+    ],
+    "name:spa_x_preferred":[
+        "Cacongo"
+    ],
     "name:und_x_variant":[
         "Quicongue",
         "Caconga",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1259352635,
-    "wof:lastmodified":1537584673,
+    "wof:lastmodified":1564212919,
     "wof:name":"Cacongo",
     "wof:parent_id":1108799615,
     "wof:placetype":"locality",

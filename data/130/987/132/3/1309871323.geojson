@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ndele"
+    ],
+    "name:deu_x_preferred":[
+        "Ndele"
+    ],
+    "name:swe_x_preferred":[
+        "Ndele"
+    ],
     "name:und_x_variant":[
         "Dela",
         "Dele",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1309871323,
-    "wof:lastmodified":1537584647,
+    "wof:lastmodified":1564212490,
     "wof:name":"Ndele",
     "wof:parent_id":1108799879,
     "wof:placetype":"locality",

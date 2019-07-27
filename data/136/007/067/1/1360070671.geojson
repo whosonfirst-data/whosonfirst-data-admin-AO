@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vango"
+    ],
+    "name:swe_x_preferred":[
+        "Vango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1360070671,
-    "wof:lastmodified":1536966274,
+    "wof:lastmodified":1564212361,
     "wof:name":"Vango",
     "wof:parent_id":1108799825,
     "wof:placetype":"locality",

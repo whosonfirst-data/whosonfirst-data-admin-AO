@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Carima"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226506051,
-    "wof:lastmodified":1537053106,
+    "wof:lastmodified":1564213113,
     "wof:name":"Carima",
     "wof:parent_id":1108799759,
     "wof:placetype":"locality",

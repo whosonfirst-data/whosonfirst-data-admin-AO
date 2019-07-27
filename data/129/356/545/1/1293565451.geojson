@@ -26,6 +26,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lui"
+    ],
+    "name:est_x_preferred":[
+        "Lui"
+    ],
+    "name:fra_x_preferred":[
+        "Lui"
+    ],
+    "name:hun_x_preferred":[
+        "Lui"
+    ],
     "name:und_x_variant":[
         "Iongo",
         "Tongo",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1293565451,
-    "wof:lastmodified":1537584628,
+    "wof:lastmodified":1564211315,
     "wof:name":"Lui",
     "wof:parent_id":1108799693,
     "wof:placetype":"locality",

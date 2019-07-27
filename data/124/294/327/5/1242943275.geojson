@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Boco"
+    ],
+    "name:spa_x_preferred":[
+        "Boco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1242943275,
-    "wof:lastmodified":1537032698,
+    "wof:lastmodified":1564212599,
     "wof:name":"Boco",
     "wof:parent_id":1108799957,
     "wof:placetype":"locality",

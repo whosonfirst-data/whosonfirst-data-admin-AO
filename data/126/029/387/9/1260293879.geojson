@@ -26,10 +26,34 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Chinguar"
+    ],
+    "name:deu_x_preferred":[
+        "Chinguar"
+    ],
+    "name:ita_x_preferred":[
+        "Chinguar"
+    ],
+    "name:msa_x_preferred":[
+        "Chinguar"
+    ],
+    "name:por_x_preferred":[
+        "Chinguar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043d\u0433\u0432\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Chinguar"
+    ],
     "name:und_x_variant":[
         "Xinguar",
         "Chingwari",
         "Chinguar"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b23\u74dc\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1260293879,
-    "wof:lastmodified":1537584760,
+    "wof:lastmodified":1564212121,
     "wof:name":"Chinguar",
     "wof:parent_id":1108799735,
     "wof:placetype":"locality",

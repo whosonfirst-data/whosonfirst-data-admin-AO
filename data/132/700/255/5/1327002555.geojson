@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "P\u0101ng\u0101la"
+    ],
+    "name:swe_x_preferred":[
+        "P\u0101ng\u0101la"
+    ],
     "name:und_x_variant":[
         "Pengala",
         "P\u00e2ngala"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1327002555,
-    "wof:lastmodified":1537584613,
+    "wof:lastmodified":1564210598,
     "wof:name":"Pangala",
     "wof:parent_id":1108799751,
     "wof:placetype":"locality",

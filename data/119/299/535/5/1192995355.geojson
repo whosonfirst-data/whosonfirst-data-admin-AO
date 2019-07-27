@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hele"
+    ],
+    "name:deu_x_preferred":[
+        "Hele"
+    ],
+    "name:est_x_preferred":[
+        "Hele"
+    ],
+    "name:swe_x_preferred":[
+        "Hele"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1192995355,
-    "wof:lastmodified":1536376458,
+    "wof:lastmodified":1564212027,
     "wof:name":"Hele",
     "wof:parent_id":1108799873,
     "wof:placetype":"locality",

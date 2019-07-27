@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rimba"
+    ],
+    "name:swe_x_preferred":[
+        "Rimba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326510173,
-    "wof:lastmodified":1537015138,
+    "wof:lastmodified":1564210630,
     "wof:name":"Rimba",
     "wof:parent_id":1108799719,
     "wof:placetype":"locality",

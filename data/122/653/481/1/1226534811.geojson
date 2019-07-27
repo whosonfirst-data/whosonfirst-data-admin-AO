@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kariango"
+    ],
+    "name:por_x_preferred":[
+        "Kariango"
+    ],
     "name:und_x_variant":[
         "Caiango",
         "Cariango"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226534811,
-    "wof:lastmodified":1537584778,
+    "wof:lastmodified":1564213235,
     "wof:name":"Cariango",
     "wof:parent_id":1108799857,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Lucala"
     ],
+    "name:fra_x_preferred":[
+        "Lukala"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108799905,
-    "wof:lastmodified":1553718824,
+    "wof:lastmodified":1564212154,
     "wof:name":"Lukala",
     "wof:parent_id":85667659,
     "wof:placetype":"county",
