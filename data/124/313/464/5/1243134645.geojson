@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Paredes"
+    ],
+    "name:msa_x_preferred":[
+        "Paredes"
+    ],
+    "name:por_x_preferred":[
+        "Paredes"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1243134645,
-    "wof:lastmodified":1537486288,
+    "wof:lastmodified":1564212636,
     "wof:name":"Paredes",
     "wof:parent_id":1108799859,
     "wof:placetype":"locality",

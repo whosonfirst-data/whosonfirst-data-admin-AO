@@ -25,11 +25,35 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Jamba"
+    ],
+    "name:deu_x_preferred":[
+        "Jamba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0645\u0628\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Jamba"
+    ],
+    "name:msa_x_preferred":[
+        "Jamba"
+    ],
+    "name:por_x_preferred":[
+        "Jamba"
+    ],
     "name:und_x_variant":[
         "Techiriata",
         "Cuanja",
         "Jamba",
         "Ndjamba"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u0628\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u7136\u5df4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1327423669,
-    "wof:lastmodified":1537584731,
+    "wof:lastmodified":1564210832,
     "wof:name":"Ndjamba",
     "wof:parent_id":1108799801,
     "wof:placetype":"locality",

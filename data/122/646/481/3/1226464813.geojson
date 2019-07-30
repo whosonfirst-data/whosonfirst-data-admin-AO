@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sengo"
+    ],
+    "name:swe_x_preferred":[
+        "Sengo"
+    ],
     "name:und_x_variant":[
         "Dange Cuanza",
         "Sengo"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226464813,
-    "wof:lastmodified":1537584695,
+    "wof:lastmodified":1564213193,
     "wof:name":"Sengo",
     "wof:parent_id":1108799743,
     "wof:placetype":"locality",

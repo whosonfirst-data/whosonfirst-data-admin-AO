@@ -26,9 +26,27 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Holzkragen"
+    ],
+    "name:fra_x_preferred":[
+        "Cangue"
+    ],
+    "name:kor_x_preferred":[
+        "\uce7c"
+    ],
+    "name:nor_x_preferred":[
+        "Mujia"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc7\u0b99\u0bcd"
+    ],
     "name:und_x_variant":[
         "Etundo",
         "Cangue"
+    ],
+    "name:vie_x_preferred":[
+        "G\u00f4ng c\u00f9m"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1226260423,
-    "wof:lastmodified":1537584784,
+    "wof:lastmodified":1564213028,
     "wof:name":"Cangue",
     "wof:parent_id":1108799707,
     "wof:placetype":"locality",

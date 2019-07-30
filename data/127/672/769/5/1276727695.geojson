@@ -25,6 +25,108 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0633\u0648\u0644\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0441\u043e\u043b\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Cassola"
+    ],
+    "name:deu_x_preferred":[
+        "Cassola"
+    ],
+    "name:epo_x_preferred":[
+        "Cassola"
+    ],
+    "name:eus_x_preferred":[
+        "Cassola"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0633\u0648\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Cassola"
+    ],
+    "name:hun_x_preferred":[
+        "Cassola"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057d\u0578\u056c\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Cassola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30c3\u30bd\u30fc\u30e9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0441\u0441\u043e\u043b\u0430"
+    ],
+    "name:lat_x_preferred":[
+        "Cassola"
+    ],
+    "name:lmo_x_preferred":[
+        "Cassola"
+    ],
+    "name:msa_x_preferred":[
+        "Cassola"
+    ],
+    "name:nap_x_preferred":[
+        "Cassola"
+    ],
+    "name:nld_x_preferred":[
+        "Cassola"
+    ],
+    "name:nor_x_preferred":[
+        "Cassola"
+    ],
+    "name:pms_x_preferred":[
+        "Cassola"
+    ],
+    "name:pol_x_preferred":[
+        "Cassola"
+    ],
+    "name:por_x_preferred":[
+        "Cassola"
+    ],
+    "name:ron_x_preferred":[
+        "Cassola"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0441\u043e\u043b\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Cassola"
+    ],
+    "name:spa_x_preferred":[
+        "Cassola"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0441\u043e\u043b\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Cassola"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u0441\u043e\u043b\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Cassola"
+    ],
+    "name:vec_x_preferred":[
+        "Caso\u0142a"
+    ],
+    "name:vol_x_preferred":[
+        "Cassola"
+    ],
+    "name:war_x_preferred":[
+        "Cassola"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7d22\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +150,7 @@
         }
     ],
     "wof:id":1276727695,
-    "wof:lastmodified":1536747314,
+    "wof:lastmodified":1564211461,
     "wof:name":"Cassola",
     "wof:parent_id":1108799879,
     "wof:placetype":"locality",

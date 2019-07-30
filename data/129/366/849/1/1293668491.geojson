@@ -25,6 +25,24 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Virei"
+    ],
+    "name:deu_x_preferred":[
+        "Virei"
+    ],
+    "name:ita_x_preferred":[
+        "Virei"
+    ],
+    "name:por_x_preferred":[
+        "Virei"
+    ],
+    "name:ron_x_preferred":[
+        "Virei"
+    ],
+    "name:spa_x_preferred":[
+        "Virei"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293668491,
-    "wof:lastmodified":1537486244,
+    "wof:lastmodified":1564211291,
     "wof:name":"Virei",
     "wof:parent_id":1108799897,
     "wof:placetype":"locality",

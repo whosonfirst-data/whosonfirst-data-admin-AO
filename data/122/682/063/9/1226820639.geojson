@@ -26,6 +26,27 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tota"
+    ],
+    "name:deu_x_preferred":[
+        "Tota"
+    ],
+    "name:fra_x_preferred":[
+        "Tota"
+    ],
+    "name:ita_x_preferred":[
+        "Tota"
+    ],
+    "name:por_x_preferred":[
+        "Tota"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tota"
+    ],
     "name:und_x_variant":[
         "Fota",
         "Tota"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1226820639,
-    "wof:lastmodified":1537584521,
+    "wof:lastmodified":1564213159,
     "wof:name":"Tota",
     "wof:parent_id":1108799695,
     "wof:placetype":"locality",

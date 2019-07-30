@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Caculo Cahango"
+    ],
+    "name:deu_x_preferred":[
+        "Caculo Cahango"
+    ],
+    "name:msa_x_preferred":[
+        "Kakalo-Kahango"
+    ],
+    "name:por_x_preferred":[
+        "Kakalo-Kahango"
+    ],
     "name:und_x_variant":[
         "Caculo Caango"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1360051067,
-    "wof:lastmodified":1537584673,
+    "wof:lastmodified":1564212415,
     "wof:name":"Caculo Cahango",
     "wof:parent_id":1108799819,
     "wof:placetype":"locality",

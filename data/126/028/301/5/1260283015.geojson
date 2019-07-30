@@ -26,6 +26,33 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0633\u0646\u062f\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Mussende"
+    ],
+    "name:deu_x_preferred":[
+        "Mussende"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u0646\u062f\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Mussende"
+    ],
+    "name:msa_x_preferred":[
+        "Mussende"
+    ],
+    "name:por_x_preferred":[
+        "Mussende"
+    ],
+    "name:spa_x_preferred":[
+        "Mussende"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u68ee\u4ee3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1260283015,
-    "wof:lastmodified":1536712883,
+    "wof:lastmodified":1564212127,
     "wof:name":"Mussende",
     "wof:parent_id":1108799789,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Catengue"
+    ],
+    "name:por_x_preferred":[
+        "Catengue"
+    ],
+    "name:spa_x_preferred":[
+        "Catengue"
+    ],
     "name:und_x_variant":[
         "Calengue",
         "Catengue"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343876025,
-    "wof:lastmodified":1537584774,
+    "wof:lastmodified":1564211118,
     "wof:name":"Catengue",
     "wof:parent_id":1108799837,
     "wof:placetype":"locality",

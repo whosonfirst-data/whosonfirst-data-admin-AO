@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rebelo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243295545,
-    "wof:lastmodified":1537022102,
+    "wof:lastmodified":1564212746,
     "wof:name":"Rebelo",
     "wof:parent_id":1108799881,
     "wof:placetype":"locality",

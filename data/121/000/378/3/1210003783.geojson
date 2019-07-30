@@ -25,12 +25,33 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Calandula"
+    ],
+    "name:deu_x_preferred":[
+        "Calandula"
+    ],
+    "name:ita_x_preferred":[
+        "Calandula"
+    ],
+    "name:msa_x_preferred":[
+        "Kalandula"
+    ],
+    "name:por_x_preferred":[
+        "Kalandula"
+    ],
+    "name:spa_x_preferred":[
+        "Calandula"
+    ],
     "name:und_x_variant":[
         "Kalandula",
         "Bragan\u00e7a",
         "Nalandula",
         "Duque de Bragan\u00e7a",
         "Calandula"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u862d\u675c\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1210003783,
-    "wof:lastmodified":1537584671,
+    "wof:lastmodified":1564211977,
     "wof:name":"Calandula",
     "wof:parent_id":1108799873,
     "wof:placetype":"locality",

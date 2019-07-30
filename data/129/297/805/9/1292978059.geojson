@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Macala"
+    ],
     "name:und_x_variant":[
         "Cabatuquila"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1292978059,
-    "wof:lastmodified":1537584810,
+    "wof:lastmodified":1564211349,
     "wof:name":"Macala",
     "wof:parent_id":1108799645,
     "wof:placetype":"locality",

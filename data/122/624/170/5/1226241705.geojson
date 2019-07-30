@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Zaca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226241705,
-    "wof:lastmodified":1536940135,
+    "wof:lastmodified":1564213172,
     "wof:name":"Zaca",
     "wof:parent_id":1108799939,
     "wof:placetype":"locality",

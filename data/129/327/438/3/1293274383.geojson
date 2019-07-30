@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lendi"
+    ],
+    "name:deu_x_preferred":[
+        "Lendi"
+    ],
+    "name:swe_x_preferred":[
+        "Lendi"
+    ],
     "name:und_x_variant":[
         "Londe",
         "Lende",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293274383,
-    "wof:lastmodified":1537584632,
+    "wof:lastmodified":1564211371,
     "wof:name":"Lendi",
     "wof:parent_id":1108799899,
     "wof:placetype":"locality",

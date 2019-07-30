@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sandala"
+    ],
+    "name:swe_x_preferred":[
+        "Sandala"
+    ],
     "name:und_x_variant":[
         "Cameia",
         "Sand\u00e1la"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226166945,
-    "wof:lastmodified":1537584698,
+    "wof:lastmodified":1564213055,
     "wof:name":"Sandala",
     "wof:parent_id":1108799821,
     "wof:placetype":"locality",

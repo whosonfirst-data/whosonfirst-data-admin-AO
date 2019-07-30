@@ -25,6 +25,27 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Puri"
+    ],
+    "name:deu_x_preferred":[
+        "Puri"
+    ],
+    "name:gla_x_preferred":[
+        "Puri"
+    ],
+    "name:ita_x_preferred":[
+        "Puri"
+    ],
+    "name:msa_x_preferred":[
+        "Puri"
+    ],
+    "name:por_x_preferred":[
+        "Puri"
+    ],
+    "name:spa_x_preferred":[
+        "Puri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1360155113,
-    "wof:lastmodified":1537486218,
+    "wof:lastmodified":1564212347,
     "wof:name":"Puri",
     "wof:parent_id":1108799657,
     "wof:placetype":"locality",

@@ -25,11 +25,29 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cambundi Catembo"
+    ],
+    "name:deu_x_preferred":[
+        "Cambundi-Catembo"
+    ],
+    "name:ita_x_preferred":[
+        "Cambundi-Catembo"
+    ],
+    "name:por_x_preferred":[
+        "Cambundi Catembo"
+    ],
+    "name:spa_x_preferred":[
+        "Nova Gaia"
+    ],
     "name:und_x_variant":[
         "Gaia",
         "Vila-Nova-de-Gaia",
         "Nova Gaia",
         "Cambundi Catembo"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u672c\u8fea-\u5361\u6ed5\u535a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243541633,
-    "wof:lastmodified":1537584787,
+    "wof:lastmodified":1564212528,
     "wof:name":"Cambundi Catembo",
     "wof:parent_id":1108799771,
     "wof:placetype":"locality",

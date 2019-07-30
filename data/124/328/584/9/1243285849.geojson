@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "Haco"
+    ],
     "name:und_x_variant":[
         "Aco",
         "Haco"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243285849,
-    "wof:lastmodified":1537584735,
+    "wof:lastmodified":1564212765,
     "wof:name":"Haco",
     "wof:parent_id":1108799833,
     "wof:placetype":"locality",

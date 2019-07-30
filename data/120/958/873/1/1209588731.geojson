@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Szent Pambosz"
+    ],
+    "name:ita_x_preferred":[
+        "Pambone l'Egiziano"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10db\u10d5\u10d0 \u10db\u10d4\u10e3\u10d3\u10d0\u10d1\u10dc\u10dd\u10d4"
+    ],
+    "name:pol_x_preferred":[
+        "\u015awi\u0119ty Pambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +46,7 @@
         "gn:id":7746021
     },
     "wof:country":"AO",
-    "wof:geomhash":"f50d89c88275bbb717dc99426bf9da10",
+    "wof:geomhash":"66d6a2d6e50296c1e81afcd5dd380816",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209588731,
-    "wof:lastmodified":1536282548,
+    "wof:lastmodified":1564211878,
     "wof:name":"Pambo",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.706320000000002,
-    -7.191910000000001,
-    15.706320000000002,
-    -7.191910000000001
+    15.70632,
+    -7.19191,
+    15.70632,
+    -7.19191
 ],
   "geometry": {"coordinates":[15.70632,-7.19191],"type":"Point"}
 }

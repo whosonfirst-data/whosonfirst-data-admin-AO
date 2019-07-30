@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tuco"
+    ],
+    "name:deu_x_preferred":[
+        "Tuco"
+    ],
+    "name:swe_x_preferred":[
+        "Tuco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243246547,
-    "wof:lastmodified":1537090477,
+    "wof:lastmodified":1564212620,
     "wof:name":"Tuco",
     "wof:parent_id":1108799939,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rivungo"
+    ],
+    "name:deu_x_preferred":[
+        "Rivungo"
+    ],
+    "name:ita_x_preferred":[
+        "Rivungo"
+    ],
+    "name:por_x_preferred":[
+        "Rivungo"
+    ],
+    "name:spa_x_preferred":[
+        "Rivungo"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u6eab\u6208"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1242583791,
-    "wof:lastmodified":1537486195,
+    "wof:lastmodified":1564212606,
     "wof:name":"Rivungo",
     "wof:parent_id":1108799779,
     "wof:placetype":"locality",

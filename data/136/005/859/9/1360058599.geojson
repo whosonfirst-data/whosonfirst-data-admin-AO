@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbembe"
+    ],
+    "name:fra_x_preferred":[
+        "Mbembe"
+    ],
+    "name:swe_x_preferred":[
+        "Mbembe"
+    ],
     "name:und_x_variant":[
         "Embemba"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1360058599,
-    "wof:lastmodified":1537584644,
+    "wof:lastmodified":1564212412,
     "wof:name":"Mbembe",
     "wof:parent_id":1108799705,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Lovua"
+    ],
     "name:und_x_variant":[
         "L\u00f3voa",
         "L\u00f3vua"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1225819275,
-    "wof:lastmodified":1537584550,
+    "wof:lastmodified":1564213124,
     "wof:name":"Lovua",
     "wof:parent_id":1108799861,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Quimbango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310392435,
-    "wof:lastmodified":1537076998,
+    "wof:lastmodified":1564212234,
     "wof:name":"Quimbango",
     "wof:parent_id":1108799719,
     "wof:placetype":"locality",

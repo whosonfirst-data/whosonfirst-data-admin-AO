@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "L\u00e2ndana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062f\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e2ndana"
+    ],
+    "name:msa_x_preferred":[
+        "Landana"
+    ],
+    "name:spa_x_preferred":[
+        "Cacongo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293367461,
-    "wof:lastmodified":1536960094,
+    "wof:lastmodified":1564211169,
     "wof:name":"Cacongo",
     "wof:parent_id":1108799645,
     "wof:placetype":"locality",

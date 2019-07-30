@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Chinhama"
+    ],
     "name:und_x_variant":[
         "Quindongo",
         "Chinhama",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310586601,
-    "wof:lastmodified":1537584760,
+    "wof:lastmodified":1564212336,
     "wof:name":"Chinhama",
     "wof:parent_id":1108799853,
     "wof:placetype":"locality",

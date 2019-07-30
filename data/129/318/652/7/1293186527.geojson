@@ -26,14 +26,38 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0634\u06cc\u0646\u062f\u0698\u0646\u0698\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Tchinjenje"
+    ],
+    "name:deu_x_preferred":[
+        "Chinjenje"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0634\u06cc\u0646\u062f\u0698\u0646\u0698\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Tchindjendje"
+    ],
+    "name:por_x_preferred":[
+        "Tchindjenje"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0448\u0438\u043d\u0434\u0436\u0435\u043d\u0436\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Tchinjenje"
     ],
     "name:und_x_variant":[
         "Kinjenje",
         "Quingenge",
         "Tchindjenje",
         "Tchindjendje"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b3d\u4efb\u6d85"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1293186527,
-    "wof:lastmodified":1537584693,
+    "wof:lastmodified":1564211367,
     "wof:name":"Tchindjendje",
     "wof:parent_id":1108799885,
     "wof:placetype":"locality",

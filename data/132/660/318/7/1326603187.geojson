@@ -25,10 +25,31 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Buengas"
+    ],
+    "name:deu_x_preferred":[
+        "Buengas"
+    ],
+    "name:ita_x_preferred":[
+        "Buengas"
+    ],
+    "name:msa_x_preferred":[
+        "Buengas"
+    ],
+    "name:por_x_preferred":[
+        "Buengas"
+    ],
+    "name:spa_x_preferred":[
+        "Buengas"
+    ],
     "name:und_x_variant":[
         "Nova Esperan\u00e7a",
         "Buengas",
         "Buenga Norte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6069\u52a0\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1326603187,
-    "wof:lastmodified":1537584676,
+    "wof:lastmodified":1564210647,
     "wof:name":"Nova Esperanca",
     "wof:parent_id":1108799715,
     "wof:placetype":"locality",

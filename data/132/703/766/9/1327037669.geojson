@@ -26,6 +26,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Vito"
+    ],
+    "name:lat_x_preferred":[
+        "Vito"
+    ],
+    "name:slv_x_preferred":[
+        "Vito"
+    ],
     "name:und_x_variant":[
         "Vito Pegueno",
         "Vito"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327037669,
-    "wof:lastmodified":1537584571,
+    "wof:lastmodified":1564210733,
     "wof:name":"Vito",
     "wof:parent_id":1108799803,
     "wof:placetype":"locality",

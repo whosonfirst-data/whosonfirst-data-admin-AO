@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043a\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1292986529,
-    "wof:lastmodified":1537011517,
+    "wof:lastmodified":1564211339,
     "wof:name":"Sico",
     "wof:parent_id":1108799773,
     "wof:placetype":"locality",

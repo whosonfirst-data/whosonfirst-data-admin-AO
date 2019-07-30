@@ -25,6 +25,84 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Canari"
+    ],
+    "name:ceb_x_preferred":[
+        "Canari"
+    ],
+    "name:cos_x_preferred":[
+        "C\u00e0nari"
+    ],
+    "name:deu_x_preferred":[
+        "Canari"
+    ],
+    "name:eus_x_preferred":[
+        "Canari"
+    ],
+    "name:fra_x_preferred":[
+        "Canari"
+    ],
+    "name:hun_x_preferred":[
+        "Canari"
+    ],
+    "name:ita_x_preferred":[
+        "Canari"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0440\u0438"
+    ],
+    "name:lat_x_preferred":[
+        "Canari"
+    ],
+    "name:mlg_x_preferred":[
+        "Canari"
+    ],
+    "name:msa_x_preferred":[
+        "Canari"
+    ],
+    "name:nld_x_preferred":[
+        "Canari"
+    ],
+    "name:oci_x_preferred":[
+        "Canari"
+    ],
+    "name:pol_x_preferred":[
+        "Canari"
+    ],
+    "name:por_x_preferred":[
+        "Canari"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0440\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Canari"
+    ],
+    "name:slv_x_preferred":[
+        "Canari"
+    ],
+    "name:spa_x_preferred":[
+        "Canari"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Canari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0440\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Canari"
+    ],
+    "name:vol_x_preferred":[
+        "Canari"
+    ],
+    "name:war_x_preferred":[
+        "Canari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +126,7 @@
         }
     ],
     "wof:id":1209896393,
-    "wof:lastmodified":1536388420,
+    "wof:lastmodified":1564211937,
     "wof:name":"Canari",
     "wof:parent_id":1108799771,
     "wof:placetype":"locality",

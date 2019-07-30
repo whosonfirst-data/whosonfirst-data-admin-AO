@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cando"
+    ],
+    "name:fra_x_preferred":[
+        "Cando"
+    ],
+    "name:ita_x_preferred":[
+        "Cando"
+    ],
+    "name:pol_x_preferred":[
+        "Cando"
+    ],
+    "name:swe_x_preferred":[
+        "Cando"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +49,7 @@
         "gn:id":2242613
     },
     "wof:country":"AO",
-    "wof:geomhash":"84e12c42184003ec3552b37624c12c65",
+    "wof:geomhash":"30225496b673f3e6ab59b294a7b82891",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209681329,
-    "wof:lastmodified":1536279564,
+    "wof:lastmodified":1564211854,
     "wof:name":"Cando",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.333329999999998,
+    14.33333,
     -9.86667,
-    14.333329999999998,
+    14.33333,
     -9.86667
 ],
   "geometry": {"coordinates":[14.33333,-9.86667],"type":"Point"}

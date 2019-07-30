@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sassa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0633\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Sassa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0441\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293562297,
-    "wof:lastmodified":1536679325,
+    "wof:lastmodified":1564211312,
     "wof:name":"Sassa",
     "wof:parent_id":1108799951,
     "wof:placetype":"locality",

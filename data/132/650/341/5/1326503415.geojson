@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bango"
+    ],
+    "name:deu_x_preferred":[
+        "Bango"
+    ],
+    "name:swe_x_preferred":[
+        "Bango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326503415,
-    "wof:lastmodified":1537024548,
+    "wof:lastmodified":1564210670,
     "wof:name":"Bango",
     "wof:parent_id":1108799957,
     "wof:placetype":"locality",

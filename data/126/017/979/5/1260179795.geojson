@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Assango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260179795,
-    "wof:lastmodified":1536851949,
+    "wof:lastmodified":1564212124,
     "wof:name":"Assango",
     "wof:parent_id":1108799827,
     "wof:placetype":"locality",

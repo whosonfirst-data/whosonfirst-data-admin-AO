@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Severiano"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260075671,
-    "wof:lastmodified":1536998581,
+    "wof:lastmodified":1564212080,
     "wof:name":"Severiano",
     "wof:parent_id":1108799917,
     "wof:placetype":"locality",

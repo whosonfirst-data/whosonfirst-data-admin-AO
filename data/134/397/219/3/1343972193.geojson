@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pongo"
+    ],
+    "name:deu_x_preferred":[
+        "Pongo"
+    ],
+    "name:fra_x_preferred":[
+        "Pongo"
+    ],
+    "name:ita_x_preferred":[
+        "Pongo"
+    ],
+    "name:swe_x_preferred":[
+        "Pongo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343972193,
-    "wof:lastmodified":1537002224,
+    "wof:lastmodified":1564210896,
     "wof:name":"Pongo",
     "wof:parent_id":1108799837,
     "wof:placetype":"locality",

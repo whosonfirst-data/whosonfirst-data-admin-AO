@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Arnaldo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30ca\u30eb\u30c9"
+    ],
+    "name:spa_x_preferred":[
+        "Arnaldo"
+    ],
     "name:und_x_variant":[
         "Arnaldo Barbela",
         "Arnaldo Barbedo",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226439455,
-    "wof:lastmodified":1537584804,
+    "wof:lastmodified":1564213012,
     "wof:name":"Arnaldo",
     "wof:parent_id":1108799825,
     "wof:placetype":"locality",

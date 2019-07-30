@@ -25,6 +25,24 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Quimbanda"
+    ],
+    "name:cat_x_preferred":[
+        "Quimbanda"
+    ],
+    "name:fra_x_preferred":[
+        "Quimbanda"
+    ],
+    "name:pol_x_preferred":[
+        "Quimbanda"
+    ],
+    "name:por_x_preferred":[
+        "Quimbanda"
+    ],
+    "name:spa_x_preferred":[
+        "Quimbanda"
+    ],
     "name:und_x_variant":[
         "Quibanda",
         "Quimbanda"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1293291975,
-    "wof:lastmodified":1537584600,
+    "wof:lastmodified":1564211378,
     "wof:name":"Quimbanda",
     "wof:parent_id":1108799625,
     "wof:placetype":"locality",

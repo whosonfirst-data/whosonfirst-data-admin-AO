@@ -25,10 +25,34 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Londuimbale"
+    ],
+    "name:cat_x_preferred":[
+        "Londuimbale"
+    ],
+    "name:deu_x_preferred":[
+        "Londuimbale"
+    ],
+    "name:ita_x_preferred":[
+        "Londuimbali"
+    ],
+    "name:msa_x_preferred":[
+        "Londuimbali"
+    ],
+    "name:por_x_preferred":[
+        "Londuimbali"
+    ],
+    "name:spa_x_preferred":[
+        "Londuimbale"
+    ],
     "name:und_x_variant":[
         "Vila Massano de Amorim",
         "Luimbale",
         "Londuimbali"
+    ],
+    "name:zho_x_preferred":[
+        "\u9686\u675c\u56e0\u5df4\u5229"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1343948667,
-    "wof:lastmodified":1537584727,
+    "wof:lastmodified":1564211048,
     "wof:name":"Londuimbali",
     "wof:parent_id":1108799825,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0627-\u0645\u0648\u062a\u0628\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "X\u00e1-Muteba"
+    ],
+    "name:deu_x_preferred":[
+        "X\u00e1 Muteba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627-\u0645\u0648\u062a\u0628\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "X\u00e1-Muteba"
+    ],
+    "name:msa_x_preferred":[
+        "X\u00e1-Muteba"
+    ],
+    "name:por_x_preferred":[
+        "X\u00e1-Muteba"
+    ],
+    "name:spa_x_preferred":[
+        "X\u00e1-Muteba"
+    ],
     "name:und_x_variant":[
         "Outubro",
         "Cinco de Outubro",
@@ -33,6 +57,9 @@
         "5 de Outubro",
         "Cha Muteba",
         "X\u00e1 Muteba"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u7a46\u6cf0\u5df4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1293077335,
-    "wof:lastmodified":1537584570,
+    "wof:lastmodified":1564211156,
     "wof:name":"Xa Muteba",
     "wof:parent_id":1108799693,
     "wof:placetype":"locality",

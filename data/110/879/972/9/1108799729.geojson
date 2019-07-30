@@ -27,7 +27,13 @@
     "meso:name_alt":"Moxico",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Moxico"
+    ],
     "name:eng_x_preferred":[
+        "Moxico"
+    ],
+    "name:swe_x_preferred":[
         "Moxico"
     ],
     "src:geom":"meso",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108799729,
-    "wof:lastmodified":1553718821,
+    "wof:lastmodified":1564212162,
     "wof:name":"Moxico",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

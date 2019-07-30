@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Katata"
+    ],
+    "name:por_x_preferred":[
+        "Katata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1327111775,
-    "wof:lastmodified":1536645439,
+    "wof:lastmodified":1564210845,
     "wof:name":"Catata",
     "wof:parent_id":1108799627,
     "wof:placetype":"locality",

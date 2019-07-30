@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Pundo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043d\u0434\u043e"
+    ],
     "name:und_x_variant":[
         "Pundu",
         "Pundo"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209905963,
-    "wof:lastmodified":1537584709,
+    "wof:lastmodified":1564211777,
     "wof:name":"Pundo",
     "wof:parent_id":1108799929,
     "wof:placetype":"locality",

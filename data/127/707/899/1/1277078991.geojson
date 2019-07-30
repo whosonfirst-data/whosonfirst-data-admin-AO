@@ -25,6 +25,96 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Canzo"
+    ],
+    "name:deu_x_preferred":[
+        "Canzo"
+    ],
+    "name:epo_x_preferred":[
+        "Canzo"
+    ],
+    "name:eus_x_preferred":[
+        "Canzo"
+    ],
+    "name:fra_x_preferred":[
+        "Canzo"
+    ],
+    "name:gle_x_preferred":[
+        "Canzo"
+    ],
+    "name:hun_x_preferred":[
+        "Canzo"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0576\u0581\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Canzo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30f3\u30c4\u30a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043d\u0446\u043e"
+    ],
+    "name:lat_x_preferred":[
+        "Cantium"
+    ],
+    "name:lmo_x_preferred":[
+        "Canz"
+    ],
+    "name:msa_x_preferred":[
+        "Canzo"
+    ],
+    "name:nap_x_preferred":[
+        "Canzo"
+    ],
+    "name:nld_x_preferred":[
+        "Canzo"
+    ],
+    "name:nor_x_preferred":[
+        "Canzo"
+    ],
+    "name:pms_x_preferred":[
+        "Canzo"
+    ],
+    "name:pol_x_preferred":[
+        "Canzo"
+    ],
+    "name:por_x_preferred":[
+        "Canzo"
+    ],
+    "name:ron_x_preferred":[
+        "Canzo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0446\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Canzo"
+    ],
+    "name:spa_x_preferred":[
+        "Canzo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043d\u0446\u043e"
+    ],
+    "name:tgl_x_preferred":[
+        "Canzo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0446\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Canzo"
+    ],
+    "name:vol_x_preferred":[
+        "Canzo"
+    ],
+    "name:war_x_preferred":[
+        "Canzo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +138,7 @@
         }
     ],
     "wof:id":1277078991,
-    "wof:lastmodified":1536773622,
+    "wof:lastmodified":1564211453,
     "wof:name":"Canzo",
     "wof:parent_id":1108799619,
     "wof:placetype":"locality",

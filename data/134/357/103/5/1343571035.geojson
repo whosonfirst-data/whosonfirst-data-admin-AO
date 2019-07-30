@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jongo"
+    ],
+    "name:epo_x_preferred":[
+        "\u0134ongo"
+    ],
+    "name:por_x_preferred":[
+        "Jongo"
+    ],
+    "name:spa_x_preferred":[
+        "Jongo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343571035,
-    "wof:lastmodified":1537080983,
+    "wof:lastmodified":1564211029,
     "wof:name":"Jongo",
     "wof:parent_id":1108799727,
     "wof:placetype":"locality",

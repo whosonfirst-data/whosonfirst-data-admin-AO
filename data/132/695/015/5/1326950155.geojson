@@ -26,6 +26,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dende"
+    ],
+    "name:por_x_preferred":[
+        "Dend\u00ea"
+    ],
+    "name:swe_x_preferred":[
+        "Dende"
+    ],
     "name:und_x_variant":[
         "Dembe",
         "Dendi",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1326950155,
-    "wof:lastmodified":1537584745,
+    "wof:lastmodified":1564210665,
     "wof:name":"Dende",
     "wof:parent_id":1108799931,
     "wof:placetype":"locality",

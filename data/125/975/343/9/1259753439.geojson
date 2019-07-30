@@ -25,6 +25,24 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lango"
+    ],
+    "name:epo_x_preferred":[
+        "Lango"
+    ],
+    "name:fin_x_preferred":[
+        "Lango"
+    ],
+    "name:fra_x_preferred":[
+        "Lango"
+    ],
+    "name:ido_x_preferred":[
+        "Lango"
+    ],
+    "name:swe_x_preferred":[
+        "Lango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1259753439,
-    "wof:lastmodified":1536966266,
+    "wof:lastmodified":1564212977,
     "wof:name":"Lango",
     "wof:parent_id":1108799957,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Humbe"
+    ],
     "name:und_x_variant":[
         "Mutano",
         "Humbe Mutano",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226640475,
-    "wof:lastmodified":1537584733,
+    "wof:lastmodified":1564213208,
     "wof:name":"Humbe",
     "wof:parent_id":1108799893,
     "wof:placetype":"locality",

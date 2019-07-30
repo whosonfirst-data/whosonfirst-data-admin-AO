@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u043d\u0442\u0435\u0448"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276217581,
-    "wof:lastmodified":1536934901,
+    "wof:lastmodified":1564211476,
     "wof:name":"Fontes",
     "wof:parent_id":1108799931,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbanza"
+    ],
+    "name:fra_x_preferred":[
+        "Mbanza"
+    ],
+    "name:lin_x_preferred":[
+        "Mbanza"
+    ],
+    "name:pol_x_preferred":[
+        "Mbanza"
+    ],
+    "name:swe_x_preferred":[
+        "Mbanza"
+    ],
     "name:und_x_variant":[
         "Quissongo"
     ],
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1343456105,
-    "wof:lastmodified":1537584810,
+    "wof:lastmodified":1564211106,
     "wof:name":"Mbanza",
     "wof:parent_id":1108799743,
     "wof:placetype":"locality",

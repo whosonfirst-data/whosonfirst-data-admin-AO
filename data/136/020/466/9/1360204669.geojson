@@ -26,6 +26,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chindongo"
+    ],
+    "name:fra_x_preferred":[
+        "Chindongo"
+    ],
+    "name:spa_x_preferred":[
+        "Chindongo"
+    ],
+    "name:ukr_x_preferred":[
+        "Chindongo"
+    ],
     "name:und_x_variant":[
         "Tchindongo",
         "Chindongo"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1360204669,
-    "wof:lastmodified":1537584761,
+    "wof:lastmodified":1564212381,
     "wof:name":"Chindongo",
     "wof:parent_id":1108799921,
     "wof:placetype":"locality",

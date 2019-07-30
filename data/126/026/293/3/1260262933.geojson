@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Canuto"
+    ],
+    "name:ita_x_preferred":[
+        "Canuto"
+    ],
+    "name:por_x_preferred":[
+        "Canuto"
+    ],
+    "name:spa_x_preferred":[
+        "Canuto"
+    ],
+    "name:swe_x_preferred":[
+        "Canuto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1260262933,
-    "wof:lastmodified":1536739435,
+    "wof:lastmodified":1564212133,
     "wof:name":"Canuto",
     "wof:parent_id":1108799805,
     "wof:placetype":"locality",

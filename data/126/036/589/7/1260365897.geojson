@@ -25,6 +25,36 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0644\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Dala"
+    ],
+    "name:deu_x_preferred":[
+        "Dala"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0644\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Dala"
+    ],
+    "name:msa_x_preferred":[
+        "Dala"
+    ],
+    "name:pol_x_preferred":[
+        "Dala"
+    ],
+    "name:por_x_preferred":[
+        "Dala"
+    ],
+    "name:spa_x_preferred":[
+        "Dala"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1260365897,
-    "wof:lastmodified":1537486199,
+    "wof:lastmodified":1564212088,
     "wof:name":"Dala",
     "wof:parent_id":1108799823,
     "wof:placetype":"locality",

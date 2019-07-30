@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Cambembe"
+    ],
+    "name:por_x_preferred":[
+        "Cambembe"
+    ],
     "name:und_x_variant":[
         "Kambembe",
         "Cambembe"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1309725095,
-    "wof:lastmodified":1537584788,
+    "wof:lastmodified":1564212511,
     "wof:name":"Cambembe",
     "wof:parent_id":1108799719,
     "wof:placetype":"locality",

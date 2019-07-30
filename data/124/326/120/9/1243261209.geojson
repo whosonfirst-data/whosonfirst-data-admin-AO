@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Capunda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243261209,
-    "wof:lastmodified":1537069569,
+    "wof:lastmodified":1564212771,
     "wof:name":"Capunda",
     "wof:parent_id":1108799659,
     "wof:placetype":"locality",

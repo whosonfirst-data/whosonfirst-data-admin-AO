@@ -27,7 +27,28 @@
     "meso:name_alt":"Kilamba Kiaxi",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kilamba Kiaxi"
+    ],
+    "name:deu_x_preferred":[
+        "Kilamba Kiaxi"
+    ],
     "name:eng_x_preferred":[
+        "Kilamba Kiaxi"
+    ],
+    "name:fra_x_preferred":[
+        "Kilamba Kiaxi"
+    ],
+    "name:ita_x_preferred":[
+        "Kilamba Kiaxi"
+    ],
+    "name:msa_x_preferred":[
+        "Kilamba Kiaxi"
+    ],
+    "name:por_x_preferred":[
+        "Kilamba Kiaxi"
+    ],
+    "name:spa_x_preferred":[
         "Kilamba Kiaxi"
     ],
     "src:geom":"meso",
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1108799903,
-    "wof:lastmodified":1553718824,
+    "wof:lastmodified":1564212154,
     "wof:name":"Kilamba Kiaxi",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

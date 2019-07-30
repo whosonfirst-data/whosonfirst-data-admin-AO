@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Massabi"
+    ],
+    "name:por_x_preferred":[
+        "Massabi"
+    ],
     "name:und_x_variant":[
         "Masabe",
         "Massabe",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1260087711,
-    "wof:lastmodified":1537584624,
+    "wof:lastmodified":1564212095,
     "wof:name":"Massabi",
     "wof:parent_id":1108799769,
     "wof:placetype":"locality",

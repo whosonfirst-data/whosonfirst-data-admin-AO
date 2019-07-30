@@ -25,6 +25,24 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mande"
+    ],
+    "name:deu_x_preferred":[
+        "Mande"
+    ],
+    "name:hrv_x_preferred":[
+        "Mande"
+    ],
+    "name:nld_x_preferred":[
+        "Mande"
+    ],
+    "name:por_x_preferred":[
+        "Mande"
+    ],
+    "name:swe_x_preferred":[
+        "Mande"
+    ],
     "name:und_x_variant":[
         "Embala Mande",
         "Mande"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1326622695,
-    "wof:lastmodified":1537584722,
+    "wof:lastmodified":1564210790,
     "wof:name":"Mande",
     "wof:parent_id":1108799799,
     "wof:placetype":"locality",

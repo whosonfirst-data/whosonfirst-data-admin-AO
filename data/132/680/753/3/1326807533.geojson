@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Macala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326807533,
-    "wof:lastmodified":1537081302,
+    "wof:lastmodified":1564210616,
     "wof:name":"Macala",
     "wof:parent_id":1108799871,
     "wof:placetype":"locality",

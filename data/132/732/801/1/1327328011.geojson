@@ -26,6 +26,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gando"
+    ],
+    "name:deu_x_preferred":[
+        "Gando"
+    ],
+    "name:fra_x_preferred":[
+        "Gando"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u043d\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Gando"
+    ],
     "name:und_x_variant":[
         "Gando Grande",
         "Gando"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1327328011,
-    "wof:lastmodified":1537584738,
+    "wof:lastmodified":1564210726,
     "wof:name":"Gando",
     "wof:parent_id":1108799801,
     "wof:placetype":"locality",

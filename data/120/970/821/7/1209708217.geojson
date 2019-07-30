@@ -25,6 +25,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Hanza"
+    ],
+    "name:swe_x_preferred":[
+        "Hanza"
+    ],
     "name:und_x_variant":[
         "Anza",
         "Hanza"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1209708217,
-    "wof:lastmodified":1537584734,
+    "wof:lastmodified":1564211798,
     "wof:name":"Hanza",
     "wof:parent_id":1108799653,
     "wof:placetype":"locality",

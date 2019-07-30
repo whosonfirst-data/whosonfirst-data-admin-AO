@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Caluango"
+    ],
     "name:und_x_variant":[
         "Kaluangu",
         "Coluango",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1260043609,
-    "wof:lastmodified":1537584670,
+    "wof:lastmodified":1564212140,
     "wof:name":"Caluango",
     "wof:parent_id":1108799669,
     "wof:placetype":"locality",

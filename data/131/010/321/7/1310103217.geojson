@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Hengue-Caculo"
+    ],
     "name:und_x_variant":[
         "Engue",
         "Hengue"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310103217,
-    "wof:lastmodified":1537584734,
+    "wof:lastmodified":1564212285,
     "wof:name":"Hengue",
     "wof:parent_id":1108799827,
     "wof:placetype":"locality",

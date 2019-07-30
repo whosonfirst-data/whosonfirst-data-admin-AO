@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zela"
+    ],
+    "name:deu_x_preferred":[
+        "Zela"
+    ],
+    "name:fin_x_preferred":[
+        "Zela"
+    ],
+    "name:swe_x_preferred":[
+        "Zela"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +46,7 @@
         "gn:id":7866716
     },
     "wof:country":"AO",
-    "wof:geomhash":"0925bde6c633824dd60e5cccd9b0609b",
+    "wof:geomhash":"93b8083b0148ad7c287b84d54a5e3e9d",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209336769,
-    "wof:lastmodified":1536290194,
+    "wof:lastmodified":1564211903,
     "wof:name":"Zela",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.391229999999998,
+    14.39123,
     -10.90935,
-    14.391229999999998,
+    14.39123,
     -10.90935
 ],
   "geometry": {"coordinates":[14.39123,-10.90935],"type":"Point"}

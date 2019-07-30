@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tudo"
+    ],
+    "name:fra_x_preferred":[
+        "Tudo"
+    ],
+    "name:swe_x_preferred":[
+        "Tudo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276144351,
-    "wof:lastmodified":1537030641,
+    "wof:lastmodified":1564211584,
     "wof:name":"Tudo",
     "wof:parent_id":1108799857,
     "wof:placetype":"locality",

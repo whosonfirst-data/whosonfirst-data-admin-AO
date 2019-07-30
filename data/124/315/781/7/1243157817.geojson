@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Manuel dos Santos"
+    ],
+    "name:fra_x_preferred":[
+        "Manuel Dos Santos"
+    ],
+    "name:por_x_preferred":[
+        "Manuel dos Santos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243157817,
-    "wof:lastmodified":1536725072,
+    "wof:lastmodified":1564212631,
     "wof:name":"Manuel dos Santos",
     "wof:parent_id":1108799921,
     "wof:placetype":"locality",

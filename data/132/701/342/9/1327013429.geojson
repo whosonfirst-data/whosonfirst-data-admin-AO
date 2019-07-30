@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Cambamba"
+    ],
     "name:und_x_variant":[
         "Marotse",
         "Mumbiana",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327013429,
-    "wof:lastmodified":1537584563,
+    "wof:lastmodified":1564210578,
     "wof:name":"Cambamba",
     "wof:parent_id":1108799623,
     "wof:placetype":"locality",

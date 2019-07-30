@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Licoma"
+    ],
+    "name:que_x_preferred":[
+        "Likuma"
+    ],
     "name:und_x_variant":[
         "Likoma",
         "Licoma"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1360185177,
-    "wof:lastmodified":1537584551,
+    "wof:lastmodified":1564212386,
     "wof:name":"Licoma",
     "wof:parent_id":1108799779,
     "wof:placetype":"locality",

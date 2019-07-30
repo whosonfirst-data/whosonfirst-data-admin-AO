@@ -25,6 +25,36 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Lucala"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0648\u06a9\u0644\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Lucala"
+    ],
+    "name:deu_x_preferred":[
+        "Lucala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06a9\u0644\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Lukala"
+    ],
+    "name:msa_x_preferred":[
+        "Lucala"
+    ],
+    "name:por_x_preferred":[
+        "Lucala"
+    ],
+    "name:spa_x_preferred":[
+        "Lucala"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5361\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -43,7 +73,7 @@
         }
     ],
     "wof:id":1209390041,
-    "wof:lastmodified":1537486224,
+    "wof:lastmodified":1564211755,
     "wof:name":"Lucala",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

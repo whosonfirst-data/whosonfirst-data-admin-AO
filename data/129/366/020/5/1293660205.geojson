@@ -26,6 +26,27 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fula"
+    ],
+    "name:ita_x_preferred":[
+        "Fula"
+    ],
+    "name:nld_x_preferred":[
+        "Fula"
+    ],
+    "name:pol_x_preferred":[
+        "Fula"
+    ],
+    "name:por_x_preferred":[
+        "Fula"
+    ],
+    "name:spa_x_preferred":[
+        "Fula"
+    ],
+    "name:swe_x_preferred":[
+        "Fula"
+    ],
     "name:und_x_variant":[
         "Cafula",
         "Fula"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1293660205,
-    "wof:lastmodified":1537584552,
+    "wof:lastmodified":1564211291,
     "wof:name":"Fula",
     "wof:parent_id":1108799891,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Chicala"
+    ],
     "name:und_x_variant":[
         "Tchicala"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293690079,
-    "wof:lastmodified":1537584767,
+    "wof:lastmodified":1564211310,
     "wof:name":"Chicala",
     "wof:parent_id":1108799603,
     "wof:placetype":"locality",

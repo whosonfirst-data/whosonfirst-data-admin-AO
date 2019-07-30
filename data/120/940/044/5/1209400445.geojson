@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Catari"
+    ],
     "name:und_x_variant":[
         "Catanda",
         "Catari"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209400445,
-    "wof:lastmodified":1537584774,
+    "wof:lastmodified":1564211820,
     "wof:name":"Catari",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Quirimbo"
+    ],
     "name:und_x_variant":[
         "Quirumbo",
         "Quirimbo"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309998545,
-    "wof:lastmodified":1537584706,
+    "wof:lastmodified":1564212441,
     "wof:name":"Quirimbo",
     "wof:parent_id":1108799949,
     "wof:placetype":"locality",

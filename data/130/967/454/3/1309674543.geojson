@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tabi"
+    ],
+    "name:ces_x_preferred":[
+        "Tabi"
+    ],
+    "name:msa_x_preferred":[
+        "Tabi"
+    ],
+    "name:por_x_preferred":[
+        "Tabi"
+    ],
     "name:und_x_variant":[
         "Fazenda Tabi",
         "Tabi"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1309674543,
-    "wof:lastmodified":1537584575,
+    "wof:lastmodified":1564212482,
     "wof:name":"Tabi",
     "wof:parent_id":1108799933,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Maladi"
+    ],
+    "name:jav_x_preferred":[
+        "Maladi"
+    ],
     "name:und_x_variant":[
         "Quiambo",
         "Maladi"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293671237,
-    "wof:lastmodified":1537584626,
+    "wof:lastmodified":1564211330,
     "wof:name":"Maladi",
     "wof:parent_id":1108799731,
     "wof:placetype":"locality",

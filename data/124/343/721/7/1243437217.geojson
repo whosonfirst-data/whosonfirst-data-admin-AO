@@ -25,6 +25,21 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cassinga"
+    ],
+    "name:deu_x_preferred":[
+        "Cassinga"
+    ],
+    "name:msa_x_preferred":[
+        "Kassinga"
+    ],
+    "name:por_x_preferred":[
+        "Cassinga"
+    ],
+    "name:spa_x_preferred":[
+        "Cassinga"
+    ],
     "name:und_x_variant":[
         "Cacinga",
         "Cassinga"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1243437217,
-    "wof:lastmodified":1537584661,
+    "wof:lastmodified":1564212784,
     "wof:name":"Cassinga",
     "wof:parent_id":1108799689,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lopes"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1193122705,
-    "wof:lastmodified":1536384202,
+    "wof:lastmodified":1564212002,
     "wof:name":"Lopes",
     "wof:parent_id":1108799825,
     "wof:placetype":"locality",

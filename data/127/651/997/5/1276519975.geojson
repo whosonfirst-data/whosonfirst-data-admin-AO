@@ -26,6 +26,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Massangano"
+    ],
+    "name:fra_x_preferred":[
+        "Massangano"
+    ],
+    "name:por_x_preferred":[
+        "Massangano"
+    ],
     "name:und_x_variant":[
         "Massangana",
         "Massangando",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276519975,
-    "wof:lastmodified":1537584624,
+    "wof:lastmodified":1564211522,
     "wof:name":"Massangano",
     "wof:parent_id":1108799751,
     "wof:placetype":"locality",

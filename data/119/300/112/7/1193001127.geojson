@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Uamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1193001127,
-    "wof:lastmodified":1536370513,
+    "wof:lastmodified":1564211987,
     "wof:name":"Uamba",
     "wof:parent_id":1108799617,
     "wof:placetype":"locality",

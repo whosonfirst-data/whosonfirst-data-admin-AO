@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Calema"
+    ],
     "name:und_x_variant":[
         "Cavera",
         "Calema"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209420881,
-    "wof:lastmodified":1537584564,
+    "wof:lastmodified":1564211940,
     "wof:name":"Calema",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tuco"
+    ],
+    "name:deu_x_preferred":[
+        "Tuco"
+    ],
+    "name:swe_x_preferred":[
+        "Tuco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +43,7 @@
         "gn:id":2236661
     },
     "wof:country":"AO",
-    "wof:geomhash":"a35b3481261b81b790cce6d5202c5ecb",
+    "wof:geomhash":"9ba0540efce7345effbcf6b053609c08",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209689089,
-    "wof:lastmodified":1536279307,
+    "wof:lastmodified":1564211854,
     "wof:name":"Tuco",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.916670000000002,
+    14.91667,
     -7.2,
-    14.916670000000002,
+    14.91667,
     -7.2
 ],
   "geometry": {"coordinates":[14.91667,-7.2],"type":"Point"}

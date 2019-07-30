@@ -25,6 +25,24 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chigi"
+    ],
+    "name:fra_x_preferred":[
+        "Chigi"
+    ],
+    "name:ita_x_preferred":[
+        "Chigi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0434\u0436\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Chigi"
+    ],
+    "name:swe_x_preferred":[
+        "Chigi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1193005327,
-    "wof:lastmodified":1536366410,
+    "wof:lastmodified":1564211985,
     "wof:name":"Chigi",
     "wof:parent_id":1108799887,
     "wof:placetype":"locality",

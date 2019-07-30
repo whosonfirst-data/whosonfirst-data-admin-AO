@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Dembo Chio"
+    ],
     "name:und_x_variant":[
         "Chio",
         "Demba Chio"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226308557,
-    "wof:lastmodified":1537584647,
+    "wof:lastmodified":1564213215,
     "wof:name":"Demba Chio",
     "wof:parent_id":1108799879,
     "wof:placetype":"locality",

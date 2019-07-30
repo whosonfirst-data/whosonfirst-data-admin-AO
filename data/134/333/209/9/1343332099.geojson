@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Macolo"
+    ],
     "name:und_x_variant":[
         "Macola",
         "Macolo"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343332099,
-    "wof:lastmodified":1537584626,
+    "wof:lastmodified":1564211062,
     "wof:name":"Macolo",
     "wof:parent_id":1108799599,
     "wof:placetype":"locality",

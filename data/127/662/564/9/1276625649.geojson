@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Mussuma"
+    ],
     "name:und_x_variant":[
         "Mushuma",
         "Mossuma",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276625649,
-    "wof:lastmodified":1537584544,
+    "wof:lastmodified":1564211681,
     "wof:name":"Mussuma",
     "wof:parent_id":1108799623,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Naulila"
+    ],
+    "name:msa_x_preferred":[
+        "Naulila"
+    ],
+    "name:por_x_preferred":[
+        "Naulila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276971253,
-    "wof:lastmodified":1537486253,
+    "wof:lastmodified":1564211658,
     "wof:name":"Naulila",
     "wof:parent_id":1108799893,
     "wof:placetype":"locality",

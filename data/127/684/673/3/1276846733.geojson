@@ -25,6 +25,18 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Unda"
+    ],
+    "name:deu_x_preferred":[
+        "Unda"
+    ],
+    "name:pol_x_preferred":[
+        "Unda"
+    ],
+    "name:ron_x_preferred":[
+        "Unda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276846733,
-    "wof:lastmodified":1537082384,
+    "wof:lastmodified":1564211627,
     "wof:name":"Unda",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

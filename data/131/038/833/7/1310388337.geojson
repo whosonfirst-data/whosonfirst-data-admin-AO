@@ -26,6 +26,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Binge"
+    ],
+    "name:deu_x_preferred":[
+        "Binge"
+    ],
+    "name:swe_x_preferred":[
+        "Binge"
+    ],
     "name:und_x_variant":[
         "Bongui",
         "Binge"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310388337,
-    "wof:lastmodified":1537584678,
+    "wof:lastmodified":1564212199,
     "wof:name":"Binge",
     "wof:parent_id":1108799957,
     "wof:placetype":"locality",

@@ -25,8 +25,17 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Luremo"
+    ],
+    "name:por_x_preferred":[
+        "Luremo"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u0440\u0435\u043c\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Luremo"
     ],
     "name:und_x_variant":[
         "Lurema",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1259359301,
-    "wof:lastmodified":1537584628,
+    "wof:lastmodified":1564212916,
     "wof:name":"Luremo",
     "wof:parent_id":1108799797,
     "wof:placetype":"locality",

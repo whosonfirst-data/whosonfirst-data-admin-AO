@@ -26,6 +26,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09a6\u09be\u0999\u09cd\u0997\u09be"
+    ],
     "name:und_x_variant":[
         "Donga",
         "Danga"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1193001835,
-    "wof:lastmodified":1537584553,
+    "wof:lastmodified":1564211987,
     "wof:name":"Danga",
     "wof:parent_id":1108799861,
     "wof:placetype":"locality",

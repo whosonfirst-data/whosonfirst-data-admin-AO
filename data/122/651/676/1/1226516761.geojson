@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Cambamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226516761,
-    "wof:lastmodified":1537038274,
+    "wof:lastmodified":1564213082,
     "wof:name":"Cambamba",
     "wof:parent_id":1108799785,
     "wof:placetype":"locality",

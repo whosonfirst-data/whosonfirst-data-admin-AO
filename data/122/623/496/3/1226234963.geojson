@@ -25,6 +25,48 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Palanca"
+    ],
+    "name:cat_x_preferred":[
+        "Palanca"
+    ],
+    "name:ceb_x_preferred":[
+        "Palanca"
+    ],
+    "name:deu_x_preferred":[
+        "Palanca"
+    ],
+    "name:eus_x_preferred":[
+        "Palanka"
+    ],
+    "name:ita_x_preferred":[
+        "Palanca"
+    ],
+    "name:por_x_preferred":[
+        "Palanca"
+    ],
+    "name:ron_x_preferred":[
+        "Palanca"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Palanca"
+    ],
+    "name:swe_x_preferred":[
+        "Palanca"
+    ],
+    "name:tgl_x_preferred":[
+        "Palanca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Palanca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +90,7 @@
         }
     ],
     "wof:id":1226234963,
-    "wof:lastmodified":1536949475,
+    "wof:lastmodified":1564213168,
     "wof:name":"Palanca",
     "wof:parent_id":1108799841,
     "wof:placetype":"locality",

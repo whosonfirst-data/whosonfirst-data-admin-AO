@@ -25,6 +25,9 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Hengue-Caculo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243168987,
-    "wof:lastmodified":1536708931,
+    "wof:lastmodified":1564212751,
     "wof:name":"Hengue",
     "wof:parent_id":1108799893,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Malembo"
+    ],
+    "name:fra_x_preferred":[
+        "Malembo"
+    ],
+    "name:por_x_preferred":[
+        "Malembo"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u0435\u043c\u0431\u0443"
     ],
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293891005,
-    "wof:lastmodified":1537584626,
+    "wof:lastmodified":1564211384,
     "wof:name":"Malembo",
     "wof:parent_id":1108799777,
     "wof:placetype":"locality",

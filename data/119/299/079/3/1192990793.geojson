@@ -25,6 +25,15 @@
     "iso:country":"AO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lengue"
+    ],
+    "name:spa_x_preferred":[
+        "Balengue"
+    ],
+    "name:swe_x_preferred":[
+        "Lengue"
+    ],
     "name:und_x_variant":[
         "Tongue",
         "Tongo"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1192990793,
-    "wof:lastmodified":1537584573,
+    "wof:lastmodified":1564212028,
     "wof:name":"Lengue",
     "wof:parent_id":1108799679,
     "wof:placetype":"locality",
