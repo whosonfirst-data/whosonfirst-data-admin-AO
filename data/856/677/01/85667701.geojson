@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CU"
+    ],
     "lbl:latitude":-16.39152,
     "lbl:longitude":16.183342,
     "meso:name_alt1":"",
@@ -314,16 +317,13 @@
         }
     ],
     "wof:id":85667701,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361050,
+    "wof:lastmodified":1565651856,
     "wof:name":"Cunene",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

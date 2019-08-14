@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CC"
+    ],
     "lbl:latitude":-16.236267,
     "lbl:longitude":19.475351,
     "meso:name_alt1":"",
@@ -329,16 +332,13 @@
         }
     ],
     "wof:id":85667695,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361030,
+    "wof:lastmodified":1565651851,
     "wof:name":"Cuando Cubango",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

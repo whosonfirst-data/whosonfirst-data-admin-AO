@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CS"
+    ],
     "lbl:latitude":-10.907548,
     "lbl:longitude":15.068272,
     "meso:name_alt1":"Cuanza-Sud|Kwanza Sul",
@@ -320,16 +323,13 @@
         }
     ],
     "wof:id":85667665,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361041,
+    "wof:lastmodified":1565651854,
     "wof:name":"Cuanza Sul",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

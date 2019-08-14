@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CB"
+    ],
     "lbl:latitude":-5.070435,
     "lbl:longitude":12.274908,
     "meso:name_alt1":"",
@@ -373,16 +376,13 @@
         }
     ],
     "wof:id":85667683,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361043,
+    "wof:lastmodified":1565651854,
     "wof:name":"Cabinda",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

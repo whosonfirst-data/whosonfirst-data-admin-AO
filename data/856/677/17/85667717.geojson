@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NA"
+    ],
     "lbl:latitude":-15.839381,
     "lbl:longitude":12.746296,
     "meso:name_alt1":"",
@@ -320,16 +323,13 @@
         }
     ],
     "wof:id":85667717,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361048,
+    "wof:lastmodified":1565651855,
     "wof:name":"Namibe",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

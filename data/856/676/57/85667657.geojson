@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":-8.159569,
     "lbl:longitude":13.865434,
     "meso:name_alt1":"",
@@ -332,16 +335,13 @@
         }
     ],
     "wof:id":85667657,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361032,
+    "wof:lastmodified":1565651852,
     "wof:name":"Bengo",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

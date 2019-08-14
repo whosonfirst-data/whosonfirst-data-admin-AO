@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MX"
+    ],
     "lbl:latitude":-13.013154,
     "lbl:longitude":20.483347,
     "meso:name_alt1":"",
@@ -326,16 +329,13 @@
         }
     ],
     "wof:id":85667711,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361046,
+    "wof:lastmodified":1565651855,
     "wof:name":"Moxico",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

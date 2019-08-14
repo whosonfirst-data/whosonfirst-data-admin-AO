@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BG"
+    ],
     "lbl:latitude":-13.029784,
     "lbl:longitude":14.01518,
     "meso:name_alt1":"Benguella",
@@ -329,16 +332,13 @@
         }
     ],
     "wof:id":85667691,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361039,
+    "wof:lastmodified":1565651854,
     "wof:name":"Benguela",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

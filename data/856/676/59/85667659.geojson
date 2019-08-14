@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CN"
+    ],
     "lbl:latitude":-8.895863,
     "lbl:longitude":14.930746,
     "meso:name_alt1":"Cuanza-Nord|Kwanza Norte",
@@ -316,16 +319,13 @@
         }
     ],
     "wof:id":85667659,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361031,
+    "wof:lastmodified":1565651852,
     "wof:name":"Cuanza Norte",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

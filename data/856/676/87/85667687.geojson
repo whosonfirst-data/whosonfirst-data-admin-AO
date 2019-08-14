@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BI"
+    ],
     "lbl:latitude":-12.576089,
     "lbl:longitude":17.339539,
     "meso:name_alt1":"",
@@ -331,16 +334,13 @@
         }
     ],
     "wof:id":85667687,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361038,
+    "wof:lastmodified":1565651853,
     "wof:name":"Bi\u00e9",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

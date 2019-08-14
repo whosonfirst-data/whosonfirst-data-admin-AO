@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UI"
+    ],
     "lbl:latitude":-6.960557,
     "lbl:longitude":15.503869,
     "meso:name_alt1":"",
@@ -327,16 +330,13 @@
         }
     ],
     "wof:id":85667673,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361037,
+    "wof:lastmodified":1565651853,
     "wof:name":"U\u00edge",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

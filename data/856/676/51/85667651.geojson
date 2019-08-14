@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LS"
+    ],
     "lbl:latitude":-10.287348,
     "lbl:longitude":20.811844,
     "meso:name_alt1":"",
@@ -321,16 +324,13 @@
         }
     ],
     "wof:id":85667651,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361035,
+    "wof:lastmodified":1565651853,
     "wof:name":"Lunda Sul",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

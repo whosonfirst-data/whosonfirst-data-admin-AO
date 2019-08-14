@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LU"
+    ],
     "lbl:latitude":-8.983807,
     "lbl:longitude":13.3128,
     "meso:name_alt1":"Loanda",
@@ -338,16 +341,13 @@
         }
     ],
     "wof:id":85667669,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563361034,
+    "wof:lastmodified":1565651853,
     "wof:name":"Luanda",
     "wof:parent_id":85632281,
     "wof:placetype":"region",
