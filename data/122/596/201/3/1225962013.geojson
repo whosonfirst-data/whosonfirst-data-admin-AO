@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.14667,-12.58667,14.18667,-12.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maco"
     ],
@@ -48,8 +52,7 @@
         "Maco"
     ],
     "name:und_x_variant":[
-        "Dumbo",
-        "Maco"
+        "Dumbo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1225962013,
-    "wof:lastmodified":1564213132,
+    "wof:lastmodified":1566587423,
     "wof:name":"Maco",
     "wof:parent_id":1108799837,
     "wof:placetype":"locality",

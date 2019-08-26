@@ -11,8 +11,11 @@
     "geom:longitude":22.22466,
     "gn:country":"AO",
     "gn:fcode":"PPL",
-    "gn:pop":18465,
+    "gn:population":18465,
     "iso:country":"AO",
+    "lbl:bbox":"22.20466,-10.72727,22.24466,-10.68727",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -49,7 +52,7 @@
     "name:spa_x_preferred":[
         "Luau"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vila Teixera de Souza"
     ],
     "name:zho_x_preferred":[
@@ -163,7 +166,7 @@
     "wof:concordances":{
         "gn:id":876177,
         "gp:id":1261924,
-        "qs:id":1029254,
+        "qs_pg:id":1029254,
         "wd:id":"Q1872804",
         "wk:page":"Luau"
     },
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890443471,
-    "wof:lastmodified":1563362379,
+    "wof:lastmodified":1566586987,
     "wof:name":"Luau",
     "wof:parent_id":1108799637,
     "wof:placetype":"locality",

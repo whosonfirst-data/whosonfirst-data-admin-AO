@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.98241,-9.17938,18.02241,-9.13938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242949381,
-    "wof:lastmodified":1537024186,
+    "wof:lastmodified":1566587045,
     "wof:name":"Cassangi quia Ngunza",
     "wof:parent_id":1108799693,
     "wof:placetype":"locality",

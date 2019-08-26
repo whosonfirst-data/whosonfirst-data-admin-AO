@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"20.70189,-8.27329,20.74189,-8.23329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310169109,
-    "wof:lastmodified":1536905148,
+    "wof:lastmodified":1566586799,
     "wof:name":"Sambuege Primeiro",
     "wof:parent_id":1108799695,
     "wof:placetype":"locality",

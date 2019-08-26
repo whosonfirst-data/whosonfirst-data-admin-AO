@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.31287,-7.51841,15.35287,-7.47841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292983707,
-    "wof:lastmodified":1537015575,
+    "wof:lastmodified":1566586133,
     "wof:name":"Quiombo",
     "wof:parent_id":1108799889,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.32042,-11.22661,14.36042,-11.18661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cumbira",
         "Cumbira Segundo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242965821,
-    "wof:lastmodified":1537584748,
+    "wof:lastmodified":1566587144,
     "wof:name":"Cumbira Segundo",
     "wof:parent_id":1108799863,
     "wof:placetype":"locality",

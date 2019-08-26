@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.97153,-10.59275,16.01153,-10.55275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310327059,
-    "wof:lastmodified":1536676895,
+    "wof:lastmodified":1566586819,
     "wof:name":"Tchiuila",
     "wof:parent_id":1108799833,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-8.821223,
     "lbl:longitude":13.300242,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"Loanda",
     "meso:adm1_loc":"Luanda",
     "meso:gadm_adm2":"Cazenga",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Cazenga",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Cazenga"
     ],
@@ -61,7 +64,7 @@
         "\u5361\u66fe\u52a0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108799677,
-    "wof:lastmodified":1563362009,
+    "wof:lastmodified":1566586711,
     "wof:name":"Cazenga",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

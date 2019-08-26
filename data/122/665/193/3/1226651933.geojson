@@ -24,16 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"18.64667,-15.70333,18.68667,-15.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Baixo Longa"
     ],
     "name:und_x_variant":[
         "Longa",
         "Baishu Longa",
-        "Baizo Longa",
-        "Baixo Longa"
+        "Baizo Longa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226651933,
-    "wof:lastmodified":1564213230,
+    "wof:lastmodified":1566587488,
     "wof:name":"Baixo Longa",
     "wof:parent_id":1108799691,
     "wof:placetype":"locality",

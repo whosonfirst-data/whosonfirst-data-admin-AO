@@ -10,6 +10,9 @@
     "geom:latitude":-17.06667,
     "geom:longitude":15.73333,
     "iso:country":"AO",
+    "lbl:bbox":"15.71333,-17.08667,15.75333,-17.04667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -152,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043d\u0434\u0436\u0438\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vila Pereira d\u2019E\u00e7a"
     ],
     "name:urd_x_preferred":[
@@ -290,7 +293,7 @@
     "wof:concordances":{
         "gn:id":3346821,
         "gp:id":1263141,
-        "qs:id":638394,
+        "qs_pg:id":638394,
         "wd:id":"Q635045",
         "wk:page":"Ondjiva"
     },
@@ -307,7 +310,7 @@
         }
     ],
     "wof:id":421173959,
-    "wof:lastmodified":1563362369,
+    "wof:lastmodified":1566586983,
     "wof:name":"Ondjiva",
     "wof:parent_id":1108799767,
     "wof:placetype":"locality",

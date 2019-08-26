@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.67501,-11.06501,14.71501,-11.02501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ebo"
     ],
@@ -44,8 +48,7 @@
         "Ebo"
     ],
     "name:und_x_variant":[
-        "Hebo",
-        "Ebo"
+        "Hebo"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u535a"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1293881091,
-    "wof:lastmodified":1564211442,
+    "wof:lastmodified":1566586204,
     "wof:name":"Ebo",
     "wof:parent_id":1108799659,
     "wof:placetype":"locality",

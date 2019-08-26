@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.33358,-10.82643,15.37358,-10.78643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pombuige",
         "Niquila",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226364743,
-    "wof:lastmodified":1537584712,
+    "wof:lastmodified":1566587503,
     "wof:name":"Pombuigi",
     "wof:parent_id":1108799653,
     "wof:placetype":"locality",

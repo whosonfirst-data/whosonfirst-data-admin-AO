@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"20.52847,-9.86996,20.56847,-9.82996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309872043,
-    "wof:lastmodified":1536834720,
+    "wof:lastmodified":1566586965,
     "wof:name":"Muacuesso",
     "wof:parent_id":1108799909,
     "wof:placetype":"locality",

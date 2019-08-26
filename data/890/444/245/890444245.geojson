@@ -11,8 +11,11 @@
     "geom:longitude":13.66425,
     "gn:country":"AO",
     "gn:fcode":"PPLA",
-    "gn:pop":28224,
+    "gn:population":28224,
     "iso:country":"AO",
+    "lbl:bbox":"13.64425,-8.59848,13.68425,-8.55848",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -115,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0448\u0438\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kashito"
     ],
     "name:urd_x_preferred":[
@@ -240,10 +243,12 @@
     "wof:concordances":{
         "gn:id":2242001,
         "gp:id":1259883,
-        "qs:id":1034502,
-        "qs_pg:id":1114655,
+        "qs_pg:id":1034502,
         "wd:id":"Q956745",
         "wk:page":"Caxito"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1114655
     },
     "wof:country":"AO",
     "wof:created":1469052461,
@@ -258,7 +263,7 @@
         }
     ],
     "wof:id":890444245,
-    "wof:lastmodified":1563362376,
+    "wof:lastmodified":1566586987,
     "wof:name":"Caxito",
     "wof:parent_id":1108799875,
     "wof:placetype":"locality",

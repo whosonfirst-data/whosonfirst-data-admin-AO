@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.06808,-11.37461,15.10808,-11.33461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Certeza"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343483459,
-    "wof:lastmodified":1564210967,
+    "wof:lastmodified":1566585878,
     "wof:name":"Certeza",
     "wof:parent_id":1108799857,
     "wof:placetype":"locality",

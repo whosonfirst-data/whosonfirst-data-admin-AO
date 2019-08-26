@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.89667,-9.48667,16.93667,-9.44667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mucari"
     ],
@@ -44,8 +48,7 @@
     "name:und_x_variant":[
         "Xissa",
         "Antigo Posto do Mucari",
-        "Antigo Posto do Chissa",
-        "Mucari"
+        "Antigo Posto do Chissa"
     ],
     "name:zho_x_preferred":[
         "\u7a46\u5361\u91cc"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1360262235,
-    "wof:lastmodified":1564212408,
+    "wof:lastmodified":1566586905,
     "wof:name":"Mucari",
     "wof:parent_id":1108799755,
     "wof:placetype":"locality",

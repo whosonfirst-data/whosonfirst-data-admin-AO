@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.75311,-11.40808,14.79311,-11.36808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Jambi"
     ],
@@ -204,7 +208,7 @@
         }
     ],
     "wof:id":1293314741,
-    "wof:lastmodified":1564211183,
+    "wof:lastmodified":1566586034,
     "wof:name":"Jambi",
     "wof:parent_id":1108799799,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.32863,-6.50478,16.36863,-6.46478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":7544953
     },
     "wof:country":"AO",
-    "wof:geomhash":"8216851d16cd904a152c1dae6b45c751",
+    "wof:geomhash":"edf7d918834f23c8b82b55311bba9137",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209184423,
-    "wof:lastmodified":1536295149,
+    "wof:lastmodified":1566586519,
     "wof:name":"Quimiandene",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     16.34863,
-    -6.4847800000000015,
+    -6.48478,
     16.34863,
-    -6.4847800000000015
+    -6.48478
 ],
   "geometry": {"coordinates":[16.34863,-6.48478],"type":"Point"}
 }

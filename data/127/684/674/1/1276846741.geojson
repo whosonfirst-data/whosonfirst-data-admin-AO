@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"20.21495,-8.90108,20.25495,-8.86108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lugia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276846741,
-    "wof:lastmodified":1537584522,
+    "wof:lastmodified":1566586327,
     "wof:name":"Samucambo",
     "wof:parent_id":1108799695,
     "wof:placetype":"locality",

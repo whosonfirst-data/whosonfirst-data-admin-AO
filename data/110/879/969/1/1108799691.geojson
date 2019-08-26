@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-15.156986,
     "lbl:longitude":18.91893,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"Cuando Cubango",
     "meso:gadm_adm2":"Cuito Cuanavale",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Cuito Cuanavale",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0648 \u0643\u0648\u0627\u0646\u0627\u0641\u0627\u0644"
     ],
@@ -70,7 +73,7 @@
         "\u594e\u6258\u5938\u7d0d\u74e6\u840a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108799691,
-    "wof:lastmodified":1563362015,
+    "wof:lastmodified":1566586714,
     "wof:name":"Kuito Kuanavale",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

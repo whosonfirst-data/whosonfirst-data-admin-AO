@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"12.99667,-6.98667,13.03667,-6.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Murro"
     ],
     "name:und_x_variant":[
         "Mora",
-        "Muro",
-        "Murro"
+        "Muro"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1293756209,
-    "wof:lastmodified":1564211427,
+    "wof:lastmodified":1566586194,
     "wof:name":"Murro",
     "wof:parent_id":1108799615,
     "wof:placetype":"locality",

@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-12.180859,
     "lbl:longitude":17.996347,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-12.180859,
     "mps:longitude":17.996347,
     "mz:hierarchy_label":1,
@@ -792,13 +794,8 @@
     "name:ukr_x_variant":[
         "\u0410\u043d\u0491\u043e\u043b\u0430"
     ],
-    "name:und_x_preferred":[
-        "Ang\u00f3la"
-    ],
     "name:und_x_variant":[
-        "Republika Angola"
-    ],
-    "name:unk_x_variant":[
+        "Republika Angola",
         "\u00c1frica Ocidental Portuguesa"
     ],
     "name:urd_x_preferred":[
@@ -960,7 +957,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"244",
     "statoids:ds":"AO",
@@ -1004,7 +1001,7 @@
         "mzb:id":"angola",
         "ne:adm0_a3":"AGO",
         "nyt:id":"66205947038079180801",
-        "qs:id":1087762,
+        "qs_pg:id":1087762,
         "uncrt:id":"AO",
         "wd:id":"Q916",
         "wk:page":"Angola",
@@ -1026,7 +1023,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565651850,
+    "wof:lastmodified":1566585999,
     "wof:name":"Angola",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

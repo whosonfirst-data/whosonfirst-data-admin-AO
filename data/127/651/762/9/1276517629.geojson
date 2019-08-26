@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.24787,-7.17676,14.28787,-7.13676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u0442\u043e"
     ],
@@ -83,8 +87,7 @@
         "\u0422\u043e\u0442\u043e"
     ],
     "name:und_x_variant":[
-        "Campo de Avia\u00e7\u00e3o de T\u00f4to",
-        "Toto"
+        "Campo de Avia\u00e7\u00e3o de T\u00f4to"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1276517629,
-    "wof:lastmodified":1564211522,
+    "wof:lastmodified":1566586261,
     "wof:name":"Toto",
     "wof:parent_id":1108799951,
     "wof:placetype":"locality",

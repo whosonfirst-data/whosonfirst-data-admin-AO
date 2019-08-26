@@ -10,10 +10,14 @@
     "geom:latitude":-15.18963,
     "geom:longitude":13.690006,
     "iso:country":"AO",
+    "lbl:bbox":"13.6700064684,-15.2096297009,13.7100064684,-15.1696297009",
     "lbl:latitude":-15.18963,
     "lbl:longitude":13.690006,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u06cc\u0628\u06cc\u0627"
     ],
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":1141908177,
-    "wof:lastmodified":1563363074,
+    "wof:lastmodified":1566587516,
     "wof:name":"Chibia",
     "wof:parent_id":1108799663,
     "wof:placetype":"locality",

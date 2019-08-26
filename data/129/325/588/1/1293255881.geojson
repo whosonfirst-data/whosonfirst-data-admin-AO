@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"18.26129,-9.31878,18.30129,-9.27878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kangola"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293255881,
-    "wof:lastmodified":1564211279,
+    "wof:lastmodified":1566586096,
     "wof:name":"Cangola",
     "wof:parent_id":1108799693,
     "wof:placetype":"locality",

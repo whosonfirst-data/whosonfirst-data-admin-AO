@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.50127,-11.72264,16.54127,-11.68264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ngumba"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Gumbe",
-        "Gumba",
-        "Ngumba"
+        "Gumba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1242590423,
-    "wof:lastmodified":1564212587,
+    "wof:lastmodified":1566587041,
     "wof:name":"Ngumba",
     "wof:parent_id":1108799635,
     "wof:placetype":"locality",

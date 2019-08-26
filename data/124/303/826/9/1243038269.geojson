@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.91435,-8.15185,14.95435,-8.11185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quimundo",
         "Quimbundo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243038269,
-    "wof:lastmodified":1537584595,
+    "wof:lastmodified":1566587092,
     "wof:name":"Quimbundo",
     "wof:parent_id":1108799843,
     "wof:placetype":"locality",

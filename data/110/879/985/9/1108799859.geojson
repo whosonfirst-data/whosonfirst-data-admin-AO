@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-8.504124,
     "lbl:longitude":14.552596,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"Cuanza-Nord|Kwanza Norte",
     "meso:adm1_loc":"Cuanza Norte",
     "meso:gadm_adm2":"Dembos",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Dembos",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Dembos"
     ],
@@ -64,7 +67,7 @@
         "\u767b\u535a\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108799859,
-    "wof:lastmodified":1563361993,
+    "wof:lastmodified":1566586700,
     "wof:name":"Dembos",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

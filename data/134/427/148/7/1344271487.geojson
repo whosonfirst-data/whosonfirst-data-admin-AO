@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.41722,-12.69833,13.45722,-12.65833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lengue",
         "Capurulo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344271487,
-    "wof:lastmodified":1537584779,
+    "wof:lastmodified":1566585950,
     "wof:name":"Capurulo",
     "wof:parent_id":1108799959,
     "wof:placetype":"locality",

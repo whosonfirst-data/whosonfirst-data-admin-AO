@@ -23,16 +23,19 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"19.67938,-8.28831,19.71938,-8.24831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Caluango"
     ],
     "name:und_x_variant":[
         "Kaluangu",
         "Coluango",
-        "Caluanga",
-        "Caluango"
+        "Caluanga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1260043609,
-    "wof:lastmodified":1564212140,
+    "wof:lastmodified":1566586675,
     "wof:name":"Caluango",
     "wof:parent_id":1108799669,
     "wof:placetype":"locality",

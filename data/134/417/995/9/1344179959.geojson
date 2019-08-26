@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.2584,-8.18821,15.2984,-8.14821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Serra de Canacanjungo",
         "Canacajungo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344179959,
-    "wof:lastmodified":1537584666,
+    "wof:lastmodified":1566585946,
     "wof:name":"Canacanjungo",
     "wof:parent_id":1108799939,
     "wof:placetype":"locality",

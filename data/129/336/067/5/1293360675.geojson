@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.36333,-7.42,14.40333,-7.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u0130nqa"
     ],
@@ -69,8 +73,7 @@
         "Inga"
     ],
     "name:und_x_variant":[
-        "Tuco",
-        "Inga"
+        "Tuco"
     ],
     "name:vie_x_preferred":[
         "Inga"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1293360675,
-    "wof:lastmodified":1564211174,
+    "wof:lastmodified":1566586028,
     "wof:name":"Inga",
     "wof:parent_id":1108799711,
     "wof:placetype":"locality",

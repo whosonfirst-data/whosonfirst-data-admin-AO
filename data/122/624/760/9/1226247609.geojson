@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.7048,-8.93023,14.7448,-8.89023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gonguembo",
         "Quilombo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226247609,
-    "wof:lastmodified":1537584603,
+    "wof:lastmodified":1566587449,
     "wof:name":"Quilombo dos Dembos",
     "wof:parent_id":1108799881,
     "wof:placetype":"locality",

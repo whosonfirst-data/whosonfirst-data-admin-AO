@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"22.50729,-11.31302,22.54729,-11.27302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242651155,
-    "wof:lastmodified":1536957950,
+    "wof:lastmodified":1566587148,
     "wof:name":"Samicana",
     "wof:parent_id":1108799891,
     "wof:placetype":"locality",

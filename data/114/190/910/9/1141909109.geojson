@@ -10,10 +10,14 @@
     "geom:latitude":-12.370009,
     "geom:longitude":13.54123,
     "iso:country":"AO",
+    "lbl:bbox":"13.5212300198,-12.3900085257,13.5612300198,-12.3500085257",
     "lbl:latitude":-12.370009,
     "lbl:longitude":13.54123,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lobito"
     ],
@@ -257,7 +261,7 @@
         }
     ],
     "wof:id":1141909109,
-    "wof:lastmodified":1564213278,
+    "wof:lastmodified":1566587518,
     "wof:name":"Lobito",
     "wof:parent_id":1108799747,
     "wof:placetype":"locality",

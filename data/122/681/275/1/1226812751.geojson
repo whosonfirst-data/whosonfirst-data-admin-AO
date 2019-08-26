@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"18.99177,-8.11304,19.03177,-8.07304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Malange"
     ],
@@ -77,8 +81,7 @@
         "\u041c\u0430\u043b\u0430\u043d\u0436"
     ],
     "name:und_x_variant":[
-        "Bula Malari",
-        "Malange"
+        "Bula Malari"
     ],
     "name:uzb_x_preferred":[
         "Malange"
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1226812751,
-    "wof:lastmodified":1564213006,
+    "wof:lastmodified":1566587337,
     "wof:name":"Malange",
     "wof:parent_id":1108799661,
     "wof:placetype":"locality",

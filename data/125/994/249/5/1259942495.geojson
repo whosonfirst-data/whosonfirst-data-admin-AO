@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.37435,-8.1747,14.41435,-8.1347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quihinga",
         "Quihinga-Zambe",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259942495,
-    "wof:lastmodified":1537584604,
+    "wof:lastmodified":1566587285,
     "wof:name":"Quihinga Nzambi",
     "wof:parent_id":1108799629,
     "wof:placetype":"locality",

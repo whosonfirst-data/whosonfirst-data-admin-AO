@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.94056,-12.475,13.98056,-12.435",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cateque",
         "U\u00e9que"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242988433,
-    "wof:lastmodified":1537584689,
+    "wof:lastmodified":1566587140,
     "wof:name":"Ueque",
     "wof:parent_id":1108799837,
     "wof:placetype":"locality",

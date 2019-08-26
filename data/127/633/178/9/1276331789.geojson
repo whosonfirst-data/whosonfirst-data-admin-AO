@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.76333,-11.67,13.80333,-11.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santa Filomena"
     ],
@@ -63,8 +67,7 @@
         "Fazenda Santa Filomena",
         "Quissanga Grande",
         "Fazenda Filomena",
-        "Kisingo Grande",
-        "Santa Filomena"
+        "Kisingo Grande"
     ],
     "name:vie_x_preferred":[
         "Santa Filomena"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1276331789,
-    "wof:lastmodified":1564211519,
+    "wof:lastmodified":1566586259,
     "wof:name":"Santa Filomena",
     "wof:parent_id":1108799795,
     "wof:placetype":"locality",

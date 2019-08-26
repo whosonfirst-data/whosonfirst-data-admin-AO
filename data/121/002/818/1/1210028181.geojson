@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"12.21333,-5.20333,12.25333,-5.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210028181,
-    "wof:lastmodified":1536389789,
+    "wof:lastmodified":1566586561,
     "wof:name":"N'Pala",
     "wof:parent_id":1108799769,
     "wof:placetype":"locality",

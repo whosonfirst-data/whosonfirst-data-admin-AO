@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.75097,-9.44981,15.79097,-9.40981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cassongue"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309986187,
-    "wof:lastmodified":1537584660,
+    "wof:lastmodified":1566586912,
     "wof:name":"Cassongue Primeiro",
     "wof:parent_id":1108799645,
     "wof:placetype":"locality",

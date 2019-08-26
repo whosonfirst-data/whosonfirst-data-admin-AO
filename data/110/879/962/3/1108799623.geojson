@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-14.191136,
     "lbl:longitude":21.333947,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"Moxico",
     "meso:gadm_adm2":"Lumbala-Nguimbo",
@@ -27,11 +29,12 @@
     "meso:name_alt":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lumbala-Nguimbo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632281,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108799623,
-    "wof:lastmodified":1555046995,
+    "wof:lastmodified":1566586687,
     "wof:name":"Lumbala-Nguimbo",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

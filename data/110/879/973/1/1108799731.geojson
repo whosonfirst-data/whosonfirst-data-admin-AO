@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-7.304441,
     "lbl:longitude":13.406355,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"Zaire",
     "meso:gadm_adm2":"N'Zeto",
@@ -27,6 +29,7 @@
     "meso:name_alt":"N'Zeto",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u0632\u064a\u062a\u0648"
     ],
@@ -91,7 +94,7 @@
         "\u6069\u6fa4\u6258"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108799731,
-    "wof:lastmodified":1563362019,
+    "wof:lastmodified":1566586717,
     "wof:name":"Nzeto",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

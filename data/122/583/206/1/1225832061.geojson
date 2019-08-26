@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.97099,-9.50052,16.01099,-9.46052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225832061,
-    "wof:lastmodified":1537032004,
+    "wof:lastmodified":1566587514,
     "wof:name":"Zanga",
     "wof:parent_id":1108799645,
     "wof:placetype":"locality",

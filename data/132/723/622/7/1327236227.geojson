@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.7241,-8.93861,14.7641,-8.89861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327236227,
-    "wof:lastmodified":1536963824,
+    "wof:lastmodified":1566585712,
     "wof:name":"Sarafundo",
     "wof:parent_id":1108799881,
     "wof:placetype":"locality",

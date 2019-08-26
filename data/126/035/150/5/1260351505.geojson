@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.63,-8.38667,13.67,-8.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gazeta",
         "Lifune",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260351505,
-    "wof:lastmodified":1537584656,
+    "wof:lastmodified":1566586675,
     "wof:name":"Cazeta",
     "wof:parent_id":1108799875,
     "wof:placetype":"locality",

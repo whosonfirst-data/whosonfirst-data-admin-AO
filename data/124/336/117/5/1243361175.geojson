@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.98,-12.10333,15.02,-12.06333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Eringue",
         "Fazenda Ruli",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243361175,
-    "wof:lastmodified":1537584703,
+    "wof:lastmodified":1566586995,
     "wof:name":"Ruli",
     "wof:parent_id":1108799841,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.67779,-8.59704,16.71779,-8.55704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243045085,
-    "wof:lastmodified":1536886717,
+    "wof:lastmodified":1566587098,
     "wof:name":"Bulungo",
     "wof:parent_id":1108799655,
     "wof:placetype":"locality",

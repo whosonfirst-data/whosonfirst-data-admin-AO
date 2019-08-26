@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-9.931431,
     "lbl:longitude":20.315528,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"Lunda Sul",
     "meso:gadm_adm2":"Saurimo",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Saurimo",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Saurimo"
     ],
@@ -178,7 +181,7 @@
         "\u7d39\u91cc\u6728"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":1108799909,
-    "wof:lastmodified":1563361973,
+    "wof:lastmodified":1566586689,
     "wof:name":"Saurimo",
     "wof:parent_id":85667651,
     "wof:placetype":"county",

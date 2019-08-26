@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.02443,-14.90445,13.06443,-14.86445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309691621,
-    "wof:lastmodified":1537092516,
+    "wof:lastmodified":1566586961,
     "wof:name":"Munhengo",
     "wof:parent_id":1108799601,
     "wof:placetype":"locality",

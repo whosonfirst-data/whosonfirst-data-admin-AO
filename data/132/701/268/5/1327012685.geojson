@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.23771,-6.8992,15.27771,-6.8592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327012685,
-    "wof:lastmodified":1536789391,
+    "wof:lastmodified":1566585625,
     "wof:name":"Quimuanza Sacala",
     "wof:parent_id":1108799705,
     "wof:placetype":"locality",

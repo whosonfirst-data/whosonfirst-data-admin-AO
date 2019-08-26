@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.59954,-7.10198,15.63954,-7.06198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quipanza",
         "Banza Sosso",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260062967,
-    "wof:lastmodified":1537584680,
+    "wof:lastmodified":1566586651,
     "wof:name":"Mbanza Sosso",
     "wof:parent_id":1108799617,
     "wof:placetype":"locality",

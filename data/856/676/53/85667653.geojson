@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-8.878009,
     "lbl:longitude":16.623442,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Malange",
     "mps:latitude":-8.9207,
     "mps:longitude":16.555607,
@@ -162,7 +163,7 @@
         "Malanje"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bb2\u0b9e\u0bcd\u0b9a\u0bc7  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bae\u0bb2\u0b9e\u0bcd\u0b9a\u0bc7 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c32\u0c3e\u0c02\u0c1c\u0c46 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -180,9 +181,7 @@
         "\u041c\u0430\u043b\u0430\u043d\u0436\u0435"
     ],
     "name:und_x_variant":[
-        "Malange"
-    ],
-    "name:unk_x_variant":[
+        "Malange",
         "Prov\u00edncia de Malange"
     ],
     "name:urd_x_preferred":[
@@ -272,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-16",
+    "src:population_date":"2014-05-16",
     "statoids:area_km":"97,602",
     "statoids:area_mi":"37,684",
     "statoids:as_of_date":"2014-05-16",
@@ -298,7 +297,7 @@
         "gp:id":2344666,
         "hasc:id":"AO.ML",
         "iso:id":"AO-MAL",
-        "qs:id":318267,
+        "qs_pg:id":318267,
         "wd:id":"Q219072",
         "wk:page":"Malanje Province"
     },
@@ -318,11 +317,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565651854,
+    "wof:lastmodified":1566586006,
     "wof:name":"Malanje",
     "wof:parent_id":85632281,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":986363,
     "wof:population_rank":11,

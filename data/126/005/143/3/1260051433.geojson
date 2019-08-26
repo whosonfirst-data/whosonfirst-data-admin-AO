@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"18.347,-10.09909,18.387,-10.05909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260051433,
-    "wof:lastmodified":1537032882,
+    "wof:lastmodified":1566586679,
     "wof:name":"Muanandongi",
     "wof:parent_id":1108799693,
     "wof:placetype":"locality",

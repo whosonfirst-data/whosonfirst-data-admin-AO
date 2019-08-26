@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"19.16333,-15.18667,19.20333,-15.14667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cuito Cuanavale"
     ],
@@ -51,8 +55,7 @@
         "Cuito Cuanavale"
     ],
     "name:und_x_variant":[
-        "Kwito Kwanavale",
-        "Cuito Cuanavale"
+        "Kwito Kwanavale"
     ],
     "name:zho_x_preferred":[
         "\u594e\u6258\u5938\u7d0d\u74e6\u840a"
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1310029769,
-    "wof:lastmodified":1564212315,
+    "wof:lastmodified":1566586836,
     "wof:name":"Cuito Cuanavale",
     "wof:parent_id":1108799691,
     "wof:placetype":"locality",

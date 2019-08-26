@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.39667,-9.37,15.43667,-9.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":2241311
     },
     "wof:country":"AO",
-    "wof:geomhash":"fd77ab75392ffd346cbaa18147acdff8",
+    "wof:geomhash":"89f92bed561db2176575000a97b2dcdf",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209695993,
-    "wof:lastmodified":1536279073,
+    "wof:lastmodified":1566586497,
     "wof:name":"Elege",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.416670000000002,
+    15.41667,
     -9.35,
-    15.416670000000002,
+    15.41667,
     -9.35
 ],
   "geometry": {"coordinates":[15.41667,-9.35],"type":"Point"}

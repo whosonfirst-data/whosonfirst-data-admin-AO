@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.29667,-12.70333,17.33667,-12.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santo"
     ],
@@ -57,8 +61,7 @@
         "Santo"
     ],
     "name:und_x_variant":[
-        "Catema",
-        "Santo"
+        "Catema"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1209628279,
-    "wof:lastmodified":1564211746,
+    "wof:lastmodified":1566586406,
     "wof:name":"Santo",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

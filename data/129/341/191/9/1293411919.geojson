@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.63387,-10.95192,14.67387,-10.91192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293411919,
-    "wof:lastmodified":1536895856,
+    "wof:lastmodified":1566586063,
     "wof:name":"Cazenda",
     "wof:parent_id":1108799659,
     "wof:placetype":"locality",

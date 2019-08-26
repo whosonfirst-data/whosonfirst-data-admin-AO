@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"20.06333,-10.18667,20.10333,-10.14667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mandumba",
         "Muandumba"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226812371,
-    "wof:lastmodified":1537584546,
+    "wof:lastmodified":1566587339,
     "wof:name":"Muandumba",
     "wof:parent_id":1108799909,
     "wof:placetype":"locality",

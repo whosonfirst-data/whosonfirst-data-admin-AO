@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-16.39152,
     "lbl:longitude":16.183342,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "mps:latitude":-16.390831,
     "mps:longitude":16.179857,
@@ -185,7 +186,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043d\u0435\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Distrito do Cunene"
     ],
     "name:urd_x_preferred":[
@@ -275,9 +276,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-16",
+    "src:population_date":"2014-05-16",
     "statoids:area_km":"89,342",
     "statoids:area_mi":"34,495",
     "statoids:as_of_date":"2014-05-16",
@@ -302,7 +303,7 @@
         "gp:id":2344662,
         "hasc:id":"AO.CU",
         "iso:id":"AO-CNN",
-        "qs:id":191295,
+        "qs_pg:id":191295,
         "unlc:id":"AO-CNN",
         "wd:id":"Q216987",
         "wk:page":"Cunene Province"
@@ -323,11 +324,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565651856,
+    "wof:lastmodified":1566586010,
     "wof:name":"Cunene",
     "wof:parent_id":85632281,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":990087,
     "wof:population_rank":11,

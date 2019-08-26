@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.36639,-10.22023,17.40639,-10.18023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nzango Ambete",
         "Zango Ambele",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343937837,
-    "wof:lastmodified":1537584686,
+    "wof:lastmodified":1566585928,
     "wof:name":"Zongo Ambela",
     "wof:parent_id":1108799771,
     "wof:placetype":"locality",

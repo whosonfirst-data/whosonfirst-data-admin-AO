@@ -10,6 +10,9 @@
     "geom:latitude":-11.20605,
     "geom:longitude":13.84371,
     "iso:country":"AO",
+    "lbl:bbox":"13.82371,-11.22605,13.86371,-11.18605",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -149,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043c\u0431\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Angungescapolo"
     ],
     "name:urd_x_preferred":[
@@ -289,7 +292,7 @@
     "wof:concordances":{
         "gn:id":3346015,
         "gp:id":1264932,
-        "qs:id":1175186,
+        "qs_pg:id":1175186,
         "wd:id":"Q780534",
         "wk:page":"Sumbe"
     },
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":421192771,
-    "wof:lastmodified":1563362363,
+    "wof:lastmodified":1566586981,
     "wof:name":"Sumbe",
     "wof:parent_id":1108799795,
     "wof:placetype":"locality",

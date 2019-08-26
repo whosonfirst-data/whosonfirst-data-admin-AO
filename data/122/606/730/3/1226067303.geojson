@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.78,-9.97,14.82,-9.93",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0633\u0646\u062f\u0647"
     ],
@@ -54,8 +58,7 @@
         "Mussende"
     ],
     "name:und_x_variant":[
-        "Munende",
-        "Mussende"
+        "Munende"
     ],
     "name:zho_x_preferred":[
         "\u7a46\u68ee\u4ee3"
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1226067303,
-    "wof:lastmodified":1564213216,
+    "wof:lastmodified":1566587479,
     "wof:name":"Mussende",
     "wof:parent_id":1108799743,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.91333,-7.57,15.95333,-7.53",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":2243309
     },
     "wof:country":"AO",
-    "wof:geomhash":"b7e47bfb34e2e7e8f3e19d87b8e8b3d4",
+    "wof:geomhash":"27be15cd1053abeb6362f2460e0698f6",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209588799,
-    "wof:lastmodified":1536282546,
+    "wof:lastmodified":1566586492,
     "wof:name":"Cabanda",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.933329999999998,
+    15.93333,
     -7.55,
-    15.933329999999998,
+    15.93333,
     -7.55
 ],
   "geometry": {"coordinates":[15.93333,-7.55],"type":"Point"}

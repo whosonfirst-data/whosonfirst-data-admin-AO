@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"12.34667,-5.55333,12.38667,-5.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baca"
     ],
@@ -59,8 +63,7 @@
     "name:und_x_variant":[
         "N\u2019Baca",
         "M\u2019Baca",
-        "U\u2019Baca",
-        "Baca"
+        "U\u2019Baca"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1259590737,
-    "wof:lastmodified":1564212915,
+    "wof:lastmodified":1566587273,
     "wof:name":"Baca",
     "wof:parent_id":1108799777,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.84667,-12.68667,16.88667,-12.64667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chingoerete",
         "Chigoerete",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243463191,
-    "wof:lastmodified":1537584774,
+    "wof:lastmodified":1566587059,
     "wof:name":"Catechingolele",
     "wof:parent_id":1108799603,
     "wof:placetype":"locality",

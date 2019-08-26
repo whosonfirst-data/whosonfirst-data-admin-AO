@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-11.73899,
     "lbl:longitude":16.180183,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"Huambo",
     "meso:gadm_adm2":"Mungo",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Mungo",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Mungo"
     ],
@@ -64,7 +67,7 @@
         "\u8499\u6208"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108799697,
-    "wof:lastmodified":1563362015,
+    "wof:lastmodified":1566586714,
     "wof:name":"Mungo",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

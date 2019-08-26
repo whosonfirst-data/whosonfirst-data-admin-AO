@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-13.029784,
     "lbl:longitude":14.01518,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Benguella",
     "mps:latitude":-13.030181,
     "mps:longitude":14.002906,
@@ -197,9 +198,6 @@
     "name:und_x_variant":[
         "Benguella"
     ],
-    "name:unk_x_variant":[
-        "Benguella"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0646\u06af\u0648\u0626\u0644\u0627 \u0635\u0648\u0628\u06c1"
     ],
@@ -290,9 +288,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-16",
+    "src:population_date":"2014-05-16",
     "statoids:area_km":"31,788",
     "statoids:area_mi":"12,273",
     "statoids:as_of_date":"2014-05-16",
@@ -317,7 +315,7 @@
         "gp:id":2344656,
         "hasc:id":"AO.BG",
         "iso:id":"AO-BGU",
-        "qs:id":219493,
+        "qs_pg:id":219493,
         "unlc:id":"AO-BGU",
         "wd:id":"Q212786",
         "wk:page":"Benguela Province"
@@ -338,11 +336,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565651854,
+    "wof:lastmodified":1566586005,
     "wof:name":"Benguela",
     "wof:parent_id":85632281,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2231385,
     "wof:population_rank":12,

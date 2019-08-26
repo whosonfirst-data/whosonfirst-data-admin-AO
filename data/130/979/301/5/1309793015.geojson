@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.64536,-10.10159,17.68536,-10.06159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kur_x_preferred":[
         "Muat\u00ee"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309793015,
-    "wof:lastmodified":1564212453,
+    "wof:lastmodified":1566586937,
     "wof:name":"Muati",
     "wof:parent_id":1108799771,
     "wof:placetype":"locality",

@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"19.59014,-9.55973,19.63014,-9.51973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Luangue"
     ],
     "name:und_x_variant":[
-        "Quituange",
-        "Luangue"
+        "Quituange"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242653743,
-    "wof:lastmodified":1564212731,
+    "wof:lastmodified":1566587148,
     "wof:name":"Luangue",
     "wof:parent_id":1108799759,
     "wof:placetype":"locality",

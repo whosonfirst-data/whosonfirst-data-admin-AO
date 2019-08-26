@@ -10,8 +10,12 @@
     "geom:latitude":-11.55,
     "geom:longitude":20.78333,
     "iso:country":"AO",
+    "lbl:bbox":"20.76333,-11.57,20.80333,-11.53",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Lumeje"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Cameia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lumege"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":876123,
         "gp:id":1468857,
-        "qs:id":129784,
+        "qs_pg:id":129784,
         "wd:id":"Q3840597"
     },
     "wof:country":"AO",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421197375,
-    "wof:lastmodified":1563362372,
+    "wof:lastmodified":1566586985,
     "wof:name":"Lumeje",
     "wof:parent_id":1108799791,
     "wof:placetype":"locality",

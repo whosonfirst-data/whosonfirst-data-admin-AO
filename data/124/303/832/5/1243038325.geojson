@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.15168,-7.19901,15.19168,-7.15901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quimixone",
         "Quimexona",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243038325,
-    "wof:lastmodified":1537584596,
+    "wof:lastmodified":1566587092,
     "wof:name":"Quimoxona",
     "wof:parent_id":1108799753,
     "wof:placetype":"locality",

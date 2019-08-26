@@ -10,6 +10,9 @@
     "geom:latitude":-9.54015,
     "geom:longitude":16.34096,
     "iso:country":"AO",
+    "lbl:bbox":"16.32096,-9.56015,16.36096,-9.52015",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
@@ -161,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0430\u043d\u0436\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malandje"
     ],
     "name:urd_x_preferred":[
@@ -302,7 +305,7 @@
     "wof:concordances":{
         "gn:id":2239862,
         "gp:id":1262220,
-        "qs:id":274191,
+        "qs_pg:id":274191,
         "wd:id":"Q621001",
         "wk:page":"Malanje"
     },
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":421168947,
-    "wof:lastmodified":1563362362,
+    "wof:lastmodified":1566586981,
     "wof:name":"Malanje",
     "wof:parent_id":1108799871,
     "wof:placetype":"locality",

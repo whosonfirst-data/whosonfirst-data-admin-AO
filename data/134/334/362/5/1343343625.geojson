@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.33495,-6.76546,13.37495,-6.72546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quioa",
         "Quiza",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343343625,
-    "wof:lastmodified":1537584582,
+    "wof:lastmodified":1566585934,
     "wof:name":"Quioua",
     "wof:parent_id":1108799615,
     "wof:placetype":"locality",

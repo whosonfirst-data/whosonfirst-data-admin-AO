@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.8686,-14.68553,14.9086,-14.64553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tivi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259964159,
-    "wof:lastmodified":1537584690,
+    "wof:lastmodified":1566587203,
     "wof:name":"Tchivi",
     "wof:parent_id":1108799687,
     "wof:placetype":"locality",

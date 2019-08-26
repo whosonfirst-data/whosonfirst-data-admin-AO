@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.98388,-8.79017,18.02388,-8.75017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u063a\u0648\u0633\u062a\u064a\u0646\u064a\u0648 \u0646\u064a\u062a\u0648"
     ],
@@ -210,7 +214,7 @@
         }
     ],
     "wof:id":1344128363,
-    "wof:lastmodified":1564210939,
+    "wof:lastmodified":1566585860,
     "wof:name":"Agostinho Neto",
     "wof:parent_id":1108799797,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.73,-16.08667,13.77,-16.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mapa",
         "Campanga"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242858811,
-    "wof:lastmodified":1537584786,
+    "wof:lastmodified":1566587136,
     "wof:name":"Campanga",
     "wof:parent_id":1108799913,
     "wof:placetype":"locality",

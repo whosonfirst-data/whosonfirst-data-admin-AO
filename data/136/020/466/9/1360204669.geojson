@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.98,-12.33667,16.02,-12.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Chindongo"
     ],
@@ -39,8 +43,7 @@
         "Chindongo"
     ],
     "name:und_x_variant":[
-        "Tchindongo",
-        "Chindongo"
+        "Tchindongo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1360204669,
-    "wof:lastmodified":1564212381,
+    "wof:lastmodified":1566586882,
     "wof:name":"Chindongo",
     "wof:parent_id":1108799921,
     "wof:placetype":"locality",

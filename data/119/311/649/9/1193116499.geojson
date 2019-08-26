@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"11.98,-15.78667,12.02,-15.74667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pulpito",
         "P\u00falpito do Sul"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193116499,
-    "wof:lastmodified":1537584709,
+    "wof:lastmodified":1566586606,
     "wof:name":"Pulpito Sul",
     "wof:parent_id":1108799761,
     "wof:placetype":"locality",

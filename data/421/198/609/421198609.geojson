@@ -10,6 +10,9 @@
     "geom:latitude":-14.6585,
     "geom:longitude":17.69099,
     "iso:country":"AO",
+    "lbl:bbox":"17.67099,-14.6785,17.71099,-14.6385",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -164,7 +167,7 @@
     "name:ukr_x_variant":[
         "\u041c\u0435\u043d\u043e\u043d\u0433\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vila Serpa Pinto"
     ],
     "name:urd_x_preferred":[
@@ -302,7 +305,7 @@
     "wof:concordances":{
         "gn:id":3347353,
         "gp:id":1468968,
-        "qs:id":183756,
+        "qs_pg:id":183756,
         "wd:id":"Q818731",
         "wk:page":"Menongue"
     },
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":421198609,
-    "wof:lastmodified":1563362371,
+    "wof:lastmodified":1566586984,
     "wof:name":"Menongue",
     "wof:parent_id":1108799961,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"22.14921,-10.81221,22.18921,-10.77221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225824267,
-    "wof:lastmodified":1537042908,
+    "wof:lastmodified":1566587507,
     "wof:name":"Samuango",
     "wof:parent_id":1108799637,
     "wof:placetype":"locality",

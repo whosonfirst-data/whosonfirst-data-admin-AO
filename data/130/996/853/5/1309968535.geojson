@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.0334,-9.87418,14.0734,-9.83418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cuambua Velho",
         "Cuambua Velha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309968535,
-    "wof:lastmodified":1537584651,
+    "wof:lastmodified":1566586917,
     "wof:name":"Cuambua",
     "wof:parent_id":1108799879,
     "wof:placetype":"locality",

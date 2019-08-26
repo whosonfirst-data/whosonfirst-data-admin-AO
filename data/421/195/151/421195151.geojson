@@ -10,6 +10,9 @@
     "geom:latitude":-7.23116,
     "geom:longitude":12.8666,
     "iso:country":"AO",
+    "lbl:bbox":"12.8466,-7.25116,12.8866,-7.21116",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Nzeto"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ambrisette"
     ],
     "name:zho_x_preferred":[
@@ -209,7 +212,7 @@
     "wof:concordances":{
         "gn:id":2239001,
         "gp:id":1262937,
-        "qs:id":278301,
+        "qs_pg:id":278301,
         "wd:id":"Q2351452",
         "wk:page":"N'zeto"
     },
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":421195151,
-    "wof:lastmodified":1563362364,
+    "wof:lastmodified":1566586981,
     "wof:name":"N'zeto",
     "wof:parent_id":1108799731,
     "wof:placetype":"locality",

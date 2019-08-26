@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.03862,-6.20499,15.07862,-6.16499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Banza Zombo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243041043,
-    "wof:lastmodified":1537584680,
+    "wof:lastmodified":1566587095,
     "wof:name":"Mbanza Zombo",
     "wof:parent_id":1108799957,
     "wof:placetype":"locality",

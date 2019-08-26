@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.355,-15.04479,13.395,-15.00479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Humpata"
     ],
@@ -55,8 +59,7 @@
     ],
     "name:und_x_variant":[
         "S\u00e3o Januaria",
-        "S\u00e3o Januario da Humpata",
-        "Humpata"
+        "S\u00e3o Januario da Humpata"
     ],
     "name:zho_x_preferred":[
         "\u6d2a\u5e15\u5854"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1327024317,
-    "wof:lastmodified":1564210715,
+    "wof:lastmodified":1566585719,
     "wof:name":"Humpata",
     "wof:parent_id":1108799749,
     "wof:placetype":"locality",

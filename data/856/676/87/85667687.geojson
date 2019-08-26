@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-12.576089,
     "lbl:longitude":17.339539,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "mps:latitude":-12.529621,
     "mps:longitude":17.357574,
@@ -199,7 +200,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Distrito do B\u00ede"
     ],
     "name:urd_x_preferred":[
@@ -292,9 +293,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-16",
+    "src:population_date":"2014-05-16",
     "statoids:area_km":"70,314",
     "statoids:area_mi":"27,148",
     "statoids:as_of_date":"2014-05-16",
@@ -319,7 +320,7 @@
         "gp:id":2344657,
         "hasc:id":"AO.BI",
         "iso:id":"AO-BIE",
-        "qs:id":219498,
+        "qs_pg:id":219498,
         "unlc:id":"AO-BIE",
         "wd:id":"Q213977",
         "wk:page":"Bi\u00e9 Province"
@@ -340,11 +341,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565651853,
+    "wof:lastmodified":1566586005,
     "wof:name":"Bi\u00e9",
     "wof:parent_id":85632281,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1455255,
     "wof:population_rank":12,

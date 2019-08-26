@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"21.74705,-7.42034,21.78705,-7.38034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Dulo s\u00fclal\u0259si"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1276617669,
-    "wof:lastmodified":1564211542,
+    "wof:lastmodified":1566586275,
     "wof:name":"Dulo",
     "wof:parent_id":1108799925,
     "wof:placetype":"locality",

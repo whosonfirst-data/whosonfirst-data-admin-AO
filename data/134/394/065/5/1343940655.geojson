@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.93,-7.45333,14.97,-7.41333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mucamba",
         "Quingonga"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343940655,
-    "wof:lastmodified":1537584593,
+    "wof:lastmodified":1566585931,
     "wof:name":"Quingonga",
     "wof:parent_id":1108799683,
     "wof:placetype":"locality",

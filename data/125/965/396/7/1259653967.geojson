@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.13872,-6.37554,16.17872,-6.33554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259653967,
-    "wof:lastmodified":1536610680,
+    "wof:lastmodified":1566587198,
     "wof:name":"Quicaba",
     "wof:parent_id":1108799763,
     "wof:placetype":"locality",

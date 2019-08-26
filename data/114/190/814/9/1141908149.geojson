@@ -9,15 +9,18 @@
     "geom:bbox":"20.7400154202,-8.4196036592,20.7400154202,-8.4196036592",
     "geom:latitude":-8.419604,
     "geom:longitude":20.740015,
-    "gn:gn_country":"AO",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":20115,
+    "gn:country":"AO",
+    "gn:fcode":"PPLA",
     "gn:population":20115,
     "iso:country":"AO",
+    "lbl:bbox":"20.7200154202,-8.4396036592,20.7600154202,-8.3996036592",
     "lbl:latitude":-8.419604,
     "lbl:longitude":20.740015,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Lucapa"
     ],
@@ -146,9 +149,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043a\u0430\u043f\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Lukapa"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u06a9\u0627\u067e\u0627"
@@ -295,7 +295,7 @@
         }
     ],
     "wof:id":1141908149,
-    "wof:lastmodified":1563363076,
+    "wof:lastmodified":1566587518,
     "wof:name":"Lucapa",
     "wof:parent_id":1108799695,
     "wof:placetype":"locality",

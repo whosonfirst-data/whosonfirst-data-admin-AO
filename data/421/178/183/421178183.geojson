@@ -10,6 +10,9 @@
     "geom:latitude":-7.60874,
     "geom:longitude":15.06131,
     "iso:country":"AO",
+    "lbl:bbox":"15.04131,-7.62874,15.08131,-7.58874",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -152,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0457\u0436\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carmona"
     ],
     "name:urd_x_preferred":[
@@ -290,7 +293,7 @@
     "wof:concordances":{
         "gn:id":2236568,
         "gp:id":1265240,
-        "qs:id":278298,
+        "qs_pg:id":278298,
         "wd:id":"Q911191",
         "wk:page":"U\u00edge"
     },
@@ -307,7 +310,7 @@
         }
     ],
     "wof:id":421178183,
-    "wof:lastmodified":1563362373,
+    "wof:lastmodified":1566586985,
     "wof:name":"U\u00edge",
     "wof:parent_id":1108799643,
     "wof:placetype":"locality",

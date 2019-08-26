@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.50931,-12.45119,13.54931,-12.41119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Solo"
     ],
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1276349909,
-    "wof:lastmodified":1564211519,
+    "wof:lastmodified":1566586259,
     "wof:name":"Solo",
     "wof:parent_id":1108799747,
     "wof:placetype":"locality",

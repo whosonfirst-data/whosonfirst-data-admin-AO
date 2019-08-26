@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.78898,-8.59776,15.82898,-8.55776",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caca",
         "Ca\u00e7a-Quibuma",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277053135,
-    "wof:lastmodified":1537584674,
+    "wof:lastmodified":1566586294,
     "wof:name":"Caca Quibumo",
     "wof:parent_id":1108799873,
     "wof:placetype":"locality",

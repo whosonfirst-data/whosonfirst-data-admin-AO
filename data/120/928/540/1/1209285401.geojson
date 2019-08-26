@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"21.54667,-15.45333,21.58667,-15.41333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":875649
     },
     "wof:country":"AO",
-    "wof:geomhash":"f574d6713cf222633cb8bf0f969bf5fe",
+    "wof:geomhash":"81abfac56393fdb77bb7b23d54315651",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209285401,
-    "wof:lastmodified":1536291878,
+    "wof:lastmodified":1566586543,
     "wof:name":"Tobola",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     21.56667,
-    -15.433329999999998,
+    -15.43333,
     21.56667,
-    -15.433329999999998
+    -15.43333
 ],
   "geometry": {"coordinates":[21.56667,-15.43333],"type":"Point"}
 }

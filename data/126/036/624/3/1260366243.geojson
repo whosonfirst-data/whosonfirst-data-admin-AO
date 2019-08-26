@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"19.19446,-9.92752,19.23446,-9.88752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muatchiunga",
         "Muachiunga",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260366243,
-    "wof:lastmodified":1537584621,
+    "wof:lastmodified":1566586639,
     "wof:name":"Muatchihungo",
     "wof:parent_id":1108799965,
     "wof:placetype":"locality",

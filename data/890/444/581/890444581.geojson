@@ -11,8 +11,11 @@
     "geom:longitude":13.40547,
     "gn:country":"AO",
     "gn:fcode":"PPLA",
-    "gn:pop":151226,
+    "gn:population":151226,
     "iso:country":"AO",
+    "lbl:bbox":"13.38547,-12.59626,13.42547,-12.55626",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
@@ -196,7 +199,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0433\u0435\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o F\u00e9lipe de Benguela"
     ],
     "name:urd_x_preferred":[
@@ -322,10 +325,12 @@
     "wof:concordances":{
         "gn:id":3351663,
         "gp:id":1258365,
-        "qs:id":1044142,
         "qs_pg:id":555266,
         "wd:id":"Q214248",
         "wk:page":"Benguela"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1044142
     },
     "wof:country":"AO",
     "wof:created":1469052474,
@@ -340,7 +345,7 @@
         }
     ],
     "wof:id":890444581,
-    "wof:lastmodified":1563362377,
+    "wof:lastmodified":1566586987,
     "wof:name":"Benguela",
     "wof:parent_id":1108799959,
     "wof:placetype":"locality",

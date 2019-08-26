@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"21.28339,-7.50367,21.32339,-7.46367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cassinguidi",
         "Cassanguide",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242944519,
-    "wof:lastmodified":1537584530,
+    "wof:lastmodified":1566587047,
     "wof:name":"Cassanguidi",
     "wof:parent_id":1108799925,
     "wof:placetype":"locality",

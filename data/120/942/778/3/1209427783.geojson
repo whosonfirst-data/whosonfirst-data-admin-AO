@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.43139,-12.32636,16.47139,-12.28636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bihele",
         "Tunda do Biel",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209427783,
-    "wof:lastmodified":1537584689,
+    "wof:lastmodified":1566586531,
     "wof:name":"Tunda do Vihele",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

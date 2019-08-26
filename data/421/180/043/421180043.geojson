@@ -10,6 +10,9 @@
     "geom:latitude":-11.36343,
     "geom:longitude":15.12078,
     "iso:country":"AO",
+    "lbl:bbox":"15.10078,-11.38343,15.14078,-11.34343",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043a\u0443-\u041a\u0443\u043d\u0433\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Comba"
     ],
     "name:zho_x_preferred":[
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":3345497,
         "gp:id":1468333,
-        "qs:id":274280,
+        "qs_pg:id":274280,
         "wd:id":"Q2944819",
         "wk:page":"Waku-Kungo"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421180043,
-    "wof:lastmodified":1563362368,
+    "wof:lastmodified":1566586983,
     "wof:name":"Cela",
     "wof:parent_id":1108799857,
     "wof:placetype":"locality",

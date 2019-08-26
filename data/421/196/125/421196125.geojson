@@ -10,8 +10,12 @@
     "geom:latitude":-9.66952,
     "geom:longitude":15.58926,
     "iso:country":"AO",
+    "lbl:bbox":"15.56926,-9.68952,15.60926,-9.64952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Pungo Andongo"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "Pungo Andongo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pedras Negras"
     ],
     "qs:gn_country":"AO",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":2238832,
         "gp:id":1263294,
-        "qs:id":1175171,
+        "qs_pg:id":1175171,
         "wd:id":"Q7260173",
         "wk:page":"Black Rocks at Pungo Andongo"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421196125,
-    "wof:lastmodified":1563362371,
+    "wof:lastmodified":1566586985,
     "wof:name":"Pungo Andongo",
     "wof:parent_id":1108799645,
     "wof:placetype":"locality",

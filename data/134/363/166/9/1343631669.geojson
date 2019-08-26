@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.89667,-7.82,14.93667,-7.78",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0641\u0635"
     ],
@@ -129,8 +133,7 @@
         "\u041a\u043b\u0456\u0442\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Gage",
-        "Cage"
+        "Gage"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":1343631669,
-    "wof:lastmodified":1564210898,
+    "wof:lastmodified":1566585834,
     "wof:name":"Cage",
     "wof:parent_id":1108799843,
     "wof:placetype":"locality",

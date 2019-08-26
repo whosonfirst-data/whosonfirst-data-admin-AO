@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.83566,-8.38992,14.87566,-8.34992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209720377,
-    "wof:lastmodified":1536386649,
+    "wof:lastmodified":1566586553,
     "wof:name":"Quindungue",
     "wof:parent_id":1108799817,
     "wof:placetype":"locality",

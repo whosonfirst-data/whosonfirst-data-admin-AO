@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.612,-11.46497,16.652,-11.42497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293013347,
-    "wof:lastmodified":1536973092,
+    "wof:lastmodified":1566586048,
     "wof:name":"Tchicuma",
     "wof:parent_id":1108799635,
     "wof:placetype":"locality",

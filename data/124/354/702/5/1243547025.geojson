@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.93392,-11.07782,14.97392,-11.03782",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quissaje",
         "Tumba",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243547025,
-    "wof:lastmodified":1537584706,
+    "wof:lastmodified":1566586998,
     "wof:name":"Cassuba",
     "wof:parent_id":1108799659,
     "wof:placetype":"locality",

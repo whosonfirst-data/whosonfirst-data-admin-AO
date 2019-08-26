@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"18.30247,-9.35912,18.34247,-9.31912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243227349,
-    "wof:lastmodified":1536622501,
+    "wof:lastmodified":1566587084,
     "wof:name":"Muanha Ngando",
     "wof:parent_id":1108799965,
     "wof:placetype":"locality",

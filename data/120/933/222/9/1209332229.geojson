@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.16333,-12.85333,14.20333,-12.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":3346670
     },
     "wof:country":"AO",
-    "wof:geomhash":"e1bfd3022b41bc02722f32e24fe73b56",
+    "wof:geomhash":"399d40aaba7ec606235ae7ae13d132d3",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209332229,
-    "wof:lastmodified":1536290337,
+    "wof:lastmodified":1566586505,
     "wof:name":"Pondjongo",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.183329999999998,
+    14.18333,
     -12.83333,
-    14.183329999999998,
+    14.18333,
     -12.83333
 ],
   "geometry": {"coordinates":[14.18333,-12.83333],"type":"Point"}

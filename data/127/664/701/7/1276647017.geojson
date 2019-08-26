@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.35306,-12.97361,15.39306,-12.93361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Catengue",
         "Catetele"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276647017,
-    "wof:lastmodified":1537584774,
+    "wof:lastmodified":1566586344,
     "wof:name":"Catetele",
     "wof:parent_id":1108799831,
     "wof:placetype":"locality",

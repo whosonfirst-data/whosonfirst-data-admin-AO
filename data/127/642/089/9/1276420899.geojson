@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.20169,-9.11187,16.24169,-9.07187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Zomba"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1276420899,
-    "wof:lastmodified":1564211490,
+    "wof:lastmodified":1566586238,
     "wof:name":"Zomba",
     "wof:parent_id":1108799701,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.2751,-11.11025,14.3151,-11.07025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caiete"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225837457,
-    "wof:lastmodified":1537584794,
+    "wof:lastmodified":1566587514,
     "wof:name":"Caiele",
     "wof:parent_id":1108799863,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.91333,-11.33667,14.95333,-11.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0633\u0646\u0642\u0648"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1226638487,
-    "wof:lastmodified":1564213213,
+    "wof:lastmodified":1566587476,
     "wof:name":"Massango",
     "wof:parent_id":1108799857,
     "wof:placetype":"locality",

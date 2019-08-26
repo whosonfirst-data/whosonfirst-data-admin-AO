@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"23.08,-11.75333,23.12,-11.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kaposhi",
         "Capoche"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209789489,
-    "wof:lastmodified":1537584561,
+    "wof:lastmodified":1566586457,
     "wof:name":"Capoche",
     "wof:parent_id":1108799861,
     "wof:placetype":"locality",
