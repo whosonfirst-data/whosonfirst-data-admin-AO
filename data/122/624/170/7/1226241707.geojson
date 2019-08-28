@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.74667,-9.07,14.78667,-9.03",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mungo"
     ],
@@ -51,8 +55,7 @@
         "Mungo"
     ],
     "name:und_x_variant":[
-        "Fazenda Mungo",
-        "Mungo"
+        "Fazenda Mungo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1226241707,
-    "wof:lastmodified":1564213172,
+    "wof:lastmodified":1566587449,
     "wof:name":"Mungo",
     "wof:parent_id":1108799607,
     "wof:placetype":"locality",

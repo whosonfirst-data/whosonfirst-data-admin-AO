@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.74305,-9.18156,15.78305,-9.14156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moenga-ia-Quanza",
         "Muenga-i\u00e1-Cuanza",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209492377,
-    "wof:lastmodified":1537584619,
+    "wof:lastmodified":1566586467,
     "wof:name":"Muenga Cuanza",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

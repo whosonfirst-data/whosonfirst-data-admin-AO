@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.43,-8.73667,14.47,-8.69667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Dembo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276831847,
-    "wof:lastmodified":1564211636,
+    "wof:lastmodified":1566586334,
     "wof:name":"Dembo",
     "wof:parent_id":1108799927,
     "wof:placetype":"locality",

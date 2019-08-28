@@ -11,11 +11,15 @@
     "geom:longitude":20.70148,
     "gn:country":"AO",
     "gn:fcode":"PPL",
-    "gn:pop":4764,
+    "gn:population":4764,
     "iso:country":"AO",
+    "lbl:bbox":"20.68148,-11.08715,20.72148,-11.04715",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kazagi"
     ],
     "qs:name":"Cazaji",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":876485,
         "gp:id":1259889,
-        "qs:id":129806
+        "qs_pg:id":129806
     },
     "wof:country":"AO",
     "wof:created":1469051086,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415389,
-    "wof:lastmodified":1505343425,
+    "wof:lastmodified":1566586986,
     "wof:name":"Cazaji",
     "wof:parent_id":1108799823,
     "wof:placetype":"locality",

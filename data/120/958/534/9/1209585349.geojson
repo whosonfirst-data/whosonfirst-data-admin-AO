@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.21333,-6.25333,14.25333,-6.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":2238489
     },
     "wof:country":"AO",
-    "wof:geomhash":"055e8d69501082b52071b625abf54532",
+    "wof:geomhash":"a3891714da4261822db67844bb4286ca",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209585349,
-    "wof:lastmodified":1536282654,
+    "wof:lastmodified":1566586491,
     "wof:name":"Quicula",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     14.23333,
-    -6.2333300000000005,
+    -6.23333,
     14.23333,
-    -6.2333300000000005
+    -6.23333
 ],
   "geometry": {"coordinates":[14.23333,-6.23333],"type":"Point"}
 }

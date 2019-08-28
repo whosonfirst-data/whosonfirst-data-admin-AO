@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.34427,-9.22822,16.38427,-9.18822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Zumo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260370439,
-    "wof:lastmodified":1564212100,
+    "wof:lastmodified":1566586646,
     "wof:name":"Zumo",
     "wof:parent_id":1108799871,
     "wof:placetype":"locality",

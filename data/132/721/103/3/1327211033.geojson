@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.27412,-9.45135,16.31412,-9.41135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327211033,
-    "wof:lastmodified":1536999808,
+    "wof:lastmodified":1566585780,
     "wof:name":"Catochi",
     "wof:parent_id":1108799871,
     "wof:placetype":"locality",

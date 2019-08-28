@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.29667,-11.57,15.33667,-11.53",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":3348850
     },
     "wof:country":"AO",
-    "wof:geomhash":"cc3b128430df73ab7b6293aefed5bae2",
+    "wof:geomhash":"28b246c8db41d338873169a9c66a26d2",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209207211,
-    "wof:lastmodified":1536294414,
+    "wof:lastmodified":1566586515,
     "wof:name":"Dumba",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.316670000000002,
+    15.31667,
     -11.55,
-    15.316670000000002,
+    15.31667,
     -11.55
 ],
   "geometry": {"coordinates":[15.31667,-11.55],"type":"Point"}

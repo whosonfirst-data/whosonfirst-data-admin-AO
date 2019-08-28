@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"21.28997,-10.64934,21.32997,-10.60934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Molembo",
         "Malemba"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344120049,
-    "wof:lastmodified":1537584811,
+    "wof:lastmodified":1566585860,
     "wof:name":"Malemba",
     "wof:parent_id":1108799787,
     "wof:placetype":"locality",

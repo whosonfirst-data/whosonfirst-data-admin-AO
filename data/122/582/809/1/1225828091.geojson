@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.31413,-6.09332,15.35413,-6.05332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quicumba",
         "Quincumba"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225828091,
-    "wof:lastmodified":1537584595,
+    "wof:lastmodified":1566587507,
     "wof:name":"Quincumba",
     "wof:parent_id":1108799957,
     "wof:placetype":"locality",

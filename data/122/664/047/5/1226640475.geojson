@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.88,-16.70333,14.92,-16.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Humbe"
     ],
     "name:und_x_variant":[
         "Mutano",
-        "Humbe Mutano",
-        "Humbe"
+        "Humbe Mutano"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226640475,
-    "wof:lastmodified":1564213208,
+    "wof:lastmodified":1566587472,
     "wof:name":"Humbe",
     "wof:parent_id":1108799893,
     "wof:placetype":"locality",

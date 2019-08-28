@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.16333,-12.65333,14.20333,-12.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":3350803
     },
     "wof:country":"AO",
-    "wof:geomhash":"0cce7b8a96cd8eab15976d7d8e76e5ee",
+    "wof:geomhash":"40249194e50cca1f428339955c99d4b5",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209008399,
-    "wof:lastmodified":1536300528,
+    "wof:lastmodified":1566586398,
     "wof:name":"Candjungo",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.183329999999998,
+    14.18333,
     -12.63333,
-    14.183329999999998,
+    14.18333,
     -12.63333
 ],
   "geometry": {"coordinates":[14.18333,-12.63333],"type":"Point"}

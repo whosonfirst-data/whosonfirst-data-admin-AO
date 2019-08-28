@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-10.011811,
     "lbl:longitude":15.045353,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"Cuanza-Sud|Kwanza Sul",
     "meso:adm1_loc":"Cuanza Sul",
     "meso:gadm_adm2":"Libolo",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Libolo",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Libolo"
     ],
@@ -58,7 +61,7 @@
         "\u5229\u535a\u6d1b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108799743,
-    "wof:lastmodified":1563362022,
+    "wof:lastmodified":1566586718,
     "wof:name":"Libolo",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

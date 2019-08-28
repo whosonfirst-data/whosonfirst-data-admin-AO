@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.24667,-9.65333,13.28667,-9.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cavunga",
         "Kavunga Kalinda",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309677557,
-    "wof:lastmodified":1537584658,
+    "wof:lastmodified":1566586957,
     "wof:name":"Cavinge Calinda",
     "wof:parent_id":1108799879,
     "wof:placetype":"locality",

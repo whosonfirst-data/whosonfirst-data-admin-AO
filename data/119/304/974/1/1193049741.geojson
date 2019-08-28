@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.53579,-9.19097,15.57579,-9.15097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sonde"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1193049741,
-    "wof:lastmodified":1564212018,
+    "wof:lastmodified":1566586588,
     "wof:name":"Sonde",
     "wof:parent_id":1108799625,
     "wof:placetype":"locality",

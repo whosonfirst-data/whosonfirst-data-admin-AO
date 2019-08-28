@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-8.866344,
     "lbl:longitude":13.269014,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"Loanda",
     "meso:adm1_loc":"Luanda",
     "meso:gadm_adm2":"Kilamba Kiaxi",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Kilamba Kiaxi",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Kilamba Kiaxi"
     ],
@@ -52,7 +55,7 @@
         "Kilamba Kiaxi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108799903,
-    "wof:lastmodified":1564212154,
+    "wof:lastmodified":1566586689,
     "wof:name":"Kilamba Kiaxi",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

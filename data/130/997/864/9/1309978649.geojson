@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"12.70151,-6.84374,12.74151,-6.80374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Luanda"
     ],
@@ -432,7 +436,7 @@
         }
     ],
     "wof:id":1309978649,
-    "wof:lastmodified":1564212432,
+    "wof:lastmodified":1566586921,
     "wof:name":"Luanda",
     "wof:parent_id":1108799615,
     "wof:placetype":"locality",

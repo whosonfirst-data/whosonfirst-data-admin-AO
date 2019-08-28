@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.96333,-8.35333,15.00333,-8.31333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Macacala",
         "Dulo",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276985297,
-    "wof:lastmodified":1537584645,
+    "wof:lastmodified":1566586369,
     "wof:name":"Dulo Macacala",
     "wof:parent_id":1108799619,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.89128,-9.46001,17.93128,-9.42001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":7785898
     },
     "wof:country":"AO",
-    "wof:geomhash":"33d7741c293200f3762ba37146f5a848",
+    "wof:geomhash":"2a69ee7a21e60aae151bddc3d892ad03",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209486877,
-    "wof:lastmodified":1536285608,
+    "wof:lastmodified":1566586433,
     "wof:name":"Caquemba",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.911279999999994,
+    17.91127999999999,
     -9.44001,
-    17.911279999999994,
+    17.91127999999999,
     -9.44001
 ],
   "geometry": {"coordinates":[17.91127999999999,-9.44001],"type":"Point"}

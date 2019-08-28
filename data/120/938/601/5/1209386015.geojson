@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"22.12877,-10.79084,22.16877,-10.75084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":7863875
     },
     "wof:country":"AO",
-    "wof:geomhash":"1c32b13ae41e50bfb8cac7dd0b631479",
+    "wof:geomhash":"c97f466aaec133dfd38b749b4d5b6ef4",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209386015,
-    "wof:lastmodified":1536288622,
+    "wof:lastmodified":1566586393,
     "wof:name":"Camuxito",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.148770000000006,
+    22.14877000000001,
     -10.77084,
-    22.148770000000006,
+    22.14877000000001,
     -10.77084
 ],
   "geometry": {"coordinates":[22.14877000000001,-10.77084],"type":"Point"}

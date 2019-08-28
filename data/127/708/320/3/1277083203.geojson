@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.72493,-11.53316,16.76493,-11.49316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mar_x_preferred":[
         "\u0928\u093e\u0902\u0926\u0947"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277083203,
-    "wof:lastmodified":1564211447,
+    "wof:lastmodified":1566586209,
     "wof:name":"Nande",
     "wof:parent_id":1108799635,
     "wof:placetype":"locality",

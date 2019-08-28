@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"23.26333,-12.68667,23.30333,-12.64667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shiluizi",
         "Chiluize",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343828847,
-    "wof:lastmodified":1537584562,
+    "wof:lastmodified":1566585898,
     "wof:name":"Canenga",
     "wof:parent_id":1108799861,
     "wof:placetype":"locality",

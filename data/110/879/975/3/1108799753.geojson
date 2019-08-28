@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-7.105129,
     "lbl:longitude":15.06561,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"U\u00edge",
     "meso:gadm_adm2":"Mucaba",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Mucaba",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Mucaba"
     ],
@@ -58,7 +61,7 @@
         "\u7a46\u5361\u5df4"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108799753,
-    "wof:lastmodified":1563362030,
+    "wof:lastmodified":1566586724,
     "wof:name":"Mucaba",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

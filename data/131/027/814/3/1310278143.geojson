@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.52045,-8.05203,15.56045,-8.01203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Biri"
     ],
@@ -51,8 +55,7 @@
     ],
     "name:und_x_variant":[
         "Bir",
-        "Bire",
-        "Biri"
+        "Bire"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1310278143,
-    "wof:lastmodified":1564212250,
+    "wof:lastmodified":1566586790,
     "wof:name":"Biri",
     "wof:parent_id":1108799765,
     "wof:placetype":"locality",

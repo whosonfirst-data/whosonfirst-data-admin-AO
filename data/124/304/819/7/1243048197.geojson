@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.107,-7.93467,16.147,-7.89467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maiate",
         "Mucolo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243048197,
-    "wof:lastmodified":1537584620,
+    "wof:lastmodified":1566587096,
     "wof:name":"Mucolo",
     "wof:parent_id":1108799689,
     "wof:placetype":"locality",

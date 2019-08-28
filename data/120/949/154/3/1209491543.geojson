@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"21.06927,-7.60431,21.10927,-7.56431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":7696335
     },
     "wof:country":"AO",
-    "wof:geomhash":"19a6359969a56945b4d0a67c61210b2e",
+    "wof:geomhash":"bb989cb168a9fe07d79fc063f0b0d48a",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209491543,
-    "wof:lastmodified":1536285470,
+    "wof:lastmodified":1566586465,
     "wof:name":"Caxala Terceiro",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.089270000000006,
+    21.08927000000001,
     -7.58431,
-    21.089270000000006,
+    21.08927000000001,
     -7.58431
 ],
   "geometry": {"coordinates":[21.08927000000001,-7.58431],"type":"Point"}

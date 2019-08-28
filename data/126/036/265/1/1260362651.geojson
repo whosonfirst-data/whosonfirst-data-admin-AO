@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.1878,-6.82522,15.2278,-6.78522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quitieti",
         "Quitiete",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260362651,
-    "wof:lastmodified":1537584584,
+    "wof:lastmodified":1566586639,
     "wof:name":"Quitietie",
     "wof:parent_id":1108799705,
     "wof:placetype":"locality",

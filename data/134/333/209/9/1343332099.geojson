@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.71748,-7.1086,16.75748,-7.0686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Macolo"
     ],
     "name:und_x_variant":[
-        "Macola",
-        "Macolo"
+        "Macola"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343332099,
-    "wof:lastmodified":1564211062,
+    "wof:lastmodified":1566585942,
     "wof:name":"Macolo",
     "wof:parent_id":1108799599,
     "wof:placetype":"locality",

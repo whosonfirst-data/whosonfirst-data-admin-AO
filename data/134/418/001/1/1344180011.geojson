@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.75365,-9.11061,14.79365,-9.07061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344180011,
-    "wof:lastmodified":1536703394,
+    "wof:lastmodified":1566585949,
     "wof:name":"Musseque",
     "wof:parent_id":1108799607,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-12.208146,
     "lbl:longitude":15.270453,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"Huambo",
     "meso:gadm_adm2":"Londuimbale",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Londuimbale",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Londuimbale"
     ],
@@ -64,7 +67,7 @@
         "\u9686\u675c\u56e0\u5df4\u5229"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108799825,
-    "wof:lastmodified":1563361996,
+    "wof:lastmodified":1566586702,
     "wof:name":"Londuimbali",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

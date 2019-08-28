@@ -10,7 +10,12 @@
     "geom:latitude":-9.3,
     "geom:longitude":13.13333,
     "iso:country":"AO",
+    "lbl:bbox":"13.11333,-9.32,13.15333,-9.28",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AO",
     "qs:gn_fcode":"PPL",
@@ -41,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2243679,
         "gp:id":1258325,
-        "qs:id":241136
+        "qs_pg:id":241136
     },
     "wof:country":"AO",
     "wof:created":1459010187,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":421204485,
-    "wof:lastmodified":1494646497,
+    "wof:lastmodified":1566586982,
     "wof:name":"Barra do Cuanza",
     "wof:parent_id":1108799941,
     "wof:placetype":"locality",

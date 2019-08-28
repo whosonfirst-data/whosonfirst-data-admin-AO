@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.2571,-11.37801,14.2971,-11.33801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gong\u00f4lo",
         "Cumbira",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226534885,
-    "wof:lastmodified":1537584751,
+    "wof:lastmodified":1566587490,
     "wof:name":"Ingongolo",
     "wof:parent_id":1108799799,
     "wof:placetype":"locality",

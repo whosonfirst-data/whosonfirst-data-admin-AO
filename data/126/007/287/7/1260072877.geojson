@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.98446,-10.51214,14.02446,-10.47214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260072877,
-    "wof:lastmodified":1537002559,
+    "wof:lastmodified":1566586632,
     "wof:name":"Ngola Quimbanda",
     "wof:parent_id":1108799943,
     "wof:placetype":"locality",

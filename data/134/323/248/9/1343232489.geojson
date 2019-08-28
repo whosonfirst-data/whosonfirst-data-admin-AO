@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.39667,-7.58667,16.43667,-7.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quileca",
         "Quime-Cassequila"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343232489,
-    "wof:lastmodified":1537584597,
+    "wof:lastmodified":1566585889,
     "wof:name":"Quime-Cassequila",
     "wof:parent_id":1108799627,
     "wof:placetype":"locality",

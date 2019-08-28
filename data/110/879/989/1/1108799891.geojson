@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-11.689244,
     "lbl:longitude":22.066991,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"Moxico",
     "meso:gadm_adm2":"Lucano",
@@ -27,11 +29,12 @@
     "meso:name_alt":"Lucano",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lucano"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108799891,
-    "wof:lastmodified":1553718824,
+    "wof:lastmodified":1566586720,
     "wof:name":"Luakano",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.74667,-11.48667,14.78667,-11.44667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Eveie",
         "Techilulo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243261363,
-    "wof:lastmodified":1537584691,
+    "wof:lastmodified":1566587178,
     "wof:name":"Techilulo",
     "wof:parent_id":1108799799,
     "wof:placetype":"locality",

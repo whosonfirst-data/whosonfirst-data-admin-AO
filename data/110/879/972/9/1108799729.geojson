@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-12.223577,
     "lbl:longitude":19.636166,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"Moxico",
     "meso:gadm_adm2":"Moxico",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Moxico",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Moxico"
     ],
@@ -37,7 +40,7 @@
         "Moxico"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108799729,
-    "wof:lastmodified":1564212162,
+    "wof:lastmodified":1566586724,
     "wof:name":"Moxico",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

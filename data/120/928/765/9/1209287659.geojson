@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.05587,-6.29223,15.09587,-6.25223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":7691250
     },
     "wof:country":"AO",
-    "wof:geomhash":"52250a9a069702797ebd66972b50e7bf",
+    "wof:geomhash":"d879f5c8e4f4fa62bb04714458c2dfbd",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209287659,
-    "wof:lastmodified":1536291804,
+    "wof:lastmodified":1566586539,
     "wof:name":"Mbanza Uaua",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.075870000000002,
+    15.07587,
     -6.27223,
-    15.075870000000002,
+    15.07587,
     -6.27223
 ],
   "geometry": {"coordinates":[15.07587,-6.27223],"type":"Point"}

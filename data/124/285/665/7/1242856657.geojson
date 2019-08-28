@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.06333,-7.68667,13.10333,-7.64667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quissembo-Luanda",
         "Quissembo",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242856657,
-    "wof:lastmodified":1537584595,
+    "wof:lastmodified":1566587139,
     "wof:name":"Quinambo",
     "wof:parent_id":1108799731,
     "wof:placetype":"locality",

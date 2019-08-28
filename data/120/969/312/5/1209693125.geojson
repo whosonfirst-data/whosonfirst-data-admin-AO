@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.00173,-9.46751,17.04173,-9.42751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":7785223
     },
     "wof:country":"AO",
-    "wof:geomhash":"61dc7add8d8f5dd7443da3a32165991e",
+    "wof:geomhash":"61d0326412c985ff05df188ccaf63b1a",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209693125,
-    "wof:lastmodified":1536279169,
+    "wof:lastmodified":1566586497,
     "wof:name":"Muala",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.021729999999998,
+    17.02173,
     -9.44751,
-    17.021729999999998,
+    17.02173,
     -9.44751
 ],
   "geometry": {"coordinates":[17.02173,-9.44751],"type":"Point"}

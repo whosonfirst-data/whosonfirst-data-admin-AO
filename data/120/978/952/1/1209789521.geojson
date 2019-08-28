@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"18.33,-13.37,18.37,-13.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Manyola",
         "Manjola",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209789521,
-    "wof:lastmodified":1537584720,
+    "wof:lastmodified":1566586456,
     "wof:name":"Minganja",
     "wof:parent_id":1108799641,
     "wof:placetype":"locality",

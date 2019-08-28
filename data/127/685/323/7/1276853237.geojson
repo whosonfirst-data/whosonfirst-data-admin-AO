@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"12.81333,-6.55333,12.85333,-6.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pozo",
         "Poso",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276853237,
-    "wof:lastmodified":1537584580,
+    "wof:lastmodified":1566586308,
     "wof:name":"Roso Antigo",
     "wof:parent_id":1108799615,
     "wof:placetype":"locality",

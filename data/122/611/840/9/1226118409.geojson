@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"21.19365,-10.07594,21.23365,-10.03594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226118409,
-    "wof:lastmodified":1536618122,
+    "wof:lastmodified":1566587375,
     "wof:name":"Cassege",
     "wof:parent_id":1108799787,
     "wof:placetype":"locality",

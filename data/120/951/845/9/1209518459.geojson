@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.03726,-11.96109,17.07726,-11.92109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kangenge",
         "Canjengo",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209518459,
-    "wof:lastmodified":1537584784,
+    "wof:lastmodified":1566586500,
     "wof:name":"Cangengo",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

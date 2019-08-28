@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.06333,-14.38667,15.10333,-14.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kutenda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309895507,
-    "wof:lastmodified":1564212500,
+    "wof:lastmodified":1566586971,
     "wof:name":"Cutenda",
     "wof:parent_id":1108799605,
     "wof:placetype":"locality",

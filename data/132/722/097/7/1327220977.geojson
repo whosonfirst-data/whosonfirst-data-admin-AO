@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.03339,-8.92769,17.07339,-8.88769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cunda Dia Baze"
     ],
@@ -44,7 +48,6 @@
         "Cunda Rio-Baza",
         "Montalegre",
         "Kunda-ri\u00e1-Baza",
-        "Kunda-dia-Baze",
         "Cunda di\u00e1 Baze",
         "Cunda Ria-Baza"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1327220977,
-    "wof:lastmodified":1564210675,
+    "wof:lastmodified":1566585692,
     "wof:name":"Cunda dia Baze",
     "wof:parent_id":1108799725,
     "wof:placetype":"locality",

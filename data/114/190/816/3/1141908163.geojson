@@ -10,10 +10,14 @@
     "geom:latitude":-13.03958,
     "geom:longitude":14.239999,
     "iso:country":"AO",
+    "lbl:bbox":"14.2199987372,-13.059580059,14.2599987372,-13.019580059",
     "lbl:latitude":-13.03958,
     "lbl:longitude":14.239999,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u0627\u0644"
     ],
@@ -184,7 +188,7 @@
         }
     ],
     "wof:id":1141908163,
-    "wof:lastmodified":1563363073,
+    "wof:lastmodified":1566587516,
     "wof:name":"Cubal",
     "wof:parent_id":1108799727,
     "wof:placetype":"locality",

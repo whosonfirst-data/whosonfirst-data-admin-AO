@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-12.616978,
     "lbl:longitude":15.674612,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "mps:latitude":-12.619593,
     "mps:longitude":15.669232,
@@ -191,9 +192,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0430\u043c\u0431\u043e"
     ],
-    "name:unk_x_variant":[
-        "Huambo Province"
-    ],
     "name:urd_x_preferred":[
         "\u06c1\u0648\u0627\u0645\u0628\u0648 \u0635\u0648\u0628\u06c1"
     ],
@@ -284,9 +282,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-16",
+    "src:population_date":"2014-05-16",
     "statoids:area_km":"34,274",
     "statoids:area_mi":"13,233",
     "statoids:as_of_date":"2014-05-16",
@@ -311,7 +309,7 @@
         "gp:id":2344663,
         "hasc:id":"AO.HM",
         "iso:id":"AO-HUA",
-        "qs:id":1083783,
+        "qs_pg:id":1083783,
         "unlc:id":"AO-HUA",
         "wd:id":"Q218848",
         "wk:page":"Huambo Province"
@@ -332,11 +330,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565651855,
+    "wof:lastmodified":1566586008,
     "wof:name":"Huambo",
     "wof:parent_id":85632281,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2019555,
     "wof:population_rank":12,

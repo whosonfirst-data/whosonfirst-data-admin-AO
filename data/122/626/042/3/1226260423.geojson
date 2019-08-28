@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.76333,-12.83667,14.80333,-12.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Holzkragen"
     ],
@@ -42,8 +46,7 @@
         "\u0b95\u0bc7\u0b99\u0bcd"
     ],
     "name:und_x_variant":[
-        "Etundo",
-        "Cangue"
+        "Etundo"
     ],
     "name:vie_x_preferred":[
         "G\u00f4ng c\u00f9m"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1226260423,
-    "wof:lastmodified":1564213028,
+    "wof:lastmodified":1566587353,
     "wof:name":"Cangue",
     "wof:parent_id":1108799707,
     "wof:placetype":"locality",

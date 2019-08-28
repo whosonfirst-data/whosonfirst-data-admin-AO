@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.11333,-7.53667,15.15333,-7.49667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":2241247
     },
     "wof:country":"AO",
-    "wof:geomhash":"dfa4ff668773f1179cb9e5a9dd596621",
+    "wof:geomhash":"55a98e1d279d53d78f35ebd5a2ecbfa7",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209397801,
-    "wof:lastmodified":1536288242,
+    "wof:lastmodified":1566586414,
     "wof:name":"Fazenda Esperanca",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     15.13333,
-    -7.516669999999999,
+    -7.51667,
     15.13333,
-    -7.516669999999999
+    -7.51667
 ],
   "geometry": {"coordinates":[15.13333,-7.51667],"type":"Point"}
 }

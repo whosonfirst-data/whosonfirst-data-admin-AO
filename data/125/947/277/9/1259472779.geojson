@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.94667,-15.40333,13.98667,-15.36333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Quihita"
     ],
     "name:und_x_variant":[
         "Kihita",
-        "Cihita",
-        "Quihita"
+        "Cihita"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259472779,
-    "wof:lastmodified":1564212867,
+    "wof:lastmodified":1566587242,
     "wof:name":"Quihita",
     "wof:parent_id":1108799663,
     "wof:placetype":"locality",

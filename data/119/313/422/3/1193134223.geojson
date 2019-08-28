@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.47157,-12.4518,15.51157,-12.4118",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Carienque",
         "Caliueque",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193134223,
-    "wof:lastmodified":1537584791,
+    "wof:lastmodified":1566586578,
     "wof:name":"Caliueque Primeiro",
     "wof:parent_id":1108799773,
     "wof:placetype":"locality",

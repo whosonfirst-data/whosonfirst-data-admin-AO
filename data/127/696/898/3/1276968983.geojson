@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.32206,-14.5333,15.36206,-14.4933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276968983,
-    "wof:lastmodified":1536922548,
+    "wof:lastmodified":1566586365,
     "wof:name":"Memaiela",
     "wof:parent_id":1108799801,
     "wof:placetype":"locality",

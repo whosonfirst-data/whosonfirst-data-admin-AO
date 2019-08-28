@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.63066,-10.49366,14.67066,-10.45366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326852593,
-    "wof:lastmodified":1537018667,
+    "wof:lastmodified":1566585736,
     "wof:name":"Banza Ndala Cachibo",
     "wof:parent_id":1108799653,
     "wof:placetype":"locality",

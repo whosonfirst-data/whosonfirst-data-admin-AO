@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.87583,-12.42694,13.91583,-12.38694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Loane"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209120649,
-    "wof:lastmodified":1564211812,
+    "wof:lastmodified":1566586449,
     "wof:name":"Loane",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

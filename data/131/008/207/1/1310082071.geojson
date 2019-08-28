@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"12.51333,-13.88667,12.55333,-13.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Lucira"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Lucira Grande",
-        "Luciras Grande",
-        "Lucira"
+        "Luciras Grande"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1310082071,
-    "wof:lastmodified":1564212225,
+    "wof:lastmodified":1566586773,
     "wof:name":"Lucira",
     "wof:parent_id":1108799953,
     "wof:placetype":"locality",

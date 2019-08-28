@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"21.79958,-11.37336,21.83958,-11.33336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Cato"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1225816293,
-    "wof:lastmodified":1564213119,
+    "wof:lastmodified":1566587416,
     "wof:name":"Cato",
     "wof:parent_id":1108799891,
     "wof:placetype":"locality",

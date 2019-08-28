@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.79667,-16.67,14.83667,-16.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chib\u00f4bo",
         "Chibabo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242994315,
-    "wof:lastmodified":1537584768,
+    "wof:lastmodified":1566587154,
     "wof:name":"Chibabo",
     "wof:parent_id":1108799893,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"19.96998,-7.8786,20.00998,-7.8386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309769733,
-    "wof:lastmodified":1536982498,
+    "wof:lastmodified":1566586949,
     "wof:name":"Cassamba",
     "wof:parent_id":1108799669,
     "wof:placetype":"locality",

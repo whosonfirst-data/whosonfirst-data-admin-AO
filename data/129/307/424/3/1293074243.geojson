@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.71333,-7.25333,14.75333,-7.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Macala"
     ],
     "name:und_x_variant":[
-        "Messungo Macala",
-        "Macala"
+        "Messungo Macala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1293074243,
-    "wof:lastmodified":1564211153,
+    "wof:lastmodified":1566586013,
     "wof:name":"Macala",
     "wof:parent_id":1108799683,
     "wof:placetype":"locality",

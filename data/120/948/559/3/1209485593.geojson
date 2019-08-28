@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.09667,-7.58667,15.13667,-7.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":2241301
     },
     "wof:country":"AO",
-    "wof:geomhash":"d8b6185130d676996a10d6986e7dbb75",
+    "wof:geomhash":"362f7b1552494fd40a2ac00d52b3f6a5",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209485593,
-    "wof:lastmodified":1536285647,
+    "wof:lastmodified":1566586432,
     "wof:name":"Engona",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     15.11667,
-    -7.5666699999999985,
+    -7.56667,
     15.11667,
-    -7.5666699999999985
+    -7.56667
 ],
   "geometry": {"coordinates":[15.11667,-7.56667],"type":"Point"}
 }

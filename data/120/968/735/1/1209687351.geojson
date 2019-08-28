@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"20.80094,-7.42359,20.84094,-7.38359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":7891084
     },
     "wof:country":"AO",
-    "wof:geomhash":"4bc748f896da0bedd881a8a288d55f44",
+    "wof:geomhash":"9e97828a6350bcd23dde05c2003eb733",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209687351,
-    "wof:lastmodified":1536279365,
+    "wof:lastmodified":1566586476,
     "wof:name":"Saxindongo",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     20.82094,
-    -7.403589999999999,
+    -7.40359,
     20.82094,
-    -7.403589999999999
+    -7.40359
 ],
   "geometry": {"coordinates":[20.82094,-7.40359],"type":"Point"}
 }

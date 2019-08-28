@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.79667,-11.03667,14.83667,-10.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A. Gon\u00e7alves Magalh\u00e3es",
         "Fazenda Vit\u00f3ria"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292998229,
-    "wof:lastmodified":1537584740,
+    "wof:lastmodified":1566586147,
     "wof:name":"Fazenda Vitoria",
     "wof:parent_id":1108799659,
     "wof:placetype":"locality",

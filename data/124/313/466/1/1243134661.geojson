@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.46338,-8.72069,14.50338,-8.68069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243134661,
-    "wof:lastmodified":1536758371,
+    "wof:lastmodified":1566587079,
     "wof:name":"Cacanda",
     "wof:parent_id":1108799927,
     "wof:placetype":"locality",

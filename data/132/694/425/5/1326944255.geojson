@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"12.64667,-13.30333,12.68667,-13.26333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Venus"
     ],
@@ -544,8 +548,7 @@
     ],
     "name:und_x_variant":[
         "Pescaria Venus",
-        "Praia das Limagens",
-        "Venus"
+        "Praia das Limagens"
     ],
     "name:urd_x_preferred":[
         "\u0632\u06c1\u0631\u06c1"
@@ -612,7 +615,7 @@
         }
     ],
     "wof:id":1326944255,
-    "wof:lastmodified":1564210639,
+    "wof:lastmodified":1566585669,
     "wof:name":"Venus",
     "wof:parent_id":1108799781,
     "wof:placetype":"locality",

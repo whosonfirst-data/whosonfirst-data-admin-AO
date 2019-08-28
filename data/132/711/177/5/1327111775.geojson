@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.26333,-8.17,16.30333,-8.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Katata"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327111775,
-    "wof:lastmodified":1564210845,
+    "wof:lastmodified":1566585798,
     "wof:name":"Catata",
     "wof:parent_id":1108799627,
     "wof:placetype":"locality",

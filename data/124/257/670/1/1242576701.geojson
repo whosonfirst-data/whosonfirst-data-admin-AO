@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.46427,-9.76848,14.50427,-9.72848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Che"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1242576701,
-    "wof:lastmodified":1564212577,
+    "wof:lastmodified":1566587034,
     "wof:name":"Che",
     "wof:parent_id":1108799879,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.83,-8.03667,15.87,-7.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ilo_x_preferred":[
         "Ermita"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1243537419,
-    "wof:lastmodified":1564212532,
+    "wof:lastmodified":1566587001,
     "wof:name":"Ermita",
     "wof:parent_id":1108799689,
     "wof:placetype":"locality",

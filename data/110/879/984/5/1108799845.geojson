@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-12.697052,
     "lbl:longitude":15.131944,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"Huambo",
     "meso:gadm_adm2":"Ukuma",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Ucuma",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Ucuma"
     ],
@@ -73,7 +76,7 @@
         "\u70cf\u5eab\u99ac"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1108799845,
-    "wof:lastmodified":1563361984,
+    "wof:lastmodified":1566586694,
     "wof:name":"Ukuma",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

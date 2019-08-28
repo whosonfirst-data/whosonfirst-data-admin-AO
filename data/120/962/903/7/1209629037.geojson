@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.69082,-12.22985,14.73082,-12.18985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":7902842
     },
     "wof:country":"AO",
-    "wof:geomhash":"a466a487c86b9f2e0df477efa1f6a37b",
+    "wof:geomhash":"c5307d7f4186e68296482d30875ebca9",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209629037,
-    "wof:lastmodified":1536281253,
+    "wof:lastmodified":1566586407,
     "wof:name":"Canzila",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.710820000000002,
+    14.71082,
     -12.20985,
-    14.710820000000002,
+    14.71082,
     -12.20985
 ],
   "geometry": {"coordinates":[14.71082,-12.20985],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.85296,-8.18445,16.89296,-8.14445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276632623,
-    "wof:lastmodified":1536874081,
+    "wof:lastmodified":1566586352,
     "wof:name":"Tandala",
     "wof:parent_id":1108799621,
     "wof:placetype":"locality",

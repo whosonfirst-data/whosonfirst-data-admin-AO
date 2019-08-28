@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.71876,-9.21685,15.75876,-9.17685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Camoeia",
         "Camueia"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1192998461,
-    "wof:lastmodified":1537584666,
+    "wof:lastmodified":1566586597,
     "wof:name":"Camueia",
     "wof:parent_id":1108799645,
     "wof:placetype":"locality",

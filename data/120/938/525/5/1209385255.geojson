@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.29835,-5.98998,15.33835,-5.94998",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":7663103
     },
     "wof:country":"AO",
-    "wof:geomhash":"cd4ccaad88be002e4854f908f68eb16c",
+    "wof:geomhash":"be1ca47b8ae8df974187e7b609dd2752",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209385255,
-    "wof:lastmodified":1536288647,
+    "wof:lastmodified":1566586394,
     "wof:name":"Quissuca",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     15.31835,
-    -5.9699800000000005,
+    -5.96998,
     15.31835,
-    -5.9699800000000005
+    -5.96998
 ],
   "geometry": {"coordinates":[15.31835,-5.96998],"type":"Point"}
 }

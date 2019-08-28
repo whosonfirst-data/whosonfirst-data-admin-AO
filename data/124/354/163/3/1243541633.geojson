@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.53058,-10.09531,17.57058,-10.05531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cambundi Catembo"
     ],
@@ -42,9 +46,7 @@
     ],
     "name:und_x_variant":[
         "Gaia",
-        "Vila-Nova-de-Gaia",
-        "Nova Gaia",
-        "Cambundi Catembo"
+        "Vila-Nova-de-Gaia"
     ],
     "name:zho_x_preferred":[
         "\u574e\u672c\u8fea-\u5361\u6ed5\u535a"
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1243541633,
-    "wof:lastmodified":1564212528,
+    "wof:lastmodified":1566586998,
     "wof:name":"Cambundi Catembo",
     "wof:parent_id":1108799771,
     "wof:placetype":"locality",

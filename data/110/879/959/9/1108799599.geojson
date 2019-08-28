@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-6.980871,
     "lbl:longitude":16.636977,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"U\u00edge",
     "meso:gadm_adm2":"Milunga",
@@ -27,6 +29,7 @@
     "meso:name_alt":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Milunga"
     ],
@@ -40,7 +43,7 @@
         "Milunga"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632281,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108799599,
-    "wof:lastmodified":1564212159,
+    "wof:lastmodified":1566586708,
     "wof:name":"Milunga",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

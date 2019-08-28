@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"21.04667,-8.07,21.08667,-8.03",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cameia",
         "Camaia"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310664257,
-    "wof:lastmodified":1537584531,
+    "wof:lastmodified":1566586821,
     "wof:name":"Camaia",
     "wof:parent_id":1108799695,
     "wof:placetype":"locality",

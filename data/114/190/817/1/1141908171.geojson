@@ -10,10 +10,14 @@
     "geom:latitude":-17.369548,
     "geom:longitude":22.999981,
     "iso:country":"AO",
+    "lbl:bbox":"22.9799808336,-17.3895483207,23.0199808336,-17.3495483207",
     "lbl:latitude":-17.369548,
     "lbl:longitude":22.999981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Luiana"
     ],
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":1141908171,
-    "wof:lastmodified":1564213276,
+    "wof:lastmodified":1566587516,
     "wof:name":"Luiana",
     "wof:parent_id":1108799779,
     "wof:placetype":"locality",

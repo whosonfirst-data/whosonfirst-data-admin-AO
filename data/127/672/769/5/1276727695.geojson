@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.36333,-9.88667,14.40333,-9.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0633\u0648\u0644\u0627"
     ],
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1276727695,
-    "wof:lastmodified":1564211461,
+    "wof:lastmodified":1566586217,
     "wof:name":"Cassola",
     "wof:parent_id":1108799879,
     "wof:placetype":"locality",

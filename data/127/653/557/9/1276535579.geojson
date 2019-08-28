@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.89502,-10.78031,16.93502,-10.74031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276535579,
-    "wof:lastmodified":1537004226,
+    "wof:lastmodified":1566586370,
     "wof:name":"Sacassambo",
     "wof:parent_id":1108799673,
     "wof:placetype":"locality",

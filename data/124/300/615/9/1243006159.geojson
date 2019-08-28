@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"19.58,-14.40333,19.62,-14.36333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Konjongola",
         "Canjongolo",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243006159,
-    "wof:lastmodified":1537584773,
+    "wof:lastmodified":1566586993,
     "wof:name":"Catolo",
     "wof:parent_id":1108799691,
     "wof:placetype":"locality",

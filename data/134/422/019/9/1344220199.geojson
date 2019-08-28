@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"19.50548,-10.07776,19.54548,-10.03776",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rel\u00f3gio",
         "Muachissengue",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344220199,
-    "wof:lastmodified":1537584724,
+    "wof:lastmodified":1566585842,
     "wof:name":"Muatchissengue",
     "wof:parent_id":1108799647,
     "wof:placetype":"locality",

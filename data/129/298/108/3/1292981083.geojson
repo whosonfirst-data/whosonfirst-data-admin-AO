@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.31937,-9.17708,16.35937,-9.13708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292981083,
-    "wof:lastmodified":1537019234,
+    "wof:lastmodified":1566586134,
     "wof:name":"Cimanha (Pedro Mufuma)",
     "wof:parent_id":1108799871,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.99667,-12.85333,14.03667,-12.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vista Alegre"
     ],
@@ -70,8 +74,7 @@
     ],
     "name:und_x_variant":[
         "Fazenda Vista Alegre",
-        "Vistalegre",
-        "Vista Alegre"
+        "Vistalegre"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1276461411,
-    "wof:lastmodified":1564211624,
+    "wof:lastmodified":1566586326,
     "wof:name":"Vista Alegre",
     "wof:parent_id":1108799815,
     "wof:placetype":"locality",

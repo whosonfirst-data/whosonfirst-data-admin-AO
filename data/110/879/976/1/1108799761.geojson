@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-16.739098,
     "lbl:longitude":12.354273,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"Mo\u00e7\u00e2medes|Mossamedes",
     "meso:adm1_loc":"Namibe",
     "meso:gadm_adm2":"Tombwa",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Tombwa",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tombwa"
     ],
@@ -43,7 +46,7 @@
         "T\u00f4mbua"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108799761,
-    "wof:lastmodified":1563361997,
+    "wof:lastmodified":1566586702,
     "wof:name":"Tombua",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

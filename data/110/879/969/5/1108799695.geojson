@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-8.407536,
     "lbl:longitude":20.496816,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"",
     "meso:adm1_loc":"Lunda Norte",
     "meso:gadm_adm2":"Lucapa",
@@ -27,11 +29,12 @@
     "meso:name_alt":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lukapa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632281,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108799695,
-    "wof:lastmodified":1555046995,
+    "wof:lastmodified":1566586715,
     "wof:name":"Lukapa",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

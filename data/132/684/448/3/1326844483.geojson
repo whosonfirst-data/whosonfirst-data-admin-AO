@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.39667,-12.67,14.43667,-12.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mafoma",
         "Mafume"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326844483,
-    "wof:lastmodified":1537584723,
+    "wof:lastmodified":1566585749,
     "wof:name":"Mafume",
     "wof:parent_id":1108799837,
     "wof:placetype":"locality",

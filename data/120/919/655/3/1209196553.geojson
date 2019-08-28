@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.86333,-6.25333,14.90333,-6.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":2240425
     },
     "wof:country":"AO",
-    "wof:geomhash":"9eb4a77eabd63343a7ce8b77f48d8c9e",
+    "wof:geomhash":"1dcf8c4e817efe2e67de0ab8d5598a88",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209196553,
-    "wof:lastmodified":1536294751,
+    "wof:lastmodified":1566586534,
     "wof:name":"Luata",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     14.88333,
-    -6.2333300000000005,
+    -6.23333,
     14.88333,
-    -6.2333300000000005
+    -6.23333
 ],
   "geometry": {"coordinates":[14.88333,-6.23333],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.37208,-10.79766,14.41208,-10.75766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Quisseque"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310427751,
-    "wof:lastmodified":1564212241,
+    "wof:lastmodified":1566586783,
     "wof:name":"Quisseque",
     "wof:parent_id":1108799827,
     "wof:placetype":"locality",

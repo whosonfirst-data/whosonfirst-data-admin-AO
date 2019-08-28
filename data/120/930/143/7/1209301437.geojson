@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.98448,-8.95825,16.02448,-8.91825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":7758631
     },
     "wof:country":"AO",
-    "wof:geomhash":"e8ed47b9231f392d365b7595072976e5",
+    "wof:geomhash":"7e2f61336ac4ceb844af482f9a302e83",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209301437,
-    "wof:lastmodified":1536291344,
+    "wof:lastmodified":1566586415,
     "wof:name":"Ngola Canini",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.004479999999994,
+    16.00447999999999,
     -8.93825,
-    16.004479999999994,
+    16.00447999999999,
     -8.93825
 ],
   "geometry": {"coordinates":[16.00447999999999,-8.93825],"type":"Point"}

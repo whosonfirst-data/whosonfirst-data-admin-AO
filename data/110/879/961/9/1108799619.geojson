@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-8.402275,
     "lbl:longitude":15.09226,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"Cuanza-Nord|Kwanza Norte",
     "meso:adm1_loc":"Cuanza Norte",
     "meso:gadm_adm2":"Bolongongo",
@@ -27,6 +29,7 @@
     "meso:name_alt":"Bolongongo",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Bolongongo"
     ],
@@ -64,7 +67,7 @@
         "\u535a\u6d1b\u6069\u6208\u6069\u6208"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108799619,
-    "wof:lastmodified":1563362001,
+    "wof:lastmodified":1566586705,
     "wof:name":"Bolongongo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

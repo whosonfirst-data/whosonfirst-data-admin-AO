@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.88045,-8.99707,16.92045,-8.95707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209294697,
-    "wof:lastmodified":1536291571,
+    "wof:lastmodified":1566586511,
     "wof:name":"Maluvo a Ngonga",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.04028,-7.85837,14.08028,-7.81837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Zala"
     ],
@@ -82,8 +86,7 @@
     "name:und_x_variant":[
         "Quimbombe",
         "Quimbumbe",
-        "Quibumbe",
-        "Zala"
+        "Quibumbe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1209578071,
-    "wof:lastmodified":1564211854,
+    "wof:lastmodified":1566586474,
     "wof:name":"Zala",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

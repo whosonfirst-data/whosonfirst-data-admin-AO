@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.90823,-12.84494,14.94823,-12.80494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0634\u06cc\u0646\u062f\u0698\u0646\u0698\u0647"
     ],
@@ -52,9 +56,7 @@
     ],
     "name:und_x_variant":[
         "Kinjenje",
-        "Quingenge",
-        "Tchindjenje",
-        "Tchindjendje"
+        "Quingenge"
     ],
     "name:zho_x_preferred":[
         "\u6b3d\u4efb\u6d85"
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1293186527,
-    "wof:lastmodified":1564211367,
+    "wof:lastmodified":1566586153,
     "wof:name":"Tchindjendje",
     "wof:parent_id":1108799885,
     "wof:placetype":"locality",

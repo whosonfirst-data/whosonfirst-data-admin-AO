@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.0484,-14.77043,15.0884,-14.73043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326526237,
-    "wof:lastmodified":1536991939,
+    "wof:lastmodified":1566585757,
     "wof:name":"Tchico",
     "wof:parent_id":1108799687,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.61644,-11.16364,14.65644,-11.12364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uongo",
         "Hongo"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209098703,
-    "wof:lastmodified":1537584734,
+    "wof:lastmodified":1566586387,
     "wof:name":"Hongo",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

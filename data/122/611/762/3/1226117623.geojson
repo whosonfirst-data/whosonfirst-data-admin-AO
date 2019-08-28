@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.68229,-8.61667,14.72229,-8.57667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tonho Angola"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226117623,
-    "wof:lastmodified":1537584573,
+    "wof:lastmodified":1566587372,
     "wof:name":"Tonho Ngola",
     "wof:parent_id":1108799859,
     "wof:placetype":"locality",

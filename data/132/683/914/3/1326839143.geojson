@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.33,-12.33667,17.37,-12.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Chiuca"
     ],
     "name:und_x_variant":[
         "Gambuta",
-        "Cambuta",
-        "Chiuca"
+        "Cambuta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1326839143,
-    "wof:lastmodified":1564210768,
+    "wof:lastmodified":1566585751,
     "wof:name":"Chiuca",
     "wof:parent_id":1108799633,
     "wof:placetype":"locality",

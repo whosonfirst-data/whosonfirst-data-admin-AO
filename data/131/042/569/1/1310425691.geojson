@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.78,-11.98667,15.82,-11.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ae\u09be\u0995\u09c1\u09b2\u09be\u09a1\u09be"
     ],
@@ -66,8 +70,7 @@
         "\u0418\u043c\u0430\u043a\u0443\u043b\u0430\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "Macurata",
-        "Imaculada"
+        "Macurata"
     ],
     "name:vie_x_preferred":[
         "Imaculada"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1310425691,
-    "wof:lastmodified":1564212238,
+    "wof:lastmodified":1566586781,
     "wof:name":"Imaculada",
     "wof:parent_id":1108799921,
     "wof:placetype":"locality",

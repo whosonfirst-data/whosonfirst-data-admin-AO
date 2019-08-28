@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.52349,-10.82819,15.56349,-10.78819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Macaca"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259375519,
-    "wof:lastmodified":1564212817,
+    "wof:lastmodified":1566587208,
     "wof:name":"Macaca",
     "wof:parent_id":1108799653,
     "wof:placetype":"locality",

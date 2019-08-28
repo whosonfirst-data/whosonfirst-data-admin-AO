@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.48296,-6.43414,15.52296,-6.39414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bemba"
     ],
@@ -44,8 +48,7 @@
         "Bemba"
     ],
     "name:und_x_variant":[
-        "Bembe",
-        "Bemba"
+        "Bembe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1209686115,
-    "wof:lastmodified":1564211856,
+    "wof:lastmodified":1566586475,
     "wof:name":"Bemba",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",

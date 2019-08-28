@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.17037,-7.44498,15.21037,-7.40498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Szent Pambosz"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276413477,
-    "wof:lastmodified":1564211616,
+    "wof:lastmodified":1566586321,
     "wof:name":"Pambo",
     "wof:parent_id":1108799643,
     "wof:placetype":"locality",

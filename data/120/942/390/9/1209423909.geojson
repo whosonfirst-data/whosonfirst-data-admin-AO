@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"17.16333,-13.43667,17.20333,-13.39667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":3351227
     },
     "wof:country":"AO",
-    "wof:geomhash":"f4a46dd0ad6a0c025972975d6d02983e",
+    "wof:geomhash":"fce66f3738613c8b514944bd2cd6d754",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209423909,
-    "wof:lastmodified":1536287441,
+    "wof:lastmodified":1566586531,
     "wof:name":"Caiubo",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.183329999999998,
-    -13.416670000000002,
-    17.183329999999998,
-    -13.416670000000002
+    17.18333,
+    -13.41667,
+    17.18333,
+    -13.41667
 ],
   "geometry": {"coordinates":[17.18333,-13.41667],"type":"Point"}
 }

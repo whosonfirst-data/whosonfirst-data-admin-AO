@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"13.98222,-9.11655,14.02222,-9.07655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tonha Chiria",
         "Tonhachiri"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360250461,
-    "wof:lastmodified":1537584573,
+    "wof:lastmodified":1566586859,
     "wof:name":"Tonhachiri",
     "wof:parent_id":1108799819,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-10.907548,
     "lbl:longitude":15.068272,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Cuanza-Sud|Kwanza Sul",
     "mps:latitude":-10.91424,
     "mps:longitude":15.060253,
@@ -191,9 +192,7 @@
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u041a\u0432\u0430\u043d\u0437\u0430"
     ],
     "name:und_x_variant":[
-        "Cuanza-Sud|Kwanza Sul"
-    ],
-    "name:unk_x_variant":[
+        "Cuanza-Sud|Kwanza Sul",
         "South Kwanza"
     ],
     "name:urd_x_preferred":[
@@ -283,9 +282,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-16",
+    "src:population_date":"2014-05-16",
     "statoids:area_km":"55,660",
     "statoids:area_mi":"21,490",
     "statoids:as_of_date":"2014-05-16",
@@ -309,7 +308,7 @@
         "gp:id":2344661,
         "hasc:id":"AO.CS",
         "iso:id":"AO-CUS",
-        "qs:id":191300,
+        "qs_pg:id":191300,
         "wd:id":"Q216998",
         "wk:page":"Cuanza Sul Province"
     },
@@ -329,11 +328,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565651854,
+    "wof:lastmodified":1566586006,
     "wof:name":"Cuanza Sul",
     "wof:parent_id":85632281,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1881873,
     "wof:population_rank":12,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.75041,-9.10763,15.79041,-9.06763",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326710477,
-    "wof:lastmodified":1536727531,
+    "wof:lastmodified":1566585737,
     "wof:name":"Cambunze",
     "wof:parent_id":1108799873,
     "wof:placetype":"locality",

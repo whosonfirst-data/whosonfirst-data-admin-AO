@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"23.23,-17.50333,23.27,-17.46333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Liconsa"
     ],
     "name:und_x_variant":[
-        "Licensa",
-        "Liconsa"
+        "Licensa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1327134827,
-    "wof:lastmodified":1564210680,
+    "wof:lastmodified":1566585696,
     "wof:name":"Liconsa",
     "wof:parent_id":1108782507,
     "wof:placetype":"locality",

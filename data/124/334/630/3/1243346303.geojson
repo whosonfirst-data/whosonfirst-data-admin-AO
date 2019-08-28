@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.94172,-8.11077,14.98172,-8.07077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quisseguel",
         "Quissequel",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243346303,
-    "wof:lastmodified":1537584586,
+    "wof:lastmodified":1566587109,
     "wof:name":"Quissequele",
     "wof:parent_id":1108799843,
     "wof:placetype":"locality",

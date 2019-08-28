@@ -11,8 +11,11 @@
     "geom:longitude":15.73917,
     "gn:country":"AO",
     "gn:fcode":"PPLA",
-    "gn:pop":226145,
+    "gn:population":226145,
     "iso:country":"AO",
+    "lbl:bbox":"15.71917,-12.79611,15.75917,-12.75611",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.0,
@@ -193,7 +196,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0430\u043c\u0431\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nova Lisboa"
     ],
     "name:urd_x_preferred":[
@@ -321,10 +324,12 @@
     "wof:concordances":{
         "gn:id":3348313,
         "gp:id":1261531,
-        "qs:id":1044133,
-        "qs_pg:id":1114720,
+        "qs_pg:id":1044133,
         "wd:id":"Q207322",
         "wk:page":"Huambo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1114720
     },
     "wof:country":"AO",
     "wof:created":1469052474,
@@ -339,7 +344,7 @@
         }
     ],
     "wof:id":890444579,
-    "wof:lastmodified":1563362378,
+    "wof:lastmodified":1566586987,
     "wof:name":"Huambo",
     "wof:parent_id":1108799931,
     "wof:placetype":"locality",

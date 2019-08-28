@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.71818,-11.03332,14.75818,-10.99332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632281
@@ -34,7 +38,7 @@
         "gn:id":7860240
     },
     "wof:country":"AO",
-    "wof:geomhash":"3a654d3f00bb27880db268082b051eb0",
+    "wof:geomhash":"7a93e6f2000094c6aa097e54379147fe",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209098699,
-    "wof:lastmodified":1536297803,
+    "wof:lastmodified":1566586385,
     "wof:name":"Seque",
     "wof:parent_id":85632281,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.738179999999998,
+    14.73818,
     -11.01332,
-    14.738179999999998,
+    14.73818,
     -11.01332
 ],
   "geometry": {"coordinates":[14.73818,-11.01332],"type":"Point"}

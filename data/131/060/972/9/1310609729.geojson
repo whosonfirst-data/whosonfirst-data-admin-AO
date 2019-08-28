@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"16.60758,-11.64563,16.64758,-11.60563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Vilaque Copata"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310609729,
-    "wof:lastmodified":1564212344,
+    "wof:lastmodified":1566586853,
     "wof:name":"Copata",
     "wof:parent_id":1108799635,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"14.17973,-8.03728,14.21973,-7.99728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nambuangongo"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Vila General Freire",
-        "Nabuangongo",
-        "Nambuangongo"
+        "Nabuangongo"
     ],
     "name:zho_x_preferred":[
         "\u5357\u90a6\u8ca2\u6208"
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1326805595,
-    "wof:lastmodified":1564210616,
+    "wof:lastmodified":1566585655,
     "wof:name":"Nambuangongo",
     "wof:parent_id":1108799629,
     "wof:placetype":"locality",

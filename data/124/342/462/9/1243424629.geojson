@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"15.37588,-6.13861,15.41588,-6.09861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Samba"
     ],
@@ -218,8 +222,7 @@
         "\u0421\u0430\u043c\u0431\u0430"
     ],
     "name:und_x_variant":[
-        "Banza Samba",
-        "Samba"
+        "Banza Samba"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0645\u0628\u0627"
@@ -256,7 +259,7 @@
         }
     ],
     "wof:id":1243424629,
-    "wof:lastmodified":1564212754,
+    "wof:lastmodified":1566587164,
     "wof:name":"Samba",
     "wof:parent_id":1108799957,
     "wof:placetype":"locality",

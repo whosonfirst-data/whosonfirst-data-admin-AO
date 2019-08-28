@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"AO",
+    "lbl:bbox":"23.93,-11.22,23.97,-11.18",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Soto"
     ],
@@ -84,8 +88,7 @@
         "\u0421\u043e\u0442\u043e"
     ],
     "name:und_x_variant":[
-        "Solo",
-        "Soto"
+        "Solo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1243347013,
-    "wof:lastmodified":1564212675,
+    "wof:lastmodified":1566587106,
     "wof:name":"Soto",
     "wof:parent_id":1108799861,
     "wof:placetype":"locality",
