@@ -322,10 +322,10 @@
         "Loanda"
     ],
     "name:por_x_preferred":[
-        "Loanda"
+        "Luanda"
     ],
     "name:por_x_variant":[
-        "Luanda"
+        "Loanda"
     ],
     "name:pus_x_preferred":[
         "\u0644\u0648\u0622\u0646\u062f\u0627"
@@ -587,7 +587,7 @@
         }
     ],
     "wof:id":890432155,
-    "wof:lastmodified":1566586988,
+    "wof:lastmodified":1574291827,
     "wof:name":"Luanda",
     "wof:parent_id":1108799745,
     "wof:placetype":"locality",
