@@ -321,6 +321,9 @@
         "wk:page":"Moxico Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c06df3e7364fc59a55b14ca56074865f",
     "wof:hierarchy":[
         {
@@ -336,7 +339,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586008,
+    "wof:lastmodified":1582355908,
     "wof:name":"Moxico",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

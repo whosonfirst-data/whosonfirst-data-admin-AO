@@ -315,6 +315,9 @@
         "wk:page":"Huambo Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3bc208ad618ca61cb4d7f40d99c68008",
     "wof:hierarchy":[
         {
@@ -330,7 +333,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586008,
+    "wof:lastmodified":1582355908,
     "wof:name":"Huambo",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

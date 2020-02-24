@@ -315,6 +315,9 @@
         "wk:page":"Namibe Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57a46152812eabd32f39c91691261b90",
     "wof:hierarchy":[
         {
@@ -330,7 +333,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586009,
+    "wof:lastmodified":1582355908,
     "wof:name":"Namibe",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

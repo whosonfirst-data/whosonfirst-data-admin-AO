@@ -309,6 +309,9 @@
         "wk:page":"Cuanza Norte Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb14b23c979bbf5dc4898068b3ca934d",
     "wof:hierarchy":[
         {
@@ -324,7 +327,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586001,
+    "wof:lastmodified":1582355904,
     "wof:name":"Cuanza Norte",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

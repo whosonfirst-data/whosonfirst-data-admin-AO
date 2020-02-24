@@ -324,6 +324,9 @@
         "wk:page":"Cuando Cubango Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d45eabed69cc5bb178dbe987d96a46d1",
     "wof:hierarchy":[
         {
@@ -339,7 +342,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586001,
+    "wof:lastmodified":1582355904,
     "wof:name":"Cuando Cubango",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

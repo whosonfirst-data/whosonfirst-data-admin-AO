@@ -316,6 +316,9 @@
         "wk:page":"Lunda Sul Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e170613e9dc401b165e455959d91b59c",
     "wof:hierarchy":[
         {
@@ -331,7 +334,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586003,
+    "wof:lastmodified":1582355905,
     "wof:name":"Lunda Sul",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

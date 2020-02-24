@@ -955,7 +955,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1009,6 +1010,11 @@
     },
     "wof:country":"AO",
     "wof:country_alpha3":"AGO",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"7f24991a733f2c31c4ba8f17aa909da8",
     "wof:hierarchy":[
         {
@@ -1023,7 +1029,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566585999,
+    "wof:lastmodified":1582355902,
     "wof:name":"Angola",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

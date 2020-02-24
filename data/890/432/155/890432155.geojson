@@ -576,6 +576,10 @@
     },
     "wof:country":"AO",
     "wof:created":1469051930,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "unknown"
+    ],
     "wof:geomhash":"4f030e83f76c68d66ed4825561335e72",
     "wof:hierarchy":[
         {
@@ -587,7 +591,7 @@
         }
     ],
     "wof:id":890432155,
-    "wof:lastmodified":1574291827,
+    "wof:lastmodified":1582355929,
     "wof:name":"Luanda",
     "wof:parent_id":1108799745,
     "wof:placetype":"locality",

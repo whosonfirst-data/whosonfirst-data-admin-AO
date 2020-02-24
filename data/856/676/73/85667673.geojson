@@ -322,6 +322,9 @@
         "wk:page":"U\u00edge Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"179fcdc944e0f5355a93b26b0a3231b2",
     "wof:hierarchy":[
         {
@@ -337,7 +340,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586004,
+    "wof:lastmodified":1582355906,
     "wof:name":"U\u00edge",
     "wof:parent_id":85632281,
     "wof:placetype":"region",
