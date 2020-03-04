@@ -955,8 +955,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso",
-        "naturalearth"
+        "meso"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1029,7 +1028,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1582355902,
+    "wof:lastmodified":1583237899,
     "wof:name":"Angola",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
