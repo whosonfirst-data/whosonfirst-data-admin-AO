@@ -330,6 +330,9 @@
         "wk:page":"Luanda Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b37df120a62de015219d58720344fc8",
     "wof:hierarchy":[
         {
@@ -345,7 +348,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586003,
+    "wof:lastmodified":1582355905,
     "wof:name":"Luanda",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

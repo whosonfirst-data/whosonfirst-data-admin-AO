@@ -322,6 +322,9 @@
         "wk:page":"Hu\u00edla Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec0a359efc3f7c3362217ee28891c26f",
     "wof:hierarchy":[
         {
@@ -337,7 +340,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586010,
+    "wof:lastmodified":1582355909,
     "wof:name":"Hu\u00edla",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

@@ -334,6 +334,9 @@
     },
     "wof:country":"AO",
     "wof:created":1469052474,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"734261cd4a694e5d072b00ded451c2d3",
     "wof:hierarchy":[
         {
@@ -345,7 +348,7 @@
         }
     ],
     "wof:id":890444581,
-    "wof:lastmodified":1566586987,
+    "wof:lastmodified":1582355929,
     "wof:name":"Benguela",
     "wof:parent_id":1108799959,
     "wof:placetype":"locality",

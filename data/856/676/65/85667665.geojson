@@ -313,6 +313,9 @@
         "wk:page":"Cuanza Sul Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b78055bfcc0d4a51b81130b9e6848e15",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586006,
+    "wof:lastmodified":1582355907,
     "wof:name":"Cuanza Sul",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

@@ -327,6 +327,9 @@
         "wk:page":"Bengo Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b516c20a27e3b96feaead58599a15eba",
     "wof:hierarchy":[
         {
@@ -342,7 +345,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586002,
+    "wof:lastmodified":1582355905,
     "wof:name":"Bengo",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

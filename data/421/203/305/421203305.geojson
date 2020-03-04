@@ -166,6 +166,9 @@
     },
     "wof:country":"AO",
     "wof:created":1459010146,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"9eeef97f1c35b52c2b9d3ea05e950cdb",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421203305,
-    "wof:lastmodified":1561790900,
+    "wof:lastmodified":1582355928,
     "wof:name":"Chitado",
     "wof:parent_id":1108799849,
     "wof:placetype":"locality",

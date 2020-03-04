@@ -321,6 +321,9 @@
         "wk:page":"Benguela Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"975bfee082ff948524431c6e0d67e69c",
     "wof:hierarchy":[
         {
@@ -336,7 +339,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586005,
+    "wof:lastmodified":1582355906,
     "wof:name":"Benguela",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

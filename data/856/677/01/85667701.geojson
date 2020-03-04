@@ -309,6 +309,9 @@
         "wk:page":"Cunene Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d098e18c4990c90f5622a323c89899e",
     "wof:hierarchy":[
         {
@@ -324,7 +327,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586010,
+    "wof:lastmodified":1582355909,
     "wof:name":"Cunene",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

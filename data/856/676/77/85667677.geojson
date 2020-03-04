@@ -316,6 +316,9 @@
         "wk:page":"Zaire Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e3d06ec387bc1df8452ff9791ca07587",
     "wof:hierarchy":[
         {
@@ -331,7 +334,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586007,
+    "wof:lastmodified":1582355907,
     "wof:name":"Zaire",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

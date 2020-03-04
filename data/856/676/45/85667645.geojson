@@ -312,6 +312,9 @@
         "wk:page":"Lunda Norte Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ffe1d06afd1f79cbd3a017b9610e7e1b",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586004,
+    "wof:lastmodified":1582355906,
     "wof:name":"Lunda Norte",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

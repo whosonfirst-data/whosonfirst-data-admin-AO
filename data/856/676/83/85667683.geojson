@@ -365,6 +365,9 @@
         "wk:page":"Cabinda Province"
     },
     "wof:country":"AO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"81691433ba35302f99f5dcf6e4c98911",
     "wof:hierarchy":[
         {
@@ -380,7 +383,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566586007,
+    "wof:lastmodified":1582355907,
     "wof:name":"Cabinda",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

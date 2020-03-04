@@ -333,6 +333,9 @@
     },
     "wof:country":"AO",
     "wof:created":1469052474,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43ba756ec18f903aeb24c27281081f9b",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
         }
     ],
     "wof:id":890444579,
-    "wof:lastmodified":1566586987,
+    "wof:lastmodified":1582355929,
     "wof:name":"Huambo",
     "wof:parent_id":1108799931,
     "wof:placetype":"locality",
