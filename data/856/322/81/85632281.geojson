@@ -986,9 +986,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Angola",
-        "digitalenvoy:country_code":[
-            24
-        ],
+        "digitalenvoy:country_code":24,
         "fb:id":"en.angola",
         "fifa:id":"ANG",
         "fips:code":"AO",
@@ -1031,7 +1029,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1583529068,
+    "wof:lastmodified":1583797271,
     "wof:name":"Angola",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
