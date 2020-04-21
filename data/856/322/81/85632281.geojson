@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":103.796054,
-    "geom:area_square_m":1252026249223.24292,
+    "geom:area_square_m":1252026249695.804443,
     "geom:bbox":"11.674556,-18.039104,24.084445,-4.387944",
     "geom:latitude":-12.298995,
     "geom:longitude":17.547888,
@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":7.0,
     "mz:min_zoom":2.0,
+    "name:abk_x_preferred":[
+        "\u0410\u043d\u0433\u043e\u043b\u0430"
+    ],
     "name:afr_x_preferred":[
         "Angola"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:arg_x_preferred":[
         "Angola"
+    ],
+    "name:ary_x_preferred":[
+        "\u0623\u0646\u06ad\u0648\u0644\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0646\u062c\u0648\u0644\u0627"
@@ -84,6 +90,9 @@
         "\u0410\u043d\u0433\u043e\u043b\u0430"
     ],
     "name:bam_x_preferred":[
+        "Angola"
+    ],
+    "name:ban_x_preferred":[
         "Angola"
     ],
     "name:bar_x_preferred":[
@@ -168,14 +177,26 @@
     "name:crh_x_preferred":[
         "Angola"
     ],
+    "name:csb_x_preferred":[
+        "Ang\u00f2l\u00f4"
+    ],
     "name:cym_x_preferred":[
         "Angola"
     ],
     "name:dan_x_preferred":[
         "Angola"
     ],
+    "name:deu_at_x_preferred":[
+        "Angola"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Angola"
+    ],
     "name:deu_x_preferred":[
         "Angola"
+    ],
+    "name:din_x_preferred":[
+        "A\u014bola"
     ],
     "name:diq_x_preferred":[
         "Angola"
@@ -194,6 +215,12 @@
     ],
     "name:ell_x_variant":[
         "\u0391\u03b3\u03ba\u03cc\u03bb\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Angola"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Angola"
     ],
     "name:eng_x_preferred":[
         "Angola"
@@ -254,6 +281,9 @@
         "Anngolaa"
     ],
     "name:gag_x_preferred":[
+        "Angola"
+    ],
+    "name:gcr_x_preferred":[
         "Angola"
     ],
     "name:ger_x_variant":[
@@ -393,6 +423,9 @@
     ],
     "name:khm_x_variant":[
         "\u17a2\u17b6\u1784\u17cb\u1780\u17bc\u17a1\u17b6"
+    ],
+    "name:khw_x_preferred":[
+        "\u0627\u0646\u06af\u0648\u0644\u0627"
     ],
     "name:kik_x_preferred":[
         "Angola"
@@ -568,6 +601,9 @@
     "name:nov_x_preferred":[
         "Angola"
     ],
+    "name:nqo_x_preferred":[
+        "\u07ca\u07f2\u07dc\u07ed\u07cf\u07df\u07ca\u07eb"
+    ],
     "name:nso_x_preferred":[
         "Angola"
     ],
@@ -614,6 +650,9 @@
         "\u0627\u0646\u06af\u0648\u0644\u0627"
     ],
     "name:pol_x_preferred":[
+        "Angola"
+    ],
+    "name:por_br_x_preferred":[
         "Angola"
     ],
     "name:por_x_preferred":[
@@ -683,6 +722,9 @@
     "name:sme_x_preferred":[
         "Angola"
     ],
+    "name:smo_x_preferred":[
+        "Angola"
+    ],
     "name:sna_x_preferred":[
         "Angola"
     ],
@@ -710,6 +752,12 @@
     "name:srd_x_preferred":[
         "Angola"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0410\u043d\u0433\u043e\u043b\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Angola"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u043d\u0433\u043e\u043b\u0430"
     ],
@@ -732,6 +780,9 @@
         "Angola"
     ],
     "name:szl_x_preferred":[
+        "Angola"
+    ],
+    "name:szy_x_preferred":[
         "Angola"
     ],
     "name:tam_x_preferred":[
@@ -780,6 +831,9 @@
         "Angola"
     ],
     "name:tur_x_preferred":[
+        "Angola"
+    ],
+    "name:twi_x_preferred":[
         "Angola"
     ],
     "name:udm_x_preferred":[
@@ -865,8 +919,14 @@
     "name:zha_x_preferred":[
         "Angola"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5b89\u54e5\u62c9"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Angola"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b89\u54e5\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u54e5\u62c9"
@@ -1029,7 +1089,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1583797271,
+    "wof:lastmodified":1587427728,
     "wof:name":"Angola",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
