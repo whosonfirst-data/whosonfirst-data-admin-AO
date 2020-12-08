@@ -590,7 +590,9 @@
         85667669
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632281,
+    "wof:capital_of":[
+        85632281
+    ],
     "wof:concordances":{
         "gn:id":2240449,
         "gp:id":1261906,
@@ -618,7 +620,7 @@
         }
     ],
     "wof:id":890432155,
-    "wof:lastmodified":1587427729,
+    "wof:lastmodified":1607390878,
     "wof:name":"Luanda",
     "wof:parent_id":1108799745,
     "wof:placetype":"locality",
