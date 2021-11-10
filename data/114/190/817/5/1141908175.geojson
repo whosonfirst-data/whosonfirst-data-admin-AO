@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.0800085029,-15.7495955212,14.0800085029,-15.7495955212",
+    "geom:bbox":"14.080009,-15.749596,14.080009,-15.749596",
     "geom:latitude":-15.749596,
     "geom:longitude":14.080009,
     "iso:country":"AO",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u064a\u0628\u064a\u0645\u0628\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u09ac\u09c7\u09ae\u09cd\u09ac\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Chibemba"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03bc\u03c0\u03ad\u03bc\u03c0\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Chibemba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0628\u0645\u0628\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Chibemba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05d1\u05de\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u093f\u092e\u094d\u092c\u0947\u092e\u094d\u092c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Chibemba"
+    ],
+    "name:ind_x_preferred":[
+        "Chibemba"
+    ],
+    "name:ita_x_preferred":[
+        "Chibemba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30d9\u30f3\u30d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\ubcb0\ubc14"
+    ],
+    "name:nld_x_preferred":[
+        "Chibemba"
+    ],
+    "name:pol_x_preferred":[
+        "Chibemba"
+    ],
+    "name:por_x_preferred":[
+        "Chibemba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0431\u0435\u043c\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Chibemba"
+    ],
+    "name:swe_x_preferred":[
+        "Chibemba"
+    ],
+    "name:tur_x_preferred":[
+        "Chibemba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0456\u0431\u0435\u043c\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0628\u06cc\u0645\u0628\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Chibemba"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e0c\u672c\u5df4"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5343\u672c\u5df4"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
     "ne:ADM0_A3":"AGO",
@@ -124,7 +202,7 @@
     "wof:concordances":{},
     "wof:country":"AO",
     "wof:created":1499130837,
-    "wof:geomhash":"b69f24acd183af1b26c52db79a6f5778",
+    "wof:geomhash":"ad7b0ef12d5032c34342179a27f29f77",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +213,7 @@
         }
     ],
     "wof:id":1141908175,
-    "wof:lastmodified":1566587517,
+    "wof:lastmodified":1636502563,
     "wof:name":"Chibemba",
     "wof:parent_id":1108799913,
     "wof:placetype":"locality",
@@ -145,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.08000850287357,
-    -15.74959552120549,
-    14.08000850287357,
-    -15.74959552120549
+    14.080009,
+    -15.749596,
+    14.080009,
+    -15.749596
 ],
-  "geometry": {"coordinates":[14.08000850287357,-15.74959552120549],"type":"Point"}
+  "geometry": {"coordinates":[14.080009,-15.749596],"type":"Point"}
 }

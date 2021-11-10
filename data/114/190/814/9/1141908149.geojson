@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.7400154202,-8.4196036592,20.7400154202,-8.4196036592",
+    "geom:bbox":"20.740015,-8.419604,20.740015,-8.419604",
     "geom:latitude":-8.419604,
     "geom:longitude":20.740015,
     "gn:country":"AO",
@@ -72,10 +72,16 @@
     "name:hau_x_preferred":[
         "Lucapa"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e7\u05e4\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u0941\u0915\u093e\u092a\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Lucapa"
+    ],
+    "name:hun_x_preferred":[
         "Lucapa"
     ],
     "name:ind_x_preferred":[
@@ -284,7 +290,7 @@
     },
     "wof:country":"AO",
     "wof:created":1499130830,
-    "wof:geomhash":"216b90f08b2abfc677a2d564429f5617",
+    "wof:geomhash":"91c29b4df37d1f9bcd3d9d539f1f842b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -295,7 +301,7 @@
         }
     ],
     "wof:id":1141908149,
-    "wof:lastmodified":1566587518,
+    "wof:lastmodified":1636502564,
     "wof:name":"Lucapa",
     "wof:parent_id":1108799695,
     "wof:placetype":"locality",
@@ -309,10 +315,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.7400154202179,
-    -8.41960365919698,
-    20.7400154202179,
-    -8.41960365919698
+    20.740015,
+    -8.419604,
+    20.740015,
+    -8.419604
 ],
-  "geometry": {"coordinates":[20.7400154202179,-8.41960365919698],"type":"Point"}
+  "geometry": {"coordinates":[20.740015,-8.419604],"type":"Point"}
 }

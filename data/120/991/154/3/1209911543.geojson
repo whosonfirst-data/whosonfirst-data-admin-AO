@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Donga"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e0\u05d2\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Donga"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1209911543,
-    "wof:lastmodified":1566586405,
+    "wof:lastmodified":1636502527,
     "wof:name":"Donga",
     "wof:parent_id":1108799827,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.2600023994,-10.1496272595,19.2600023994,-10.1496272595",
+    "geom:bbox":"19.260002,-10.149627,19.260002,-10.149627",
     "geom:latitude":-10.149627,
     "geom:longitude":19.260002,
     "iso:country":"AO",
@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0643\u0648\u0644\u0648"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0627\u06a9\u0648\u0644\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u0995\u09cb\u09b2\u09cb"
     ],
     "name:cat_x_preferred":[
         "Cacolo"
@@ -27,11 +33,29 @@
     "name:deu_x_preferred":[
         "Cacolo"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03ba\u03cc\u03bb\u03bf"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u06a9\u0648\u0644\u0648"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e7\u05d5\u05dc\u05d5\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0915\u094b\u0932\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Cacolo"
+    ],
+    "name:ind_x_preferred":[
+        "Cacolo"
+    ],
     "name:ita_x_preferred":[
         "Cacolo"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ucf5c\ub85c"
     ],
     "name:msa_x_preferred":[
         "Kakolo"
@@ -42,7 +66,22 @@
     "name:por_x_preferred":[
         "Cacolo"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043a\u043e\u043b\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Cacolo"
+    ],
+    "name:tur_x_preferred":[
+        "Cacolo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043a\u043e\u043b\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u06a9\u0648\u0644\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Cacolo"
     ],
     "name:zho_x_preferred":[
@@ -154,7 +193,7 @@
     "wof:concordances":{},
     "wof:country":"AO",
     "wof:created":1499130832,
-    "wof:geomhash":"f7c8c54ba1a57f959a61703a1f28a06d",
+    "wof:geomhash":"aa7a306f1fba95fad672bfc6bb6e6eb3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -165,7 +204,7 @@
         }
     ],
     "wof:id":1141908155,
-    "wof:lastmodified":1566587518,
+    "wof:lastmodified":1636502564,
     "wof:name":"Cacolo",
     "wof:parent_id":1108799647,
     "wof:placetype":"locality",
@@ -175,10 +214,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.26000239937861,
-    -10.1496272594643,
-    19.26000239937861,
-    -10.1496272594643
+    19.260002,
+    -10.149627,
+    19.260002,
+    -10.149627
 ],
-  "geometry": {"coordinates":[19.26000239937861,-10.1496272594643],"type":"Point"}
+  "geometry": {"coordinates":[19.260002,-10.149627],"type":"Point"}
 }

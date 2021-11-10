@@ -86,6 +86,9 @@
     "name:hrv_x_preferred":[
         "Lobito"
     ],
+    "name:hun_x_preferred":[
+        "Lobito"
+    ],
     "name:ido_x_preferred":[
         "Lobito"
     ],
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":1242866571,
-    "wof:lastmodified":1566587025,
+    "wof:lastmodified":1636502549,
     "wof:name":"Lobito",
     "wof:parent_id":1108799799,
     "wof:placetype":"locality",

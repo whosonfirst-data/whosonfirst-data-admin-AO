@@ -39,6 +39,9 @@
     "name:bel_x_preferred":[
         "\u0421\u0443\u043c\u0431\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c1\u09ae\u09cd\u09ac\u09be"
+    ],
     "name:bre_x_preferred":[
         "Sumba"
     ],
@@ -177,6 +180,9 @@
     "name:und_x_variant":[
         "Porto Rico"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0645\u0628\u0627"
+    ],
     "name:vie_x_preferred":[
         "Sumba"
     ],
@@ -209,7 +215,7 @@
         }
     ],
     "wof:id":1209988893,
-    "wof:lastmodified":1566586400,
+    "wof:lastmodified":1636502527,
     "wof:name":"Sumba",
     "wof:parent_id":1108799751,
     "wof:placetype":"locality",

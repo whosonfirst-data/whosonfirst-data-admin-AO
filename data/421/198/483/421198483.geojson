@@ -77,6 +77,9 @@
     "name:hrv_x_preferred":[
         "Saurimo"
     ],
+    "name:hun_x_preferred":[
+        "Saurimo"
+    ],
     "name:ind_x_preferred":[
         "Saurimo"
     ],
@@ -313,7 +316,7 @@
         }
     ],
     "wof:id":421198483,
-    "wof:lastmodified":1566586984,
+    "wof:lastmodified":1636502546,
     "wof:name":"Saurimo",
     "wof:parent_id":1108799909,
     "wof:placetype":"locality",

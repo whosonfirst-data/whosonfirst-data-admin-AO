@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.4299991442,-18.0195344861,21.4299991442,-18.0195344861",
+    "geom:bbox":"21.429999,-18.019534,21.429999,-18.019534",
     "geom:latitude":-18.019534,
     "geom:longitude":21.429999,
     "iso:country":"AO",
@@ -18,6 +18,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0643\u0648\u0633\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c1\u0995\u09c1\u09b8\u09b8\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "Mucusso"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03ba\u03bf\u03cd\u03c3\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Mucusso"
     ],
@@ -30,6 +42,27 @@
     "name:fra_x_preferred":[
         "Mucusso"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e7\u05d5\u05e1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0941\u0915\u0941\u0938\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Mucusso"
+    ],
+    "name:ind_x_preferred":[
+        "Mucusso"
+    ],
+    "name:ita_x_preferred":[
+        "Mucusso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30af\u30c3\u30bd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\ucfe0\uc18c"
+    ],
     "name:nld_x_preferred":[
         "Mucusso"
     ],
@@ -38,6 +71,24 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u043a\u0443\u0441\u0441\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Mucusso"
+    ],
+    "name:swe_x_preferred":[
+        "Mucusso"
+    ],
+    "name:tur_x_preferred":[
+        "Mucusso"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043a\u0443\u0441\u0441\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u06a9\u0648\u0633\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Mucusso"
     ],
     "name:zho_x_preferred":[
         "\u7a46\u5eab\u7d22"
@@ -150,7 +201,7 @@
     },
     "wof:country":"AO",
     "wof:created":1499130732,
-    "wof:geomhash":"77f1e815e9bda46c910fcd02cc7c5cc9",
+    "wof:geomhash":"c2788f8818a9950bd80a3f32bc673a98",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -161,7 +212,7 @@
         }
     ],
     "wof:id":1141907489,
-    "wof:lastmodified":1566587517,
+    "wof:lastmodified":1636502563,
     "wof:name":"Mucusso",
     "wof:parent_id":1108799741,
     "wof:placetype":"locality",
@@ -171,10 +222,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.42999914417891,
-    -18.01953448605832,
-    21.42999914417891,
-    -18.01953448605832
+    21.429999,
+    -18.019534,
+    21.429999,
+    -18.019534
 ],
-  "geometry": {"coordinates":[21.42999914417891,-18.01953448605832],"type":"Point"}
+  "geometry": {"coordinates":[21.429999,-18.019534],"type":"Point"}
 }

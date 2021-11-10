@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.440024372,-14.0996187146,21.440024372,-14.0996187146",
+    "geom:bbox":"21.440024,-14.099619,21.440024,-14.099619",
     "geom:latitude":-14.099619,
     "geom:longitude":21.440024,
     "iso:country":"AO",
@@ -18,6 +18,72 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0645\u0628\u0627\u0644\u0627 \u0646\u063a\u0648\u064a\u0645\u0628\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09ae\u09cd\u09ac\u09be\u09b2\u09be \u098f\u0999\u09cd\u0997\u09c1\u0987\u09ae\u09cd\u09ac\u09cb"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03bc\u03c0\u03ac\u03bb\u03b1 \u039d\u03b3\u03ba\u03bf\u03c5\u03af\u03bc\u03c0\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0645\u0628\u0627\u0644\u0627 \u0627\u0646\u06af\u0648\u0626\u06cc\u0645\u0628\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05de\u05d1\u05dc\u05d4 \u05e0\u05d9\u05d2\u05d5\u05de\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u0902\u092c\u093e\u0932\u093e \u0917\u094d\u0935\u093f\u092e\u094d\u092c\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Lumbala Nguimbo"
+    ],
+    "name:ind_x_preferred":[
+        "Lumbala Nguimbo"
+    ],
+    "name:ita_x_preferred":[
+        "Lumbala N'guimbo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30d0\u30e9\u30fb\u30b0\u30a4\u30f3\u30dc"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8f8\ubc1c\ub77c \uc751\uc6c0\ubcf4"
+    ],
+    "name:nld_x_preferred":[
+        "Lumbala Nguimbo"
+    ],
+    "name:pol_x_preferred":[
+        "Lumbala Nguimbo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043c\u0431\u0430\u043b\u0430-\u041d\u0433\u0443\u0438\u043c\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Lumbala Nguimbo"
+    ],
+    "name:swe_x_preferred":[
+        "Lumbala Nguimbo"
+    ],
+    "name:tur_x_preferred":[
+        "Lumbala Nguimbo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043c\u0431\u0430\u043b\u0430-\u041d\u0433\u0443\u0438\u043c\u0431\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0645\u0628\u0627\u0644\u0627 \u06af\u0648\u0626\u06cc\u0645\u0628\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Lumbala Nguimbo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9686\u5df4\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u502b\u5df4\u62c9\u00b7\u6069\u91d1\u535a"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
     "ne:ADM0_A3":"AGO",
@@ -124,7 +190,7 @@
     "wof:concordances":{},
     "wof:country":"AO",
     "wof:created":1499130839,
-    "wof:geomhash":"58846818b27b8b5f8329739ff9d0e658",
+    "wof:geomhash":"d990ade56c3495ed6951e947959cab71",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +201,7 @@
         }
     ],
     "wof:id":1141908185,
-    "wof:lastmodified":1566587515,
+    "wof:lastmodified":1636502561,
     "wof:name":"Lumbala Nguimbo",
     "wof:parent_id":1108799623,
     "wof:placetype":"locality",
@@ -145,10 +211,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.44002437204364,
-    -14.09961871455818,
-    21.44002437204364,
-    -14.09961871455818
+    21.440024,
+    -14.099619,
+    21.440024,
+    -14.099619
 ],
-  "geometry": {"coordinates":[21.44002437204364,-14.09961871455818],"type":"Point"}
+  "geometry": {"coordinates":[21.440024,-14.099619],"type":"Point"}
 }

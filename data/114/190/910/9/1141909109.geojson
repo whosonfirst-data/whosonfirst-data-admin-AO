@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.5412300198,-12.3700085257,13.5412300198,-12.3700085257",
+    "geom:bbox":"13.54123,-12.370009,13.54123,-12.370009",
     "geom:latitude":-12.370009,
     "geom:longitude":13.54123,
     "iso:country":"AO",
@@ -73,6 +73,9 @@
         "\u05dc\u05d5\u05d1\u05d9\u05d8\u05d5"
     ],
     "name:hrv_x_preferred":[
+        "Lobito"
+    ],
+    "name:hun_x_preferred":[
         "Lobito"
     ],
     "name:ido_x_preferred":[
@@ -250,7 +253,7 @@
     "wof:concordances":{},
     "wof:country":"AO",
     "wof:created":1499131027,
-    "wof:geomhash":"2b6669ec2db465cd831c31a13780d401",
+    "wof:geomhash":"a13bc0e5a11fe2762565c09b0d24fd2e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":1141909109,
-    "wof:lastmodified":1566587518,
+    "wof:lastmodified":1636502564,
     "wof:name":"Lobito",
     "wof:parent_id":1108799747,
     "wof:placetype":"locality",
@@ -271,10 +274,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.54123001979838,
-    -12.3700085257492,
-    13.54123001979838,
-    -12.3700085257492
+    13.54123,
+    -12.370009,
+    13.54123,
+    -12.370009
 ],
-  "geometry": {"coordinates":[13.54123001979838,-12.3700085257492],"type":"Point"}
+  "geometry": {"coordinates":[13.54123,-12.370009],"type":"Point"}
 }

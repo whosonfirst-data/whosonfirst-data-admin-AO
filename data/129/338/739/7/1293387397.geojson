@@ -55,13 +55,31 @@
         "Lucala"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u041b\u0443\u043a\u0430\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
         "\u041b\u0443\u043a\u0430\u043b\u0430"
     ],
     "name:spa_x_preferred":[
         "Lucala"
     ],
+    "name:tur_x_preferred":[
+        "Lucala"
+    ],
     "name:und_x_variant":[
         "Lucala de Catafo\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u06a9\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Lucala"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5362\u5361\u62c9\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u76e7\u5361\u62c9\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u76e7\u5361\u62c9"
@@ -89,7 +107,7 @@
         }
     ],
     "wof:id":1293387397,
-    "wof:lastmodified":1566586016,
+    "wof:lastmodified":1636502514,
     "wof:name":"Lucala",
     "wof:parent_id":1108799653,
     "wof:placetype":"locality",

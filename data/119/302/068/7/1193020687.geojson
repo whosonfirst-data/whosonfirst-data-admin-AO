@@ -47,6 +47,9 @@
     "name:frr_x_preferred":[
         "Cabinda"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d1\u05d9\u05e0\u05d3\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Cabinda"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1193020687,
-    "wof:lastmodified":1566586590,
+    "wof:lastmodified":1636502531,
     "wof:name":"Cabinda",
     "wof:parent_id":1108799607,
     "wof:placetype":"locality",

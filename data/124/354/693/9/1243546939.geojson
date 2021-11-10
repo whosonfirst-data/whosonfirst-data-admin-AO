@@ -35,6 +35,15 @@
     "name:deu_x_preferred":[
         "Ndele"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u062f\u0644"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d3\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Ndele"
+    ],
     "name:swe_x_preferred":[
         "Ndele"
     ],
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1243546939,
-    "wof:lastmodified":1566586997,
+    "wof:lastmodified":1636502548,
     "wof:name":"Ndele",
     "wof:parent_id":1108799863,
     "wof:placetype":"locality",

@@ -17,14 +17,23 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0645\u0627\u0628\u0627\u062a\u064a\u0644\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0627\u06a9\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09ae\u09be\u09ac\u09be\u09a4\u09c7\u09b2\u09be"
     ],
     "name:cat_x_preferred":[
         "Ambaca"
     ],
     "name:deu_x_preferred":[
         "Ambaca"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03b1\u03bc\u03c0\u03b1\u03c4\u03ad\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ambaca"
@@ -35,11 +44,26 @@
     "name:fra_x_preferred":[
         "Ambaca"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05de\u05d1\u05d8\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u092e\u093e\u092c\u091f\u0947\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Camabatela"
+    ],
+    "name:ind_x_preferred":[
+        "Camabatela"
+    ],
     "name:ita_x_preferred":[
         "Ambaca"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30d0\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ub9c8\ubc14\ud154\ub77c"
     ],
     "name:nld_x_preferred":[
         "Ambaca"
@@ -53,8 +77,23 @@
     "name:spa_x_preferred":[
         "Ambaca"
     ],
+    "name:swe_x_preferred":[
+        "Camabatela"
+    ],
+    "name:tur_x_preferred":[
+        "Camabatela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0431\u0430\u0442\u0435\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Kamabatela"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0645\u0627\u0628\u0627\u0679\u06cc\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Camabatela"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5df4\u5361"
@@ -198,7 +237,7 @@
         }
     ],
     "wof:id":421173957,
-    "wof:lastmodified":1566586983,
+    "wof:lastmodified":1636502546,
     "wof:name":"Camabatela",
     "wof:parent_id":1108799939,
     "wof:placetype":"locality",

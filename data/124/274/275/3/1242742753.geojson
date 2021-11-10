@@ -29,11 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09df\u09be\u09a8\u09be"
+    ],
     "name:cat_x_preferred":[
         "Viana"
     ],
     "name:deu_x_preferred":[
         "Viana"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03ac\u03bd\u03b1"
     ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0627\u0646\u0627"
@@ -41,8 +47,20 @@
     "name:fra_x_preferred":[
         "Viana"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05d0\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u092f\u093e\u0928\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Viana"
+    ],
     "name:ita_x_preferred":[
         "Viana"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc544\ub098"
     ],
     "name:msa_x_preferred":[
         "Viana"
@@ -58,6 +76,24 @@
     ],
     "name:spa_x_preferred":[
         "Viana"
+    ],
+    "name:tur_x_preferred":[
+        "Viana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u2019\u044f\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0627\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Viana"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7ef4\u4e9a\u7eb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7dad\u4e9e\u7d0d"
     ],
     "name:zho_x_preferred":[
         "\u7dad\u4e9e\u7d0d"
@@ -86,7 +122,7 @@
         }
     ],
     "wof:id":1242742753,
-    "wof:lastmodified":1566587018,
+    "wof:lastmodified":1636502549,
     "wof:name":"Viana",
     "wof:parent_id":1108799895,
     "wof:placetype":"locality",

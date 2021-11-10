@@ -85,6 +85,9 @@
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aac\u0abf\u0a82\u0aa1\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d1\u05d9\u05e0\u05d3\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0948\u092c\u093f\u0902\u0921\u093e"
     ],
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":890434603,
-    "wof:lastmodified":1566586988,
+    "wof:lastmodified":1636502547,
     "wof:name":"Cabinda",
     "wof:parent_id":85667683,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05dc\u05d5"
     ],
+    "name:hun_x_preferred":[
+        "Melo"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u056c\u0578"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1293806137,
-    "wof:lastmodified":1566586173,
+    "wof:lastmodified":1636502521,
     "wof:name":"Melo",
     "wof:parent_id":1108799857,
     "wof:placetype":"locality",

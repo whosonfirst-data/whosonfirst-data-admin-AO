@@ -64,9 +64,15 @@
         "Malanje"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05dc\u05d0\u05d8\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05dc\u05d0\u05e0\u05d6'\u05d4"
     ],
     "name:hrv_x_preferred":[
+        "Malanje"
+    ],
+    "name:hun_x_preferred":[
         "Malanje"
     ],
     "name:ind_x_preferred":[
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":1276649089,
-    "wof:lastmodified":1566586344,
+    "wof:lastmodified":1636502526,
     "wof:name":"Malanje",
     "wof:parent_id":1108799743,
     "wof:placetype":"locality",

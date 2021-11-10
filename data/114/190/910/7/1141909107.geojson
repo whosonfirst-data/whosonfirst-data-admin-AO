@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.9399889716,-12.3800337536,16.9399889716,-12.3800337536",
+    "geom:bbox":"16.939989,-12.380034,16.939989,-12.380034",
     "geom:latitude":-12.380034,
     "geom:longitude":16.939989,
     "gn:country":"AO",
@@ -87,10 +87,16 @@
     "name:hau_x_preferred":[
         "Kuito"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0941\u092f\u093f\u0924\u094b"
     ],
     "name:hrv_x_preferred":[
+        "Kuito"
+    ],
+    "name:hun_x_preferred":[
         "Kuito"
     ],
     "name:ind_x_preferred":[
@@ -311,7 +317,7 @@
     },
     "wof:country":"AO",
     "wof:created":1499131026,
-    "wof:geomhash":"331e8442b7b8c92aba0be0bd22415525",
+    "wof:geomhash":"9b3bd7ecc66860714fce752fc9017216",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -322,7 +328,7 @@
         }
     ],
     "wof:id":1141909107,
-    "wof:lastmodified":1566587518,
+    "wof:lastmodified":1636502564,
     "wof:name":"Kuito",
     "wof:parent_id":1108799603,
     "wof:placetype":"locality",
@@ -336,10 +342,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.93998897163499,
-    -12.38003375361387,
-    16.93998897163499,
-    -12.38003375361387
+    16.939989,
+    -12.380034,
+    16.939989,
+    -12.380034
 ],
-  "geometry": {"coordinates":[16.93998897163499,-12.38003375361387],"type":"Point"}
+  "geometry": {"coordinates":[16.939989,-12.380034],"type":"Point"}
 }

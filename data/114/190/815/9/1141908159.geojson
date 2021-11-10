@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.849987344,-7.34959145216,14.849987344,-7.34959145216",
+    "geom:bbox":"14.849987,-7.349591,14.849987,-7.349591",
     "geom:latitude":-7.349591,
     "geom:longitude":14.849987,
     "iso:country":"AO",
@@ -18,20 +18,86 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0646\u062c\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u0999\u09cd\u0997\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Songo"
     ],
     "name:deu_x_preferred":[
         "Songo"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03bd\u03b3\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Songo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0646\u06af\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Songo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e0\u05d2\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0902\u0917\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Songo"
+    ],
+    "name:ind_x_preferred":[
+        "Songo"
+    ],
+    "name:ita_x_preferred":[
+        "Songo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30f3\u30b4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc1a1\uace0"
+    ],
+    "name:nld_x_preferred":[
+        "Songo"
+    ],
+    "name:pol_x_preferred":[
         "Songo"
     ],
     "name:por_x_preferred":[
         "Songo"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043d\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Songo"
+    ],
     "name:swe_x_preferred":[
         "Songo"
+    ],
+    "name:tur_x_preferred":[
+        "Songo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043d\u0433\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u06af\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Songo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u677e\u6208"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6851\u679c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -139,7 +205,7 @@
     "wof:concordances":{},
     "wof:country":"AO",
     "wof:created":1499130833,
-    "wof:geomhash":"76911cf2c58523504201565ef392061d",
+    "wof:geomhash":"645f1babb0d72b5c21fdae73c0516f64",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +216,7 @@
         }
     ],
     "wof:id":1141908159,
-    "wof:lastmodified":1566587517,
+    "wof:lastmodified":1636502563,
     "wof:name":"Songo",
     "wof:parent_id":1108799683,
     "wof:placetype":"locality",
@@ -160,10 +226,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.84998734402234,
-    -7.34959145216141,
-    14.84998734402234,
-    -7.34959145216141
+    14.849987,
+    -7.349591,
+    14.849987,
+    -7.349591
 ],
-  "geometry": {"coordinates":[14.84998734402234,-7.34959145216141],"type":"Point"}
+  "geometry": {"coordinates":[14.849987,-7.349591],"type":"Point"}
 }

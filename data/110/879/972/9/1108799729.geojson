@@ -39,6 +39,12 @@
     "name:fra_x_preferred":[
         "Moxico"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d9\u05df-\u05e6'\u05d0\u05e8\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Moxico"
+    ],
     "name:swe_x_preferred":[
         "Moxico"
     ],
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1108799729,
-    "wof:lastmodified":1627521477,
+    "wof:lastmodified":1636502538,
     "wof:name":"Moxico",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

@@ -33,6 +33,12 @@
     "name:ceb_x_preferred":[
         "Moxico"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d9\u05df-\u05e6'\u05d0\u05e8\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Moxico"
+    ],
     "name:swe_x_preferred":[
         "Moxico"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1260266461,
-    "wof:lastmodified":1566586671,
+    "wof:lastmodified":1636502533,
     "wof:name":"Moxico",
     "wof:parent_id":1108799623,
     "wof:placetype":"locality",

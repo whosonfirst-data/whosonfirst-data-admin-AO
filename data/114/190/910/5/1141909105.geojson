@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.4300129788,-9.69001707066,14.4300129788,-9.69001707066",
+    "geom:bbox":"14.430013,-9.690017,14.430013,-9.690017",
     "geom:latitude":-9.690017,
     "geom:longitude":14.430013,
     "iso:country":"AO",
@@ -21,13 +21,46 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u062f\u0648\u0646\u062f\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09cb\u09a8\u09cd\u09a1\u09cb"
+    ],
     "name:deu_x_preferred":[
         "Dondo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Dondo"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u062f\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e0\u05d3\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u094b\u0902\u0921\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Dondo"
+    ],
+    "name:ind_x_preferred":[
+        "Dondo"
+    ],
+    "name:ita_x_preferred":[
+        "Dondo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30f3\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c8\ub3c4"
+    ],
     "name:msa_x_preferred":[
+        "Dondo"
+    ],
+    "name:nld_x_preferred":[
         "Dondo"
     ],
     "name:por_x_preferred":[
@@ -35,6 +68,33 @@
     ],
     "name:ron_x_preferred":[
         "Dondo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Dondo"
+    ],
+    "name:swe_x_preferred":[
+        "Dondo"
+    ],
+    "name:tur_x_preferred":[
+        "Dondo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0434\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0648\u0646\u0688\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Dondo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u680b\u591a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6771\u591a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -144,7 +204,7 @@
     },
     "wof:country":"AO",
     "wof:created":1499131026,
-    "wof:geomhash":"99838356b8bbd0750081cb9640e6d6a9",
+    "wof:geomhash":"953c31ce506f02c897fdd77eee32a5da",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -155,7 +215,7 @@
         }
     ],
     "wof:id":1141909105,
-    "wof:lastmodified":1566587518,
+    "wof:lastmodified":1636502565,
     "wof:name":"Dondo",
     "wof:parent_id":1108799789,
     "wof:placetype":"locality",
@@ -165,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.43001297878629,
-    -9.6900170706603,
-    14.43001297878629,
-    -9.6900170706603
+    14.430013,
+    -9.690017,
+    14.430013,
+    -9.690017
 ],
-  "geometry": {"coordinates":[14.43001297878629,-9.6900170706603],"type":"Point"}
+  "geometry": {"coordinates":[14.430013,-9.690017],"type":"Point"}
 }

@@ -166,6 +166,9 @@
         "Luanda"
     ],
     "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d0\u05e4\u05d5\u05dc\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05dc\u05d5\u05d0\u05e0\u05d3\u05d4"
     ],
     "name:hif_x_preferred":[
@@ -586,8 +589,8 @@
     "wof:belongsto":[
         102191573,
         85632281,
-        1108799745,
-        85667669
+        85667669,
+        1108799745
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -621,7 +624,7 @@
         }
     ],
     "wof:id":890432155,
-    "wof:lastmodified":1608688187,
+    "wof:lastmodified":1636502547,
     "wof:megacity":1,
     "wof:name":"Luanda",
     "wof:parent_id":1108799745,
