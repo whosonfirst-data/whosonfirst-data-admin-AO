@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Lumeje"
     ],
+    "name:ceb_x_preferred":[
+        "Lumeje"
+    ],
     "name:deu_x_preferred":[
         "Cameia"
     ],
@@ -32,11 +35,17 @@
     "name:ita_x_preferred":[
         "Lumeje"
     ],
+    "name:msa_x_preferred":[
+        "Lumeje Kameia"
+    ],
     "name:nld_x_preferred":[
         "Cameia"
     ],
     "name:por_x_preferred":[
         "Lumeje"
+    ],
+    "name:por_x_variant":[
+        "Cameia"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u043c\u0435\u0436\u0435"
@@ -44,11 +53,20 @@
     "name:spa_x_preferred":[
         "Cameia"
     ],
+    "name:swa_x_preferred":[
+        "Lumeje"
+    ],
+    "name:swe_x_preferred":[
+        "Lumeje"
+    ],
     "name:und_x_variant":[
         "Lumege"
     ],
     "name:zho_x_preferred":[
         "\u76e7\u6885\u71b1"
+    ],
+    "name:zul_x_preferred":[
+        "Lumeje"
     ],
     "qs:gn_country":"AO",
     "qs:gn_fcode":"PPL",
@@ -97,7 +115,7 @@
         }
     ],
     "wof:id":421197375,
-    "wof:lastmodified":1566586985,
+    "wof:lastmodified":1690850285,
     "wof:name":"Lumeje",
     "wof:parent_id":1108799791,
     "wof:placetype":"locality",

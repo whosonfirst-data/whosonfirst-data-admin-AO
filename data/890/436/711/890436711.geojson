@@ -43,7 +43,13 @@
     "name:ron_x_preferred":[
         "Chissamba"
     ],
+    "name:swa_x_preferred":[
+        "Chissamba"
+    ],
     "name:swe_x_preferred":[
+        "Chissamba"
+    ],
+    "name:zul_x_preferred":[
         "Chissamba"
     ],
     "qs:name":"Chissamba",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890436711,
-    "wof:lastmodified":1566586986,
+    "wof:lastmodified":1690850286,
     "wof:name":"Chissamba",
     "wof:parent_id":1108799633,
     "wof:placetype":"locality",

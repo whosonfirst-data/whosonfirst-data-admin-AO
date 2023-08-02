@@ -39,6 +39,9 @@
     "name:ast_x_preferred":[
         "Lunda Sul"
     ],
+    "name:avk_x_preferred":[
+        "AngolaLundaSulWinka"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430\u044f \u041b\u0443\u043d\u0434\u0430"
     ],
@@ -60,6 +63,9 @@
     "name:ceb_x_preferred":[
         "Lunda Sul"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Lunda Sul"
+    ],
     "name:dan_x_preferred":[
         "Lunda Sul"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Lunda Sul"
+    ],
+    "name:est_x_preferred":[
+        "L\u00f5una-Lunda provints"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0644\u0648\u0646\u062f\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
@@ -118,8 +127,14 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7\u10d8 \u10da\u10e3\u10dc\u10d3\u10d0"
     ],
+    "name:kon_x_preferred":[
+        "Lunda Sudi"
+    ],
     "name:kor_x_preferred":[
         "\ub8ec\ub2e4\uc220 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub8ec\ub2e4\uc220\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Dienvidlundas province"
@@ -144,6 +159,9 @@
     ],
     "name:nob_x_preferred":[
         "Lunda Sul"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0644\u0648\u0646\u062f\u0627 \u062c\u0646\u0648\u0628\u06cc \u0635\u0648\u0628\u06c1"
     ],
     "name:pol_x_preferred":[
         "Prowincja Lunda Po\u0142udniowa"
@@ -216,6 +234,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5357\u502b\u9054\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Lunda Sul Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AGO",
@@ -340,7 +361,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636502512,
+    "wof:lastmodified":1690850236,
     "wof:name":"Lunda Sul",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

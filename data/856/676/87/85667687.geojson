@@ -39,6 +39,9 @@
     "name:ast_x_preferred":[
         "Bi\u00e9"
     ],
+    "name:avk_x_preferred":[
+        "AngolaBi\u00e9Winka"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0411\u0456\u0435"
     ],
@@ -63,6 +66,9 @@
     "name:ces_x_preferred":[
         "Bi\u00e9"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Bi\u00e9"
+    ],
     "name:dan_x_preferred":[
         "Bi\u00e9"
     ],
@@ -82,6 +88,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Bi\u00e9"
+    ],
+    "name:est_x_preferred":[
+        "Bi\u00e9 provints"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u06cc\u0647"
@@ -119,8 +128,14 @@
     "name:kat_x_preferred":[
         "\u10d1\u10d8\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
+    "name:kon_x_preferred":[
+        "Biye"
+    ],
     "name:kor_x_preferred":[
         "\ube44\uc5d0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ube44\uc5d0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Bi\u0113 province"
@@ -145,6 +160,9 @@
     ],
     "name:nob_x_preferred":[
         "Bi\u00e9"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0626\u06d2 \u0635\u0648\u0628\u06c1"
     ],
     "name:pol_x_preferred":[
         "Prowincja Bi\u00e9"
@@ -220,6 +238,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u8036\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Bi\u00e9 Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AGO",
@@ -344,7 +365,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1614808212,
+    "wof:lastmodified":1690850237,
     "wof:name":"Bi\u00e9",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

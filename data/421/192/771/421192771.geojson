@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0645\u0628\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0645\u0628\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Sumbe"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0648\u0645\u0628\u0647"
     ],
@@ -50,6 +56,9 @@
     "name:eng_x_preferred":[
         "Sumbe"
     ],
+    "name:epo_x_preferred":[
+        "Sumbe"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0645\u0628\u0647\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
@@ -63,6 +72,9 @@
         "Sumbe"
     ],
     "name:frr_x_preferred":[
+        "Sumbe"
+    ],
+    "name:glg_x_preferred":[
         "Sumbe"
     ],
     "name:guj_x_preferred":[
@@ -119,6 +131,9 @@
     "name:nor_x_preferred":[
         "Sumbe"
     ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0648\u0645\u0628\u06d2"
+    ],
     "name:pol_x_preferred":[
         "Sumbe"
     ],
@@ -135,6 +150,9 @@
         "\u0dc3\u0dd4\u0db8\u0dca\u0db6\u0dda"
     ],
     "name:spa_x_preferred":[
+        "Sumbe"
+    ],
+    "name:swa_x_preferred":[
         "Sumbe"
     ],
     "name:swe_x_preferred":[
@@ -172,6 +190,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b6b\u8c9d"
+    ],
+    "name:zul_x_preferred":[
+        "Sumbe"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -315,7 +336,7 @@
         }
     ],
     "wof:id":421192771,
-    "wof:lastmodified":1636502545,
+    "wof:lastmodified":1690850281,
     "wof:name":"Sumbe",
     "wof:parent_id":1108799795,
     "wof:placetype":"locality",

@@ -66,6 +66,9 @@
     "name:nld_x_preferred":[
         "Mucusso"
     ],
+    "name:pol_x_preferred":[
+        "Mucusso"
+    ],
     "name:por_x_preferred":[
         "Mucusso"
     ],
@@ -73,6 +76,9 @@
         "\u041c\u0443\u043a\u0443\u0441\u0441\u043e"
     ],
     "name:spa_x_preferred":[
+        "Mucusso"
+    ],
+    "name:swa_x_preferred":[
         "Mucusso"
     ],
     "name:swe_x_preferred":[
@@ -92,6 +98,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7a46\u5eab\u7d22"
+    ],
+    "name:zul_x_preferred":[
+        "Mucusso"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -212,7 +221,7 @@
         }
     ],
     "wof:id":1141907489,
-    "wof:lastmodified":1636502563,
+    "wof:lastmodified":1690850292,
     "wof:name":"Mucusso",
     "wof:parent_id":1108799741,
     "wof:placetype":"locality",

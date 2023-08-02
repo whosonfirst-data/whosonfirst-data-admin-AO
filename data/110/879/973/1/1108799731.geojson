@@ -60,6 +60,9 @@
     "name:eng_x_variant":[
         "N'zeto"
     ],
+    "name:eus_x_preferred":[
+        "Nzeto"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0632\u062a\u0648\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
@@ -93,8 +96,14 @@
     "name:kor_x_preferred":[
         "\uc740\uc81c\ud1a0"
     ],
+    "name:msa_x_preferred":[
+        "Nzeto"
+    ],
     "name:nld_x_preferred":[
         "N'zeto"
+    ],
+    "name:nob_x_preferred":[
+        "N\u2019zeto"
     ],
     "name:pol_x_preferred":[
         "N'zeto"
@@ -110,6 +119,9 @@
     ],
     "name:spa_x_preferred":[
         "N'Zeto"
+    ],
+    "name:swa_x_preferred":[
+        "N'zeto"
     ],
     "name:swe_x_preferred":[
         "Nzeto"
@@ -128,6 +140,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u6fa4\u6258"
+    ],
+    "name:zul_x_preferred":[
+        "N'zeto"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -163,7 +178,7 @@
         }
     ],
     "wof:id":1108799731,
-    "wof:lastmodified":1636502537,
+    "wof:lastmodified":1690850270,
     "wof:name":"Nzeto",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

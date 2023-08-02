@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "\u010cern\u00e9 kameny"
+    ],
     "name:eng_x_preferred":[
         "Pungo Andongo"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421196125,
-    "wof:lastmodified":1566586985,
+    "wof:lastmodified":1690850285,
     "wof:name":"Pungo Andongo",
     "wof:parent_id":1108799645,
     "wof:placetype":"locality",

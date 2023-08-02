@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0632\u0627\u0626\u064a\u0631"
     ],
+    "name:avk_x_preferred":[
+        "AngolaZaireWinka"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0417\u0430\u0456\u0440\u044d"
     ],
@@ -57,6 +60,9 @@
     "name:ceb_x_preferred":[
         "Zaire"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Zaire"
+    ],
     "name:dan_x_preferred":[
         "Zaire"
     ],
@@ -74,6 +80,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Zaire"
+    ],
+    "name:est_x_preferred":[
+        "Zaire provints"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0632\u0626\u06cc\u0631"
@@ -123,6 +132,9 @@
     "name:kor_x_preferred":[
         "\uc790\uc774\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc790\uc774\ub974\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Zaires province"
     ],
@@ -146,6 +158,9 @@
     ],
     "name:nob_x_preferred":[
         "Zaire"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0632\u0627\u0626\u06cc\u0631 \u0635\u0648\u0628\u06c1"
     ],
     "name:pol_x_preferred":[
         "Prowincja Zair"
@@ -179,6 +194,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0baf\u0bcd\u0baf\u0bb0\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0baf\u0bcd\u0baf\u0bb0\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c48\u0c30\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -215,6 +233,9 @@
     ],
     "name:zho_x_preferred":[
         "\u85a9\u4f0a\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Zaire Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AGO",
@@ -340,7 +361,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636502513,
+    "wof:lastmodified":1690850239,
     "wof:name":"Zaire",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

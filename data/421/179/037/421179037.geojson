@@ -23,10 +23,19 @@
     "name:cat_x_preferred":[
         "Caluquembe"
     ],
+    "name:ceb_x_preferred":[
+        "Munic\u00edpio Caluquembe"
+    ],
     "name:deu_x_preferred":[
         "Caluquembe"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bf\u03c5\u03ba\u03ad\u03bc\u03c0\u03b5"
+    ],
     "name:eng_x_preferred":[
+        "Caluquembe"
+    ],
+    "name:epo_x_preferred":[
         "Caluquembe"
     ],
     "name:fas_x_preferred":[
@@ -41,10 +50,16 @@
     "name:ita_x_preferred":[
         "Caluquembe"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30b1\u30f3\u30d9"
+    ],
     "name:msa_x_preferred":[
         "Kalukembe"
     ],
     "name:nld_x_preferred":[
+        "Caluquembe"
+    ],
+    "name:nob_x_preferred":[
         "Caluquembe"
     ],
     "name:pol_x_preferred":[
@@ -62,8 +77,17 @@
     "name:spa_x_preferred":[
         "Caluquembe"
     ],
+    "name:swa_x_preferred":[
+        "Caluquembe"
+    ],
+    "name:swe_x_preferred":[
+        "Munic\u00edpio Caluquembe"
+    ],
     "name:zho_x_preferred":[
         "\u5361\u76e7\u80af\u8c9d"
+    ],
+    "name:zul_x_preferred":[
+        "Caluquembe"
     ],
     "qs:gn_country":"AO",
     "qs:gn_fcode":"PPL",
@@ -113,7 +137,7 @@
         }
     ],
     "wof:id":421179037,
-    "wof:lastmodified":1566586985,
+    "wof:lastmodified":1690850285,
     "wof:name":"Caluquembe",
     "wof:parent_id":1108799807,
     "wof:placetype":"locality",

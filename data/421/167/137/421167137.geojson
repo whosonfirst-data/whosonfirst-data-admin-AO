@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "L\u00e9ua"
     ],
+    "name:ceb_x_preferred":[
+        "Munic\u00edpio L\u00e9ua"
+    ],
     "name:deu_x_preferred":[
         "L\u00e9ua"
     ],
@@ -38,17 +41,29 @@
     "name:nld_x_preferred":[
         "L\u00e9ua"
     ],
+    "name:pol_x_preferred":[
+        "L\u00e9ua"
+    ],
     "name:por_x_preferred":[
         "L\u00e9ua"
     ],
     "name:spa_x_preferred":[
         "L\u00e9ua"
     ],
+    "name:swa_x_preferred":[
+        "Le\u00faa"
+    ],
+    "name:swe_x_preferred":[
+        "Munic\u00edpio L\u00e9ua"
+    ],
     "name:und_x_variant":[
         "Sandando"
     ],
     "name:zho_x_preferred":[
         "\u840a\u74e6"
+    ],
+    "name:zul_x_preferred":[
+        "L\u00e9ua"
     ],
     "qs:gn_country":"AO",
     "qs:gn_fcode":"PPL",
@@ -96,7 +111,7 @@
         }
     ],
     "wof:id":421167137,
-    "wof:lastmodified":1566586982,
+    "wof:lastmodified":1690850282,
     "wof:name":"Le\u00faa",
     "wof:parent_id":1108799915,
     "wof:placetype":"locality",

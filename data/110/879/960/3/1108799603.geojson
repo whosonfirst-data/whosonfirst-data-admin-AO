@@ -162,10 +162,16 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u043b\u0432\u0430-\u041f\u043e\u0440\u0442\u0443"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0432\u0438\u0442\u043e"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd4\u0dba\u0dd2\u0da7\u0ddd"
     ],
     "name:spa_x_preferred":[
+        "Kuito"
+    ],
+    "name:swa_x_preferred":[
         "Kuito"
     ],
     "name:swe_x_preferred":[
@@ -201,6 +207,9 @@
     "name:zho_x_preferred":[
         "\u594e\u6258"
     ],
+    "name:zul_x_preferred":[
+        "Cu\u00edto"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -235,7 +244,7 @@
         }
     ],
     "wof:id":1108799603,
-    "wof:lastmodified":1636502536,
+    "wof:lastmodified":1690850267,
     "wof:name":"Kuito",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

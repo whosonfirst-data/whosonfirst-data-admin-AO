@@ -33,6 +33,9 @@
     "name:ceb_x_preferred":[
         "Munic\u00edpio Lobito"
     ],
+    "name:cym_x_preferred":[
+        "Lobito"
+    ],
     "name:eng_x_preferred":[
         "Lobito"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108799747,
-    "wof:lastmodified":1636502537,
+    "wof:lastmodified":1690850271,
     "wof:name":"Lobito",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

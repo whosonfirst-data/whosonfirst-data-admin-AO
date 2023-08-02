@@ -37,7 +37,16 @@
     "name:deu_x_preferred":[
         "Soyo"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03b3\u03b9\u03bf"
+    ],
     "name:eng_x_preferred":[
+        "Soyo"
+    ],
+    "name:epo_x_preferred":[
+        "Soyo"
+    ],
+    "name:eus_x_preferred":[
         "Soyo"
     ],
     "name:fas_x_preferred":[
@@ -100,6 +109,9 @@
     "name:spa_x_preferred":[
         "Soyo"
     ],
+    "name:swa_x_preferred":[
+        "Soyo"
+    ],
     "name:swe_x_preferred":[
         "Soio"
     ],
@@ -108,6 +120,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7d22\u7d04"
+    ],
+    "name:zul_x_preferred":[
+        "Soyo"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -232,7 +247,7 @@
         }
     ],
     "wof:id":890440279,
-    "wof:lastmodified":1566586986,
+    "wof:lastmodified":1690850286,
     "wof:name":"Soio",
     "wof:parent_id":1108799751,
     "wof:placetype":"locality",

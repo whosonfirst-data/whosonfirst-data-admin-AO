@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0648\u0643\u0633\u064a\u0643\u0648"
     ],
+    "name:avk_x_preferred":[
+        "AngolaMoxicoWinka"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041c\u043e\u0448\u044b\u043a\u0430"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:ces_x_preferred":[
         "Moxico"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Moxico"
     ],
     "name:dan_x_preferred":[
         "Moxico"
@@ -120,8 +126,14 @@
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10e8\u10d8\u10d9\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
+    "name:kon_x_preferred":[
+        "Musiku"
+    ],
     "name:kor_x_preferred":[
         "\ubaa8\uc2dc\ucfe0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubaa8\uc2dc\ucfe0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Mo\u0161iko province"
@@ -146,6 +158,9 @@
     ],
     "name:nob_x_preferred":[
         "Moxico"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0648\u0634\u06cc\u06a9\u0648 \u0635\u0648\u0628\u06c1"
     ],
     "name:pol_x_preferred":[
         "Prowincja Moxico"
@@ -221,6 +236,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u5e0c\u79d1\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Moxico Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AGO",
@@ -345,7 +363,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636502514,
+    "wof:lastmodified":1690850239,
     "wof:name":"Moxico",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

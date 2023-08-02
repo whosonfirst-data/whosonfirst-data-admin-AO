@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Munic\u00edpio Namibe"
+    ],
     "name:eng_x_preferred":[
         "Namibe"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:por_x_preferred":[
         "Namibe"
+    ],
+    "name:swe_x_preferred":[
+        "Munic\u00edpio Namibe"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108799953,
-    "wof:lastmodified":1636502536,
+    "wof:lastmodified":1690850261,
     "wof:name":"Namibe",
     "wof:parent_id":85667717,
     "wof:placetype":"county",
