@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "U\u00edge"
     ],
+    "name:epo_x_preferred":[
+        "U\u00edge"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u06cc\u06cc\u06af\u0647\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
@@ -86,6 +89,9 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30a4\u30b2"
     ],
+    "name:jpn_x_variant":[
+        "\u30a6\u30a4\u30b8\u30a7"
+    ],
     "name:kan_x_preferred":[
         "\u0caf\u0cc1\u0c9c\u0cbf"
     ],
@@ -116,6 +122,9 @@
     "name:nob_x_preferred":[
         "U\u00edge"
     ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0648\u0626\u06af\u06d2"
+    ],
     "name:pol_x_preferred":[
         "U\u00edge"
     ],
@@ -132,6 +141,9 @@
         "\u0d8b\u0dba\u0dd2\u0d9c\u0dda"
     ],
     "name:spa_x_preferred":[
+        "U\u00edge"
+    ],
+    "name:swa_x_preferred":[
         "U\u00edge"
     ],
     "name:swe_x_preferred":[
@@ -169,6 +181,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5a01\u71b1"
+    ],
+    "name:zul_x_preferred":[
+        "U\u00edge"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -310,7 +325,7 @@
         }
     ],
     "wof:id":421178183,
-    "wof:lastmodified":1566586985,
+    "wof:lastmodified":1690850285,
     "wof:name":"U\u00edge",
     "wof:parent_id":1108799643,
     "wof:placetype":"locality",

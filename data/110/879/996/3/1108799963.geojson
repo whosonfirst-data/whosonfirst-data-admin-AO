@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Mavinga"
     ],
+    "name:ceb_x_preferred":[
+        "Munic\u00edpio Mavinga"
+    ],
     "name:deu_x_preferred":[
         "Mavinga"
     ],
@@ -96,6 +99,12 @@
     "name:spa_x_preferred":[
         "Mavinga"
     ],
+    "name:swa_x_preferred":[
+        "Mavinga"
+    ],
+    "name:swe_x_preferred":[
+        "Munic\u00edpio Mavinga"
+    ],
     "name:tur_x_preferred":[
         "Mavinga"
     ],
@@ -110,6 +119,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u6eab\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "Mavinga"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -145,7 +157,7 @@
         }
     ],
     "wof:id":1108799963,
-    "wof:lastmodified":1636502534,
+    "wof:lastmodified":1690850247,
     "wof:name":"Mavinga",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

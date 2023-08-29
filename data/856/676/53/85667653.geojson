@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0644\u0627\u0646\u062c\u064a"
     ],
+    "name:avk_x_preferred":[
+        "AngolaMalanjeWinka"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041c\u0430\u043b\u0430\u043d\u0436\u044d"
     ],
@@ -54,6 +57,9 @@
     "name:ceb_x_preferred":[
         "Malanje Province"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Malanje"
+    ],
     "name:dan_x_preferred":[
         "Malanje"
     ],
@@ -63,6 +69,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bb\u03b1\u03bd\u03c4\u03b6\u03ad"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bb\u03ac\u03bd\u03b6\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Malanje"
     ],
@@ -71,6 +80,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Malanje"
+    ],
+    "name:est_x_preferred":[
+        "Malanje provints"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u0644\u0627\u0646\u0698\u0647"
@@ -114,6 +126,9 @@
     "name:kor_x_preferred":[
         "\ub9d0\ub780\uc988 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9d0\ub780\uc988\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Malan\u017ees province"
     ],
@@ -137,6 +152,9 @@
     ],
     "name:nob_x_preferred":[
         "Malanje"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0627\u0644\u0627\u0646\u062c\u06d2 \u0635\u0648\u0628\u06c1"
     ],
     "name:pol_x_preferred":[
         "Prowincja Malanje"
@@ -204,6 +222,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u862d\u54f2\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Malanje Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AGO",
@@ -326,7 +347,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636502513,
+    "wof:lastmodified":1690850238,
     "wof:name":"Malanje",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

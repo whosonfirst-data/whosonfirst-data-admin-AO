@@ -45,6 +45,9 @@
     "name:ceb_x_preferred":[
         "Munic\u00edpio Cuangar"
     ],
+    "name:cym_x_preferred":[
+        "Cuangar"
+    ],
     "name:deu_x_preferred":[
         "Cuangar"
     ],
@@ -90,6 +93,9 @@
     "name:nld_x_preferred":[
         "Cuangar"
     ],
+    "name:pol_x_preferred":[
+        "Cuangar"
+    ],
     "name:por_x_preferred":[
         "Cuangar"
     ],
@@ -97,6 +103,9 @@
         "\u041a\u0443\u0430\u043d\u0433\u0430\u0440"
     ],
     "name:spa_x_preferred":[
+        "Cuangar"
+    ],
+    "name:swa_x_preferred":[
         "Cuangar"
     ],
     "name:swe_x_preferred":[
@@ -116,6 +125,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5bec\u52a0\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Cuangar"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -151,7 +163,7 @@
         }
     ],
     "wof:id":1108799821,
-    "wof:lastmodified":1636502535,
+    "wof:lastmodified":1690850258,
     "wof:name":"Cuangar",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

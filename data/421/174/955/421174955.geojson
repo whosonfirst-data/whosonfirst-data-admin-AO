@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Catumbela"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c4\u03bf\u03c5\u03bc\u03c0\u03ad\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Catumbela"
     ],
@@ -62,6 +65,12 @@
     "name:nld_x_preferred":[
         "Catumbela"
     ],
+    "name:nob_x_preferred":[
+        "Catumbela"
+    ],
+    "name:pol_x_preferred":[
+        "Catumbela"
+    ],
     "name:por_x_preferred":[
         "Catumbela"
     ],
@@ -69,6 +78,9 @@
         "\u041a\u0430\u0442\u0443\u043c\u0431\u0435\u043b\u0430"
     ],
     "name:spa_x_preferred":[
+        "Catumbela"
+    ],
+    "name:swa_x_preferred":[
         "Catumbela"
     ],
     "name:swe_x_preferred":[
@@ -82,6 +94,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u901a\u5e03\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Catumbela"
     ],
     "qs:gn_country":"AO",
     "qs:gn_fcode":"PPL",
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":421174955,
-    "wof:lastmodified":1566586983,
+    "wof:lastmodified":1690850283,
     "wof:name":"Catumbela",
     "wof:parent_id":1108799747,
     "wof:placetype":"locality",

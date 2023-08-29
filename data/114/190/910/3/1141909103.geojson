@@ -45,6 +45,9 @@
     "name:hun_x_preferred":[
         "Ambriz"
     ],
+    "name:ile_x_preferred":[
+        "Ambriz"
+    ],
     "name:ind_x_preferred":[
         "Ambriz"
     ],
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":1141909103,
-    "wof:lastmodified":1636502565,
+    "wof:lastmodified":1690850294,
     "wof:name":"Ambriz",
     "wof:parent_id":1108799933,
     "wof:placetype":"locality",

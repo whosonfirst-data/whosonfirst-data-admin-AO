@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0648\u064a\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Luena"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0648\u0646\u0627"
     ],
@@ -122,11 +125,17 @@
     "name:nob_x_preferred":[
         "Luena"
     ],
+    "name:pnb_x_preferred":[
+        "\u0644\u0648\u0626\u0646\u0627"
+    ],
     "name:pol_x_preferred":[
         "Luena"
     ],
     "name:por_x_preferred":[
         "Luena"
+    ],
+    "name:pus_x_preferred":[
+        "\u0644\u0648\u0646\u0627"
     ],
     "name:ron_x_preferred":[
         "Luena"
@@ -145,6 +154,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0443\u0435\u043d\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Luena"
     ],
     "name:swe_x_preferred":[
         "Luena"
@@ -184,6 +196,9 @@
     ],
     "name:zho_x_preferred":[
         "\u76e7\u57c3\u7d0d"
+    ],
+    "name:zul_x_preferred":[
+        "Luena"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -324,7 +339,7 @@
         }
     ],
     "wof:id":421176109,
-    "wof:lastmodified":1566586986,
+    "wof:lastmodified":1690850286,
     "wof:name":"Luena",
     "wof:parent_id":1108799729,
     "wof:placetype":"locality",

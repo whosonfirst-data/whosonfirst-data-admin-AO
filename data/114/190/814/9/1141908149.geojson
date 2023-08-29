@@ -120,6 +120,9 @@
     "name:nob_x_preferred":[
         "Lucapa"
     ],
+    "name:pnb_x_preferred":[
+        "\u0644\u0648\u06a9\u0627\u067e\u0627"
+    ],
     "name:pol_x_preferred":[
         "Lucapa"
     ],
@@ -136,6 +139,9 @@
         "\u0dbd\u0dd4\u0d9a\u0db4\u0dcf"
     ],
     "name:spa_x_preferred":[
+        "Lucapa"
+    ],
+    "name:swa_x_preferred":[
         "Lucapa"
     ],
     "name:swe_x_preferred":[
@@ -167,6 +173,9 @@
     ],
     "name:zho_x_preferred":[
         "\u76e7\u5361\u5e15"
+    ],
+    "name:zul_x_preferred":[
+        "Lucapa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -301,7 +310,7 @@
         }
     ],
     "wof:id":1141908149,
-    "wof:lastmodified":1636502564,
+    "wof:lastmodified":1690850293,
     "wof:name":"Lucapa",
     "wof:parent_id":1108799695,
     "wof:placetype":"locality",

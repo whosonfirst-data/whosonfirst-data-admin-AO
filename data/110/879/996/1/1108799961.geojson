@@ -135,6 +135,9 @@
     "name:nob_x_preferred":[
         "Menongue"
     ],
+    "name:pnb_x_preferred":[
+        "\u0645\u06cc\u0646\u0648\u0646\u06af\u0648"
+    ],
     "name:pol_x_preferred":[
         "Menongue"
     ],
@@ -147,10 +150,16 @@
     "name:rus_x_preferred":[
         "\u041c\u0435\u043d\u043e\u043d\u0433\u0432\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0435\u043d\u043e\u043d\u0433\u0435"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd9\u0db1\u0ddc\u0db1\u0dca\u0d9c\u0dd2\u0dba\u0dd4"
     ],
     "name:spa_x_preferred":[
+        "Menongue"
+    ],
+    "name:swa_x_preferred":[
         "Menongue"
     ],
     "name:swe_x_preferred":[
@@ -186,6 +195,9 @@
     "name:zho_x_preferred":[
         "\u6885\u8fb2\u84cb"
     ],
+    "name:zul_x_preferred":[
+        "Menongue"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -220,7 +232,7 @@
         }
     ],
     "wof:id":1108799961,
-    "wof:lastmodified":1636502534,
+    "wof:lastmodified":1690850246,
     "wof:name":"Menongue",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

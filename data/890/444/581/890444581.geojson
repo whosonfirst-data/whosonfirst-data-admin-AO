@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u063a\u064a\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0646\u062c\u064a\u0644\u0627"
+    ],
     "name:ast_x_preferred":[
         "Benguela"
     ],
@@ -61,6 +64,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b5\u03bd\u03b3\u03ba\u03bf\u03c5\u03ad\u03bb\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03b5\u03bd\u03b3\u03ba\u03ad\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Benguela"
     ],
@@ -80,6 +86,9 @@
         "Benguela"
     ],
     "name:frr_x_preferred":[
+        "Benguela"
+    ],
+    "name:gle_x_preferred":[
         "Benguela"
     ],
     "name:glg_x_preferred":[
@@ -107,6 +116,9 @@
         "\u0532\u0565\u0576\u0563\u0565\u056c\u0561"
     ],
     "name:ido_x_preferred":[
+        "Benguela"
+    ],
+    "name:ile_x_preferred":[
         "Benguela"
     ],
     "name:ind_x_preferred":[
@@ -160,6 +172,9 @@
     "name:nob_x_preferred":[
         "Benguela"
     ],
+    "name:pnb_x_preferred":[
+        "\u0628\u06cc\u0646\u06af\u0648\u0626\u0644\u0627"
+    ],
     "name:pol_x_preferred":[
         "Benguela"
     ],
@@ -178,7 +193,13 @@
     "name:spa_x_preferred":[
         "Benguela"
     ],
+    "name:swa_x_preferred":[
+        "Benguela"
+    ],
     "name:swe_x_preferred":[
+        "Benguela"
+    ],
+    "name:szl_x_preferred":[
         "Benguela"
     ],
     "name:tam_x_preferred":[
@@ -208,14 +229,26 @@
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0646\u06af\u0648\u0626\u0644\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Benguela"
+    ],
     "name:vie_x_preferred":[
         "Benguela"
     ],
     "name:war_x_preferred":[
         "Benguela"
     ],
+    "name:wuu_x_preferred":[
+        "\u672c\u683c\u62c9"
+    ],
     "name:zho_x_preferred":[
         "\u672c\u5409\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "\u672c\u683c\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Benguela"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -351,7 +384,7 @@
         }
     ],
     "wof:id":890444581,
-    "wof:lastmodified":1636502547,
+    "wof:lastmodified":1690850287,
     "wof:name":"Benguela",
     "wof:parent_id":1108799959,
     "wof:placetype":"locality",

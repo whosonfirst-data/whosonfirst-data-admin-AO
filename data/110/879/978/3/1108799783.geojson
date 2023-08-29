@@ -42,6 +42,9 @@
     "name:ceb_x_preferred":[
         "Munic\u00edpio Cahama"
     ],
+    "name:dag_x_preferred":[
+        "Cahama"
+    ],
     "name:deu_x_preferred":[
         "Cahama"
     ],
@@ -66,10 +69,16 @@
     "name:nld_x_preferred":[
         "Cahama"
     ],
+    "name:pol_x_preferred":[
+        "Cahama"
+    ],
     "name:por_x_preferred":[
         "Cahama"
     ],
     "name:spa_x_preferred":[
+        "Cahama"
+    ],
+    "name:swa_x_preferred":[
         "Cahama"
     ],
     "name:swe_x_preferred":[
@@ -89,6 +98,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u54c8\u99ac"
+    ],
+    "name:zul_x_preferred":[
+        "Cahama"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":1108799783,
-    "wof:lastmodified":1636502535,
+    "wof:lastmodified":1690850256,
     "wof:name":"Kahama",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

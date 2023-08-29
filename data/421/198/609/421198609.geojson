@@ -125,6 +125,9 @@
     "name:nor_x_preferred":[
         "Menongue"
     ],
+    "name:pnb_x_preferred":[
+        "\u0645\u06cc\u0646\u0648\u0646\u06af\u0648"
+    ],
     "name:pol_x_preferred":[
         "Menongue"
     ],
@@ -144,6 +147,9 @@
         "\u0db8\u0dd9\u0db1\u0ddc\u0db1\u0dca\u0d9c\u0dd2\u0dba\u0dd4"
     ],
     "name:spa_x_preferred":[
+        "Menongue"
+    ],
+    "name:swa_x_preferred":[
         "Menongue"
     ],
     "name:swe_x_preferred":[
@@ -184,6 +190,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6885\u8fb2\u84cb"
+    ],
+    "name:zul_x_preferred":[
+        "Menongue"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Angola",
@@ -325,7 +334,7 @@
         }
     ],
     "wof:id":421198609,
-    "wof:lastmodified":1636502546,
+    "wof:lastmodified":1690850284,
     "wof:name":"Menongue",
     "wof:parent_id":1108799961,
     "wof:placetype":"locality",

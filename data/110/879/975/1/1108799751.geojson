@@ -51,7 +51,16 @@
     "name:deu_x_preferred":[
         "Soyo"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03b3\u03b9\u03bf"
+    ],
     "name:eng_x_preferred":[
+        "Soyo"
+    ],
+    "name:epo_x_preferred":[
+        "Soyo"
+    ],
+    "name:eus_x_preferred":[
         "Soyo"
     ],
     "name:fas_x_preferred":[
@@ -120,6 +129,9 @@
     "name:spa_x_preferred":[
         "Soyo"
     ],
+    "name:swa_x_preferred":[
+        "Soyo"
+    ],
     "name:swe_x_preferred":[
         "Soio"
     ],
@@ -137,6 +149,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7d22\u7d04"
+    ],
+    "name:zul_x_preferred":[
+        "Soyo"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -172,7 +187,7 @@
         }
     ],
     "wof:id":1108799751,
-    "wof:lastmodified":1636502537,
+    "wof:lastmodified":1690850276,
     "wof:name":"Soyo",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

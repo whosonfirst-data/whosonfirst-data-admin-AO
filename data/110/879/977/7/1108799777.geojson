@@ -36,6 +36,15 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u064a\u0646\u062f\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0628\u064a\u0646\u062f\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Cabinda"
+    ],
+    "name:avk_x_preferred":[
+        "Cabinda"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0628\u06cc\u0646\u062f\u0627"
     ],
@@ -72,6 +81,9 @@
     "name:est_x_preferred":[
         "Cabinda"
     ],
+    "name:eus_x_preferred":[
+        "Kabinda"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0628\u06cc\u0646\u062f\u0627\u060c \u0622\u0646\u06af\u0648\u0644\u0627"
     ],
@@ -85,6 +97,9 @@
         "Cabinda"
     ],
     "name:frr_x_preferred":[
+        "Cabinda"
+    ],
+    "name:gle_x_preferred":[
         "Cabinda"
     ],
     "name:guj_x_preferred":[
@@ -180,6 +195,9 @@
     "name:swe_x_preferred":[
         "Cabinda"
     ],
+    "name:swe_x_variant":[
+        "Kabinda"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc7\u0baa\u0bbf\u0ba9\u0bcd\u0b9f\u0bbe"
     ],
@@ -192,6 +210,9 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e1a\u0e34\u0e19\u0e14\u0e49\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e32\u0e1a\u0e34\u0e07\u0e14\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Cabinda"
     ],
@@ -201,6 +222,9 @@
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0628\u06cc\u0646\u062f\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Cabinda"
+    ],
     "name:vie_x_preferred":[
         "Cabinda"
     ],
@@ -209,6 +233,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u5bbe\u8fbe\u5e02"
+    ],
+    "name:zul_x_preferred":[
+        "Cabinda"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -244,7 +271,7 @@
         }
     ],
     "wof:id":1108799777,
-    "wof:lastmodified":1636502534,
+    "wof:lastmodified":1690850250,
     "wof:name":"Cabinda",
     "wof:parent_id":85667683,
     "wof:placetype":"county",
