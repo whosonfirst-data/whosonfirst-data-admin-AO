@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.61033,
-    "geom:area_square_m":79042225390.051331,
+    "geom:area_square_m":79042224524.299713,
     "geom:bbox":"13.214118,-16.367877,16.748154,-13.331437",
     "geom:latitude":-14.740687,
     "geom:longitude":14.95353,
@@ -336,17 +336,19 @@
         "gn:id":3348303,
         "gp:id":2344664,
         "hasc:id":"AO.HL",
+        "iso:code":"AO-HUI",
         "iso:id":"AO-HUI",
         "qs_pg:id":1083784,
         "unlc:id":"AO-HUI",
         "wd:id":"Q214572",
         "wk:page":"Hu\u00edla Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"327a25ca65790a6087aede6f3fcc364d",
+    "wof:geomhash":"24131f6b5b9a535707cd80b15521f953",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -361,7 +363,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850240,
+    "wof:lastmodified":1695884479,
     "wof:name":"Hu\u00edla",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

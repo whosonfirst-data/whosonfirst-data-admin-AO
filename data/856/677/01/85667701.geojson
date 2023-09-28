@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.548113,
-    "geom:area_square_m":77629977931.596008,
+    "geom:area_square_m":77629977712.805969,
     "geom:bbox":"13.144903,-17.438843,17.429571,-15.14351",
     "geom:latitude":-16.502402,
     "geom:longitude":15.582198,
@@ -338,17 +338,19 @@
         "gn:id":3349096,
         "gp:id":2344662,
         "hasc:id":"AO.CU",
+        "iso:code":"AO-CNN",
         "iso:id":"AO-CNN",
         "qs_pg:id":191295,
         "unlc:id":"AO-CNN",
         "wd:id":"Q216987",
         "wk:page":"Cunene Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c84ed8b24efff88b3eec0f3a3801d77",
+    "wof:geomhash":"d26a96d683b5d03a14477c605e4d1c89",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -363,7 +365,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850241,
+    "wof:lastmodified":1695884936,
     "wof:name":"Cunene",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

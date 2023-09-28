@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.886136,
-    "geom:area_square_m":58213404215.736885,
+    "geom:area_square_m":58213405083.162369,
     "geom:bbox":"11.674556,-17.273807,13.691323,-13.511118",
     "geom:latitude":-15.494337,
     "geom:longitude":12.729674,
@@ -329,17 +329,19 @@
         "gn:id":3347016,
         "gp:id":2344667,
         "hasc:id":"AO.NA",
+        "iso:code":"AO-NAM",
         "iso:id":"AO-NAM",
         "qs_pg:id":1083785,
         "unlc:id":"AO-NAM",
         "wd:id":"Q216819",
         "wk:page":"Namibe Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68d80a22b10525a5fc405e15a5297cba",
+    "wof:geomhash":"41df6f89c2b8c2f5575167ca7dfb1e61",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -354,7 +356,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850240,
+    "wof:lastmodified":1695884937,
     "wof:name":"Namibe",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

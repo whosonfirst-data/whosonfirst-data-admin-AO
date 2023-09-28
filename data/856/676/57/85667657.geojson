@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.823947,
-    "geom:area_square_m":34487584595.788055,
+    "geom:area_square_m":34487584241.227623,
     "geom:bbox":"13.086407,-10.438715,14.731279,-7.62127",
     "geom:latitude":-8.975402,
     "geom:longitude":13.880933,
@@ -341,17 +341,19 @@
         "gn:id":2243598,
         "gp:id":2344673,
         "hasc:id":"AO.BO",
+        "iso:code":"AO-BGO",
         "iso:id":"AO-BGO",
         "qs_pg:id":423547,
         "unlc:id":"AO-BGO",
         "wd:id":"Q191299",
         "wk:page":"Bengo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6b269582a7dbe0b66a526ea30a3ff189",
+    "wof:geomhash":"c7526f0afde6f68264c4e28a172c442b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -366,7 +368,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850235,
+    "wof:lastmodified":1695884935,
     "wof:name":"Bengo",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

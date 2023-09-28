@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.761236,
-    "geom:area_square_m":33323583255.132187,
+    "geom:area_square_m":33323582551.92807,
     "geom:bbox":"14.80356,-13.765044,16.594123,-11.434034",
     "geom:latitude":-12.567328,
     "geom:longitude":15.747076,
@@ -332,17 +332,19 @@
         "gn:id":3348310,
         "gp:id":2344663,
         "hasc:id":"AO.HM",
+        "iso:code":"AO-HUA",
         "iso:id":"AO-HUA",
         "qs_pg:id":1083783,
         "unlc:id":"AO-HUA",
         "wd:id":"Q218848",
         "wk:page":"Huambo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7200403d53764b115988c9819e42cd35",
+    "wof:geomhash":"59661434d4906f796cedb08c11e91dbe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -357,7 +359,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850239,
+    "wof:lastmodified":1695884936,
     "wof:name":"Huambo",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.202701,
-    "geom:area_square_m":2475727159.616004,
+    "geom:area_square_m":2475727434.755483,
     "geom:bbox":"12.993722,-9.342916,13.635635,-8.633765",
     "geom:latitude":-8.97709,
     "geom:longitude":13.312179,
@@ -357,17 +357,19 @@
         "gn:id":2240444,
         "gp:id":2344665,
         "hasc:id":"AO.LU",
+        "iso:code":"AO-LUA",
         "iso:id":"AO-LUA",
         "qs_pg:id":1222194,
         "unlc:id":"AO-LUA",
         "wd:id":"Q190066",
         "wk:page":"Luanda Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"683e845c4e803f1327c143df9d4acee2",
+    "wof:geomhash":"9b0009c63c4b92e0491fac44ce67c8e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -382,7 +384,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850236,
+    "wof:lastmodified":1695884935,
     "wof:name":"Luanda",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

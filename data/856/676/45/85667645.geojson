@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.859217,
-    "geom:area_square_m":108288153469.471161,
+    "geom:area_square_m":108288152659.496399,
     "geom:bbox":"17.335825,-10.669135,21.917499,-6.913889",
     "geom:latitude":-8.650944,
     "geom:longitude":19.49551,
@@ -332,17 +332,19 @@
         "gn:id":145702,
         "gp:id":2344671,
         "hasc:id":"AO.LN",
+        "iso:code":"AO-LNO",
         "iso:id":"AO-LNO",
         "qs_pg:id":209009,
         "unlc:id":"AO-LNO",
         "wd:id":"Q214221",
         "wk:page":"Lunda Norte Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ca45aabc6dfbb85b59451798a5e1a3a",
+    "wof:geomhash":"4b104868476ff7af549703cb1dc52193",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -357,7 +359,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850236,
+    "wof:lastmodified":1695884935,
     "wof:name":"Lunda Norte",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

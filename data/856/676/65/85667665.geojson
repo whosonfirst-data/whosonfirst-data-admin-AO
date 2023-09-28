@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.57748,
-    "geom:area_square_m":55591445898.492973,
+    "geom:area_square_m":55591446088.307266,
     "geom:bbox":"13.494737,-12.205326,16.612919,-9.676496",
     "geom:latitude":-10.823999,
     "geom:longitude":15.044656,
@@ -337,16 +337,18 @@
         "gn:id":3349234,
         "gp:id":2344661,
         "hasc:id":"AO.CS",
+        "iso:code":"AO-CUS",
         "iso:id":"AO-CUS",
         "qs_pg:id":191300,
         "wd:id":"Q216998",
         "wk:page":"Cuanza Sul Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e64582c5f3da828d719ea05cd2f426c",
+    "wof:geomhash":"a9775dd21169ee49429566a741559b60",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -361,7 +363,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850238,
+    "wof:lastmodified":1695884936,
     "wof:name":"Cuanza Sul",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

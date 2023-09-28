@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.287999,
-    "geom:area_square_m":39623992324.508888,
+    "geom:area_square_m":39623992893.055397,
     "geom:bbox":"12.522056,-13.873994,15.120286,-11.761812",
     "geom:latitude":-12.931767,
     "geom:longitude":13.990448,
@@ -344,17 +344,19 @@
         "gn:id":3351660,
         "gp:id":2344656,
         "hasc:id":"AO.BG",
+        "iso:code":"AO-BGU",
         "iso:id":"AO-BGU",
         "qs_pg:id":219493,
         "unlc:id":"AO-BGU",
         "wd:id":"Q212786",
         "wk:page":"Benguela Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bbb319d2ac156adc6cf587545caad55e",
+    "wof:geomhash":"1f63da211ca3b85cd60b70d142b72c6a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -369,7 +371,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850237,
+    "wof:lastmodified":1695884936,
     "wof:name":"Benguela",
     "wof:parent_id":85632281,
     "wof:placetype":"region",
