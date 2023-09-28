@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117332,
-    "geom:area_square_m":1433360832.760125,
+    "geom:area_square_m":1433360972.434178,
     "geom:bbox":"14.548624,-9.057183,15.169245,-8.72292",
     "geom:latitude":-8.900961,
     "geom:longitude":14.902407,
@@ -94,9 +94,10 @@
         "hasc:id":"AO.CN.GO",
         "wd:id":"Q1619869"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985402,
-    "wof:geomhash":"3249c648e8fb35012adc7114ab29d673",
+    "wof:geomhash":"049100f6656aaba921a0b9394651534c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108799881,
-    "wof:lastmodified":1690850274,
+    "wof:lastmodified":1695886659,
     "wof:name":"Ngonguembo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

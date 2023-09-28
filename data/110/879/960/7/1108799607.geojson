@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145423,
-    "geom:area_square_m":1775672858.527881,
+    "geom:area_square_m":1775672591.379147,
     "geom:bbox":"14.368167,-9.224495,15.047754,-8.852454",
     "geom:latitude":-9.074771,
     "geom:longitude":14.666085,
@@ -112,9 +112,10 @@
         "hasc:id":"AO.CN.GA",
         "wd:id":"Q1619507"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985227,
-    "wof:geomhash":"62aec0ab1c164228ff1fd75d2d14b0c4",
+    "wof:geomhash":"63a40ea35b5a1c4855002af0ff728d6b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108799607,
-    "wof:lastmodified":1690850266,
+    "wof:lastmodified":1695886656,
     "wof:name":"Golungo Alto",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

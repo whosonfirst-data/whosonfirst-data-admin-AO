@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.14125,
-    "geom:area_square_m":13819931153.154037,
+    "geom:area_square_m":13819930282.263906,
     "geom:bbox":"21.31015,-12.419769,22.716548,-11.091489",
     "geom:latitude":-11.668271,
     "geom:longitude":22.053674,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"AO.MX.LN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985410,
-    "wof:geomhash":"e659ad04e0ab9500b713a17be917cefa",
+    "wof:geomhash":"6c7fa6fd420d3bd5175c94f737e2c278",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108799891,
-    "wof:lastmodified":1627521476,
+    "wof:lastmodified":1695886721,
     "wof:name":"Luakano",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

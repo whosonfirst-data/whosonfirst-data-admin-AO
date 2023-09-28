@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149587,
-    "geom:area_square_m":1814619720.151047,
+    "geom:area_square_m":1814619357.704421,
     "geom:bbox":"14.135479,-11.353589,14.838959,-10.968835",
     "geom:latitude":-11.171569,
     "geom:longitude":14.4541,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.CS.CO",
         "wd:id":"Q1619974"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985382,
-    "wof:geomhash":"b85f60bbc9624984217302758e390b44",
+    "wof:geomhash":"8a49123f2ab77bd17b19f605e707294b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799863,
-    "wof:lastmodified":1690850279,
+    "wof:lastmodified":1695886660,
     "wof:name":"Konda",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.399116,
-    "geom:area_square_m":4839722773.942629,
+    "geom:area_square_m":4839723117.519959,
     "geom:bbox":"14.85099,-11.65618,15.799248,-10.953783",
     "geom:latitude":-11.284471,
     "geom:longitude":15.328013,
@@ -109,9 +109,10 @@
         "hasc:id":"AO.CS.WK",
         "wd:id":"Q695397"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985379,
-    "wof:geomhash":"f151f516bd3c0507fc20c315332dac16",
+    "wof:geomhash":"c6a77cf65b297095e12d2baeca7b2704",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108799857,
-    "wof:lastmodified":1690850257,
+    "wof:lastmodified":1695886653,
     "wof:name":"Waco Kungo",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

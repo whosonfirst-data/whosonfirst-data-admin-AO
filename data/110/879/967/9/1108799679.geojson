@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.445328,
-    "geom:area_square_m":5474855806.786366,
+    "geom:area_square_m":5474855228.966402,
     "geom:bbox":"13.03403,-6.529392,13.922529,-5.861911",
     "geom:latitude":-6.149954,
     "geom:longitude":13.509343,
@@ -94,9 +94,10 @@
         "hasc:id":"AO.ZA.NO",
         "wd:id":"Q1620885"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985269,
-    "wof:geomhash":"9d48a935e672967d20ab776ffc6135f4",
+    "wof:geomhash":"106cbf5525ee17da787a00c634bd2e90",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108799679,
-    "wof:lastmodified":1690850265,
+    "wof:lastmodified":1695886656,
     "wof:name":"Noqui",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

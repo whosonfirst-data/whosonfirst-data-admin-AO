@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155853,
-    "geom:area_square_m":1903896915.82344,
+    "geom:area_square_m":1903896849.629485,
     "geom:bbox":"14.064225,-9.23841,14.626415,-8.584518",
     "geom:latitude":-8.908889,
     "geom:longitude":14.348807,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.BO.PA",
         "wd:id":"Q2338202"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985427,
-    "wof:geomhash":"c710f84e8973b01cb0825d5e7bddd1d4",
+    "wof:geomhash":"9ed57a17aca1b6b42c7d494f10677779",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799927,
-    "wof:lastmodified":1690850263,
+    "wof:lastmodified":1695886655,
     "wof:name":"Pango-Aluquem",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

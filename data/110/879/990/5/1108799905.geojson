@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11751,
-    "geom:area_square_m":1434597522.581324,
+    "geom:area_square_m":1434597522.581343,
     "geom:bbox":"15.0348808342,-9.37236982393,15.4837871824,-8.91059692348",
     "geom:latitude":-9.13753,
     "geom:longitude":15.239511,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"AO.CN.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985416,
-    "wof:geomhash":"95866e06b75e5647a3d0a59f802b373f",
+    "wof:geomhash":"b6ea941207a6a8a6714866d8fe5b0021",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108799905,
-    "wof:lastmodified":1566586690,
+    "wof:lastmodified":1695886650,
     "wof:name":"Lukala",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

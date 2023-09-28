@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.39361,
-    "geom:area_square_m":4802785426.914901,
+    "geom:area_square_m":4802785481.910303,
     "geom:bbox":"16.767917,-9.922073,17.814784,-8.892384",
     "geom:latitude":-9.317683,
     "geom:longitude":17.293413,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.ML.QL",
         "wd:id":"Q1621776"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985406,
-    "wof:geomhash":"27bf59c62953bf9a04e6ab27e9e75df9",
+    "wof:geomhash":"01a29c0815343c88ac80bbfe01dd2dd9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799887,
-    "wof:lastmodified":1690850274,
+    "wof:lastmodified":1695886659,
     "wof:name":"Kela",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

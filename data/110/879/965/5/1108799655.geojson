@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.450064,
-    "geom:area_square_m":5501876162.174663,
+    "geom:area_square_m":5501875891.945192,
     "geom:bbox":"16.142481,-9.162302,17.071054,-8.25896",
     "geom:latitude":-8.644907,
     "geom:longitude":16.670131,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.ML.CO",
         "wd:id":"Q1621738"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985251,
-    "wof:geomhash":"dc0937a8934afcc8ab49e4660662d97a",
+    "wof:geomhash":"e1690e6ea5d51ae84ac84f188e77d321",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799655,
-    "wof:lastmodified":1690850245,
+    "wof:lastmodified":1695886648,
     "wof:name":"Kahombo",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

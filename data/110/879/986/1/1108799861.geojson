@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.864745,
-    "geom:area_square_m":46705256276.775269,
+    "geom:area_square_m":46705256932.920967,
     "geom:bbox":"21.234097,-13.417832,24.084445,-10.890127",
     "geom:latitude":-12.207523,
     "geom:longitude":22.907162,
@@ -94,9 +94,10 @@
         "hasc:id":"AO.MX.AZ",
         "wd:id":"Q2343269"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985381,
-    "wof:geomhash":"15ca1e6d0144569e61abc8b42b85872c",
+    "wof:geomhash":"67d346878120c2b59c9333f06b1463c8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108799861,
-    "wof:lastmodified":1690850278,
+    "wof:lastmodified":1695886660,
     "wof:name":"Alto Zambeze",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

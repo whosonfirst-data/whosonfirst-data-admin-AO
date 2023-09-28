@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.71584,
-    "geom:area_square_m":8779132900.206367,
+    "geom:area_square_m":8779133757.657104,
     "geom:bbox":"12.833717,-7.800718,13.969803,-6.890243",
     "geom:latitude":-7.328385,
     "geom:longitude":13.395428,
@@ -166,9 +166,10 @@
         "hasc:id":"AO.ZA.NZ",
         "wd:id":"Q2351452"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985302,
-    "wof:geomhash":"acd81e0c2ca727364b545d36f3734b7f",
+    "wof:geomhash":"126902a78c54efa5ea84cfd188078a07",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":1108799731,
-    "wof:lastmodified":1690850270,
+    "wof:lastmodified":1695886067,
     "wof:name":"Nzeto",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

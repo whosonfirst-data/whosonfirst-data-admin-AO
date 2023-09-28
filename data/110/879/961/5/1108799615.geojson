@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.67725,
-    "geom:area_square_m":8316996071.024427,
+    "geom:area_square_m":8316996516.939755,
     "geom:bbox":"12.624029,-7.066538,14.099657,-6.306931",
     "geom:latitude":-6.706116,
     "geom:longitude":13.361187,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.ZA.TO",
         "wd:id":"Q1620741"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985229,
-    "wof:geomhash":"ee2f0946c95fcd96bc1bbe3f298c3e3f",
+    "wof:geomhash":"a675a92a17961cdd59513d92bf13d10c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799615,
-    "wof:lastmodified":1690850262,
+    "wof:lastmodified":1695886654,
     "wof:name":"Tomboco",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

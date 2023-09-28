@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081442,
-    "geom:area_square_m":995401163.681641,
+    "geom:area_square_m":995401480.199569,
     "geom:bbox":"15.035214,-8.968076,15.347263,-8.481495",
     "geom:latitude":-8.720426,
     "geom:longitude":15.203681,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.CN.BN",
         "wd:id":"Q2227542"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985303,
-    "wof:geomhash":"19bc1dc4cf6d83be1b643207c71567c0",
+    "wof:geomhash":"e01df53bb3021e299c0b1922f96cdb37",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799733,
-    "wof:lastmodified":1690850271,
+    "wof:lastmodified":1695886658,
     "wof:name":"Banga",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

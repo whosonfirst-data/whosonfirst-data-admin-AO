@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.536742,
-    "geom:area_square_m":6596292372.669055,
+    "geom:area_square_m":6596292229.753935,
     "geom:bbox":"15.957684,-6.750028,16.767978,-5.843677",
     "geom:latitude":-6.33879,
     "geom:longitude":16.35989,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.UI.QM",
         "wd:id":"Q1621596"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985321,
-    "wof:geomhash":"b9aef85e09a5e04b60856d68ae2df412",
+    "wof:geomhash":"6a4428376602e6d002714aa4b0d37453",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799763,
-    "wof:lastmodified":1690850260,
+    "wof:lastmodified":1695886654,
     "wof:name":"Kimbele",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.646411,
-    "geom:area_square_m":7919689045.170568,
+    "geom:area_square_m":7919689045.170705,
     "geom:bbox":"16.0620477279,-8.21334454468,17.2776165362,-7.31870514555",
     "geom:latitude":-7.763071,
     "geom:longitude":16.603138,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"AO.ML.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985237,
-    "wof:geomhash":"0f6d3d1986bafa84a960cd5bff833b19",
+    "wof:geomhash":"20d06f4fe4dcd49c697476841c4e842f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108799627,
-    "wof:lastmodified":1566586686,
+    "wof:lastmodified":1695886649,
     "wof:name":"Massango",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

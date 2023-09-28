@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.484063,
-    "geom:area_square_m":5949205311.569567,
+    "geom:area_square_m":5949205906.678161,
     "geom:bbox":"13.814325,-6.870478,14.544481,-5.832283",
     "geom:latitude":-6.310184,
     "geom:longitude":14.181735,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"AO.ZA.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985228,
-    "wof:geomhash":"26e14a7ff30258b579d08158d571bc2d",
+    "wof:geomhash":"48ecc1fe44741d59082ade3913b87313",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108799609,
-    "wof:lastmodified":1627521477,
+    "wof:lastmodified":1695886722,
     "wof:name":"Mbanza Kongo",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

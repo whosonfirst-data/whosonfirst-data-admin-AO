@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.812831,
-    "geom:area_square_m":9863816309.469833,
+    "geom:area_square_m":9863816075.626457,
     "geom:bbox":"17.69362,-11.556244,18.85319,-10.470939",
     "geom:latitude":-11.06685,
     "geom:longitude":18.273732,
@@ -109,9 +109,10 @@
         "hasc:id":"AO.ML.QR",
         "wd:id":"Q1637941"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985248,
-    "wof:geomhash":"38dc9af47e5d81f6b34b50f27adb659c",
+    "wof:geomhash":"392a6fba1d074a669dcae7076382a18e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108799651,
-    "wof:lastmodified":1690850245,
+    "wof:lastmodified":1695886648,
     "wof:name":"Kirima",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

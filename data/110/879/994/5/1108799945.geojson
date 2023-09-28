@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046978,
-    "geom:area_square_m":574084556.134049,
+    "geom:area_square_m":574084497.138871,
     "geom:bbox":"13.305869,-8.887506,13.635635,-8.633765",
     "geom:latitude":-8.779713,
     "geom:longitude":13.477576,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.LU.CC",
         "wd:id":"Q1005770"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985435,
-    "wof:geomhash":"01ff94809947c12c7ebf384476512b96",
+    "wof:geomhash":"462c598ea2994183cf23b397b5e18ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799945,
-    "wof:lastmodified":1690850268,
+    "wof:lastmodified":1695886657,
     "wof:name":"Cacuaco",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

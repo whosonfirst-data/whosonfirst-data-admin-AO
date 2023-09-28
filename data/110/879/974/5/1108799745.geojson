@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002359,
-    "geom:area_square_m":28816205.78051,
+    "geom:area_square_m":28816145.397406,
     "geom:bbox":"13.179128,-8.891587,13.260272,-8.821335",
     "geom:latitude":-8.853776,
     "geom:longitude":13.221721,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"AO.LU.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985310,
-    "wof:geomhash":"8fe364464da3ee837f42478232fca219",
+    "wof:geomhash":"eb66a47ded49ffb4c7058c46c40becfb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108799745,
-    "wof:lastmodified":1627521476,
+    "wof:lastmodified":1695886721,
     "wof:name":"Maianga",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

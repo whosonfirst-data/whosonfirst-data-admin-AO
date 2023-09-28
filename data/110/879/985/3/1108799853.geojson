@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232438,
-    "geom:area_square_m":2803155710.918571,
+    "geom:area_square_m":2803156063.568229,
     "geom:bbox":"15.949531,-13.369431,16.548853,-12.294853",
     "geom:latitude":-12.757103,
     "geom:longitude":16.321597,
@@ -110,9 +110,10 @@
         "hasc:id":"AO.HM.CT",
         "wd:id":"Q1619881"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985375,
-    "wof:geomhash":"7b7ad56ad709885130f1d497b68e222b",
+    "wof:geomhash":"022d5d1c648f92fa8a7fd6b1f891302e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108799853,
-    "wof:lastmodified":1690850258,
+    "wof:lastmodified":1695886653,
     "wof:name":"Kachiungo",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

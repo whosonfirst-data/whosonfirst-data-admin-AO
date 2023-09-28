@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193146,
-    "geom:area_square_m":2355652103.415939,
+    "geom:area_square_m":2355651812.290963,
     "geom:bbox":"16.024909,-9.767913,16.65363,-9.135726",
     "geom:latitude":-9.481029,
     "geom:longitude":16.356905,
@@ -76,9 +76,10 @@
         "hasc:id":"AO.ML.ML",
         "wd:id":"Q3843776"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985391,
-    "wof:geomhash":"860099c8f0a5f4203ae861e65450444a",
+    "wof:geomhash":"2ff8d20a2c4c6694404b15ce09abe7e4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108799871,
-    "wof:lastmodified":1690850270,
+    "wof:lastmodified":1695886067,
     "wof:name":"Malanje",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

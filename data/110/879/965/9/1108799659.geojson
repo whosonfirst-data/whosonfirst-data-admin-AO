@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164888,
-    "geom:area_square_m":2001732411.608095,
+    "geom:area_square_m":2001732274.944699,
     "geom:bbox":"14.48502,-11.165629,15.069418,-10.617331",
     "geom:latitude":-10.952237,
     "geom:longitude":14.754762,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.CS.EB",
         "wd:id":"Q1619922"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985253,
-    "wof:geomhash":"a1a100211fd55315998bf811ca988b90",
+    "wof:geomhash":"18eabafd83cdbb2241ae497b82e1e529",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799659,
-    "wof:lastmodified":1690850245,
+    "wof:lastmodified":1695886648,
     "wof:name":"Ebo",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

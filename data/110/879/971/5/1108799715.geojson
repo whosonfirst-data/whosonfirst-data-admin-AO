@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234077,
-    "geom:area_square_m":2874813199.079039,
+    "geom:area_square_m":2874812828.6525,
     "geom:bbox":"15.576738,-7.021874,16.028466,-6.237466",
     "geom:latitude":-6.668364,
     "geom:longitude":15.827438,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.UI.BU",
         "wd:id":"Q529876"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985290,
-    "wof:geomhash":"7e10362c242cbb00a106ff3d84015b28",
+    "wof:geomhash":"8c1b442d9b372b0eee00d9c381902774",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799715,
-    "wof:lastmodified":1690850257,
+    "wof:lastmodified":1695886653,
     "wof:name":"Buengas",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

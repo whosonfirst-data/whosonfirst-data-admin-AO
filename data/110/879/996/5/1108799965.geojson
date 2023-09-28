@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.801908,
-    "geom:area_square_m":9772275324.6695,
+    "geom:area_square_m":9772275093.797413,
     "geom:bbox":"18.228317,-10.410166,19.444699,-9.088332",
     "geom:latitude":-9.753418,
     "geom:longitude":18.848568,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"AO.LN.CP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985448,
-    "wof:geomhash":"e9ae1ab94a54121f83a2af7f897c37a6",
+    "wof:geomhash":"09efe9207ce93e4c6087e6b833997800",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108799965,
-    "wof:lastmodified":1627521475,
+    "wof:lastmodified":1695886720,
     "wof:name":"Kapenda Kamulemba",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

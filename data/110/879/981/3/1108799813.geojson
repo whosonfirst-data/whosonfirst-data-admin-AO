@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000486,
-    "geom:area_square_m":5932809.382521,
+    "geom:area_square_m":5932886.851472,
     "geom:bbox":"13.251424,-8.839797,13.276509,-8.807048",
     "geom:latitude":-8.824359,
     "geom:longitude":13.265887,
@@ -82,9 +82,10 @@
         "hasc:id":"AO.LU.RA",
         "wd:id":"Q1003727"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985350,
-    "wof:geomhash":"89af577dbd159e417c0514c8c3087bd1",
+    "wof:geomhash":"34ed4b2ac58d1ad9a2f4ea9ab1e49386",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108799813,
-    "wof:lastmodified":1690850275,
+    "wof:lastmodified":1695886660,
     "wof:name":"Rangel",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094478,
-    "geom:area_square_m":1157843947.672759,
+    "geom:area_square_m":1157843848.468362,
     "geom:bbox":"15.497769,-7.883764,15.832619,-7.428771",
     "geom:latitude":-7.65053,
     "geom:longitude":15.68093,
@@ -94,9 +94,10 @@
         "hasc:id":"AO.UI.PU",
         "wd:id":"Q2361232"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985252,
-    "wof:geomhash":"c06d88bea7e98d8aa7dc7b57d8a305ea",
+    "wof:geomhash":"1e6f556b9aff79ff2bbf33f6c341f08b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108799657,
-    "wof:lastmodified":1690850245,
+    "wof:lastmodified":1695886648,
     "wof:name":"Puri",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

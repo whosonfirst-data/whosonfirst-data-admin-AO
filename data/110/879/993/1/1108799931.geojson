@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.241082,
-    "geom:area_square_m":2906685425.037915,
+    "geom:area_square_m":2906685501.660899,
     "geom:bbox":"15.569946,-13.413258,15.986984,-12.240162",
     "geom:latitude":-12.81888,
     "geom:longitude":15.796837,
@@ -76,9 +76,10 @@
         "hasc:id":"AO.HM.HU",
         "wd:id":"Q3787366"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985429,
-    "wof:geomhash":"1b7282322590e6aaaaec360246453512",
+    "wof:geomhash":"fdec0d5fec9a13c75d8c8b6a6b96265f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108799931,
-    "wof:lastmodified":1690850265,
+    "wof:lastmodified":1695886066,
     "wof:name":"Huambo",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

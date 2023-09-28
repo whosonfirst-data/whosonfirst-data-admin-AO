@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.390796,
-    "geom:area_square_m":4706065430.426291,
+    "geom:area_square_m":4706065552.089947,
     "geom:bbox":"14.387909,-13.662471,15.120286,-12.579981",
     "geom:latitude":-13.120239,
     "geom:longitude":14.733954,
@@ -124,9 +124,10 @@
         "hasc:id":"AO.BG.GA",
         "wd:id":"Q1024050"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985285,
-    "wof:geomhash":"cd51c7b348975c4640a330c8afdf56ea",
+    "wof:geomhash":"ec3e806bb2c4084ae467c0b7fab9efd5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108799707,
-    "wof:lastmodified":1690850253,
+    "wof:lastmodified":1695886651,
     "wof:name":"Ganda",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

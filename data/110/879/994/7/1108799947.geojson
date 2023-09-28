@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.637788,
-    "geom:area_square_m":19693752477.41803,
+    "geom:area_square_m":19693752991.715111,
     "geom:bbox":"16.479441,-14.311489,18.095138,-12.849264",
     "geom:latitude":-13.474688,
     "geom:longitude":17.229896,
@@ -115,9 +115,10 @@
         "hasc:id":"AO.BI.CH",
         "wd:id":"Q2342438"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985436,
-    "wof:geomhash":"8be4ef4728d20c8bbb08ec7df1878abb",
+    "wof:geomhash":"cc36e74331849879e400ab4e217793ff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108799947,
-    "wof:lastmodified":1690850268,
+    "wof:lastmodified":1695886657,
     "wof:name":"Chitembo",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

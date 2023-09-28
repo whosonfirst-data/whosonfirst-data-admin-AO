@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093732,
-    "geom:area_square_m":1119124272.080222,
+    "geom:area_square_m":1119124153.704092,
     "geom:bbox":"13.214118,-15.348495,13.534341,-14.851056",
     "geom:latitude":-15.075791,
     "geom:longitude":13.375942,
@@ -112,9 +112,10 @@
         "hasc:id":"AO.HL.HU",
         "wd:id":"Q1010646"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985313,
-    "wof:geomhash":"ab452b3e8d69002223efeebe86bc2585",
+    "wof:geomhash":"13d25e97a0863d31cb33e72b12c86eb3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108799749,
-    "wof:lastmodified":1690850271,
+    "wof:lastmodified":1695886658,
     "wof:name":"Humpata",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

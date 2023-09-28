@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.249295,
-    "geom:area_square_m":27375967680.992992,
+    "geom:area_square_m":27375966895.270737,
     "geom:bbox":"20.599165,-11.312244,22.315,-9.03742",
     "geom:latitude":-10.157295,
     "geom:longitude":21.423477,
@@ -109,9 +109,10 @@
         "hasc:id":"AO.LS.MU",
         "wd:id":"Q1620876"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985335,
-    "wof:geomhash":"b0d93812d678cae1d204e072e9018d9d",
+    "wof:geomhash":"3d598b1a44414b06a17c088d59881d30",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108799787,
-    "wof:lastmodified":1690850255,
+    "wof:lastmodified":1695886652,
     "wof:name":"Mukonda",
     "wof:parent_id":85667651,
     "wof:placetype":"county",

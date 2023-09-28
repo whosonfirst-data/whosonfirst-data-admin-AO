@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.691183,
-    "geom:area_square_m":8267361335.511385,
+    "geom:area_square_m":8267361745.223233,
     "geom:bbox":"12.56298,-15.212517,13.691323,-14.173961",
     "geom:latitude":-14.6843,
     "geom:longitude":13.141314,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.NA.BI",
         "wd:id":"Q950638"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985224,
-    "wof:geomhash":"1fe5856837eac3758c030f5f49c1f93b",
+    "wof:geomhash":"cb87c14c39fab0df7d92c38d75f05974",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799601,
-    "wof:lastmodified":1690850267,
+    "wof:lastmodified":1695886656,
     "wof:name":"Bibala",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247718,
-    "geom:area_square_m":2998850100.735198,
+    "geom:area_square_m":2998849527.411596,
     "geom:bbox":"15.905498,-12.035446,16.594123,-11.434034",
     "geom:latitude":-11.753483,
     "geom:longitude":16.20803,
@@ -103,9 +103,10 @@
         "hasc:id":"AO.HM.MU",
         "wd:id":"Q1619956"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985280,
-    "wof:geomhash":"8afc8ea86b8df21415edde182b56f643",
+    "wof:geomhash":"b9867142e3a913153f2197d01065b36e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108799697,
-    "wof:lastmodified":1690850269,
+    "wof:lastmodified":1695886657,
     "wof:name":"Mungo",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

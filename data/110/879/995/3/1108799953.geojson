@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.720619,
-    "geom:area_square_m":8617709635.521334,
+    "geom:area_square_m":8617710024.209066,
     "geom:bbox":"12.024026,-15.595068,12.90314,-13.52688",
     "geom:latitude":-14.721051,
     "geom:longitude":12.459482,
@@ -76,9 +76,10 @@
         "hasc:id":"AO.NA.NA",
         "wd:id":"Q3870058"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985441,
-    "wof:geomhash":"20d4d944dc906524af8353c00deb9c9f",
+    "wof:geomhash":"1da7097f044be6270d87065b4f4aefe0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108799953,
-    "wof:lastmodified":1690850261,
+    "wof:lastmodified":1695886067,
     "wof:name":"Namibe",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

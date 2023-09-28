@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.916849,
-    "geom:area_square_m":11217061073.839045,
+    "geom:area_square_m":11217060800.528063,
     "geom:bbox":"18.09325,-8.812707,19.486783,-7.916643",
     "geom:latitude":-8.339532,
     "geom:longitude":18.828568,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.LN.CU",
         "wd:id":"Q1620728"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985255,
-    "wof:geomhash":"1fa972fb18919ad4ed16c25c5642876d",
+    "wof:geomhash":"3a50bd51b5500ac54e5a8a3cdbc05147",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799661,
-    "wof:lastmodified":1690850262,
+    "wof:lastmodified":1695886655,
     "wof:name":"Kaungula",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

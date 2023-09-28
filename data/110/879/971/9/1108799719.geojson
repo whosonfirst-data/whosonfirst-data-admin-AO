@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.893747,
-    "geom:area_square_m":10855728857.358803,
+    "geom:area_square_m":10855729999.434217,
     "geom:bbox":"16.446292,-11.73238,18.202358,-10.239492",
     "geom:latitude":-10.790669,
     "geom:longitude":17.38924,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.ML.LU",
         "wd:id":"Q577901"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985293,
-    "wof:geomhash":"08c537c4b879c59c7e4783ce73955b51",
+    "wof:geomhash":"c122cd14eaee28fec67e563d641b4923",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799719,
-    "wof:lastmodified":1690850256,
+    "wof:lastmodified":1695886652,
     "wof:name":"Lukembo",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

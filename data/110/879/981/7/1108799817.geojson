@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109541,
-    "geom:area_square_m":1339143026.87991,
+    "geom:area_square_m":1339143186.049682,
     "geom:bbox":"14.585154,-8.852086,14.996968,-8.349194",
     "geom:latitude":-8.632618,
     "geom:longitude":14.821546,
@@ -109,9 +109,10 @@
         "hasc:id":"AO.BO.BA",
         "wd:id":"Q979174"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985354,
-    "wof:geomhash":"955ae358e1c10efbc662c28fcf5eacba",
+    "wof:geomhash":"91eb2f141f32f3b192fa1b5d529006c5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108799817,
-    "wof:lastmodified":1690850275,
+    "wof:lastmodified":1695886659,
     "wof:name":"Bula Atumba",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

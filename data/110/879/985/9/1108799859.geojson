@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113446,
-    "geom:area_square_m":1387353903.527538,
+    "geom:area_square_m":1387353679.20822,
     "geom:bbox":"14.266646,-8.727902,14.831231,-8.358281",
     "geom:latitude":-8.504666,
     "geom:longitude":14.552585,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.CN.DE",
         "wd:id":"Q1617496"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985380,
-    "wof:geomhash":"8808251f3e899f6d97e2517ec3bf9558",
+    "wof:geomhash":"db79aad777c8ab16cf02d8b61fb6609c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799859,
-    "wof:lastmodified":1690850257,
+    "wof:lastmodified":1695886653,
     "wof:name":"Dembos",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

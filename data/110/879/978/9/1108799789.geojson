@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.33769,
-    "geom:area_square_m":4117926688.410088,
+    "geom:area_square_m":4117927050.261139,
     "geom:bbox":"14.093987,-9.782211,15.17053,-9.163895",
     "geom:latitude":-9.533527,
     "geom:longitude":14.590958,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.CN.CN",
         "wd:id":"Q1003771"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985337,
-    "wof:geomhash":"0c003da9c938a06fbbfb5adbf7e1b6a0",
+    "wof:geomhash":"3d18d6957916329cf598fae32b0571c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799789,
-    "wof:lastmodified":1690850255,
+    "wof:lastmodified":1695886652,
     "wof:name":"Kambambe",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

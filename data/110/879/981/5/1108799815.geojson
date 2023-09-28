@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284916,
-    "geom:area_square_m":3431330946.692387,
+    "geom:area_square_m":3431330768.511433,
     "geom:bbox":"13.574855,-13.406036,14.215937,-12.746745",
     "geom:latitude":-13.101236,
     "geom:longitude":13.925297,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"AO.BG.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985353,
-    "wof:geomhash":"f807cb485e0d5702a85676a5d0d0f9be",
+    "wof:geomhash":"2a117b44b5e8b3781581278a85f11140",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108799815,
-    "wof:lastmodified":1627521476,
+    "wof:lastmodified":1695886721,
     "wof:name":"Kaimbambo",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

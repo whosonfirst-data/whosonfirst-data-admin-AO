@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195505,
-    "geom:area_square_m":2354687786.175211,
+    "geom:area_square_m":2354687868.015612,
     "geom:bbox":"14.914786,-13.417809,15.456356,-12.670329",
     "geom:latitude":-13.083173,
     "geom:longitude":15.223234,
@@ -112,9 +112,10 @@
         "hasc:id":"AO.HM.LG",
         "wd:id":"Q2342492"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985363,
-    "wof:geomhash":"77a1769a8bb7351efc518edebc7a4510",
+    "wof:geomhash":"ae2f69098bf4b60ec62c9bdfb28633b6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108799831,
-    "wof:lastmodified":1690850251,
+    "wof:lastmodified":1695886650,
     "wof:name":"Longonjo",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

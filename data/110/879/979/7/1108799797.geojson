@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.530162,
-    "geom:area_square_m":6481754252.600055,
+    "geom:area_square_m":6481754327.897109,
     "geom:bbox":"17.533506,-9.249367,18.563692,-8.076907",
     "geom:latitude":-8.599897,
     "geom:longitude":18.067916,
@@ -112,9 +112,10 @@
         "hasc:id":"AO.LN.CN",
         "wd:id":"Q1620710"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985342,
-    "wof:geomhash":"50cb711b24539e34e22f1ee69e578e1e",
+    "wof:geomhash":"b14bd7541f8ff4e5306a323a1ef78cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108799797,
-    "wof:lastmodified":1690850254,
+    "wof:lastmodified":1695886651,
     "wof:name":"Kuango",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

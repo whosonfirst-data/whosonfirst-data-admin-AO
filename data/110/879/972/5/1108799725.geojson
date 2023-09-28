@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272282,
-    "geom:area_square_m":3328426465.250554,
+    "geom:area_square_m":3328426814.476997,
     "geom:bbox":"16.992107,-8.990343,17.608439,-8.262155",
     "geom:latitude":-8.659516,
     "geom:longitude":17.358232,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.ML.CD",
         "wd:id":"Q1621589"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985295,
-    "wof:geomhash":"66d39bf00e3e0bfba3370cff105f2220",
+    "wof:geomhash":"31d68d9d7ad759a719aff6ca7ae1bafc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799725,
-    "wof:lastmodified":1690850277,
+    "wof:lastmodified":1695886660,
     "wof:name":"Kunda-ia-Baze",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026948,
-    "geom:area_square_m":329102974.784445,
+    "geom:area_square_m":329102974.784474,
     "geom:bbox":"12.993721962,-9.12142144805,13.2362944236,-8.811249733",
     "geom:latitude":-9.006958,
     "geom:longitude":13.12622,
@@ -258,9 +258,10 @@
     "wof:concordances":{
         "hasc:id":"AO.LU.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985334,
-    "wof:geomhash":"abba8c930561232ba9a198b8772960da",
+    "wof:geomhash":"0927570dd82e91085878f09abec09b31",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -270,7 +271,7 @@
         }
     ],
     "wof:id":1108799785,
-    "wof:lastmodified":1566586698,
+    "wof:lastmodified":1695886652,
     "wof:name":"Samba",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160014,
-    "geom:area_square_m":1971645850.995303,
+    "geom:area_square_m":1971645836.176994,
     "geom:bbox":"12.290542,-5.065396,12.825105,-4.556899",
     "geom:latitude":-4.803914,
     "geom:longitude":12.547005,
@@ -103,9 +103,10 @@
         "hasc:id":"AO.CB.BZ",
         "wd:id":"Q1000367"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985346,
-    "wof:geomhash":"8fdd674ec628615440718fa0b1805108",
+    "wof:geomhash":"779651950c733dbeba6ac900f296b92d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108799803,
-    "wof:lastmodified":1690850273,
+    "wof:lastmodified":1695886658,
     "wof:name":"Buco Zau",
     "wof:parent_id":85667683,
     "wof:placetype":"county",

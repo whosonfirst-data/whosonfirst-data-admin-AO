@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.391664,
-    "geom:area_square_m":4800592815.233055,
+    "geom:area_square_m":4800592693.267475,
     "geom:bbox":"13.828153,-7.90943,14.965788,-7.28641",
     "geom:latitude":-7.586725,
     "geom:longitude":14.468877,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.UI.AM",
         "wd:id":"Q1620841"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985288,
-    "wof:geomhash":"edf7a79847045535de084e260fca15a8",
+    "wof:geomhash":"f289bd0a4b7585a22125dabaf12faa2a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799711,
-    "wof:lastmodified":1690850256,
+    "wof:lastmodified":1695886652,
     "wof:name":"Ambuila",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

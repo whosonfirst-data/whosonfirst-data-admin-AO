@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164706,
-    "geom:area_square_m":2017653209.522975,
+    "geom:area_square_m":2017653337.834276,
     "geom:bbox":"15.053561,-8.056504,15.722571,-7.588634",
     "geom:latitude":-7.825493,
     "geom:longitude":15.390422,
@@ -130,9 +130,10 @@
         "hasc:id":"AO.UI.NE",
         "wd:id":"Q748830"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985322,
-    "wof:geomhash":"9d39085dac6c42189eeaf67b1a7ea74b",
+    "wof:geomhash":"d8e614b441b119940fad326314b10b29",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108799765,
-    "wof:lastmodified":1690850260,
+    "wof:lastmodified":1695886654,
     "wof:name":"Negage",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

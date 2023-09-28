@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005432,
-    "geom:area_square_m":66359858.02082,
+    "geom:area_square_m":66359858.020826,
     "geom:bbox":"13.2015633401,-8.95515800213,13.3148410562,-8.83497884687",
     "geom:latitude":-8.885268,
     "geom:longitude":13.251104,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"AO.LU.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985415,
-    "wof:geomhash":"43d0aaa0d66f73365cbd3d79ceca025e",
+    "wof:geomhash":"627490de3b0c4aacf0ac7d13bfe2d629",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108799903,
-    "wof:lastmodified":1566586689,
+    "wof:lastmodified":1695886649,
     "wof:name":"Kilamba Kiaxi",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.151891,
-    "geom:area_square_m":14034101857.146891,
+    "geom:area_square_m":14034102004.780657,
     "geom:bbox":"13.152028,-10.438715,14.629698,-9.147004",
     "geom:latitude":-9.828813,
     "geom:longitude":13.850111,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"AO.BO.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985400,
-    "wof:geomhash":"abd97085c882b58c7e9e7a0d7e8aeda4",
+    "wof:geomhash":"59bf6055b0b272864c4b194afb1b1909",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108799879,
-    "wof:lastmodified":1627521476,
+    "wof:lastmodified":1695886721,
     "wof:name":"Kissama",
     "wof:parent_id":85667657,
     "wof:placetype":"county",

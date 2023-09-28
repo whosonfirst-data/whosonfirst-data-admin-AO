@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.846092,
-    "geom:area_square_m":10260162636.763945,
+    "geom:area_square_m":10260163196.925777,
     "geom:bbox":"15.75345,-11.938549,17.057947,-10.569328",
     "geom:latitude":-11.272067,
     "geom:longitude":16.464874,
@@ -127,9 +127,10 @@
         "hasc:id":"AO.BI.AN",
         "wd:id":"Q2571244"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985240,
-    "wof:geomhash":"5f0455ac4812b96a47104f9e5db341e3",
+    "wof:geomhash":"ad86abe3224d32bfc52db6e61cb3c8a9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108799635,
-    "wof:lastmodified":1690850248,
+    "wof:lastmodified":1695886649,
     "wof:name":"Andulo",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

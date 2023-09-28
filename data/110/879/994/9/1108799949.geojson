@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162504,
-    "geom:area_square_m":1975602045.276608,
+    "geom:area_square_m":1975602059.309729,
     "geom:bbox":"14.068246,-10.774494,14.610095,-10.271963",
     "geom:latitude":-10.522312,
     "geom:longitude":14.368357,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.CS.QL",
         "wd:id":"Q1619913"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985437,
-    "wof:geomhash":"8aa126eb9ce185ec0bfe3e3d7b867fbb",
+    "wof:geomhash":"c9c53174aa20a95c847266efdf468e87",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799949,
-    "wof:lastmodified":1690850267,
+    "wof:lastmodified":1695886657,
     "wof:name":"Kilenda",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.589427,
-    "geom:area_square_m":43110052334.25518,
+    "geom:area_square_m":43110052178.735664,
     "geom:bbox":"17.946408,-15.003919,20.877975,-12.651726",
     "geom:latitude":-13.749897,
     "geom:longitude":19.535831,
@@ -91,9 +91,10 @@
         "hasc:id":"AO.MX.LZ",
         "wd:id":"Q1620747"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985243,
-    "wof:geomhash":"f188ff1ca8e4b8d1d997205c4790265b",
+    "wof:geomhash":"bbf9fdf04992964ef67541dde84264fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108799641,
-    "wof:lastmodified":1690850249,
+    "wof:lastmodified":1695886650,
     "wof:name":"Luxazes",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

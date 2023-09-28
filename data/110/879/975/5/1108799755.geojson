@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173191,
-    "geom:area_square_m":2112292459.542695,
+    "geom:area_square_m":2112292660.625105,
     "geom:bbox":"16.624334,-9.667034,17.297327,-9.21872",
     "geom:latitude":-9.480373,
     "geom:longitude":16.922517,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.ML.MU",
         "wd:id":"Q1621535"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985317,
-    "wof:geomhash":"dd09f109e03bf30be29e506a95b744bb",
+    "wof:geomhash":"4dac6e87d051a89568aebf1c782c7a24",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799755,
-    "wof:lastmodified":1690850277,
+    "wof:lastmodified":1695886660,
     "wof:name":"Mukari",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

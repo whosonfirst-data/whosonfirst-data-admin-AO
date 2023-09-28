@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.756216,
-    "geom:area_square_m":9064198824.152212,
+    "geom:area_square_m":9064198969.30127,
     "geom:bbox":"15.810054,-15.210693,16.748154,-13.331437",
     "geom:latitude":-14.212379,
     "geom:longitude":16.322504,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.HL.KU",
         "wd:id":"Q2343092"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985258,
-    "wof:geomhash":"ace645b9a0109364a06afe2bcf709e64",
+    "wof:geomhash":"4ec1087639f9cdbcc8bf5c1371bafa4c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799665,
-    "wof:lastmodified":1690850263,
+    "wof:lastmodified":1695886655,
     "wof:name":"Kuvango",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

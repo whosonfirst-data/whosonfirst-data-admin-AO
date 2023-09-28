@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.473306,
-    "geom:area_square_m":5794874835.366883,
+    "geom:area_square_m":5794874160.856785,
     "geom:bbox":"13.829693,-8.470065,14.731279,-7.622216",
     "geom:latitude":-8.046159,
     "geom:longitude":14.258877,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.BO.NA",
         "wd:id":"Q1617503"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985238,
-    "wof:geomhash":"c6f4ab8cc0ff10e798e3cbdde2448f23",
+    "wof:geomhash":"7469f20860ac6c2a29b049d2516958a8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799629,
-    "wof:lastmodified":1690850247,
+    "wof:lastmodified":1695886649,
     "wof:name":"Nambuangongo",
     "wof:parent_id":85667657,
     "wof:placetype":"county",

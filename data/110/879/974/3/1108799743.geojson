@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.47476,
-    "geom:area_square_m":5780183982.089412,
+    "geom:area_square_m":5780183461.75569,
     "geom:bbox":"14.539428,-10.479869,15.466982,-9.676496",
     "geom:latitude":-10.061637,
     "geom:longitude":14.990133,
@@ -91,9 +91,10 @@
         "hasc:id":"AO.CS.LI",
         "wd:id":"Q2342256"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985309,
-    "wof:geomhash":"1beb2e263340f0d381a4b9a2f0b30538",
+    "wof:geomhash":"74afb74f99c72d9e576310ae82aa7b6b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108799743,
-    "wof:lastmodified":1690850272,
+    "wof:lastmodified":1695886658,
     "wof:name":"Libolo",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

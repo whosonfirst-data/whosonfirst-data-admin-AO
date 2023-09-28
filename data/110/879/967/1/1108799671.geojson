@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.320265,
-    "geom:area_square_m":3844400997.02317,
+    "geom:area_square_m":3844401258.9277,
     "geom:bbox":"15.344613,-14.428957,16.153929,-13.390162",
     "geom:latitude":-13.883779,
     "geom:longitude":15.738401,
@@ -109,9 +109,10 @@
         "hasc:id":"AO.HL.CP",
         "wd:id":"Q992695"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985265,
-    "wof:geomhash":"bcfaeaef2acf8890805f14a5cb1d28d8",
+    "wof:geomhash":"cd0aa0b382eb54b106b6107bfdbfe401",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108799671,
-    "wof:lastmodified":1690850266,
+    "wof:lastmodified":1695886656,
     "wof:name":"Chipindo",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

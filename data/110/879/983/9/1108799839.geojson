@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401607,
-    "geom:area_square_m":4823067636.495875,
+    "geom:area_square_m":4823067562.299747,
     "geom:bbox":"14.740285,-14.131518,15.54626,-13.38336",
     "geom:latitude":-13.776601,
     "geom:longitude":15.159943,
@@ -118,9 +118,10 @@
         "hasc:id":"AO.HL.CC",
         "wd:id":"Q2343957"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985369,
-    "wof:geomhash":"980a474b2423f50e1037b4ade20436bc",
+    "wof:geomhash":"8a746d09e02649d767bceeb71f6a7197",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108799839,
-    "wof:lastmodified":1690850251,
+    "wof:lastmodified":1695886650,
     "wof:name":"Kakonda",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

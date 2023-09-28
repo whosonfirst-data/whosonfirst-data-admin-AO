@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.933603,
-    "geom:area_square_m":11359161588.488758,
+    "geom:area_square_m":11359161296.86871,
     "geom:bbox":"15.263497,-11.00863,16.612919,-9.710938",
     "geom:latitude":-10.266984,
     "geom:longitude":15.980462,
@@ -118,9 +118,10 @@
         "hasc:id":"AO.CS.MU",
         "wd:id":"Q928298"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985364,
-    "wof:geomhash":"0fccf5eb4543923043b0e3bdbd906360",
+    "wof:geomhash":"52c2dd9653d7d2fb50cd113ef99a8a42",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108799833,
-    "wof:lastmodified":1690850251,
+    "wof:lastmodified":1695886650,
     "wof:name":"Mussende",
     "wof:parent_id":85667665,
     "wof:placetype":"county",
