@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.302706,
-    "geom:area_square_m":15503667650.938923,
+    "geom:area_square_m":15503667956.293816,
     "geom:bbox":"15.197541,-16.401469,17.303389,-15.14351",
     "geom:latitude":-15.744443,
     "geom:longitude":16.141154,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.CU.CV",
         "wd:id":"Q1619947"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985242,
-    "wof:geomhash":"a54147aeeaac19d529fb2eb44c9bbf80",
+    "wof:geomhash":"5f377974f1acbe34ab89164e0198af1e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799639,
-    "wof:lastmodified":1690850248,
+    "wof:lastmodified":1695886649,
     "wof:name":"Kuvelai",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

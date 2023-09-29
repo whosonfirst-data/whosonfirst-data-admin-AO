@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256037,
-    "geom:area_square_m":3090138388.894309,
+    "geom:area_square_m":3090137953.104094,
     "geom:bbox":"16.30442,-12.981746,16.861086,-12.107568",
     "geom:latitude":-12.561997,
     "geom:longitude":16.574963,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.BI.CG",
         "wd:id":"Q2342456"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985304,
-    "wof:geomhash":"df864e3ec05b7cbfce039dee81764186",
+    "wof:geomhash":"9b08ddd186d1343e3a630da07a3ec869",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799735,
-    "wof:lastmodified":1690850271,
+    "wof:lastmodified":1695886658,
     "wof:name":"Chinguar",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

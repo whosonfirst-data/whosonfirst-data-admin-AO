@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.440708,
-    "geom:area_square_m":5258296928.658195,
+    "geom:area_square_m":5258297335.934946,
     "geom:bbox":"13.405039,-15.727118,14.291839,-14.691392",
     "geom:latitude":-15.21869,
     "geom:longitude":13.864767,
@@ -154,9 +154,10 @@
         "hasc:id":"AO.HL.CB",
         "wd:id":"Q2346746"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985256,
-    "wof:geomhash":"2cf803515e608191418988638e6f2556",
+    "wof:geomhash":"65cb3098134137b71380f735eb9c0548",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":1108799663,
-    "wof:lastmodified":1690850263,
+    "wof:lastmodified":1695886066,
     "wof:name":"Chibia",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.351739,
-    "geom:area_square_m":4238497389.275383,
+    "geom:area_square_m":4238497069.140285,
     "geom:bbox":"15.785057,-13.449806,16.424009,-12.27846",
     "geom:latitude":-12.958535,
     "geom:longitude":16.095228,
@@ -98,9 +98,10 @@
         "hasc:id":"AO.HM.TT",
         "wd:id":"Q1619894"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985383,
-    "wof:geomhash":"f8093a40b215f3dd34de88b8f761d72a",
+    "wof:geomhash":"5246339b62dfa251d6128108e3f01a13",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108799867,
-    "wof:lastmodified":1690850278,
+    "wof:lastmodified":1695886660,
     "wof:name":"Thicala-Thilohanga",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

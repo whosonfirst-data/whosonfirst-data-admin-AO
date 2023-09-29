@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291277,
-    "geom:area_square_m":3555852723.232206,
+    "geom:area_square_m":3555852411.225972,
     "geom:bbox":"13.468729,-9.538042,14.212386,-8.83686",
     "geom:latitude":-9.150616,
     "geom:longitude":13.863959,
@@ -121,9 +121,10 @@
         "hasc:id":"AO.BO.IB",
         "wd:id":"Q291729"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985355,
-    "wof:geomhash":"5d150673ba68c2ebf8fa76467f6a5b7c",
+    "wof:geomhash":"b654a590df6130bbafa18c1244b30768",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108799819,
-    "wof:lastmodified":1690850275,
+    "wof:lastmodified":1695886659,
     "wof:name":"Icolo e Bengo",
     "wof:parent_id":85667657,
     "wof:placetype":"county",

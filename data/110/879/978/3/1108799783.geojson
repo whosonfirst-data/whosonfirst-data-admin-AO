@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.83922,
-    "geom:area_square_m":9954028591.504938,
+    "geom:area_square_m":9954028545.550884,
     "geom:bbox":"13.623284,-16.990615,15.048967,-15.848528",
     "geom:latitude":-16.415033,
     "geom:longitude":14.253426,
@@ -124,9 +124,10 @@
         "hasc:id":"AO.CU.CA",
         "wd:id":"Q2350857"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985332,
-    "wof:geomhash":"229c54594157c8e89f214d9a1ba45377",
+    "wof:geomhash":"1e296f6779eccdf4c4638f174b10c890",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108799783,
-    "wof:lastmodified":1690850256,
+    "wof:lastmodified":1695886065,
     "wof:name":"Kahama",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

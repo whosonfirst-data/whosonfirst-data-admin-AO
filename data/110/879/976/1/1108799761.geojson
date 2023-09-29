@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.535762,
-    "geom:area_square_m":18201437777.763596,
+    "geom:area_square_m":18201437377.882851,
     "geom:bbox":"11.674556,-17.273807,13.354115,-15.521432",
     "geom:latitude":-16.56435,
     "geom:longitude":12.363065,
@@ -73,9 +73,10 @@
         "hasc:id":"AO.NA.TO",
         "wd:id":"Q4001307"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985319,
-    "wof:geomhash":"97f712de3508845d381ac6717e665ff5",
+    "wof:geomhash":"a49fb7bcb20c904c37d627d735b7f4a6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108799761,
-    "wof:lastmodified":1690850259,
+    "wof:lastmodified":1695886653,
     "wof:name":"Tombua",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

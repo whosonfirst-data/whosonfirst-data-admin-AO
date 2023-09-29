@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.501475,
-    "geom:area_square_m":6027080525.788527,
+    "geom:area_square_m":6027080531.999103,
     "geom:bbox":"13.289779,-13.873994,14.487196,-13.118063",
     "geom:latitude":-13.594711,
     "geom:longitude":13.805051,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.BG.CH",
         "wd:id":"Q524469"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985291,
-    "wof:geomhash":"5a1470e331276e27dfbdbd0607226925",
+    "wof:geomhash":"60187524685abd589d627e8ea2e569c2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799717,
-    "wof:lastmodified":1690850256,
+    "wof:lastmodified":1695886652,
     "wof:name":"Chongoroi",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.064906,
-    "geom:area_square_m":62155464597.724274,
+    "geom:area_square_m":62155463706.029861,
     "geom:bbox":"13.807418,-8.410006,17.109267,-5.843677",
     "geom:latitude":-7.02131,
     "geom:longitude":15.472157,
@@ -333,17 +333,19 @@
         "gn:id":2236566,
         "gp:id":2344669,
         "hasc:id":"AO.UI",
+        "iso:code":"AO-UIG",
         "iso:id":"AO-UIG",
         "qs_pg:id":1142804,
         "unlc:id":"AO-UIG",
         "wd:id":"Q216972",
         "wk:page":"U\u00edge Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7dc740f0095567e0b05654db3319247b",
+    "wof:geomhash":"474a47202f495d73ff274f2aaebe0f28",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -358,7 +360,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850237,
+    "wof:lastmodified":1695884479,
     "wof:name":"U\u00edge",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

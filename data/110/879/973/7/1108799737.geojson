@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222575,
-    "geom:area_square_m":2688389441.120753,
+    "geom:area_square_m":2688389155.140744,
     "geom:bbox":"14.45424,-12.620557,15.078073,-12.07731",
     "geom:latitude":-12.360353,
     "geom:longitude":14.784984,
@@ -127,9 +127,10 @@
         "hasc:id":"AO.BG.BA",
         "wd:id":"Q805495"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985306,
-    "wof:geomhash":"87d56015de06da1784daf1b03425a8ab",
+    "wof:geomhash":"e516014a1bb6f627753cf1181b095798",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108799737,
-    "wof:lastmodified":1690850270,
+    "wof:lastmodified":1695886658,
     "wof:name":"Balombo",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

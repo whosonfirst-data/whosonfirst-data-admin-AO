@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.062532,
-    "geom:area_square_m":12579461844.727261,
+    "geom:area_square_m":12579462174.504539,
     "geom:bbox":"14.224381,-17.391865,15.591884,-16.001596",
     "geom:latitude":-16.768635,
     "geom:longitude":14.947335,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"AO.CU.OM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985411,
-    "wof:geomhash":"93feee0906391a9c82c22118de38414e",
+    "wof:geomhash":"0dddfccbe22e15510cc85a532dca73ad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108799893,
-    "wof:lastmodified":1627521477,
+    "wof:lastmodified":1695886722,
     "wof:name":"Ombadja",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

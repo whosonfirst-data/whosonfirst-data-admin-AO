@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.562352,
-    "geom:area_square_m":6905619393.772539,
+    "geom:area_square_m":6905619851.621397,
     "geom:bbox":"14.720178,-7.25952,15.624196,-6.161676",
     "geom:latitude":-6.730039,
     "geom:longitude":15.218732,
@@ -103,9 +103,10 @@
         "hasc:id":"AO.UI.DA",
         "wd:id":"Q1621601"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985283,
-    "wof:geomhash":"3d63cb664e82867fbaf28f00a26e9608",
+    "wof:geomhash":"1f452ef3f373eab273235a4d85e2b346",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108799705,
-    "wof:lastmodified":1690850254,
+    "wof:lastmodified":1695886651,
     "wof:name":"Damba",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

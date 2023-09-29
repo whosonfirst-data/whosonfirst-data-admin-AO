@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018081,
-    "geom:area_square_m":221130790.272569,
+    "geom:area_square_m":221130754.168961,
     "geom:bbox":"15.234617,-8.593387,15.447936,-8.384262",
     "geom:latitude":-8.488274,
     "geom:longitude":15.321644,
@@ -94,9 +94,10 @@
         "hasc:id":"AO.CN.QU",
         "wd:id":"Q1619445"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985349,
-    "wof:geomhash":"489b2e111c57b54d0f486b882a2c2140",
+    "wof:geomhash":"e4a77d07b44461a145dcb22431aa1f8b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108799809,
-    "wof:lastmodified":1690850272,
+    "wof:lastmodified":1695886659,
     "wof:name":"Kiculungo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

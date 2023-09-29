@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.961398,
-    "geom:area_square_m":23960542747.272038,
+    "geom:area_square_m":23960543368.051655,
     "geom:bbox":"14.064225,-9.782211,15.83161,-7.932561",
     "geom:latitude":-8.896945,
     "geom:longitude":14.947477,
@@ -333,16 +333,18 @@
         "gn:id":2241660,
         "gp:id":2344660,
         "hasc:id":"AO.CN",
+        "iso:code":"AO-CNO",
         "iso:id":"AO-CNO",
         "qs_pg:id":984063,
         "wd:id":"Q216834",
         "wk:page":"Cuanza Norte Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cea9c1a8205c0aecf24690f56a6fc294",
+    "wof:geomhash":"e339da02a7f690b30e7f3d534320d454",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -357,7 +359,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850235,
+    "wof:lastmodified":1695884935,
     "wof:name":"Cuanza Norte",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

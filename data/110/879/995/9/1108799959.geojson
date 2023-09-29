@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19742,
-    "geom:area_square_m":2380947791.474191,
+    "geom:area_square_m":2380949029.886664,
     "geom:bbox":"13.263695,-13.116877,13.956553,-12.508532",
     "geom:latitude":-12.74944,
     "geom:longitude":13.61249,
@@ -85,9 +85,10 @@
         "hasc:id":"AO.BG.BE",
         "wd:id":"Q3638179"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985444,
-    "wof:geomhash":"8bfd7ac89ebeb8c3c5165cc90093d103",
+    "wof:geomhash":"d2422159ea0fc838c4d2d91261e91f6d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108799959,
-    "wof:lastmodified":1690850261,
+    "wof:lastmodified":1695886067,
     "wof:name":"Benguela",
     "wof:parent_id":85667691,
     "wof:placetype":"county",

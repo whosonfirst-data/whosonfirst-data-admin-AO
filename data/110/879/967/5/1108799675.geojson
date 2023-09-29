@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214751,
-    "geom:area_square_m":2602973331.668373,
+    "geom:area_square_m":2602974027.527036,
     "geom:bbox":"19.759802,-11.612586,20.742848,-11.202384",
     "geom:latitude":-11.407679,
     "geom:longitude":20.24068,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.MX.CN",
         "wd:id":"Q2351418"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985268,
-    "wof:geomhash":"fdd3632aad65844aa9045117f07fc235",
+    "wof:geomhash":"eedc92270a57d3fa9026a057703a6088",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799675,
-    "wof:lastmodified":1690850266,
+    "wof:lastmodified":1695886656,
     "wof:name":"Kamanongue",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

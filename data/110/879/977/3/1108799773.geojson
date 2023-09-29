@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120474,
-    "geom:area_square_m":1454185996.71344,
+    "geom:area_square_m":1454186153.104187,
     "geom:bbox":"15.275042,-12.765688,15.700178,-12.284403",
     "geom:latitude":-12.531942,
     "geom:longitude":15.49207,
@@ -109,9 +109,10 @@
         "hasc:id":"AO.HM.EK",
         "wd:id":"Q1619933"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985326,
-    "wof:geomhash":"a17a14f2ff95f433539a2c287eaf3d7b",
+    "wof:geomhash":"22d9e95774b4fde689aa2fec37cf327c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108799773,
-    "wof:lastmodified":1690850251,
+    "wof:lastmodified":1695886650,
     "wof:name":"Ekunha",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

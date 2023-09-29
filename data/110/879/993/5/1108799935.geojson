@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001261,
-    "geom:area_square_m":15406135.29347,
+    "geom:area_square_m":15406077.371615,
     "geom:bbox":"13.212251,-8.830798,13.274995,-8.761278",
     "geom:latitude":-8.80585,
     "geom:longitude":13.242673,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AO.LU.IN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985431,
-    "wof:geomhash":"71f781133a165f5cf7f13343e5ef677b",
+    "wof:geomhash":"eaa634c957caeb342c93ac509f3f49ae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108799935,
-    "wof:lastmodified":1627521476,
+    "wof:lastmodified":1695886721,
     "wof:name":"Ingombota",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

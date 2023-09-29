@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166437,
-    "geom:area_square_m":2013156230.62675,
+    "geom:area_square_m":2013156349.785938,
     "geom:bbox":"16.513937,-12.25225,17.075456,-11.694368",
     "geom:latitude":-11.986166,
     "geom:longitude":16.808845,
@@ -103,9 +103,10 @@
         "hasc:id":"AO.BI.CN",
         "wd:id":"Q660412"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985417,
-    "wof:geomhash":"8c596ced7477a13fd05b245512a438c3",
+    "wof:geomhash":"dda8a25730ad403af3221a3df2069e08",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108799907,
-    "wof:lastmodified":1690850249,
+    "wof:lastmodified":1695886649,
     "wof:name":"Kunhinga",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.838851,
-    "geom:area_square_m":10268220115.450645,
+    "geom:area_square_m":10268219243.595459,
     "geom:bbox":"19.349167,-8.954818,20.027507,-7.056324",
     "geom:latitude":-8.120899,
     "geom:longitude":19.69298,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"AO.LN.CL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985259,
-    "wof:geomhash":"c247296f926e87f5eafb362e77eb4181",
+    "wof:geomhash":"5ae668c5699b68e70445de5bccebcc3d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108799669,
-    "wof:lastmodified":1627521476,
+    "wof:lastmodified":1695886721,
     "wof:name":"Kuilo",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

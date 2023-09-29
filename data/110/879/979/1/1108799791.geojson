@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.639933,
-    "geom:area_square_m":7744530317.862426,
+    "geom:area_square_m":7744530478.389367,
     "geom:bbox":"20.685309,-12.313318,21.775869,-11.240078",
     "geom:latitude":-11.837695,
     "geom:longitude":21.270348,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.MX.CA",
         "wd:id":"Q3840597"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985339,
-    "wof:geomhash":"ffd1cecbff40488e5e4f4d0feca3dd2d",
+    "wof:geomhash":"8d7d024bfcfa20715025a1b035cdb3d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799791,
-    "wof:lastmodified":1690850254,
+    "wof:lastmodified":1695886652,
     "wof:name":"Kameia",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

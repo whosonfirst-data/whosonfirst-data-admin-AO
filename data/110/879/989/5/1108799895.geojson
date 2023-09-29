@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072144,
-    "geom:area_square_m":881089487.518578,
+    "geom:area_square_m":881089395.961488,
     "geom:bbox":"13.186901,-9.168919,13.533909,-8.842751",
     "geom:latitude":-9.000609,
     "geom:longitude":13.370688,
@@ -142,9 +142,10 @@
         "hasc:id":"AO.LU.VI",
         "wd:id":"Q2304294"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985412,
-    "wof:geomhash":"5a51a55fba805efcf98e7e02178f80fd",
+    "wof:geomhash":"9175f2029145d8d3b047746a329f65ef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1108799895,
-    "wof:lastmodified":1690850274,
+    "wof:lastmodified":1695886068,
     "wof:name":"Viana",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

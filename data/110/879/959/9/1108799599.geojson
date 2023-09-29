@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.479291,
-    "geom:area_square_m":5881774684.897603,
+    "geom:area_square_m":5881774581.386789,
     "geom:bbox":"16.001952,-7.603533,17.109267,-6.669876",
     "geom:latitude":-7.042016,
     "geom:longitude":16.582479,
@@ -56,7 +56,7 @@
     "wof:concordances":{},
     "wof:country":"AO",
     "wof:created":1483985222,
-    "wof:geomhash":"ee6c4ba501de308655e2ab8ffe65aa31",
+    "wof:geomhash":"0a319985baa72be36c5621a93db6dc29",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1108799599,
-    "wof:lastmodified":1627521477,
+    "wof:lastmodified":1695887499,
     "wof:name":"Milunga",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

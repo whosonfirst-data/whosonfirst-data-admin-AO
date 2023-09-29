@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.353457,
-    "geom:area_square_m":4253844071.312003,
+    "geom:area_square_m":4253844075.938491,
     "geom:bbox":"15.287614,-13.765044,15.924828,-12.720321",
     "geom:latitude":-13.268992,
     "geom:longitude":15.573374,
@@ -133,9 +133,10 @@
         "hasc:id":"AO.HM.CA",
         "wd:id":"Q1052090"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985422,
-    "wof:geomhash":"b54fe52de937ed28f72bb56ecfdda1bb",
+    "wof:geomhash":"9b891eafaf7c2dcb336a8b58a003780c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108799917,
-    "wof:lastmodified":1690850246,
+    "wof:lastmodified":1695886648,
     "wof:name":"Kaala",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

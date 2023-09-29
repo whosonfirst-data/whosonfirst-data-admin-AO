@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09133,
-    "geom:area_square_m":1125668487.160414,
+    "geom:area_square_m":1125668436.228632,
     "geom:bbox":"12.643977,-4.804752,13.102885,-4.387944",
     "geom:latitude":-4.60567,
     "geom:longitude":12.842163,
@@ -127,9 +127,10 @@
         "hasc:id":"AO.CB.BE",
         "wd:id":"Q815642"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985366,
-    "wof:geomhash":"b2aabf2271369679045d835ce928d74d",
+    "wof:geomhash":"58358e406b3abe942a9da64a84b4e3ff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108799835,
-    "wof:lastmodified":1690850252,
+    "wof:lastmodified":1695886066,
     "wof:name":"Belize",
     "wof:parent_id":85667683,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176203,
-    "geom:area_square_m":2160683980.471931,
+    "geom:area_square_m":2160683870.351365,
     "geom:bbox":"15.150621,-7.622221,15.764706,-7.143335",
     "geom:latitude":-7.390814,
     "geom:longitude":15.449168,
@@ -79,7 +79,7 @@
     },
     "wof:country":"AO",
     "wof:created":1483985408,
-    "wof:geomhash":"870c930317a290c82c36c30a19e0233e",
+    "wof:geomhash":"ba1de02f593e594f0bdc39fd3566f479",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1108799889,
-    "wof:lastmodified":1690850274,
+    "wof:lastmodified":1695886659,
     "wof:name":"Bungo",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

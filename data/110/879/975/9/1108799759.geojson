@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.182691,
-    "geom:area_square_m":14434269371.327507,
+    "geom:area_square_m":14434269445.662647,
     "geom:bbox":"18.408033,-10.009307,20.04484,-8.656408",
     "geom:latitude":-9.239246,
     "geom:longitude":19.320922,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.LN.LU",
         "wd:id":"Q2351441"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985318,
-    "wof:geomhash":"e9de26becb5d9b14ad8f990ab324f2e0",
+    "wof:geomhash":"ca55b65fb33fa849df65982ac5d5f41c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799759,
-    "wof:lastmodified":1690850276,
+    "wof:lastmodified":1695886659,
     "wof:name":"Lubalo",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

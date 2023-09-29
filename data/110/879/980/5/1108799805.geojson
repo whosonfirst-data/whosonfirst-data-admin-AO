@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.497032,
-    "geom:area_square_m":6053408167.726751,
+    "geom:area_square_m":6053408484.507006,
     "geom:bbox":"16.216672,-10.343377,17.197338,-9.576083",
     "geom:latitude":-9.950903,
     "geom:longitude":16.686475,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.ML.CG",
         "wd:id":"Q1621362"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985347,
-    "wof:geomhash":"000235d36dc0ff58500a00c85f836cc6",
+    "wof:geomhash":"2b0b3d8493007f591c61aa83aa2af1a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799805,
-    "wof:lastmodified":1690850273,
+    "wof:lastmodified":1695886658,
     "wof:name":"Kangandala",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

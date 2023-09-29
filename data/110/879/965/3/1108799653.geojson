@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.818057,
-    "geom:area_square_m":9939572030.661291,
+    "geom:area_square_m":9939572802.849012,
     "geom:bbox":"14.560919,-11.275191,15.993652,-10.247184",
     "geom:latitude":-10.697215,
     "geom:longitude":15.335955,
@@ -112,9 +112,10 @@
         "hasc:id":"AO.CS.QB",
         "wd:id":"Q602772"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985250,
-    "wof:geomhash":"3d1d498037c73c51c6c714889fa69597",
+    "wof:geomhash":"ffd0952c60c097e88cce827f611d4bc0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108799653,
-    "wof:lastmodified":1690850245,
+    "wof:lastmodified":1695886648,
     "wof:name":"Kibala",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

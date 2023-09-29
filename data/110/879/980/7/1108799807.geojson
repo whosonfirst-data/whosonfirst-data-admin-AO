@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.331737,
-    "geom:area_square_m":3979052753.964306,
+    "geom:area_square_m":3979052234.169297,
     "geom:bbox":"14.24934,-14.558034,14.874091,-13.55265",
     "geom:latitude":-14.06062,
     "geom:longitude":14.553021,
@@ -121,9 +121,10 @@
         "hasc:id":"AO.HL.CQ",
         "wd:id":"Q931694"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985348,
-    "wof:geomhash":"a4077c29042cb6c3f12b058aec7db6bb",
+    "wof:geomhash":"84dcbfc01cef270cafb69e8e43b4025f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108799807,
-    "wof:lastmodified":1690850272,
+    "wof:lastmodified":1695886659,
     "wof:name":"Kalukembe",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

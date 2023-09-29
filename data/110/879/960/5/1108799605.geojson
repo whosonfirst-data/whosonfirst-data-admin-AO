@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.346565,
-    "geom:area_square_m":4152496347.454133,
+    "geom:area_square_m":4152496403.328332,
     "geom:bbox":"14.642367,-14.693484,15.427392,-13.938362",
     "geom:latitude":-14.302737,
     "geom:longitude":15.021929,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.HL.CH",
         "wd:id":"Q956860"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985226,
-    "wof:geomhash":"3cad2362511f096daf48c97aca89954d",
+    "wof:geomhash":"c2fd1b7873ea3a70eca3612926493796",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799605,
-    "wof:lastmodified":1690850267,
+    "wof:lastmodified":1695886656,
     "wof:name":"Chicomba",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

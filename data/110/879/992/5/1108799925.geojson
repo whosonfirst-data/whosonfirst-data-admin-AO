@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.782893,
-    "geom:area_square_m":9588590826.197441,
+    "geom:area_square_m":9588590848.607559,
     "geom:bbox":"21.113016,-8.579414,21.917499,-7.280833",
     "geom:latitude":-7.899053,
     "geom:longitude":21.498091,
@@ -103,9 +103,10 @@
         "hasc:id":"AO.LN.CB",
         "wd:id":"Q3651209"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985425,
-    "wof:geomhash":"0227619968abb6e385a3db37fef512aa",
+    "wof:geomhash":"b0edcf1471661028675f85b7167e5249",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108799925,
-    "wof:lastmodified":1690850264,
+    "wof:lastmodified":1695886655,
     "wof:name":"Kambulo",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

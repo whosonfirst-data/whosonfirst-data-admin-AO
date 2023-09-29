@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.313873,
-    "geom:area_square_m":3814536071.700026,
+    "geom:area_square_m":3814535778.834897,
     "geom:bbox":"13.494737,-11.021039,14.277872,-10.208723",
     "geom:latitude":-10.625469,
     "geom:longitude":13.939539,
@@ -154,9 +154,10 @@
         "hasc:id":"AO.CS.PA",
         "wd:id":"Q1018592"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985434,
-    "wof:geomhash":"b33ee7e99aca580f5ab61f605873ba20",
+    "wof:geomhash":"d5c9a477be83be4162ad86e56390dd6f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":1108799943,
-    "wof:lastmodified":1690850268,
+    "wof:lastmodified":1695886657,
     "wof:name":"Porto Amboim",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

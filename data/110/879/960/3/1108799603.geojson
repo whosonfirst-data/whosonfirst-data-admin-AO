@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.384667,
-    "geom:area_square_m":4643031168.734549,
+    "geom:area_square_m":4643031807.054938,
     "geom:bbox":"16.658235,-12.890817,17.453573,-12.043001",
     "geom:latitude":-12.537779,
     "geom:longitude":17.022661,
@@ -232,9 +232,10 @@
         "hasc:id":"AO.BI.KU",
         "wd:id":"Q843980"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985225,
-    "wof:geomhash":"41f39706dd52649e6a33a73b490e4e68",
+    "wof:geomhash":"1de35ff0ec98f260686a5b079d833e6e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -244,7 +245,7 @@
         }
     ],
     "wof:id":1108799603,
-    "wof:lastmodified":1690850267,
+    "wof:lastmodified":1695886066,
     "wof:name":"Kuito",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

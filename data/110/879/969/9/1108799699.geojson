@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.630943,
-    "geom:area_square_m":7569853079.459894,
+    "geom:area_square_m":7569852730.906834,
     "geom:bbox":"12.455917,-14.507184,13.64079,-13.511118",
     "geom:latitude":-14.002477,
     "geom:longitude":13.033133,
@@ -94,9 +94,10 @@
         "hasc:id":"AO.NA.CA",
         "wd:id":"Q3651110"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985281,
-    "wof:geomhash":"dafe4d582383336871cb8c621e8b627d",
+    "wof:geomhash":"93ec51be1b7f18fa33adb7113b5eb1ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108799699,
-    "wof:lastmodified":1690850268,
+    "wof:lastmodified":1695886657,
     "wof:name":"Kamukuio",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

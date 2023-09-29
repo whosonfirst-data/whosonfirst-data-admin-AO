@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.992152,
-    "geom:area_square_m":11866821114.590902,
+    "geom:area_square_m":11866821061.099201,
     "geom:bbox":"16.471447,-15.504462,17.430926,-13.966711",
     "geom:latitude":-14.690909,
     "geom:longitude":16.967587,
@@ -109,9 +109,10 @@
         "hasc:id":"AO.CC.CH",
         "wd:id":"Q2944829"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985397,
-    "wof:geomhash":"96266280e55c2303819ef29cd3ddd818",
+    "wof:geomhash":"7a75243730fc6004b967ec8d62ca6d60",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108799877,
-    "wof:lastmodified":1690850270,
+    "wof:lastmodified":1695886658,
     "wof:name":"Kuchi",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

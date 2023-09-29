@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.687887,
-    "geom:area_square_m":8183035000.784503,
+    "geom:area_square_m":8183034813.653824,
     "geom:bbox":"13.49382,-16.367877,14.876577,-15.29332",
     "geom:latitude":-15.834543,
     "geom:longitude":14.059624,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.HL.CG",
         "wd:id":"Q2342418"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985420,
-    "wof:geomhash":"85a3575e75b0f7646924bf48c5624a3c",
+    "wof:geomhash":"a4038f391876142e661c6e178c0f83a0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799913,
-    "wof:lastmodified":1690850246,
+    "wof:lastmodified":1695886649,
     "wof:name":"Gambos",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

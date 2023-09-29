@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10876,
-    "geom:area_square_m":1334517359.6359,
+    "geom:area_square_m":1334517467.083908,
     "geom:bbox":"14.720633,-7.380183,15.277222,-6.768783",
     "geom:latitude":-7.103601,
     "geom:longitude":15.046834,
@@ -94,9 +94,10 @@
         "hasc:id":"AO.UI.MU",
         "wd:id":"Q1621358"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985316,
-    "wof:geomhash":"27d609feaed853c05befd5399c6ad10e",
+    "wof:geomhash":"6d4f4df9538b89abc5a01c403d9c77f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108799753,
-    "wof:lastmodified":1690850276,
+    "wof:lastmodified":1695886660,
     "wof:name":"Mucaba",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

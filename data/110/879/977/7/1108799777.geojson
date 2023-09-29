@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.199142,
-    "geom:area_square_m":2451244151.457283,
+    "geom:area_square_m":2451244070.216059,
     "geom:bbox":"12.145389,-5.774131,12.536667,-5.093487",
     "geom:latitude":-5.461229,
     "geom:longitude":12.367804,
@@ -259,9 +259,10 @@
         "hasc:id":"AO.CB.CB",
         "wd:id":"Q459360"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985328,
-    "wof:geomhash":"8424baff40a17313435b124b4e99fa58",
+    "wof:geomhash":"8dfa91b78bf95d71d0e31f157f33997d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -271,7 +272,7 @@
         }
     ],
     "wof:id":1108799777,
-    "wof:lastmodified":1690850250,
+    "wof:lastmodified":1695886064,
     "wof:name":"Cabinda",
     "wof:parent_id":85667683,
     "wof:placetype":"county",

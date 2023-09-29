@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.3946,
-    "geom:area_square_m":4849991208.075558,
+    "geom:area_square_m":4849990961.149923,
     "geom:bbox":"12.272861,-6.731924,13.15217,-5.863608",
     "geom:latitude":-6.280469,
     "geom:longitude":12.733611,
@@ -175,9 +175,10 @@
         "hasc:id":"AO.ZA.SO",
         "wd:id":"Q1015108"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985315,
-    "wof:geomhash":"236f032d4ca067eff08895f8a14d26fd",
+    "wof:geomhash":"d558a76eb71244b4de43e34025274962",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":1108799751,
-    "wof:lastmodified":1690850276,
+    "wof:lastmodified":1695886067,
     "wof:name":"Soyo",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.738972,
-    "geom:area_square_m":8823664677.651644,
+    "geom:area_square_m":8823664511.022932,
     "geom:bbox":"14.140192,-15.693083,14.941349,-14.399724",
     "geom:latitude":-15.057133,
     "geom:longitude":14.56095,
@@ -115,9 +115,10 @@
         "hasc:id":"AO.HL.QP",
         "wd:id":"Q774789"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985428,
-    "wof:geomhash":"e8b03cf84d12f7ca1e1052050acd86ba",
+    "wof:geomhash":"5a7a08fda3608c82196d7dabd574ce25",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108799929,
-    "wof:lastmodified":1690850263,
+    "wof:lastmodified":1695886655,
     "wof:name":"Tchipungo",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

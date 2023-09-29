@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.588536,
-    "geom:area_square_m":7196876780.955568,
+    "geom:area_square_m":7196877319.778927,
     "geom:bbox":"13.344556,-8.943501,14.38536,-8.050026",
     "geom:latitude":-8.526343,
     "geom:longitude":13.853108,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AO.BO.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985395,
-    "wof:geomhash":"e128f78a0d114f9fada1575656e32388",
+    "wof:geomhash":"70677525b01beb387b9e3869b8100268",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108799875,
-    "wof:lastmodified":1627521476,
+    "wof:lastmodified":1695886721,
     "wof:name":"Dande",
     "wof:parent_id":85667657,
     "wof:placetype":"county",

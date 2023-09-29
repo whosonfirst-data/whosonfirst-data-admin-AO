@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.268505,
-    "geom:area_square_m":3278907189.475031,
+    "geom:area_square_m":3278907110.897305,
     "geom:bbox":"16.036264,-9.358844,16.79653,-8.720312",
     "geom:latitude":-9.036218,
     "geom:longitude":16.460612,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.ML.CN",
         "wd:id":"Q1621354"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985282,
-    "wof:geomhash":"ab072185f509c565631265029335c8bb",
+    "wof:geomhash":"e69b98c323cdf6975c010c56d54e6622",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799701,
-    "wof:lastmodified":1690850253,
+    "wof:lastmodified":1695886651,
     "wof:name":"Kiuaba-Nzoji",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

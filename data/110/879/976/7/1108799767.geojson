@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.748059,
-    "geom:area_square_m":20726694429.422817,
+    "geom:area_square_m":20726694433.727272,
     "geom:bbox":"15.179605,-17.304254,17.429571,-15.749592",
     "geom:latitude":-16.480193,
     "geom:longitude":16.326329,
@@ -94,9 +94,10 @@
         "hasc:id":"AO.CU.CN",
         "wd:id":"Q3817632"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985323,
-    "wof:geomhash":"0e45a81c9ca507c182c8ad284969f51e",
+    "wof:geomhash":"fbfbbd52cbacded61b2313769e8e6a22",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108799767,
-    "wof:lastmodified":1690850259,
+    "wof:lastmodified":1695886653,
     "wof:name":"Kwanyama",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

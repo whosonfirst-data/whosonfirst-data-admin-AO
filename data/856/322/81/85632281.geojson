@@ -1194,6 +1194,7 @@
         "hasc:id":"AO",
         "icao:code":"D2",
         "ioc:id":"ANG",
+        "iso:code":"AO",
         "itu:id":"AGL",
         "m49:code":"024",
         "marc:id":"ao",
@@ -1207,6 +1208,7 @@
         "wk:page":"Angola",
         "wmo:id":"AN"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:country_alpha3":"AGO",
     "wof:geom_alt":[
@@ -1228,7 +1230,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1694639554,
+    "wof:lastmodified":1695881213,
     "wof:name":"Angola",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

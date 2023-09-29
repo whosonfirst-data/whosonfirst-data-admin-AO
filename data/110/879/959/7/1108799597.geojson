@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.676775,
-    "geom:area_square_m":7986877026.523408,
+    "geom:area_square_m":7986876876.083797,
     "geom:bbox":"18.865298,-17.910504,20.050544,-16.761924",
     "geom:latitude":-17.366749,
     "geom:longitude":19.42101,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.CC.CA",
         "wd:id":"Q1619493"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985219,
-    "wof:geomhash":"a65863cd1d9a18b4bd810bb0874040d5",
+    "wof:geomhash":"dd806e6c90ea0b6a849a1cf123b9df37",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799597,
-    "wof:lastmodified":1690850264,
+    "wof:lastmodified":1695886656,
     "wof:name":"Kalai",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

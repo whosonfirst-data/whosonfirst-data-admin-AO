@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.460853,
-    "geom:area_square_m":5655381486.647009,
+    "geom:area_square_m":5655381486.647088,
     "geom:bbox":"13.8074179256,-7.52543130452,14.7477369777,-6.57753747308",
     "geom:latitude":-7.052368,
     "geom:longitude":14.2782,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"AO.UI.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985438,
-    "wof:geomhash":"23aa662b370940539663a1a23657e5da",
+    "wof:geomhash":"c44a8b1797794efd9f3e113f4695a562",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108799951,
-    "wof:lastmodified":1566586704,
+    "wof:lastmodified":1695886654,
     "wof:name":"Bembe",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

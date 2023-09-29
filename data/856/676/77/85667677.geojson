@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.00541,
-    "geom:area_square_m":36914498384.35833,
+    "geom:area_square_m":36914499529.294434,
     "geom:bbox":"12.272861,-7.800718,14.985227,-5.832283",
     "geom:latitude":-6.604749,
     "geom:longitude":13.565652,
@@ -335,6 +335,7 @@
         "gn:id":2236355,
         "gp:id":2344670,
         "hasc:id":"AO.ZA",
+        "iso:code":"AO-ZAI",
         "iso:id":"AO-ZAI",
         "loc:id":"n80061025",
         "qs_pg:id":1083786,
@@ -342,11 +343,12 @@
         "wd:id":"Q196674",
         "wk:page":"Zaire Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea7e9442afdf0e052c9bd1d3a3586ae1",
+    "wof:geomhash":"615695cb5f880af889d0e2a7b031b6b4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -361,7 +363,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850239,
+    "wof:lastmodified":1695884936,
     "wof:name":"Zaire",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

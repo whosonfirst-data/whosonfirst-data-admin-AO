@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214111,
-    "geom:area_square_m":2616302142.184469,
+    "geom:area_square_m":2616302221.987225,
     "geom:bbox":"15.262502,-9.179311,15.737276,-8.450331",
     "geom:latitude":-8.807045,
     "geom:longitude":15.496803,
@@ -94,9 +94,10 @@
         "hasc:id":"AO.CN.SC",
         "wd:id":"Q302566"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985235,
-    "wof:geomhash":"7f8cc017b07fb85201db2654acb18461",
+    "wof:geomhash":"66ecdee54fc778be5da1e618b2e96d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108799625,
-    "wof:lastmodified":1690850247,
+    "wof:lastmodified":1695886649,
     "wof:name":"Samba Caju",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

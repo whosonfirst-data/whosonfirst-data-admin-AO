@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.767945,
-    "geom:area_square_m":82526783894.399643,
+    "geom:area_square_m":82526784790.169327,
     "geom:bbox":"15.113665,-11.73238,18.85319,-7.318705",
     "geom:latitude":-9.490122,
     "geom:longitude":16.962231,
@@ -323,16 +323,18 @@
         "gn:id":2239858,
         "gp:id":2344666,
         "hasc:id":"AO.ML",
+        "iso:code":"AO-MAL",
         "iso:id":"AO-MAL",
         "qs_pg:id":318267,
         "wd:id":"Q219072",
         "wk:page":"Malanje Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"87617457888e7c36a190dca4666a6ed1",
+    "wof:geomhash":"cb319d995ceeaa3d31d24fb03be9db13",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -347,7 +349,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850238,
+    "wof:lastmodified":1695884936,
     "wof:name":"Malanje",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.355545,
-    "geom:area_square_m":16526040142.561293,
+    "geom:area_square_m":16526039688.443726,
     "geom:bbox":"17.335825,-10.669135,18.70089,-8.351692",
     "geom:latitude":-9.602325,
     "geom:longitude":18.022217,
@@ -112,9 +112,10 @@
         "hasc:id":"AO.LN.XM",
         "wd:id":"Q1620892"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985277,
-    "wof:geomhash":"6e91f3c3361a44032894024f298cb5be",
+    "wof:geomhash":"19e11b4a21c8ad24d618d08363bdccb5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108799693,
-    "wof:lastmodified":1690850269,
+    "wof:lastmodified":1695886658,
     "wof:name":"Xa-Muteba",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.478917,
-    "geom:area_square_m":5861773099.831313,
+    "geom:area_square_m":5861772634.540392,
     "geom:bbox":"16.54164,-8.725964,17.565135,-7.617681",
     "geom:latitude":-8.169238,
     "geom:longitude":17.11535,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.ML.MR",
         "wd:id":"Q1621369"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985233,
-    "wof:geomhash":"8e01c8910b5e83f7a915500b44f94b71",
+    "wof:geomhash":"6f6f96e490f438ea41aa7335b2c57f90",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799621,
-    "wof:lastmodified":1690850247,
+    "wof:lastmodified":1695886649,
     "wof:name":"Marimba",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

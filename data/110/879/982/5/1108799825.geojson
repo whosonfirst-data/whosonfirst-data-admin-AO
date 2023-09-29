@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213407,
-    "geom:area_square_m":2578893294.315256,
+    "geom:area_square_m":2578892927.681609,
     "geom:bbox":"15.020755,-12.518412,15.679133,-11.959594",
     "geom:latitude":-12.233422,
     "geom:longitude":15.292835,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.HM.LD",
         "wd:id":"Q1026734"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985360,
-    "wof:geomhash":"b0494f116e2dbe4ecd9b1564835a668b",
+    "wof:geomhash":"9ddd09314af7f9990ccfae415e86de5d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799825,
-    "wof:lastmodified":1690850259,
+    "wof:lastmodified":1695886654,
     "wof:name":"Londuimbali",
     "wof:parent_id":85667705,
     "wof:placetype":"county",

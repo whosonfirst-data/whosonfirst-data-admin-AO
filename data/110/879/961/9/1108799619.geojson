@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109872,
-    "geom:area_square_m":1343819602.577435,
+    "geom:area_square_m":1343819331.14243,
     "geom:bbox":"14.872886,-8.752725,15.331107,-8.248131",
     "geom:latitude":-8.455964,
     "geom:longitude":15.092257,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.CN.BO",
         "wd:id":"Q2351409"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985232,
-    "wof:geomhash":"50da94c34c644b2d070de37230a1644e",
+    "wof:geomhash":"463294ffbbf9b01f1fcd2d270bbdf235",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799619,
-    "wof:lastmodified":1690850262,
+    "wof:lastmodified":1695886655,
     "wof:name":"Bolongongo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

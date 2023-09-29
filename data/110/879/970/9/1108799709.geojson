@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.776347,
-    "geom:area_square_m":9373764044.108202,
+    "geom:area_square_m":9373763641.943237,
     "geom:bbox":"17.341767,-13.070232,18.432641,-11.689793",
     "geom:latitude":-12.450102,
     "geom:longitude":17.78431,
@@ -118,9 +118,10 @@
         "hasc:id":"AO.BI.CP",
         "wd:id":"Q1027956"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985287,
-    "wof:geomhash":"471fdcb99122ffd4cf3c33a34937b4ef",
+    "wof:geomhash":"69b20f8fa906f1d1bda9e29dd082f72a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108799709,
-    "wof:lastmodified":1690850253,
+    "wof:lastmodified":1695886651,
     "wof:name":"Kamakupa",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

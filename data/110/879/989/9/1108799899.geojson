@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.28833,
-    "geom:area_square_m":3544317086.696553,
+    "geom:area_square_m":3544317157.902312,
     "geom:bbox":"14.378844,-6.603282,14.985227,-5.874409",
     "geom:latitude":-6.210836,
     "geom:longitude":14.659896,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.ZA.CU",
         "wd:id":"Q1620763"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985414,
-    "wof:geomhash":"8d2df27c7d580e98fa614e74808fb72a",
+    "wof:geomhash":"521da1d9d2e12059d2024b56f7fe0c99",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799899,
-    "wof:lastmodified":1690850273,
+    "wof:lastmodified":1695886659,
     "wof:name":"Kuimba",
     "wof:parent_id":85667677,
     "wof:placetype":"county",

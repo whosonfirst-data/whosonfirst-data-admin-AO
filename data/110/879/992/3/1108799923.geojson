@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.928074,
-    "geom:area_square_m":10970007192.209635,
+    "geom:area_square_m":10970007199.717108,
     "geom:bbox":"15.364411,-17.390944,17.318479,-16.556566",
     "geom:latitude":-17.073178,
     "geom:longitude":16.610816,
@@ -112,9 +112,10 @@
         "hasc:id":"AO.CU.NA",
         "wd:id":"Q1619295"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985424,
-    "wof:geomhash":"890de19ab9a64f94965dedbfbe6ec2cc",
+    "wof:geomhash":"5ef9df3c4b026766ca116fe6e85a8420",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108799923,
-    "wof:lastmodified":1690850264,
+    "wof:lastmodified":1695886655,
     "wof:name":"Namakunde",
     "wof:parent_id":85667701,
     "wof:placetype":"county",

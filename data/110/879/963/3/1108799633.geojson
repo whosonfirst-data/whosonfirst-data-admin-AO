@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247579,
-    "geom:area_square_m":2992824464.971652,
+    "geom:area_square_m":2992824589.134135,
     "geom:bbox":"16.992032,-12.500449,17.512634,-11.769066",
     "geom:latitude":-12.145808,
     "geom:longitude":17.257486,
@@ -118,9 +118,10 @@
         "hasc:id":"AO.BI.CB",
         "wd:id":"Q2341822"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985239,
-    "wof:geomhash":"0b5e6ce85cb64bfdfd49e9cb355d1353",
+    "wof:geomhash":"9954c4dfd626039b8f991edbd90c8adf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108799633,
-    "wof:lastmodified":1690850248,
+    "wof:lastmodified":1695886649,
     "wof:name":"Katabola",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

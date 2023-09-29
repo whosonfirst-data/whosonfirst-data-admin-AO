@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.337269,
-    "geom:area_square_m":4086667869.281509,
+    "geom:area_square_m":4086667976.533088,
     "geom:bbox":"13.767083,-11.99996,14.537733,-10.866658",
     "geom:latitude":-11.497182,
     "geom:longitude":14.047552,
@@ -76,9 +76,10 @@
         "hasc:id":"AO.CS.SU",
         "wd:id":"Q3976898"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985340,
-    "wof:geomhash":"52de42fd2b9483c96455cf7f73046ce7",
+    "wof:geomhash":"9b53564269f5ab3bf2fed1b247c8d6f5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108799795,
-    "wof:lastmodified":1636502535,
+    "wof:lastmodified":1695886066,
     "wof:name":"Sumbe",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

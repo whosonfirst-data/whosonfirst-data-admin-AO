@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.362655,
-    "geom:area_square_m":40305125118.700142,
+    "geom:area_square_m":40305125134.536171,
     "geom:bbox":"20.307763,-16.160437,22.000278,-12.732271",
     "geom:latitude":-14.203604,
     "geom:longitude":21.321144,
@@ -47,7 +47,7 @@
     "wof:concordances":{},
     "wof:country":"AO",
     "wof:created":1483985234,
-    "wof:geomhash":"dc8f76a45bca4a3151227d105d9ae060",
+    "wof:geomhash":"24ab2d4799e26ed4a7e89198fc119ab5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":1108799623,
-    "wof:lastmodified":1627521476,
+    "wof:lastmodified":1695887499,
     "wof:name":"Lumbala-Nguimbo",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

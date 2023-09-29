@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330642,
-    "geom:area_square_m":4007000914.753705,
+    "geom:area_square_m":4007001198.127671,
     "geom:bbox":"14.024908,-11.720268,14.943653,-11.153088",
     "geom:latitude":-11.455515,
     "geom:longitude":14.499466,
@@ -112,9 +112,10 @@
         "hasc:id":"AO.CS.SE",
         "wd:id":"Q2572141"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985343,
-    "wof:geomhash":"0e9e754d1c997f1dd150d07716b57bcd",
+    "wof:geomhash":"22a27b3ccd2ebdced3ba6fd7d44051c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108799799,
-    "wof:lastmodified":1690850254,
+    "wof:lastmodified":1695886652,
     "wof:name":"Seles",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

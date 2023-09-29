@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.268598,
-    "geom:area_square_m":3287112154.364472,
+    "geom:area_square_m":3287112524.864434,
     "geom:bbox":"15.17106,-8.567202,15.83161,-7.932561",
     "geom:latitude":-8.22222,
     "geom:longitude":15.512988,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.CN.AM",
         "wd:id":"Q1619833"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985432,
-    "wof:geomhash":"26f41e59c44a40fddf768db7ad2cc16f",
+    "wof:geomhash":"ef4db2d3e300bdc09ca87493e60fd06e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799939,
-    "wof:lastmodified":1690850265,
+    "wof:lastmodified":1695886656,
     "wof:name":"Ambaca",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

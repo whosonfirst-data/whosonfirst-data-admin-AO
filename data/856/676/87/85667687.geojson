@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.997138,
-    "geom:area_square_m":72438817512.326935,
+    "geom:area_square_m":72438817500.400299,
     "geom:bbox":"15.75345,-14.311489,19.252095,-10.569328",
     "geom:latitude":-12.322836,
     "geom:longitude":17.366099,
@@ -340,17 +340,19 @@
         "gn:id":3351640,
         "gp:id":2344657,
         "hasc:id":"AO.BI",
+        "iso:code":"AO-BIE",
         "iso:id":"AO-BIE",
         "qs_pg:id":219498,
         "unlc:id":"AO-BIE",
         "wd:id":"Q213977",
         "wk:page":"Bi\u00e9 Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a2d79a4847d8af91963b328c79e854fa",
+    "wof:geomhash":"b774d9c0ef200c2273a050656568451a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -365,7 +367,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850237,
+    "wof:lastmodified":1695884479,
     "wof:name":"Bi\u00e9",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

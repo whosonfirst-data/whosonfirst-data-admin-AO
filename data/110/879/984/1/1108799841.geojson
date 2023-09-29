@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.399611,
-    "geom:area_square_m":4836464400.789289,
+    "geom:area_square_m":4836464438.404771,
     "geom:bbox":"14.461191,-12.205326,15.414319,-11.37562",
     "geom:latitude":-11.820984,
     "geom:longitude":14.969338,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.CS.CA",
         "wd:id":"Q591126"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985370,
-    "wof:geomhash":"aac90ab2dd31d6fe0dc9f845263216ef",
+    "wof:geomhash":"5845af102594218f688ead1b91c5d3a7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799841,
-    "wof:lastmodified":1690850252,
+    "wof:lastmodified":1695886651,
     "wof:name":"Kassongue",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.23922,
-    "geom:area_square_m":2896079178.20981,
+    "geom:area_square_m":2896079157.103021,
     "geom:bbox":"20.159167,-12.015853,20.921767,-11.52168",
     "geom:latitude":-11.743227,
     "geom:longitude":20.581917,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.MX.LE",
         "wd:id":"Q1620853"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985421,
-    "wof:geomhash":"a455ea8ec9b960850382e4741257aedf",
+    "wof:geomhash":"9a39876e76c0b4d4d2c73cf81fb26b56",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799915,
-    "wof:lastmodified":1690850246,
+    "wof:lastmodified":1695886649,
     "wof:name":"Leua",
     "wof:parent_id":85667711,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.619305,
-    "geom:area_square_m":7614206816.816648,
+    "geom:area_square_m":7614206106.416634,
     "geom:bbox":"14.768831,-6.642691,16.438222,-5.859311",
     "geom:latitude":-6.115527,
     "geom:longitude":15.505951,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"AO.UI.ZO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985443,
-    "wof:geomhash":"f6cf8e30c648a889298705d6e3eb3709",
+    "wof:geomhash":"b2baf9203a721aad00878e4d8fc1d9fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108799957,
-    "wof:lastmodified":1627521476,
+    "wof:lastmodified":1695886721,
     "wof:name":"Maquela do Zombo",
     "wof:parent_id":85667673,
     "wof:placetype":"county",

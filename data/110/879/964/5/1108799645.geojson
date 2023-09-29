@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.52658,
-    "geom:area_square_m":6422148168.03372,
+    "geom:area_square_m":6422147910.142296,
     "geom:bbox":"15.113665,-9.810567,16.246318,-9.128951",
     "geom:latitude":-9.488675,
     "geom:longitude":15.630232,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"AO.ML.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985246,
-    "wof:geomhash":"9a883f70d49fb95c01958b75d0e6338d",
+    "wof:geomhash":"2b787688ff228d75f66d60d42f7f236a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108799645,
-    "wof:lastmodified":1627521476,
+    "wof:lastmodified":1695886721,
     "wof:name":"Kakuso",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

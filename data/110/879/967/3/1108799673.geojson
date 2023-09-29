@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.554227,
-    "geom:area_square_m":6720045246.211109,
+    "geom:area_square_m":6720044652.535748,
     "geom:bbox":"16.742593,-11.841316,17.536509,-10.739772",
     "geom:latitude":-11.306312,
     "geom:longitude":17.161212,
@@ -112,9 +112,10 @@
         "hasc:id":"AO.BI.NH",
         "wd:id":"Q2342542"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985266,
-    "wof:geomhash":"d372b6e84a96a65adba002b55c56c002",
+    "wof:geomhash":"e5b9c48383ccf4175789bb35204ea001",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108799673,
-    "wof:lastmodified":1690850266,
+    "wof:lastmodified":1695886656,
     "wof:name":"Nharea",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

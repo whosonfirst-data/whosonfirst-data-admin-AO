@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.516408,
-    "geom:area_square_m":18547997518.049511,
+    "geom:area_square_m":18547998020.138756,
     "geom:bbox":"19.894491,-9.422387,21.265137,-7.6362",
     "geom:latitude":-8.42203,
     "geom:longitude":20.483795,
@@ -47,7 +47,7 @@
     "wof:concordances":{},
     "wof:country":"AO",
     "wof:created":1483985278,
-    "wof:geomhash":"04a7c9191acfd441040b5ca7fd5d9bed",
+    "wof:geomhash":"6c2b041e3a2719927f4398408c0e07fc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":1108799695,
-    "wof:lastmodified":1627521476,
+    "wof:lastmodified":1695887499,
     "wof:name":"Lukapa",
     "wof:parent_id":85667645,
     "wof:placetype":"county",

@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"AO.LU.SZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985419,
-    "wof:geomhash":"edc70423efc68e8198c78e1b6afebaba",
+    "wof:geomhash":"09bd92e8b57358fceabe80ed641891e9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108799911,
-    "wof:lastmodified":1566586685,
+    "wof:lastmodified":1695886648,
     "wof:name":"Sambizanga",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

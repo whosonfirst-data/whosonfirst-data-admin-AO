@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.994572,
-    "geom:area_square_m":11889202669.800856,
+    "geom:area_square_m":11889202047.984468,
     "geom:bbox":"15.266546,-15.484559,16.389893,-14.068074",
     "geom:latitude":-14.811672,
     "geom:longitude":15.846056,
@@ -106,9 +106,10 @@
         "hasc:id":"AO.HL.JA",
         "wd:id":"Q3806439"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985345,
-    "wof:geomhash":"58b1f1e0fb3d58921e52f266b684718b",
+    "wof:geomhash":"ffca5c44ce14e027086c3fc2c1c11162",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108799801,
-    "wof:lastmodified":1690850273,
+    "wof:lastmodified":1695886658,
     "wof:name":"Jamba",
     "wof:parent_id":85667707,
     "wof:placetype":"county",

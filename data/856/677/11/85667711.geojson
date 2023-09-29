@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.597751,
-    "geom:area_square_m":200034625478.00882,
+    "geom:area_square_m":200034626715.215698,
     "geom:bbox":"17.946408,-16.160437,24.084445,-10.587299",
     "geom:latitude":-12.877034,
     "geom:longitude":21.039158,
@@ -338,17 +338,19 @@
         "gn:id":875996,
         "gp:id":2344668,
         "hasc:id":"AO.MX",
+        "iso:code":"AO-MOX",
         "iso:id":"AO-MOX",
         "qs_pg:id":1142803,
         "unlc:id":"AO-MOX",
         "wd:id":"Q173988",
         "wk:page":"Moxico Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c4a8ff62b0d00e81719cd26952e7b0a4",
+    "wof:geomhash":"0354d746b0335448be3f9aa606558e95",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -363,7 +365,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850239,
+    "wof:lastmodified":1695884937,
     "wof:name":"Moxico",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

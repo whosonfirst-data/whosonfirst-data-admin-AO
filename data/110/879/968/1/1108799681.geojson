@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.127963,
-    "geom:area_square_m":13651942854.597881,
+    "geom:area_square_m":13651942318.200642,
     "geom:bbox":"17.628793,-12.491306,19.252095,-10.974665",
     "geom:latitude":-11.811374,
     "geom:longitude":18.455478,
@@ -103,9 +103,10 @@
         "hasc:id":"AO.BI.CM",
         "wd:id":"Q931987"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985270,
-    "wof:geomhash":"437156b464f3a213e038121fa3299193",
+    "wof:geomhash":"da6fc70fe03e1bf302e494f4fa85fa27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108799681,
-    "wof:lastmodified":1690850261,
+    "wof:lastmodified":1695886654,
     "wof:name":"Kuemba",
     "wof:parent_id":85667687,
     "wof:placetype":"county",

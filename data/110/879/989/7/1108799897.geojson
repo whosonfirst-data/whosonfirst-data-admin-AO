@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.307629,
-    "geom:area_square_m":15557042387.480572,
+    "geom:area_square_m":15557043204.938473,
     "geom:bbox":"12.203716,-16.464543,13.611611,-15.152677",
     "geom:latitude":-15.811799,
     "geom:longitude":12.945136,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.NA.VI",
         "wd:id":"Q2346656"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985413,
-    "wof:geomhash":"3025d33ca35937e8a30c962f5022a24c",
+    "wof:geomhash":"79f3e4b17e4880e4e34e446c6a3f197c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799897,
-    "wof:lastmodified":1690850274,
+    "wof:lastmodified":1695886659,
     "wof:name":"Virei",
     "wof:parent_id":85667717,
     "wof:placetype":"county",

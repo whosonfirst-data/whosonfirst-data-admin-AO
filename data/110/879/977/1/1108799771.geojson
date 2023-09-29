@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.561313,
-    "geom:area_square_m":6832689344.430781,
+    "geom:area_square_m":6832688836.639469,
     "geom:bbox":"16.936985,-10.547171,18.083394,-9.581336",
     "geom:latitude":-10.12112,
     "geom:longitude":17.450534,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.ML.CC",
         "wd:id":"Q1621393"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985325,
-    "wof:geomhash":"b4c6b8b927c704775b6b04e838eb8fca",
+    "wof:geomhash":"991206545ed44559f063ee490e1b9bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799771,
-    "wof:lastmodified":1690850250,
+    "wof:lastmodified":1695886650,
     "wof:name":"Kambundi-Katembo",
     "wof:parent_id":85667653,
     "wof:placetype":"county",

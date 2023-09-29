@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09357,
-    "geom:area_square_m":1136182089.750431,
+    "geom:area_square_m":1136182325.453766,
     "geom:bbox":"14.167444,-11.081748,14.633715,-10.707519",
     "geom:latitude":-10.886512,
     "geom:longitude":14.407524,
@@ -85,9 +85,10 @@
         "hasc:id":"AO.CS.AM",
         "wd:id":"Q3613789"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985361,
-    "wof:geomhash":"f54c8978553db1edc69160f0a0c382c2",
+    "wof:geomhash":"232498929297e93870c1212c7c501d23",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108799827,
-    "wof:lastmodified":1690850258,
+    "wof:lastmodified":1695886653,
     "wof:name":"Amboim",
     "wof:parent_id":85667665,
     "wof:placetype":"county",

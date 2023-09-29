@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002969,
-    "geom:area_square_m":36273865.430901,
+    "geom:area_square_m":36273916.456453,
     "geom:bbox":"13.27019,-8.864123,13.324788,-8.784052",
     "geom:latitude":-8.822926,
     "geom:longitude":13.300762,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.LU.CZ",
         "wd:id":"Q1005786"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985268,
-    "wof:geomhash":"8bbdd6403fc0a8e2af763b31de7e850f",
+    "wof:geomhash":"49d66d31eb302802f1b17c9501dad9e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799677,
-    "wof:lastmodified":1690850266,
+    "wof:lastmodified":1695886656,
     "wof:name":"Cazenga",
     "wof:parent_id":85667669,
     "wof:placetype":"county",

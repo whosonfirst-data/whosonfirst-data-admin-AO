@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172498,
-    "geom:area_square_m":2104825145.681204,
+    "geom:area_square_m":2104825309.264071,
     "geom:bbox":"14.388068,-9.488526,15.188968,-9.099675",
     "geom:latitude":-9.318512,
     "geom:longitude":14.780124,
@@ -97,9 +97,10 @@
         "hasc:id":"AO.CN.CZ",
         "wd:id":"Q1619683"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985289,
-    "wof:geomhash":"b3111b5b35074ecad7a6a7edc2c8a013",
+    "wof:geomhash":"7d0a63e5197c2910cdca1102a6d89178",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108799713,
-    "wof:lastmodified":1690850257,
+    "wof:lastmodified":1695886652,
     "wof:name":"Kazengo",
     "wof:parent_id":85667659,
     "wof:placetype":"county",

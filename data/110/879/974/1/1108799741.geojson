@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.564543,
-    "geom:area_square_m":18447597145.04781,
+    "geom:area_square_m":18447597102.73695,
     "geom:bbox":"19.707183,-18.039104,21.764159,-16.993151",
     "geom:latitude":-17.526637,
     "geom:longitude":20.831388,
@@ -100,9 +100,10 @@
         "hasc:id":"AO.CC.DI",
         "wd:id":"Q1619260"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AO",
     "wof:created":1483985308,
-    "wof:geomhash":"e721a88dcbaef027435dbb76917c5079",
+    "wof:geomhash":"66ab187d427e47e5c90a0cba61bd1f78",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108799741,
-    "wof:lastmodified":1690850272,
+    "wof:lastmodified":1695886658,
     "wof:name":"Dirico",
     "wof:parent_id":85667695,
     "wof:placetype":"county",

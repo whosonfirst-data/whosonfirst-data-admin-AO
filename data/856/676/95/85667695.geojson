@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.888702,
-    "geom:area_square_m":200587740790.507477,
+    "geom:area_square_m":200587739539.979187,
     "geom:bbox":"16.471447,-18.039104,23.434232,-13.567188",
     "geom:latitude":-16.117869,
     "geom:longitude":19.5276,
@@ -345,16 +345,18 @@
         "gn:id":876337,
         "gp:id":2344659,
         "hasc:id":"AO.CC",
+        "iso:code":"AO-CCU",
         "iso:id":"AO-CCU",
         "qs_pg:id":984062,
         "wd:id":"Q215268",
         "wk:page":"Cuando Cubango Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b92e4a48ea1252aaf1be5b9ac74ec1fb",
+    "wof:geomhash":"cf4cae0b4567cf3c5cc19b1928041cee",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -369,7 +371,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850235,
+    "wof:lastmodified":1695884935,
     "wof:name":"Cuando Cubango",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

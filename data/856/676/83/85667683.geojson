@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.572781,
-    "geom:area_square_m":7054893684.402952,
+    "geom:area_square_m":7054893351.563952,
     "geom:bbox":"12.005028,-5.774131,13.102885,-4.387944",
     "geom:latitude":-5.052604,
     "geom:longitude":12.466507,
@@ -379,17 +379,19 @@
         "gn:id":2243266,
         "gp:id":2344658,
         "hasc:id":"AO.CB",
+        "iso:code":"AO-CAB",
         "iso:id":"AO-CAB",
         "qs_pg:id":239498,
         "unlc:id":"AO-CAB",
         "wd:id":"Q168787",
         "wk:page":"Cabinda Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"74f997a415abe00f11f9264e6cc511ce",
+    "wof:geomhash":"c5bcac87b9afa7db1ad7ed400e2e6474",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -404,7 +406,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690850238,
+    "wof:lastmodified":1695884366,
     "wof:name":"Cabinda",
     "wof:parent_id":85632281,
     "wof:placetype":"region",
